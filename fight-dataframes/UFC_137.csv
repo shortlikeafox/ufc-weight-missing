@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Nick Diaz,B.J. Penn,UFC_137
-1,Cheick Kongo,Matt Mitrione,UFC_137
-2,Roy Nelson,Mirko Cro Cop,UFC_137
-3,Scott Jorgensen,Jeff Curran,UFC_137
-4,Hatsu Hioki,George Roop,UFC_137
-5,Donald Cerrone,Dennis Siver,UFC_137
-6,Bart Palaszewski,Tyson Griffin,UFC_137
-7,Brandon Vera,Eliot Marshall,UFC_137
-8,Ramsey Nijem,Danny Downes,UFC_137
-9,Francis Carmont,Chris Camozzi,UFC_137
-10,Clifford Starks,Dustin Jacoby,UFC_137
+,winner,loser,weight_class,event
+0,Nick Diaz,B.J. Penn,Welterweight,UFC_137
+1,Cheick Kongo,Matt Mitrione,Heavyweight,UFC_137
+2,Roy Nelson,Mirko Cro Cop,Heavyweight,UFC_137
+3,Scott Jorgensen,Jeff Curran,Bantamweight,UFC_137
+4,Hatsu Hioki,George Roop,Featherweight,UFC_137
+5,Donald Cerrone,Dennis Siver,Lightweight,UFC_137
+6,Bart Palaszewski,Tyson Griffin,Catchweight (149 lb),UFC_137
+7,Brandon Vera,Eliot Marshall,Light Heavyweight,UFC_137
+8,Ramsey Nijem,Danny Downes,Lightweight,UFC_137
+9,Francis Carmont,Chris Camozzi,Middleweight,UFC_137
+10,Clifford Starks,Dustin Jacoby,Middleweight,UFC_137

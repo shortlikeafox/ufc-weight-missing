@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Rich Franklin,Chuck Liddell,UFC_115
-1,Mirko Cro Cop,Pat Barry,UFC_115
-2,Martin Kampmann,Paulo Thiago,UFC_115
-3,Ben Rothwell,Gilbert Yvel,UFC_115
-4,Carlos Condit,Rory MacDonald,UFC_115
-5,Evan Dunham,Tyson Griffin,UFC_115
-6,Matt Wiman,Mac Danzig,UFC_115
-7,Mario Miranda,David Loiseau,UFC_115
-8,James Wilks,Peter Sobotta,UFC_115
-9,Claude Patrick,Ricardo Funch,UFC_115
-10,Mike Pyle,Jesse Lennox,UFC_115
+,winner,loser,weight_class,event
+0,Rich Franklin,Chuck Liddell,Light Heavyweight,UFC_115
+1,Mirko Cro Cop,Pat Barry,Heavyweight,UFC_115
+2,Martin Kampmann,Paulo Thiago,Welterweight,UFC_115
+3,Ben Rothwell,Gilbert Yvel,Heavyweight,UFC_115
+4,Carlos Condit,Rory MacDonald,Welterweight,UFC_115
+5,Evan Dunham,Tyson Griffin,Lightweight,UFC_115
+6,Matt Wiman,Mac Danzig,Lightweight,UFC_115
+7,Mario Miranda,David Loiseau,Middleweight,UFC_115
+8,James Wilks,Peter Sobotta,Welterweight,UFC_115
+9,Claude Patrick,Ricardo Funch,Welterweight,UFC_115
+10,Mike Pyle,Jesse Lennox,Welterweight,UFC_115

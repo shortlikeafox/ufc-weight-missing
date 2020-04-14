@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Jon Jones,Vladimir Matyushenko,UFC_Live_Jones_vs_Matyushenko
-1,Yushin Okami,Mark Mu\xc3\xb1oz,UFC_Live_Jones_vs_Matyushenko
-2,Jake Ellenberger,John Howard,UFC_Live_Jones_vs_Matyushenko
-3,Takanori Gomi,Tyson Griffin,UFC_Live_Jones_vs_Matyushenko
-4,Jacob Volkmann,Paul Kelly,UFC_Live_Jones_vs_Matyushenko
-5,Matthew Riddle,DaMarques Johnson,UFC_Live_Jones_vs_Matyushenko
-6,Igor Pokrajac,James Irvin,UFC_Live_Jones_vs_Matyushenko
-7,Brian Stann,Mike Massenzio,UFC_Live_Jones_vs_Matyushenko
-8,Charles Oliveira,Darren Elkins,UFC_Live_Jones_vs_Matyushenko
-9,Rob Kimmons,Steve Steinbeiss,UFC_Live_Jones_vs_Matyushenko
+,winner,loser,weight_class,event
+0,Jon Jones,Vladimir Matyushenko,Light Heavyweight,UFC_Live_Jones_vs_Matyushenko
+1,Yushin Okami,Mark Mu\xc3\xb1oz,Middleweight,UFC_Live_Jones_vs_Matyushenko
+2,Jake Ellenberger,John Howard,Welterweight,UFC_Live_Jones_vs_Matyushenko
+3,Takanori Gomi,Tyson Griffin,Lightweight,UFC_Live_Jones_vs_Matyushenko
+4,Jacob Volkmann,Paul Kelly,Lightweight,UFC_Live_Jones_vs_Matyushenko
+5,Matthew Riddle,DaMarques Johnson,Catchweight (172 lbs),UFC_Live_Jones_vs_Matyushenko
+6,Igor Pokrajac,James Irvin,Light Heavyweight,UFC_Live_Jones_vs_Matyushenko
+7,Brian Stann,Mike Massenzio,Middleweight,UFC_Live_Jones_vs_Matyushenko
+8,Charles Oliveira,Darren Elkins,Lightweight,UFC_Live_Jones_vs_Matyushenko
+9,Rob Kimmons,Steve Steinbeiss,Middleweight,UFC_Live_Jones_vs_Matyushenko

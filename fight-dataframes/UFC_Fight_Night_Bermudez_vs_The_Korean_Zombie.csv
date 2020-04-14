@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Chan Sung Jung,Dennis Bermudez,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-1,Felice Herrig,Alexa Grasso,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-2,James Vick,Abel Trujillo,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-3,Volkan Oezdemir,Ovince Saint Preux,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-4,Marcel Fortuna,Anthony Hamilton,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-5,J\xc3\xa9ssica Andrade,Angela Hill,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-6,Curtis Blaydes,Adam Milstead,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-7,Chas Skelly,Chris Gruetzemacher,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-8,Ricardo Ramos,Michinori Tanaka,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-9,Tecia Torres,Bec Rawlings,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-10,Niko Price,Alex Morono,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
-11,Khalil Rountree,Daniel Jolly,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+,winner,loser,weight_class,event
+0,Chan Sung Jung,Dennis Bermudez,Featherweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+1,Felice Herrig,Alexa Grasso,Women\'s Strawweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+2,James Vick,Abel Trujillo,Lightweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+3,Volkan Oezdemir,Ovince Saint Preux,Light Heavyweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+4,Marcel Fortuna,Anthony Hamilton,Heavyweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+5,J\xc3\xa9ssica Andrade,Angela Hill,Women\'s Strawweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+6,Curtis Blaydes,Adam Milstead,Heavyweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+7,Chas Skelly,Chris Gruetzemacher,Featherweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+8,Ricardo Ramos,Michinori Tanaka,Bantamweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+9,Tecia Torres,Bec Rawlings,Catchweight (117.5 lbs),UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+10,Niko Price,Alex Morono,Welterweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie
+11,Khalil Rountree,Daniel Jolly,Light Heavyweight,UFC_Fight_Night_Bermudez_vs_The_Korean_Zombie

@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Anderson Silva (UFC Champion),Dan Henderson (Pride Champion),UFC_82
-1,Heath Herring,Cheick Kongo,UFC_82
-2,Chris Leben,Alessio Sakara,UFC_82
-3,Yushin Okami,Evan Tanner,UFC_82
-4,Jon Fitch,Chris Wilson,UFC_82
-5,Andrei Arlovski,Jake O\'Brien,UFC_82
-6,Josh Koscheck,Dustin Hazelett,UFC_82
-7,Diego Sanchez,David Bielkheden,UFC_82
-8,Luigi Fioravanti,Luke Cummo,UFC_82
-9,Jorge Gurgel,John Halverson,UFC_82
+,winner,loser,weight_class,event
+0,Anderson Silva (UFC Champion),Dan Henderson (Pride Champion),Middleweight,UFC_82
+1,Heath Herring,Cheick Kongo,Heavyweight,UFC_82
+2,Chris Leben,Alessio Sakara,Middleweight,UFC_82
+3,Yushin Okami,Evan Tanner,Middleweight,UFC_82
+4,Jon Fitch,Chris Wilson,Welterweight,UFC_82
+5,Andrei Arlovski,Jake O\'Brien,Heavyweight,UFC_82
+6,Josh Koscheck,Dustin Hazelett,Welterweight,UFC_82
+7,Diego Sanchez,David Bielkheden,Welterweight,UFC_82
+8,Luigi Fioravanti,Luke Cummo,Welterweight,UFC_82
+9,Jorge Gurgel,John Halverson,Lightweight,UFC_82

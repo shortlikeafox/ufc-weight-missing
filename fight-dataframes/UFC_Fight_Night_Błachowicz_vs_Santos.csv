@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Thiago Santos,Jan B\xc5\x82achowicz,UFC_Fight_Night_Błachowicz_vs_Santos
-1,Stefan Struve,Marcos Rog\xc3\xa9rio de Lima,UFC_Fight_Night_Błachowicz_vs_Santos
-2,Micha\xc5\x82 Oleksiejczuk,Gian Villante,UFC_Fight_Night_Błachowicz_vs_Santos
-3,Liz Carmouche,Lucie Pudilov\xc3\xa1,UFC_Fight_Night_Błachowicz_vs_Santos
-4,Petr Yan,John Dodson,UFC_Fight_Night_Błachowicz_vs_Santos
-5,Magomed Ankalaev,Klidson Abreu,UFC_Fight_Night_Błachowicz_vs_Santos
-6,Dwight Grant,Carlo Pedersoli Jr.,UFC_Fight_Night_Błachowicz_vs_Santos
-7,Chris Fishgold,Daniel Teymur,UFC_Fight_Night_Błachowicz_vs_Santos
-8,Gillian Robertson,Veronica Macedo,UFC_Fight_Night_Błachowicz_vs_Santos
-9,Damir Had\xc5\xbeovi\xc4\x87,Polo Reyes,UFC_Fight_Night_Błachowicz_vs_Santos
-10,Ismail Naurdiev,Michel Prazeres,UFC_Fight_Night_Błachowicz_vs_Santos
-11,Carlos Diego Ferreira,Rustam Khabilov,UFC_Fight_Night_Błachowicz_vs_Santos
-12,Damir Ismagulov,Joel \xc3\x81lvarez,UFC_Fight_Night_Błachowicz_vs_Santos
+,winner,loser,weight_class,event
+0,Thiago Santos,Jan B\xc5\x82achowicz,Light Heavyweight,UFC_Fight_Night_Błachowicz_vs_Santos
+1,Stefan Struve,Marcos Rog\xc3\xa9rio de Lima,Heavyweight,UFC_Fight_Night_Błachowicz_vs_Santos
+2,Micha\xc5\x82 Oleksiejczuk,Gian Villante,Light Heavyweight,UFC_Fight_Night_Błachowicz_vs_Santos
+3,Liz Carmouche,Lucie Pudilov\xc3\xa1,Women\xe2\x80\x99s Flyweight,UFC_Fight_Night_Błachowicz_vs_Santos
+4,Petr Yan,John Dodson,Bantamweight,UFC_Fight_Night_Błachowicz_vs_Santos
+5,Magomed Ankalaev,Klidson Abreu,Catchweight (209 lbs),UFC_Fight_Night_Błachowicz_vs_Santos
+6,Dwight Grant,Carlo Pedersoli Jr.,Welterweight,UFC_Fight_Night_Błachowicz_vs_Santos
+7,Chris Fishgold,Daniel Teymur,Featherweight,UFC_Fight_Night_Błachowicz_vs_Santos
+8,Gillian Robertson,Veronica Macedo,Women\'s Flyweight,UFC_Fight_Night_Błachowicz_vs_Santos
+9,Damir Had\xc5\xbeovi\xc4\x87,Polo Reyes,Lightweight,UFC_Fight_Night_Błachowicz_vs_Santos
+10,Ismail Naurdiev,Michel Prazeres,Welterweight,UFC_Fight_Night_Błachowicz_vs_Santos
+11,Carlos Diego Ferreira,Rustam Khabilov,Catchweight (157 lbs),UFC_Fight_Night_Błachowicz_vs_Santos
+12,Damir Ismagulov,Joel \xc3\x81lvarez,Lightweight,UFC_Fight_Night_Błachowicz_vs_Santos

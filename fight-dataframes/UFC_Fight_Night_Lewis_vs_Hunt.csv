@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Mark Hunt,Derrick Lewis,UFC_Fight_Night_Lewis_vs_Hunt
-1,Derek Brunson,Dan Kelly,UFC_Fight_Night_Lewis_vs_Hunt
-2,Dan Hooker,Ross Pearson,UFC_Fight_Night_Lewis_vs_Hunt
-3,Ion Cu\xc8\x9belaba,Henrique da Silva,UFC_Fight_Night_Lewis_vs_Hunt
-4,Ben Nguyen,Tim Elliott,UFC_Fight_Night_Lewis_vs_Hunt
-5,Alexander Volkanovski,Mizuto Hirota,UFC_Fight_Night_Lewis_vs_Hunt
-6,Vinc Pichel,Damien Brown,UFC_Fight_Night_Lewis_vs_Hunt
-7,Luke Jumeau,Dominique Steele,UFC_Fight_Night_Lewis_vs_Hunt
-8,John Moraga,Ashkan Mokhtarian,UFC_Fight_Night_Lewis_vs_Hunt
-9,Zak Ottow,Kiichi Kunimoto,UFC_Fight_Night_Lewis_vs_Hunt
-10,JJ Aldrich,Chan-Mi Jeon,UFC_Fight_Night_Lewis_vs_Hunt
+,winner,loser,weight_class,event
+0,Mark Hunt,Derrick Lewis,Heavyweight,UFC_Fight_Night_Lewis_vs_Hunt
+1,Derek Brunson,Dan Kelly,Middleweight,UFC_Fight_Night_Lewis_vs_Hunt
+2,Dan Hooker,Ross Pearson,Lightweight,UFC_Fight_Night_Lewis_vs_Hunt
+3,Ion Cu\xc8\x9belaba,Henrique da Silva,Light Heavyweight,UFC_Fight_Night_Lewis_vs_Hunt
+4,Ben Nguyen,Tim Elliott,Flyweight,UFC_Fight_Night_Lewis_vs_Hunt
+5,Alexander Volkanovski,Mizuto Hirota,Featherweight,UFC_Fight_Night_Lewis_vs_Hunt
+6,Vinc Pichel,Damien Brown,Lightweight,UFC_Fight_Night_Lewis_vs_Hunt
+7,Luke Jumeau,Dominique Steele,Welterweight,UFC_Fight_Night_Lewis_vs_Hunt
+8,John Moraga,Ashkan Mokhtarian,Flyweight,UFC_Fight_Night_Lewis_vs_Hunt
+9,Zak Ottow,Kiichi Kunimoto,Welterweight,UFC_Fight_Night_Lewis_vs_Hunt
+10,JJ Aldrich,Chan-Mi Jeon,Catchweight (118 lbs),UFC_Fight_Night_Lewis_vs_Hunt

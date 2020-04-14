@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Martin Kampmann,Thiago Alves,UFC_on_FX_Alves_vs_Kampmann
-1,Joseph Benavidez,Yasuhiro Urushitani,UFC_on_FX_Alves_vs_Kampmann
-2,Demetrious Johnson,Ian McCall,UFC_on_FX_Alves_vs_Kampmann
-3,Costas Philippou,Court McGee,UFC_on_FX_Alves_vs_Kampmann
-4,James Te Huna,Aaron Rosa,UFC_on_FX_Alves_vs_Kampmann
-5,Anthony Perosh,Nick Penner,UFC_on_FX_Alves_vs_Kampmann
-6,Steven Siler,Cole Miller,UFC_on_FX_Alves_vs_Kampmann
-7,Andrew Craig,Kyle Noke,UFC_on_FX_Alves_vs_Kampmann
-8,TJ Waldburger,Jake Hecht,UFC_on_FX_Alves_vs_Kampmann
-9,Daniel Pineda,Mackens Semerzier,UFC_on_FX_Alves_vs_Kampmann
-10,Shawn Jordan,Oli Thompson,UFC_on_FX_Alves_vs_Kampmann
+,winner,loser,weight_class,event
+0,Martin Kampmann,Thiago Alves,Welterweight,UFC_on_FX_Alves_vs_Kampmann
+1,Joseph Benavidez,Yasuhiro Urushitani,Flyweight,UFC_on_FX_Alves_vs_Kampmann
+2,Demetrious Johnson,Ian McCall,Flyweight,UFC_on_FX_Alves_vs_Kampmann
+3,Costas Philippou,Court McGee,Middleweight,UFC_on_FX_Alves_vs_Kampmann
+4,James Te Huna,Aaron Rosa,Light Heavyweight,UFC_on_FX_Alves_vs_Kampmann
+5,Anthony Perosh,Nick Penner,Light Heavyweight,UFC_on_FX_Alves_vs_Kampmann
+6,Steven Siler,Cole Miller,Featherweight,UFC_on_FX_Alves_vs_Kampmann
+7,Andrew Craig,Kyle Noke,Middleweight,UFC_on_FX_Alves_vs_Kampmann
+8,TJ Waldburger,Jake Hecht,Welterweight,UFC_on_FX_Alves_vs_Kampmann
+9,Daniel Pineda,Mackens Semerzier,Featherweight,UFC_on_FX_Alves_vs_Kampmann
+10,Shawn Jordan,Oli Thompson,Heavyweight,UFC_on_FX_Alves_vs_Kampmann

@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Gegard Mousasi,Ilir Latifi,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-1,Ross Pearson,Ryan Couture,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-2,Matt Mitrione,Phil De Fries,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-3,Brad Pickett,Mike Easton,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-4,Diego Brand\xc3\xa3o,Pablo Garza,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-5,Akira Corassani,Robbie Peralta,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-6,Reza Madadi,Michael Johnson,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-7,Tor Tro\xc3\xa9ng,Adam Cella,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-8,Adlan Amagov,Chris Sp\xc3\xa5ng,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-9,Conor McGregor,Marcus Brimage,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-10,Ryan LaFlare,Ben Alloway,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-11,Tom Lawlor,Michael Kuiper,UFC_on_Fuel_TV_Mousasi_vs_Latifi
-12,Papy Abedi,Besam Yousef,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+,winner,loser,weight_class,event
+0,Gegard Mousasi,Ilir Latifi,Light Heavyweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+1,Ross Pearson,Ryan Couture,Lightweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+2,Matt Mitrione,Phil De Fries,Heavyweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+3,Brad Pickett,Mike Easton,Bantamweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+4,Diego Brand\xc3\xa3o,Pablo Garza,Featherweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+5,Akira Corassani,Robbie Peralta,Featherweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+6,Reza Madadi,Michael Johnson,Lightweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+7,Tor Tro\xc3\xa9ng,Adam Cella,Middleweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+8,Adlan Amagov,Chris Sp\xc3\xa5ng,Welterweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+9,Conor McGregor,Marcus Brimage,Featherweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+10,Ryan LaFlare,Ben Alloway,Welterweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+11,Tom Lawlor,Michael Kuiper,Middleweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi
+12,Papy Abedi,Besam Yousef,Welterweight,UFC_on_Fuel_TV_Mousasi_vs_Latifi

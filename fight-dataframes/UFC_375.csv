@@ -1,7 +1,7 @@
-,winner,loser,event
-0,Chuck Liddell,Vitor Belfort,UFC_375
-1,Benji Radach,Nick Serra,UFC_375
-2,Pete Spratt,Zach Light,UFC_375
-3,Robbie Lawler,Steve Berger,UFC_375
-4,Tony Fryklund,Rodrigo Ruas,UFC_375
-5,Yves Edwards,Joao Marcos Pierini,UFC_375
+,winner,loser,weight_class,event
+0,Chuck Liddell,Vitor Belfort,Light Heavyweight,UFC_375
+1,Benji Radach,Nick Serra,Welterweight,UFC_375
+2,Pete Spratt,Zach Light,Welterweight,UFC_375
+3,Robbie Lawler,Steve Berger,Welterweight,UFC_375
+4,Tony Fryklund,Rodrigo Ruas,Middleweight,UFC_375
+5,Yves Edwards,Joao Marcos Pierini,Lightweight,UFC_375

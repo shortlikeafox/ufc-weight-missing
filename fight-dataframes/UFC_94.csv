@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Georges St-Pierre (c),B.J. Penn,UFC_94
-1,Lyoto Machida,Thiago Silva,UFC_94
-2,Jon Jones,Stephan Bonnar,UFC_94
-3,Karo Parisyan,Dong Hyun Kim,UFC_94
-4,Clay Guida,Nate Diaz,UFC_94
-5,Jon Fitch,Akihiro Gono,UFC_94
-6,Thiago Tavares,Manvel Gamburyan,UFC_94
-7,John Howard,Chris Wilson,UFC_94
-8,Jake O\'Brien,Christian Wellisch,UFC_94
-9,Dan Cramer,Matt Arroyo,UFC_94
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),B.J. Penn,Welterweight,UFC_94
+1,Lyoto Machida,Thiago Silva,Light Heavyweight,UFC_94
+2,Jon Jones,Stephan Bonnar,Light Heavyweight,UFC_94
+3,Karo Parisyan,Dong Hyun Kim,Welterweight,UFC_94
+4,Clay Guida,Nate Diaz,Lightweight,UFC_94
+5,Jon Fitch,Akihiro Gono,Welterweight,UFC_94
+6,Thiago Tavares,Manvel Gamburyan,Lightweight,UFC_94
+7,John Howard,Chris Wilson,Welterweight,UFC_94
+8,Jake O\'Brien,Christian Wellisch,Light Heavyweight,UFC_94
+9,Dan Cramer,Matt Arroyo,Welterweight,UFC_94

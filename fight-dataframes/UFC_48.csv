@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Ken Shamrock,Kimo Leopoldo,UFC_48
-1,Frank Trigg,Dennis Hallman,UFC_48
-2,Frank Mir,Tim Sylvia,UFC_48
-3,Matt Hughes,Renato Verissimo,UFC_48
-4,Evan Tanner,Phil Baroni,UFC_48
-5,Matt Serra,Ivan Menjivar,UFC_48
-6,Trevor Prangley,Curtis Stout,UFC_48
-7,Georges St-Pierre,Jay Hieron,UFC_48
+,winner,loser,weight_class,event
+0,Ken Shamrock,Kimo Leopoldo,Heavyweight,UFC_48
+1,Frank Trigg,Dennis Hallman,Welterweight,UFC_48
+2,Frank Mir,Tim Sylvia,Heavyweight,UFC_48
+3,Matt Hughes,Renato Verissimo,Welterweight,UFC_48
+4,Evan Tanner,Phil Baroni,Middleweight,UFC_48
+5,Matt Serra,Ivan Menjivar,Lightweight,UFC_48
+6,Trevor Prangley,Curtis Stout,Middleweight,UFC_48
+7,Georges St-Pierre,Jay Hieron,Welterweight,UFC_48

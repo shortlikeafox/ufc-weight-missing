@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Anthony Johnson,Ryan Bader,UFC_on_Fox_Johnson_vs_Bader
-1,Ben Rothwell,Josh Barnett,UFC_on_Fox_Johnson_vs_Bader
-2,Jimmie Rivera,Iuri Alc\xc3\xa2ntara,UFC_on_Fox_Johnson_vs_Bader
-3,Bryan Barberena,Sage Northcutt,UFC_on_Fox_Johnson_vs_Bader
-4,Tarec Saffiedine,Jake Ellenberger,UFC_on_Fox_Johnson_vs_Bader
-5,Carlos Diego Ferreira,Olivier Aubin-Mercier,UFC_on_Fox_Johnson_vs_Bader
-6,Rafael Natal,Kevin Casey,UFC_on_Fox_Johnson_vs_Bader
-7,Wilson Reis,Dustin Ortiz,UFC_on_Fox_Johnson_vs_Bader
-8,Alexander Yakovlev,George Sullivan,UFC_on_Fox_Johnson_vs_Bader
-9,Alex Caceres,Masio Fullen,UFC_on_Fox_Johnson_vs_Bader
-10,Randy Brown,Matt Dwyer,UFC_on_Fox_Johnson_vs_Bader
-11,Damon Jackson,Levan Makashvili,UFC_on_Fox_Johnson_vs_Bader
-12,Tony Martin,Felipe Olivieri,UFC_on_Fox_Johnson_vs_Bader
+,winner,loser,weight_class,event
+0,Anthony Johnson,Ryan Bader,Light Heavyweight,UFC_on_Fox_Johnson_vs_Bader
+1,Ben Rothwell,Josh Barnett,Heavyweight,UFC_on_Fox_Johnson_vs_Bader
+2,Jimmie Rivera,Iuri Alc\xc3\xa2ntara,Bantamweight,UFC_on_Fox_Johnson_vs_Bader
+3,Bryan Barberena,Sage Northcutt,Welterweight,UFC_on_Fox_Johnson_vs_Bader
+4,Tarec Saffiedine,Jake Ellenberger,Welterweight,UFC_on_Fox_Johnson_vs_Bader
+5,Carlos Diego Ferreira,Olivier Aubin-Mercier,Lightweight,UFC_on_Fox_Johnson_vs_Bader
+6,Rafael Natal,Kevin Casey,Middleweight,UFC_on_Fox_Johnson_vs_Bader
+7,Wilson Reis,Dustin Ortiz,Flyweight,UFC_on_Fox_Johnson_vs_Bader
+8,Alexander Yakovlev,George Sullivan,Welterweight,UFC_on_Fox_Johnson_vs_Bader
+9,Alex Caceres,Masio Fullen,Featherweight,UFC_on_Fox_Johnson_vs_Bader
+10,Randy Brown,Matt Dwyer,Welterweight,UFC_on_Fox_Johnson_vs_Bader
+11,Damon Jackson,Levan Makashvili,Featherweight,UFC_on_Fox_Johnson_vs_Bader
+12,Tony Martin,Felipe Olivieri,Lightweight,UFC_on_Fox_Johnson_vs_Bader

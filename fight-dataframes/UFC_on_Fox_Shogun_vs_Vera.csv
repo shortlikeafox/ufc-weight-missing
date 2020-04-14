@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Maur\xc3\xadcio Rua,Brandon Vera,UFC_on_Fox_Shogun_vs_Vera
-1,Lyoto Machida,Ryan Bader,UFC_on_Fox_Shogun_vs_Vera
-2,Joe Lauzon,Jamie Varner,UFC_on_Fox_Shogun_vs_Vera
-3,Mike Swick,DaMarques Johnson,UFC_on_Fox_Shogun_vs_Vera
-4,Nam Phan,Cole Miller,UFC_on_Fox_Shogun_vs_Vera
-5,Wagner Prado,Phil Davis,UFC_on_Fox_Shogun_vs_Vera
-6,Rani Yahya,Josh Grispi,UFC_on_Fox_Shogun_vs_Vera
-7,Phil De Fries,Oli Thompson,UFC_on_Fox_Shogun_vs_Vera
-8,Manvel Gamburyan,Michihiro Omigawa,UFC_on_Fox_Shogun_vs_Vera
-9,John Moraga,Ulysses Gomez,UFC_on_Fox_Shogun_vs_Vera
+,winner,loser,weight_class,event
+0,Maur\xc3\xadcio Rua,Brandon Vera,Light Heavyweight,UFC_on_Fox_Shogun_vs_Vera
+1,Lyoto Machida,Ryan Bader,Light Heavyweight,UFC_on_Fox_Shogun_vs_Vera
+2,Joe Lauzon,Jamie Varner,Lightweight,UFC_on_Fox_Shogun_vs_Vera
+3,Mike Swick,DaMarques Johnson,Welterweight,UFC_on_Fox_Shogun_vs_Vera
+4,Nam Phan,Cole Miller,Featherweight,UFC_on_Fox_Shogun_vs_Vera
+5,Wagner Prado,Phil Davis,Light Heavyweight,UFC_on_Fox_Shogun_vs_Vera
+6,Rani Yahya,Josh Grispi,Featherweight,UFC_on_Fox_Shogun_vs_Vera
+7,Phil De Fries,Oli Thompson,Heavyweight,UFC_on_Fox_Shogun_vs_Vera
+8,Manvel Gamburyan,Michihiro Omigawa,Featherweight,UFC_on_Fox_Shogun_vs_Vera
+9,John Moraga,Ulysses Gomez,Flyweight,UFC_on_Fox_Shogun_vs_Vera

@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Mark Hunt,Roy Nelson,UFC_Fight_Night_Hunt_vs_Nelson
-1,Myles Jury,Takanori Gomi,UFC_Fight_Night_Hunt_vs_Nelson
-2,Yoshihiro Akiyama,Amir Sadollah,UFC_Fight_Night_Hunt_vs_Nelson
-3,Miesha Tate,Rin Nakai,UFC_Fight_Night_Hunt_vs_Nelson
-4,Kiichi Kunimoto,Richard Walsh,UFC_Fight_Night_Hunt_vs_Nelson
-5,Kyoji Horiguchi,Jon delos Reyes,UFC_Fight_Night_Hunt_vs_Nelson
-6,Masanori Kanehara,Alex Caceres,UFC_Fight_Night_Hunt_vs_Nelson
-7,Katsunori Kikuno,Sam Sicilia,UFC_Fight_Night_Hunt_vs_Nelson
-8,Hyun Gyu Lim,Takenori Sato,UFC_Fight_Night_Hunt_vs_Nelson
-9,Kyung Ho Kang,Michinori Tanaka,UFC_Fight_Night_Hunt_vs_Nelson
-10,Johnny Case,Kazuki Tokudome,UFC_Fight_Night_Hunt_vs_Nelson
-11,Maximo Blanco,Dan Hooker,UFC_Fight_Night_Hunt_vs_Nelson
+,winner,loser,weight_class,event
+0,Mark Hunt,Roy Nelson,Heavyweight,UFC_Fight_Night_Hunt_vs_Nelson
+1,Myles Jury,Takanori Gomi,Lightweight,UFC_Fight_Night_Hunt_vs_Nelson
+2,Yoshihiro Akiyama,Amir Sadollah,Welterweight,UFC_Fight_Night_Hunt_vs_Nelson
+3,Miesha Tate,Rin Nakai,Women\'s Bantamweight,UFC_Fight_Night_Hunt_vs_Nelson
+4,Kiichi Kunimoto,Richard Walsh,Welterweight,UFC_Fight_Night_Hunt_vs_Nelson
+5,Kyoji Horiguchi,Jon delos Reyes,Flyweight,UFC_Fight_Night_Hunt_vs_Nelson
+6,Masanori Kanehara,Alex Caceres,Bantamweight,UFC_Fight_Night_Hunt_vs_Nelson
+7,Katsunori Kikuno,Sam Sicilia,Featherweight,UFC_Fight_Night_Hunt_vs_Nelson
+8,Hyun Gyu Lim,Takenori Sato,Welterweight,UFC_Fight_Night_Hunt_vs_Nelson
+9,Kyung Ho Kang,Michinori Tanaka,Bantamweight,UFC_Fight_Night_Hunt_vs_Nelson
+10,Johnny Case,Kazuki Tokudome,Lightweight,UFC_Fight_Night_Hunt_vs_Nelson
+11,Maximo Blanco,Dan Hooker,Featherweight,UFC_Fight_Night_Hunt_vs_Nelson

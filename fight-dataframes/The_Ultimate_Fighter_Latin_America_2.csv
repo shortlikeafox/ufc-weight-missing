@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Neil Magny,Kelvin Gastelum,The_Ultimate_Fighter_Latin_America_2
-1,Ricardo Lamas,Diego Sanchez,The_Ultimate_Fighter_Latin_America_2
-2,Henry Cejudo,Jussier Formiga,The_Ultimate_Fighter_Latin_America_2
-3,Erick Monta\xc3\xb1o,Enrique Mar\xc3\xadn,The_Ultimate_Fighter_Latin_America_2
-4,Enrique Barzola,Horacio Guti\xc3\xa9rrez,The_Ultimate_Fighter_Latin_America_2
-5,Leandro Silva,Efrain Escudero,The_Ultimate_Fighter_Latin_America_2
-6,\xc3\x89rik P\xc3\xa9rez,Taylor Lapilus,The_Ultimate_Fighter_Latin_America_2
-7,Bartosz Fabi\xc5\x84ski,H\xc3\xa9ctor Urbina,The_Ultimate_Fighter_Latin_America_2
-8,Alejandro P\xc3\xa9rez,Scott Jorgensen,The_Ultimate_Fighter_Latin_America_2
-9,Andre Fili,Gabriel Ben\xc3\xadtez,The_Ultimate_Fighter_Latin_America_2
-10,\xc3\x81lvaro Herrera,Vernon Ramos,The_Ultimate_Fighter_Latin_America_2
-11,Polo Reyes,Cesar Arzamendia,The_Ultimate_Fighter_Latin_America_2
-12,Michel Prazeres,Valmir L\xc3\xa1zaro,The_Ultimate_Fighter_Latin_America_2
+,winner,loser,weight_class,event
+0,Neil Magny,Kelvin Gastelum,Welterweight,The_Ultimate_Fighter_Latin_America_2
+1,Ricardo Lamas,Diego Sanchez,Featherweight,The_Ultimate_Fighter_Latin_America_2
+2,Henry Cejudo,Jussier Formiga,Flyweight,The_Ultimate_Fighter_Latin_America_2
+3,Erick Monta\xc3\xb1o,Enrique Mar\xc3\xadn,Welterweight,The_Ultimate_Fighter_Latin_America_2
+4,Enrique Barzola,Horacio Guti\xc3\xa9rrez,Lightweight,The_Ultimate_Fighter_Latin_America_2
+5,Leandro Silva,Efrain Escudero,Lightweight,The_Ultimate_Fighter_Latin_America_2
+6,\xc3\x89rik P\xc3\xa9rez,Taylor Lapilus,Bantamweight,The_Ultimate_Fighter_Latin_America_2
+7,Bartosz Fabi\xc5\x84ski,H\xc3\xa9ctor Urbina,Welterweight,The_Ultimate_Fighter_Latin_America_2
+8,Alejandro P\xc3\xa9rez,Scott Jorgensen,Bantamweight,The_Ultimate_Fighter_Latin_America_2
+9,Andre Fili,Gabriel Ben\xc3\xadtez,Featherweight,The_Ultimate_Fighter_Latin_America_2
+10,\xc3\x81lvaro Herrera,Vernon Ramos,Welterweight,The_Ultimate_Fighter_Latin_America_2
+11,Polo Reyes,Cesar Arzamendia,Lightweight,The_Ultimate_Fighter_Latin_America_2
+12,Michel Prazeres,Valmir L\xc3\xa1zaro,Lightweight,The_Ultimate_Fighter_Latin_America_2

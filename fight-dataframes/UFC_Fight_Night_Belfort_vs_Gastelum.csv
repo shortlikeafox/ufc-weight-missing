@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Kelvin Gastelum,Vitor Belfort,UFC_Fight_Night_Belfort_vs_Gastelum
-1,Maur\xc3\xadcio Rua,Gian Villante,UFC_Fight_Night_Belfort_vs_Gastelum
-2,Edson Barboza,Beneil Dariush,UFC_Fight_Night_Belfort_vs_Gastelum
-3,Ray Borg,Jussier Formiga,UFC_Fight_Night_Belfort_vs_Gastelum
-4,Marion Reneau,Bethe Correia,UFC_Fight_Night_Belfort_vs_Gastelum
-5,Alex Oliveira,Tim Means,UFC_Fight_Night_Belfort_vs_Gastelum
-6,Kevin Lee,Francisco Trinaldo,UFC_Fight_Night_Belfort_vs_Gastelum
-7,S\xc3\xa9rgio Moraes,Davi Ramos,UFC_Fight_Night_Belfort_vs_Gastelum
-8,Joe Soto,Rani Yahya,UFC_Fight_Night_Belfort_vs_Gastelum
-9,Michel Prazeres,Josh Burkman,UFC_Fight_Night_Belfort_vs_Gastelum
-10,Jeremy Kennedy,Rony Jason,UFC_Fight_Night_Belfort_vs_Gastelum
-11,Paulo Costa,Garreth McLellan,UFC_Fight_Night_Belfort_vs_Gastelum
+,winner,loser,weight_class,event
+0,Kelvin Gastelum,Vitor Belfort,Middleweight,UFC_Fight_Night_Belfort_vs_Gastelum
+1,Maur\xc3\xadcio Rua,Gian Villante,Light Heavyweight,UFC_Fight_Night_Belfort_vs_Gastelum
+2,Edson Barboza,Beneil Dariush,Lightweight,UFC_Fight_Night_Belfort_vs_Gastelum
+3,Ray Borg,Jussier Formiga,Flyweight,UFC_Fight_Night_Belfort_vs_Gastelum
+4,Marion Reneau,Bethe Correia,Women\'s Bantamweight,UFC_Fight_Night_Belfort_vs_Gastelum
+5,Alex Oliveira,Tim Means,Welterweight,UFC_Fight_Night_Belfort_vs_Gastelum
+6,Kevin Lee,Francisco Trinaldo,Lightweight,UFC_Fight_Night_Belfort_vs_Gastelum
+7,S\xc3\xa9rgio Moraes,Davi Ramos,Welterweight,UFC_Fight_Night_Belfort_vs_Gastelum
+8,Joe Soto,Rani Yahya,Bantamweight,UFC_Fight_Night_Belfort_vs_Gastelum
+9,Michel Prazeres,Josh Burkman,Lightweight,UFC_Fight_Night_Belfort_vs_Gastelum
+10,Jeremy Kennedy,Rony Jason,Featherweight,UFC_Fight_Night_Belfort_vs_Gastelum
+11,Paulo Costa,Garreth McLellan,Middleweight,UFC_Fight_Night_Belfort_vs_Gastelum

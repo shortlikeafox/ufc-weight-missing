@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Francis Ngannou,Cain Velasquez,UFC_on_ESPN_Ngannou_vs_Velasquez
-1,Paul Felder,James Vick,UFC_on_ESPN_Ngannou_vs_Velasquez
-2,Cynthia Calvillo,Cortney Casey,UFC_on_ESPN_Ngannou_vs_Velasquez
-3,Kron Gracie,Alex Caceres,UFC_on_ESPN_Ngannou_vs_Velasquez
-4,Vicente Luque,Bryan Barberena,UFC_on_ESPN_Ngannou_vs_Velasquez
-5,Andre Fili,Myles Jury,UFC_on_ESPN_Ngannou_vs_Velasquez
-6,Aljamain Sterling,Jimmie Rivera,UFC_on_ESPN_Ngannou_vs_Velasquez
-7,Manny Bermudez,Benito Lopez,UFC_on_ESPN_Ngannou_vs_Velasquez
-8,Andrea Lee,Ashlee Evans-Smith,UFC_on_ESPN_Ngannou_vs_Velasquez
-9,Nik Lentz,Scott Holtzman,UFC_on_ESPN_Ngannou_vs_Velasquez
-10,Luke Sanders,Renan Bar\xc3\xa3o,UFC_on_ESPN_Ngannou_vs_Velasquez
-11,Emily Whitmire,Aleksandra Albu,UFC_on_ESPN_Ngannou_vs_Velasquez
+,winner,loser,weight_class,event
+0,Francis Ngannou,Cain Velasquez,Heavyweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+1,Paul Felder,James Vick,Lightweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+2,Cynthia Calvillo,Cortney Casey,Women\'s Strawweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+3,Kron Gracie,Alex Caceres,Featherweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+4,Vicente Luque,Bryan Barberena,Welterweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+5,Andre Fili,Myles Jury,Featherweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+6,Aljamain Sterling,Jimmie Rivera,Bantamweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+7,Manny Bermudez,Benito Lopez,Catchweight (140 lb),UFC_on_ESPN_Ngannou_vs_Velasquez
+8,Andrea Lee,Ashlee Evans-Smith,Women\'s Flyweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+9,Nik Lentz,Scott Holtzman,Lightweight,UFC_on_ESPN_Ngannou_vs_Velasquez
+10,Luke Sanders,Renan Bar\xc3\xa3o,Catchweight (138 lb),UFC_on_ESPN_Ngannou_vs_Velasquez
+11,Emily Whitmire,Aleksandra Albu,Women\'s Strawweight,UFC_on_ESPN_Ngannou_vs_Velasquez

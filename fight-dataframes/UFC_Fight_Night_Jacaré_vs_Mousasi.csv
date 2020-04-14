@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Ronaldo Souza,Gegard Mousasi,UFC_Fight_Night_Jacaré_vs_Mousasi
-1,Ben Rothwell,Alistair Overeem,UFC_Fight_Night_Jacaré_vs_Mousasi
-2,Matt Mitrione,Derrick Lewis,UFC_Fight_Night_Jacaré_vs_Mousasi
-3,Joe Lauzon,Michael Chiesa,UFC_Fight_Night_Jacaré_vs_Mousasi
-4,John Moraga,Justin Scoggins,UFC_Fight_Night_Jacaré_vs_Mousasi
-5,Al Iaquinta,Rodrigo Damm,UFC_Fight_Night_Jacaré_vs_Mousasi
-6,Rafael Natal,Chris Camozzi,UFC_Fight_Night_Jacaré_vs_Mousasi
-7,Chris Beal,Tateki Matsuda,UFC_Fight_Night_Jacaré_vs_Mousasi
-8,Chas Skelly,Sean Soriano,UFC_Fight_Night_Jacaré_vs_Mousasi
+,winner,loser,weight_class,event
+0,Ronaldo Souza,Gegard Mousasi,Middleweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+1,Ben Rothwell,Alistair Overeem,Heavyweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+2,Matt Mitrione,Derrick Lewis,Heavyweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+3,Joe Lauzon,Michael Chiesa,Lightweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+4,John Moraga,Justin Scoggins,Flyweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+5,Al Iaquinta,Rodrigo Damm,Lightweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+6,Rafael Natal,Chris Camozzi,Middleweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+7,Chris Beal,Tateki Matsuda,Bantamweight,UFC_Fight_Night_Jacaré_vs_Mousasi
+8,Chas Skelly,Sean Soriano,Featherweight,UFC_Fight_Night_Jacaré_vs_Mousasi

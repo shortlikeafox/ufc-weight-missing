@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Maurice Smith,Marco Ruas,UFC_21
-1,Pat Miletich (c),Andre Pederneiras,UFC_21
-2,Jeremy Horn,Daiju Takase,UFC_21
-3,Paul Jones,Flavio Luiz Moura,UFC_21
-4,Tsuyoshi Kosaka,Tim Lajcik,UFC_21
-5,Eugene Jackson,Royce Alger,UFC_21
-6,Andre Roberts,Ron Waterman,UFC_21
-7,Travis Fulton,David Dodd,UFC_21
+,winner,loser,weight_class,event
+0,Maurice Smith,Marco Ruas,Heavyweight,UFC_21
+1,Pat Miletich (c),Andre Pederneiras,Lightweight,UFC_21
+2,Jeremy Horn,Daiju Takase,Middleweight,UFC_21
+3,Paul Jones,Flavio Luiz Moura,Middleweight,UFC_21
+4,Tsuyoshi Kosaka,Tim Lajcik,Heavyweight,UFC_21
+5,Eugene Jackson,Royce Alger,Middleweight,UFC_21
+6,Andre Roberts,Ron Waterman,Heavyweight,UFC_21
+7,Travis Fulton,David Dodd,Heavyweight,UFC_21

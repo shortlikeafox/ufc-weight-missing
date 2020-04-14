@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Frankie Edgar (c),B.J. Penn,UFC_118
-1,Randy Couture,James Toney,UFC_118
-2,Demian Maia,Mario Miranda,UFC_118
-3,Gray Maynard,Kenny Florian,UFC_118
-4,Nate Diaz,Marcus Davis,UFC_118
-5,Joe Lauzon,Gabe Ruediger,UFC_118
-6,Nik Lentz,Andre Winner,UFC_118
-7,Dan Miller,John Salter,UFC_118
-8,Greg Soto,Nick Osipczak,UFC_118
-9,Mike Pierce,Amilcar Alves,UFC_118
+,winner,loser,weight_class,event
+0,Frankie Edgar (c),B.J. Penn,Lightweight,UFC_118
+1,Randy Couture,James Toney,Heavyweight,UFC_118
+2,Demian Maia,Mario Miranda,Middleweight,UFC_118
+3,Gray Maynard,Kenny Florian,Lightweight,UFC_118
+4,Nate Diaz,Marcus Davis,Welterweight,UFC_118
+5,Joe Lauzon,Gabe Ruediger,Lightweight,UFC_118
+6,Nik Lentz,Andre Winner,Lightweight,UFC_118
+7,Dan Miller,John Salter,Middleweight,UFC_118
+8,Greg Soto,Nick Osipczak,Welterweight,UFC_118
+9,Mike Pierce,Amilcar Alves,Welterweight,UFC_118

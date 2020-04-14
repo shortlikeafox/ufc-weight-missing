@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Cung Le,Rich Franklin,UFC_on_Fuel_TV_Franklin_vs_Le
-1,Thiago Silva,Stanislav Nedkov,UFC_on_Fuel_TV_Franklin_vs_Le
-2,Dong Hyun Kim,Paulo Thiago,UFC_on_Fuel_TV_Franklin_vs_Le
-3,Takanori Gomi,Mac Danzig,UFC_on_Fuel_TV_Franklin_vs_Le
-4,Jon Tuck,Zhang Tiequan,UFC_on_Fuel_TV_Franklin_vs_Le
-5,Takeya Mizugaki,Jeff Hougland,UFC_on_Fuel_TV_Franklin_vs_Le
-6,Alex Caceres,Motonobu Tezuka,UFC_on_Fuel_TV_Franklin_vs_Le
-7,John Lineker,Yasuhiro Urushitani,UFC_on_Fuel_TV_Franklin_vs_Le
-8,Riki Fukuda,Tom DeBlass,UFC_on_Fuel_TV_Franklin_vs_Le
+,winner,loser,weight_class,event
+0,Cung Le,Rich Franklin,Middleweight,UFC_on_Fuel_TV_Franklin_vs_Le
+1,Thiago Silva,Stanislav Nedkov,Light Heavyweight,UFC_on_Fuel_TV_Franklin_vs_Le
+2,Dong Hyun Kim,Paulo Thiago,Welterweight,UFC_on_Fuel_TV_Franklin_vs_Le
+3,Takanori Gomi,Mac Danzig,Lightweight,UFC_on_Fuel_TV_Franklin_vs_Le
+4,Jon Tuck,Zhang Tiequan,Lightweight,UFC_on_Fuel_TV_Franklin_vs_Le
+5,Takeya Mizugaki,Jeff Hougland,Bantamweight,UFC_on_Fuel_TV_Franklin_vs_Le
+6,Alex Caceres,Motonobu Tezuka,Bantamweight,UFC_on_Fuel_TV_Franklin_vs_Le
+7,John Lineker,Yasuhiro Urushitani,Flyweight,UFC_on_Fuel_TV_Franklin_vs_Le
+8,Riki Fukuda,Tom DeBlass,Middleweight,UFC_on_Fuel_TV_Franklin_vs_Le

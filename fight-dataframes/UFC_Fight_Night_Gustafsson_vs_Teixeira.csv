@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Alexander Gustafsson,Glover Teixeira,UFC_Fight_Night_Gustafsson_vs_Teixeira
-1,Volkan Oezdemir,Misha Cirkunov,UFC_Fight_Night_Gustafsson_vs_Teixeira
-2,Peter Sobotta,Ben Saunders,UFC_Fight_Night_Gustafsson_vs_Teixeira
-3,Omari Akhmedov,Abdul Razak Alhassan,UFC_Fight_Night_Gustafsson_vs_Teixeira
-4,Nordine Taleb,Oliver Enkamp,UFC_Fight_Night_Gustafsson_vs_Teixeira
-5,Jack Hermansson,Alex Nicholson,UFC_Fight_Night_Gustafsson_vs_Teixeira
-6,Pedro Munhoz,Damian Stasiak,UFC_Fight_Night_Gustafsson_vs_Teixeira
-7,Trevor Smith,Chris Camozzi,UFC_Fight_Night_Gustafsson_vs_Teixeira
-8,Joaquim Silva,Reza Madadi,UFC_Fight_Night_Gustafsson_vs_Teixeira
-9,Bojan Veli\xc4\x8dkovi\xc4\x87,Nico Musoke,UFC_Fight_Night_Gustafsson_vs_Teixeira
-10,Darren Till,Jessin Ayari,UFC_Fight_Night_Gustafsson_vs_Teixeira
-11,Damir Had\xc5\xbeovi\xc4\x87,Marcin Held,UFC_Fight_Night_Gustafsson_vs_Teixeira
+,winner,loser,weight_class,event
+0,Alexander Gustafsson,Glover Teixeira,Light Heavyweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+1,Volkan Oezdemir,Misha Cirkunov,Light Heavyweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+2,Peter Sobotta,Ben Saunders,Welterweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+3,Omari Akhmedov,Abdul Razak Alhassan,Welterweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+4,Nordine Taleb,Oliver Enkamp,Welterweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+5,Jack Hermansson,Alex Nicholson,Middleweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+6,Pedro Munhoz,Damian Stasiak,Bantamweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+7,Trevor Smith,Chris Camozzi,Middleweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+8,Joaquim Silva,Reza Madadi,Lightweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+9,Bojan Veli\xc4\x8dkovi\xc4\x87,Nico Musoke,Welterweight,UFC_Fight_Night_Gustafsson_vs_Teixeira
+10,Darren Till,Jessin Ayari,Catchweight (176 lbs),UFC_Fight_Night_Gustafsson_vs_Teixeira
+11,Damir Had\xc5\xbeovi\xc4\x87,Marcin Held,Lightweight,UFC_Fight_Night_Gustafsson_vs_Teixeira

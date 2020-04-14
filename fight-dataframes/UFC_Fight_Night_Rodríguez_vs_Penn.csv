@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Yair Rodr\xc3\xadguez,B.J. Penn,UFC_Fight_Night_Rodríguez_vs_Penn
-1,Joe Lauzon,Marcin Held,UFC_Fight_Night_Rodríguez_vs_Penn
-2,Ben Saunders,Court McGee,UFC_Fight_Night_Rodríguez_vs_Penn
-3,Sergio Pettis,John Moraga,UFC_Fight_Night_Rodríguez_vs_Penn
-4,Drakkar Klose,Devin Powell,UFC_Fight_Night_Rodríguez_vs_Penn
-5,Augusto Mendes,Frankie Saenz,UFC_Fight_Night_Rodríguez_vs_Penn
-6,Aleksei Oleinik,Viktor Pe\xc5\xa1ta,UFC_Fight_Night_Rodríguez_vs_Penn
-7,Tony Martin,Alex White,UFC_Fight_Night_Rodríguez_vs_Penn
-8,Nina Ansaroff,Jocelyn Jones-Lybarger,UFC_Fight_Night_Rodríguez_vs_Penn
-9,Walt Harris,Chase Sherman,UFC_Fight_Night_Rodríguez_vs_Penn
-10,Joachim Christensen,Bojan Mihajlovi\xc4\x87,UFC_Fight_Night_Rodríguez_vs_Penn
-11,Cyril Asker,Dmitry Smolyakov,UFC_Fight_Night_Rodríguez_vs_Penn
+,winner,loser,weight_class,event
+0,Yair Rodr\xc3\xadguez,B.J. Penn,Featherweight,UFC_Fight_Night_Rodríguez_vs_Penn
+1,Joe Lauzon,Marcin Held,Lightweight,UFC_Fight_Night_Rodríguez_vs_Penn
+2,Ben Saunders,Court McGee,Welterweight,UFC_Fight_Night_Rodríguez_vs_Penn
+3,Sergio Pettis,John Moraga,Flyweight,UFC_Fight_Night_Rodríguez_vs_Penn
+4,Drakkar Klose,Devin Powell,Lightweight,UFC_Fight_Night_Rodríguez_vs_Penn
+5,Augusto Mendes,Frankie Saenz,Bantamweight,UFC_Fight_Night_Rodríguez_vs_Penn
+6,Aleksei Oleinik,Viktor Pe\xc5\xa1ta,Heavyweight,UFC_Fight_Night_Rodríguez_vs_Penn
+7,Tony Martin,Alex White,Lightweight,UFC_Fight_Night_Rodríguez_vs_Penn
+8,Nina Ansaroff,Jocelyn Jones-Lybarger,Women\'s Strawweight,UFC_Fight_Night_Rodríguez_vs_Penn
+9,Walt Harris,Chase Sherman,Heavyweight,UFC_Fight_Night_Rodríguez_vs_Penn
+10,Joachim Christensen,Bojan Mihajlovi\xc4\x87,Light Heavyweight,UFC_Fight_Night_Rodríguez_vs_Penn
+11,Cyril Asker,Dmitry Smolyakov,Heavyweight,UFC_Fight_Night_Rodríguez_vs_Penn

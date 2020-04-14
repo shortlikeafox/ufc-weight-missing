@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Stipe Miocic,F\xc3\xa1bio Maldonado,The_Ultimate_Fighter_Brazil_3
-1,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Vitor Miranda,The_Ultimate_Fighter_Brazil_3
-2,Warlley Alves,M\xc3\xa1rcio Alexandre Jr.,The_Ultimate_Fighter_Brazil_3
-3,Demian Maia,Alexander Yakovlev,The_Ultimate_Fighter_Brazil_3
-4,Robbie Peralta,Rony Jason,The_Ultimate_Fighter_Brazil_3
-5,Rashid Magomedov,Rodrigo Damm,The_Ultimate_Fighter_Brazil_3
-6,Elias Silverio,Ernest Chavez,The_Ultimate_Fighter_Brazil_3
-7,Gasan Umalatov,Paulo Thiago,The_Ultimate_Fighter_Brazil_3
-8,Kevin Souza,Mark Eddiva,The_Ultimate_Fighter_Brazil_3
-9,Ricardo Abreu,Wagner Silva,The_Ultimate_Fighter_Brazil_3
-10,Marcos Rog\xc3\xa9rio de Lima,Richardson Moreira,The_Ultimate_Fighter_Brazil_3
-11,Pedro Munhoz,Matt Hobar,The_Ultimate_Fighter_Brazil_3
+,winner,loser,weight_class,event
+0,Stipe Miocic,F\xc3\xa1bio Maldonado,Heavyweight,The_Ultimate_Fighter_Brazil_3
+1,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Vitor Miranda,Heavyweight,The_Ultimate_Fighter_Brazil_3
+2,Warlley Alves,M\xc3\xa1rcio Alexandre Jr.,Middleweight,The_Ultimate_Fighter_Brazil_3
+3,Demian Maia,Alexander Yakovlev,Welterweight,The_Ultimate_Fighter_Brazil_3
+4,Robbie Peralta,Rony Jason,Featherweight,The_Ultimate_Fighter_Brazil_3
+5,Rashid Magomedov,Rodrigo Damm,Lightweight,The_Ultimate_Fighter_Brazil_3
+6,Elias Silverio,Ernest Chavez,Lightweight,The_Ultimate_Fighter_Brazil_3
+7,Gasan Umalatov,Paulo Thiago,Welterweight,The_Ultimate_Fighter_Brazil_3
+8,Kevin Souza,Mark Eddiva,Featherweight,The_Ultimate_Fighter_Brazil_3
+9,Ricardo Abreu,Wagner Silva,Middleweight,The_Ultimate_Fighter_Brazil_3
+10,Marcos Rog\xc3\xa9rio de Lima,Richardson Moreira,Heavyweight,The_Ultimate_Fighter_Brazil_3
+11,Pedro Munhoz,Matt Hobar,Bantamweight,The_Ultimate_Fighter_Brazil_3

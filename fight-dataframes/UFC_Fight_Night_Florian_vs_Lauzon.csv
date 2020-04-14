@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Kenny Florian,Joe Lauzon,UFC_Fight_Night_Florian_vs_Lauzon
-1,Gray Maynard,Frankie Edgar,UFC_Fight_Night_Florian_vs_Lauzon
-2,Thiago Alves,Karo Parisyan,UFC_Fight_Night_Florian_vs_Lauzon
-3,Matt Hamill,Tim Boetsch,UFC_Fight_Night_Florian_vs_Lauzon
-4,Nate Diaz,Kurt Pellegrino,UFC_Fight_Night_Florian_vs_Lauzon
-5,James Irvin,Houston Alexander,UFC_Fight_Night_Florian_vs_Lauzon
-6,Josh Neer,Din Thomas,UFC_Fight_Night_Florian_vs_Lauzon
-7,Marcus Aurelio,Ryan Roberts,UFC_Fight_Night_Florian_vs_Lauzon
-8,Manvel Gamburyan,Jeff Cox,UFC_Fight_Night_Florian_vs_Lauzon
-9,Clay Guida,Samy Schiavo,UFC_Fight_Night_Florian_vs_Lauzon
-10,George Sotiropoulos,Roman Mitichyan,UFC_Fight_Night_Florian_vs_Lauzon
-11,Anthony Johnson,Tom Speer,UFC_Fight_Night_Florian_vs_Lauzon
+,winner,loser,weight_class,event
+0,Kenny Florian,Joe Lauzon,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+1,Gray Maynard,Frankie Edgar,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+2,Thiago Alves,Karo Parisyan,Welterweight,UFC_Fight_Night_Florian_vs_Lauzon
+3,Matt Hamill,Tim Boetsch,Light Heavyweight,UFC_Fight_Night_Florian_vs_Lauzon
+4,Nate Diaz,Kurt Pellegrino,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+5,James Irvin,Houston Alexander,Light Heavyweight,UFC_Fight_Night_Florian_vs_Lauzon
+6,Josh Neer,Din Thomas,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+7,Marcus Aurelio,Ryan Roberts,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+8,Manvel Gamburyan,Jeff Cox,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+9,Clay Guida,Samy Schiavo,Lightweight,UFC_Fight_Night_Florian_vs_Lauzon
+10,George Sotiropoulos,Roman Mitichyan,Welterweight,UFC_Fight_Night_Florian_vs_Lauzon
+11,Anthony Johnson,Tom Speer,Welterweight,UFC_Fight_Night_Florian_vs_Lauzon

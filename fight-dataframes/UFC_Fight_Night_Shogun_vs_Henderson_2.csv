@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Dan Henderson,Maur\xc3\xadcio Rua,UFC_Fight_Night_Shogun_vs_Henderson_2
-1,C.B. Dollaway,Cezar Ferreira,UFC_Fight_Night_Shogun_vs_Henderson_2
-2,Leonardo Santos,Norman Parke,UFC_Fight_Night_Shogun_vs_Henderson_2
-3,F\xc3\xa1bio Maldonado,Gian Villante,UFC_Fight_Night_Shogun_vs_Henderson_2
-4,Michel Prazeres,Mairbek Taisumov,UFC_Fight_Night_Shogun_vs_Henderson_2
-5,Rony Jason,Steven Siler,UFC_Fight_Night_Shogun_vs_Henderson_2
-6,Thiago Santos,Ronny Markes,UFC_Fight_Night_Shogun_vs_Henderson_2
-7,Jussier Formiga,Scott Jorgensen,UFC_Fight_Night_Shogun_vs_Henderson_2
-8,Kenny Robertson,Thiago Perp\xc3\xa9tuo,UFC_Fight_Night_Shogun_vs_Henderson_2
-9,Hans Stringer,Francimar Barroso,UFC_Fight_Night_Shogun_vs_Henderson_2
-10,Godofredo Pepey,Noad Lahat,UFC_Fight_Night_Shogun_vs_Henderson_2
+,winner,loser,weight_class,event
+0,Dan Henderson,Maur\xc3\xadcio Rua,Light Heavyweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+1,C.B. Dollaway,Cezar Ferreira,Middleweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+2,Leonardo Santos,Norman Parke,Lightweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+3,F\xc3\xa1bio Maldonado,Gian Villante,Light Heavyweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+4,Michel Prazeres,Mairbek Taisumov,Lightweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+5,Rony Jason,Steven Siler,Featherweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+6,Thiago Santos,Ronny Markes,Catchweight (190 lbs),UFC_Fight_Night_Shogun_vs_Henderson_2
+7,Jussier Formiga,Scott Jorgensen,Flyweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+8,Kenny Robertson,Thiago Perp\xc3\xa9tuo,Welterweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+9,Hans Stringer,Francimar Barroso,Light Heavyweight,UFC_Fight_Night_Shogun_vs_Henderson_2
+10,Godofredo Pepey,Noad Lahat,Featherweight,UFC_Fight_Night_Shogun_vs_Henderson_2

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Rashad Evans,Quinton Jackson,UFC_114
-1,Michael Bisping,Dan Miller,UFC_114
-2,Mike Russow,Todd Duffee,UFC_114
-3,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Jason Brilz,UFC_114
-4,John Hathaway,Diego Sanchez,UFC_114
-5,Dong Hyun Kim,Amir Sadollah,UFC_114
-6,Efrain Escudero,Dan Lauzon,UFC_114
-7,Melvin Guillard,Waylon Lowe,UFC_114
-8,Cyrille Diabat\xc3\xa9,Luiz Cane,UFC_114
-9,Aaron Riley,Joe Brammer,UFC_114
-10,Ryan Jensen,Jesse Forbes,UFC_114
+,winner,loser,weight_class,event
+0,Rashad Evans,Quinton Jackson,Light Heavyweight,UFC_114
+1,Michael Bisping,Dan Miller,Middleweight,UFC_114
+2,Mike Russow,Todd Duffee,Heavyweight,UFC_114
+3,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Jason Brilz,Light Heavyweight,UFC_114
+4,John Hathaway,Diego Sanchez,Welterweight,UFC_114
+5,Dong Hyun Kim,Amir Sadollah,Welterweight,UFC_114
+6,Efrain Escudero,Dan Lauzon,Lightweight,UFC_114
+7,Melvin Guillard,Waylon Lowe,Lightweight,UFC_114
+8,Cyrille Diabat\xc3\xa9,Luiz Cane,Light Heavyweight,UFC_114
+9,Aaron Riley,Joe Brammer,Lightweight,UFC_114
+10,Ryan Jensen,Jesse Forbes,Middleweight,UFC_114

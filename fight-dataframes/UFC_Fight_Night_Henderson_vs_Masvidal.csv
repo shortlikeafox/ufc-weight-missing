@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Benson Henderson,Jorge Masvidal,UFC_Fight_Night_Henderson_vs_Masvidal
-1,Dong Hyun Kim,Dominic Waters,UFC_Fight_Night_Henderson_vs_Masvidal
-2,Alberto Mina,Yoshihiro Akiyama,UFC_Fight_Night_Henderson_vs_Masvidal
-3,Doo Ho Choi,Sam Sicilia,UFC_Fight_Night_Henderson_vs_Masvidal
-4,Dongi Yang,Jake Collier,UFC_Fight_Night_Henderson_vs_Masvidal
-5,Mike De La Torre,Yui Chul Nam,UFC_Fight_Night_Henderson_vs_Masvidal
-6,Tae Hyun Bang,Leo Kuntz,UFC_Fight_Night_Henderson_vs_Masvidal
-7,Seo Hee Ham,Cortney Casey,UFC_Fight_Night_Henderson_vs_Masvidal
-8,Fredy Serrano,Yao Zhikui,UFC_Fight_Night_Henderson_vs_Masvidal
-9,Marco Beltr\xc3\xa1n,Ning Guangyou,UFC_Fight_Night_Henderson_vs_Masvidal
-10,Dominique Steele,Dong Hyun Ma,UFC_Fight_Night_Henderson_vs_Masvidal
+,winner,loser,weight_class,event
+0,Benson Henderson,Jorge Masvidal,Welterweight,UFC_Fight_Night_Henderson_vs_Masvidal
+1,Dong Hyun Kim,Dominic Waters,Welterweight,UFC_Fight_Night_Henderson_vs_Masvidal
+2,Alberto Mina,Yoshihiro Akiyama,Welterweight,UFC_Fight_Night_Henderson_vs_Masvidal
+3,Doo Ho Choi,Sam Sicilia,Featherweight,UFC_Fight_Night_Henderson_vs_Masvidal
+4,Dongi Yang,Jake Collier,Middleweight,UFC_Fight_Night_Henderson_vs_Masvidal
+5,Mike De La Torre,Yui Chul Nam,Featherweight,UFC_Fight_Night_Henderson_vs_Masvidal
+6,Tae Hyun Bang,Leo Kuntz,Lightweight,UFC_Fight_Night_Henderson_vs_Masvidal
+7,Seo Hee Ham,Cortney Casey,Women\'s Strawweight,UFC_Fight_Night_Henderson_vs_Masvidal
+8,Fredy Serrano,Yao Zhikui,Flyweight,UFC_Fight_Night_Henderson_vs_Masvidal
+9,Marco Beltr\xc3\xa1n,Ning Guangyou,Bantamweight,UFC_Fight_Night_Henderson_vs_Masvidal
+10,Dominique Steele,Dong Hyun Ma,Welterweight,UFC_Fight_Night_Henderson_vs_Masvidal

@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Dominick Cruz,T.J. Dillashaw (c),UFC_Fight_Night_Dillashaw_vs_Cruz
-1,Eddie Alvarez,Anthony Pettis,UFC_Fight_Night_Dillashaw_vs_Cruz
-2,Travis Browne,Matt Mitrione,UFC_Fight_Night_Dillashaw_vs_Cruz
-3,Francisco Trinaldo,Ross Pearson,UFC_Fight_Night_Dillashaw_vs_Cruz
-4,Patrick C\xc3\xb4t\xc3\xa9,Ben Saunders,UFC_Fight_Night_Dillashaw_vs_Cruz
-5,Ed Herman,Tim Boetsch,UFC_Fight_Night_Dillashaw_vs_Cruz
-6,Chris Wade,Mehdi Baghdad,UFC_Fight_Night_Dillashaw_vs_Cruz
-7,Luke Sanders,Maximo Blanco,UFC_Fight_Night_Dillashaw_vs_Cruz
-8,Paul Felder,Daron Cruickshank,UFC_Fight_Night_Dillashaw_vs_Cruz
-9,Ilir Latifi,Sean O\'Connell,UFC_Fight_Night_Dillashaw_vs_Cruz
-10,Charles Rosa,Kyle Bochniak,UFC_Fight_Night_Dillashaw_vs_Cruz
-11,Rob Font,Joey Gomez,UFC_Fight_Night_Dillashaw_vs_Cruz
-12,Francimar Barroso,Elvis Mutapcic,UFC_Fight_Night_Dillashaw_vs_Cruz
+,winner,loser,weight_class,event
+0,Dominick Cruz,T.J. Dillashaw (c),Bantamweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+1,Eddie Alvarez,Anthony Pettis,Lightweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+2,Travis Browne,Matt Mitrione,Heavyweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+3,Francisco Trinaldo,Ross Pearson,Lightweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+4,Patrick C\xc3\xb4t\xc3\xa9,Ben Saunders,Welterweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+5,Ed Herman,Tim Boetsch,Light Heavyweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+6,Chris Wade,Mehdi Baghdad,Lightweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+7,Luke Sanders,Maximo Blanco,Featherweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+8,Paul Felder,Daron Cruickshank,Lightweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+9,Ilir Latifi,Sean O\'Connell,Light Heavyweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+10,Charles Rosa,Kyle Bochniak,Featherweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+11,Rob Font,Joey Gomez,Bantamweight,UFC_Fight_Night_Dillashaw_vs_Cruz
+12,Francimar Barroso,Elvis Mutapcic,Light Heavyweight,UFC_Fight_Night_Dillashaw_vs_Cruz

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Georges St-Pierre (ic),Matt Serra (c),UFC_83
-1,Rich Franklin,Travis Lutter,UFC_83
-2,Nate Quarry,Kalib Starnes,UFC_83
-3,Michael Bisping,Charles McCarthy,UFC_83
-4,Mac Danzig,Mark Bocek,UFC_83
-5,Jason Day,Alan Belcher,UFC_83
-6,Jason MacDonald,Joe Doerksen,UFC_83
-7,Demian Maia,Ed Herman,UFC_83
-8,Rich Clementi,Sam Stout,UFC_83
-9,Cain Velasquez,Brad Morris,UFC_83
-10,Jonathan Goulet,Kuniyoshi Hironaka,UFC_83
+,winner,loser,weight_class,event
+0,Georges St-Pierre (ic),Matt Serra (c),Welterweight,UFC_83
+1,Rich Franklin,Travis Lutter,Middleweight,UFC_83
+2,Nate Quarry,Kalib Starnes,Middleweight,UFC_83
+3,Michael Bisping,Charles McCarthy,Middleweight,UFC_83
+4,Mac Danzig,Mark Bocek,Lightweight,UFC_83
+5,Jason Day,Alan Belcher,Middleweight,UFC_83
+6,Jason MacDonald,Joe Doerksen,Middleweight,UFC_83
+7,Demian Maia,Ed Herman,Middleweight,UFC_83
+8,Rich Clementi,Sam Stout,Lightweight,UFC_83
+9,Cain Velasquez,Brad Morris,Heavyweight,UFC_83
+10,Jonathan Goulet,Kuniyoshi Hironaka,Welterweight,UFC_83

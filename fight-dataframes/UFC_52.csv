@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Chuck Liddell,Randy Couture (c),UFC_52
-1,Renato Sobral,Travis Wiuff,UFC_52
-2,Matt Hughes (c),Frank Trigg,UFC_52
-3,Matt Lindland,Travis Lutter,UFC_52
-4,Georges St-Pierre,Jason Miller,UFC_52
-5,Ivan Salaverry,Joe Riggs,UFC_52
-6,Joe Doerksen,Patrick C\xc3\xb4t\xc3\xa9,UFC_52
-7,Mike Van Arsdale,John Marsh,UFC_52
+,winner,loser,weight_class,event
+0,Chuck Liddell,Randy Couture (c),Light Heavyweight,UFC_52
+1,Renato Sobral,Travis Wiuff,Light Heavyweight,UFC_52
+2,Matt Hughes (c),Frank Trigg,Welterweight,UFC_52
+3,Matt Lindland,Travis Lutter,Middleweight,UFC_52
+4,Georges St-Pierre,Jason Miller,Welterweight,UFC_52
+5,Ivan Salaverry,Joe Riggs,Middleweight,UFC_52
+6,Joe Doerksen,Patrick C\xc3\xb4t\xc3\xa9,Middleweight,UFC_52
+7,Mike Van Arsdale,John Marsh,Light Heavyweight,UFC_52

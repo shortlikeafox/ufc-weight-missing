@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Stephen Thompson,Johny Hendricks,UFC_Fight_Night_Hendricks_vs_Thompson
-1,Roy Nelson,Jared Rosholt,UFC_Fight_Night_Hendricks_vs_Thompson
-2,Ovince Saint Preux,Rafael Cavalcante,UFC_Fight_Night_Hendricks_vs_Thompson
-3,Joseph Benavidez,Zach Makovsky,UFC_Fight_Night_Hendricks_vs_Thompson
-4,Misha Cirkunov,Alex Nicholson,UFC_Fight_Night_Hendricks_vs_Thompson
-5,Mike Pyle,Sean Spencer,UFC_Fight_Night_Hendricks_vs_Thompson
-6,Josh Burkman,K.J. Noons,UFC_Fight_Night_Hendricks_vs_Thompson
-7,Derrick Lewis,Damian Grabowski,UFC_Fight_Night_Hendricks_vs_Thompson
-8,Justin Scoggins,Ray Borg,UFC_Fight_Night_Hendricks_vs_Thompson
-9,Diego Rivas,Noad Lahat,UFC_Fight_Night_Hendricks_vs_Thompson
-10,Mickey Gall,Mike Jackson,UFC_Fight_Night_Hendricks_vs_Thompson
-11,Alex White,Artem Lobov,UFC_Fight_Night_Hendricks_vs_Thompson
+,winner,loser,weight_class,event
+0,Stephen Thompson,Johny Hendricks,Welterweight,UFC_Fight_Night_Hendricks_vs_Thompson
+1,Roy Nelson,Jared Rosholt,Heavyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+2,Ovince Saint Preux,Rafael Cavalcante,Light Heavyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+3,Joseph Benavidez,Zach Makovsky,Flyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+4,Misha Cirkunov,Alex Nicholson,Light Heavyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+5,Mike Pyle,Sean Spencer,Welterweight,UFC_Fight_Night_Hendricks_vs_Thompson
+6,Josh Burkman,K.J. Noons,Lightweight,UFC_Fight_Night_Hendricks_vs_Thompson
+7,Derrick Lewis,Damian Grabowski,Heavyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+8,Justin Scoggins,Ray Borg,Flyweight,UFC_Fight_Night_Hendricks_vs_Thompson
+9,Diego Rivas,Noad Lahat,Featherweight,UFC_Fight_Night_Hendricks_vs_Thompson
+10,Mickey Gall,Mike Jackson,Welterweight,UFC_Fight_Night_Hendricks_vs_Thompson
+11,Alex White,Artem Lobov,Featherweight,UFC_Fight_Night_Hendricks_vs_Thompson

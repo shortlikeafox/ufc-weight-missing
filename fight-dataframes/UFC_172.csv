@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Jon Jones (c),Glover Teixeira,UFC_172
-1,Anthony Johnson,Phil Davis,UFC_172
-2,Luke Rockhold,Tim Boetsch,UFC_172
-3,Jim Miller,Yancy Medeiros,UFC_172
-4,Max Holloway,Andre Fili,UFC_172
-5,Joseph Benavidez,Tim Elliott,UFC_172
-6,Takanori Gomi,Isaac Vallie-Flagg,UFC_172
-7,Bethe Correia,Jessamyn Duke,UFC_172
-8,Danny Castillo,Charlie Brenneman,UFC_172
-9,Chris Beal,Patrick Williams,UFC_172
+,winner,loser,weight_class,event
+0,Jon Jones (c),Glover Teixeira,Light Heavyweight,UFC_172
+1,Anthony Johnson,Phil Davis,Light Heavyweight,UFC_172
+2,Luke Rockhold,Tim Boetsch,Middleweight,UFC_172
+3,Jim Miller,Yancy Medeiros,Lightweight,UFC_172
+4,Max Holloway,Andre Fili,Featherweight,UFC_172
+5,Joseph Benavidez,Tim Elliott,Flyweight,UFC_172
+6,Takanori Gomi,Isaac Vallie-Flagg,Lightweight,UFC_172
+7,Bethe Correia,Jessamyn Duke,Women\'s Bantamweight,UFC_172
+8,Danny Castillo,Charlie Brenneman,Lightweight,UFC_172
+9,Chris Beal,Patrick Williams,Bantamweight,UFC_172

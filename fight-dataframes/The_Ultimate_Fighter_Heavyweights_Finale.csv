@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Roy Nelson,Brendan Schaub,The_Ultimate_Fighter_Heavyweights_Finale
-1,Matt Hamill,Jon Jones,The_Ultimate_Fighter_Heavyweights_Finale
-2,Kimbo Slice,Houston Alexander,The_Ultimate_Fighter_Heavyweights_Finale
-3,Frankie Edgar,Matt Veach,The_Ultimate_Fighter_Heavyweights_Finale
-4,Matt Mitrione,Marcus Jones,The_Ultimate_Fighter_Heavyweights_Finale
-5,James McSweeney,Darrill Schoonover,The_Ultimate_Fighter_Heavyweights_Finale
-6,Jon Madsen,Justin Wren,The_Ultimate_Fighter_Heavyweights_Finale
-7,Brian Stann,Rodney Wallace,The_Ultimate_Fighter_Heavyweights_Finale
-8,John Howard,Dennis Hallman,The_Ultimate_Fighter_Heavyweights_Finale
-9,Mark Bocek,Joe Brammer,The_Ultimate_Fighter_Heavyweights_Finale
+,winner,loser,weight_class,event
+0,Roy Nelson,Brendan Schaub,Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+1,Matt Hamill,Jon Jones,Light Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+2,Kimbo Slice,Houston Alexander,Catchweight (215\xc2\xa0lb),The_Ultimate_Fighter_Heavyweights_Finale
+3,Frankie Edgar,Matt Veach,Lightweight,The_Ultimate_Fighter_Heavyweights_Finale
+4,Matt Mitrione,Marcus Jones,Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+5,James McSweeney,Darrill Schoonover,Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+6,Jon Madsen,Justin Wren,Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+7,Brian Stann,Rodney Wallace,Light Heavyweight,The_Ultimate_Fighter_Heavyweights_Finale
+8,John Howard,Dennis Hallman,Welterweight,The_Ultimate_Fighter_Heavyweights_Finale
+9,Mark Bocek,Joe Brammer,Lightweight,The_Ultimate_Fighter_Heavyweights_Finale

@@ -1,12 +1,12 @@
-,winner,loser,event
-0, Demetrious Johnson (c), John Dodson,UFC_191
-1,Andrei Arlovski,Frank Mir,UFC_191
-2,Anthony Johnson,Jimi Manuwa,UFC_191
-3,Corey Anderson,Jan B\xc5\x82achowicz,UFC_191
-4,Paige VanZant,Alex Chambers,UFC_191
-5,Ross Pearson,Paul Felder,UFC_191
-6,John Lineker,Francisco Rivera,UFC_191
-7,Raquel Pennington,J\xc3\xa9ssica Andrade,UFC_191
-8,Tiago Trator,Clay Collard,UFC_191
-9,Joe Riggs,Ron Stallings,UFC_191
-10,Joaquim Silva,Nazareno Malegarie,UFC_191
+,winner,loser,weight_class,event
+0, Demetrious Johnson (c), John Dodson,Flyweight,UFC_191
+1,Andrei Arlovski,Frank Mir,Heavyweight,UFC_191
+2,Anthony Johnson,Jimi Manuwa,Light Heavyweight,UFC_191
+3,Corey Anderson,Jan B\xc5\x82achowicz,Light Heavyweight,UFC_191
+4,Paige VanZant,Alex Chambers,Women\'s Strawweight,UFC_191
+5,Ross Pearson,Paul Felder,Lightweight,UFC_191
+6,John Lineker,Francisco Rivera,Bantamweight,UFC_191
+7,Raquel Pennington,J\xc3\xa9ssica Andrade,Women\'s Bantamweight,UFC_191
+8,Tiago Trator,Clay Collard,Featherweight,UFC_191
+9,Joe Riggs,Ron Stallings,Middleweight,UFC_191
+10,Joaquim Silva,Nazareno Malegarie,Lightweight,UFC_191

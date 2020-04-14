@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Alistair Overeem,Aleksei Oleinik,UFC_Fight_Night_Overeem_vs_Oleinik
-1,Islam Makhachev,Arman Tsarukyan,UFC_Fight_Night_Overeem_vs_Oleinik
-2,Sergei Pavlovich,Marcelo Golm,UFC_Fight_Night_Overeem_vs_Oleinik
-3,Roxanne Modafferi,Antonina Shevchenko,UFC_Fight_Night_Overeem_vs_Oleinik
-4,Krzysztof Jotko,Alen Amedovski,UFC_Fight_Night_Overeem_vs_Oleinik
-5,Movsar Evloev,Seung Woo Choi,UFC_Fight_Night_Overeem_vs_Oleinik
-6,Sultan Aliev,Keita Nakamura,UFC_Fight_Night_Overeem_vs_Oleinik
-7,Alexander Yakovlev,Alex da Silva Coelho,UFC_Fight_Night_Overeem_vs_Oleinik
-8,Shamil Abdurakhimov,Marcin Tybura,UFC_Fight_Night_Overeem_vs_Oleinik
-9,Micha\xc5\x82 Oleksiejczuk,Gadzhimurad Antigulov,UFC_Fight_Night_Overeem_vs_Oleinik
-10,Magomed Mustafaev,Rafael Fiziev,UFC_Fight_Night_Overeem_vs_Oleinik
+,winner,loser,weight_class,event
+0,Alistair Overeem,Aleksei Oleinik,Heavyweight,UFC_Fight_Night_Overeem_vs_Oleinik
+1,Islam Makhachev,Arman Tsarukyan,Lightweight,UFC_Fight_Night_Overeem_vs_Oleinik
+2,Sergei Pavlovich,Marcelo Golm,Heavyweight,UFC_Fight_Night_Overeem_vs_Oleinik
+3,Roxanne Modafferi,Antonina Shevchenko,Women\'s Flyweight,UFC_Fight_Night_Overeem_vs_Oleinik
+4,Krzysztof Jotko,Alen Amedovski,Middleweight,UFC_Fight_Night_Overeem_vs_Oleinik
+5,Movsar Evloev,Seung Woo Choi,Featherweight,UFC_Fight_Night_Overeem_vs_Oleinik
+6,Sultan Aliev,Keita Nakamura,Welterweight,UFC_Fight_Night_Overeem_vs_Oleinik
+7,Alexander Yakovlev,Alex da Silva Coelho,Lightweight,UFC_Fight_Night_Overeem_vs_Oleinik
+8,Shamil Abdurakhimov,Marcin Tybura,Heavyweight,UFC_Fight_Night_Overeem_vs_Oleinik
+9,Micha\xc5\x82 Oleksiejczuk,Gadzhimurad Antigulov,Light Heavyweight,UFC_Fight_Night_Overeem_vs_Oleinik
+10,Magomed Mustafaev,Rafael Fiziev,Lightweight,UFC_Fight_Night_Overeem_vs_Oleinik

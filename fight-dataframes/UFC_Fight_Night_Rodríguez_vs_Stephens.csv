@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Yair Rodr\xc3\xadguez,Jeremy Stephens,UFC_Fight_Night_Rodríguez_vs_Stephens
-1,Carla Esparza,Alexa Grasso,UFC_Fight_Night_Rodríguez_vs_Stephens
-2,Brandon Moreno,Askar Askarov,UFC_Fight_Night_Rodríguez_vs_Stephens
-3,Irene Aldana,Vanessa Melo,UFC_Fight_Night_Rodríguez_vs_Stephens
-4,Steven Peterson,Mart\xc3\xadn Bravo,UFC_Fight_Night_Rodríguez_vs_Stephens
-5,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Carlos Huachin,UFC_Fight_Night_Rodríguez_vs_Stephens
-6,Kyle Nelson,Polo Reyes,UFC_Fight_Night_Rodríguez_vs_Stephens
-7,Angela Hill,Ariane Carnelossi,UFC_Fight_Night_Rodríguez_vs_Stephens
-8,Sergio Pettis,Tyson Nam,UFC_Fight_Night_Rodríguez_vs_Stephens
-9,Paul Craig,Vinicius Moreira,UFC_Fight_Night_Rodríguez_vs_Stephens
-10,Bethe Correia,Sijara Eubanks,UFC_Fight_Night_Rodríguez_vs_Stephens
-11,Claudio Puelles,Marcos Rosa Mariano,UFC_Fight_Night_Rodríguez_vs_Stephens
+,winner,loser,weight_class,event
+0,Yair Rodr\xc3\xadguez,Jeremy Stephens,Featherweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+1,Carla Esparza,Alexa Grasso,Women\'s Strawweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+2,Brandon Moreno,Askar Askarov,Flyweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+3,Irene Aldana,Vanessa Melo,Catchweight (140 lbs.),UFC_Fight_Night_Rodríguez_vs_Stephens
+4,Steven Peterson,Mart\xc3\xadn Bravo,Featherweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+5,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Carlos Huachin,Bantamweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+6,Kyle Nelson,Polo Reyes,Featherweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+7,Angela Hill,Ariane Carnelossi,Women\'s Strawweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+8,Sergio Pettis,Tyson Nam,Flyweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+9,Paul Craig,Vinicius Moreira,Light Heavyweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+10,Bethe Correia,Sijara Eubanks,Women\'s Bantamweight,UFC_Fight_Night_Rodríguez_vs_Stephens
+11,Claudio Puelles,Marcos Rosa Mariano,Lightweight,UFC_Fight_Night_Rodríguez_vs_Stephens

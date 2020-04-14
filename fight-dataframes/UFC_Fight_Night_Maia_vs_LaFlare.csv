@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Demian Maia,Ryan LaFlare,UFC_Fight_Night_Maia_vs_LaFlare
-1,Erick Silva,Josh Koscheck,UFC_Fight_Night_Maia_vs_LaFlare
-2,Leonardo Santos,Tony Martin,UFC_Fight_Night_Maia_vs_LaFlare
-3,Amanda Nunes,Shayna Baszler,UFC_Fight_Night_Maia_vs_LaFlare
-4,Gilbert Burns,Alex Oliveira,UFC_Fight_Night_Maia_vs_LaFlare
-5,Godofredo Pepey,Andre Fili,UFC_Fight_Night_Maia_vs_LaFlare
-6,Francisco Trinaldo,Akbarh Arreola,UFC_Fight_Night_Maia_vs_LaFlare
-7,Kevin Souza,Katsunori Kikuno,UFC_Fight_Night_Maia_vs_LaFlare
-8,Leandro Silva,Drew Dober,UFC_Fight_Night_Maia_vs_LaFlare
-9,Leonardo Mafra,Cain Carrizosa,UFC_Fight_Night_Maia_vs_LaFlare
-10,Christos Giagos,Jorge de Oliveira,UFC_Fight_Night_Maia_vs_LaFlare
-11,Fredy Serrano,Bentley Syler,UFC_Fight_Night_Maia_vs_LaFlare
+,winner,loser,weight_class,event
+0,Demian Maia,Ryan LaFlare,Welterweight,UFC_Fight_Night_Maia_vs_LaFlare
+1,Erick Silva,Josh Koscheck,Welterweight,UFC_Fight_Night_Maia_vs_LaFlare
+2,Leonardo Santos,Tony Martin,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+3,Amanda Nunes,Shayna Baszler,Women\'s Bantamweight,UFC_Fight_Night_Maia_vs_LaFlare
+4,Gilbert Burns,Alex Oliveira,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+5,Godofredo Pepey,Andre Fili,Featherweight,UFC_Fight_Night_Maia_vs_LaFlare
+6,Francisco Trinaldo,Akbarh Arreola,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+7,Kevin Souza,Katsunori Kikuno,Featherweight,UFC_Fight_Night_Maia_vs_LaFlare
+8,Leandro Silva,Drew Dober,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+9,Leonardo Mafra,Cain Carrizosa,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+10,Christos Giagos,Jorge de Oliveira,Lightweight,UFC_Fight_Night_Maia_vs_LaFlare
+11,Fredy Serrano,Bentley Syler,Flyweight,UFC_Fight_Night_Maia_vs_LaFlare

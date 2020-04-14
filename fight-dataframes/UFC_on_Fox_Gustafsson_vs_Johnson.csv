@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Anthony Johnson,Alexander Gustafsson,UFC_on_Fox_Gustafsson_vs_Johnson
-1,Gegard Mousasi,Dan Henderson,UFC_on_Fox_Gustafsson_vs_Johnson
-2,Ryan Bader,Phil Davis,UFC_on_Fox_Gustafsson_vs_Johnson
-3,Sam Sicilia,Akira Corassani,UFC_on_Fox_Gustafsson_vs_Johnson
-4,Albert Tumenov,Nico Musoke,UFC_on_Fox_Gustafsson_vs_Johnson
-5,Kenny Robertson,Sultan Aliev,UFC_on_Fox_Gustafsson_vs_Johnson
-6,Makwan Amirkhani,Andy Ogle,UFC_on_Fox_Gustafsson_vs_Johnson
-7,Nikita Krylov,Stanislav Nedkov,UFC_on_Fox_Gustafsson_vs_Johnson
-8,Mairbek Taisumov,Anthony Christodoulou,UFC_on_Fox_Gustafsson_vs_Johnson
-9,Mirsad Bekti\xc4\x87,Paul Redmond,UFC_on_Fox_Gustafsson_vs_Johnson
-10,Viktor Pe\xc5\xa1ta,Konstantin Erokhin,UFC_on_Fox_Gustafsson_vs_Johnson
-11,Neil Seery,Chris Beal,UFC_on_Fox_Gustafsson_vs_Johnson
+,winner,loser,weight_class,event
+0,Anthony Johnson,Alexander Gustafsson,Light Heavyweight,UFC_on_Fox_Gustafsson_vs_Johnson
+1,Gegard Mousasi,Dan Henderson,Middleweight,UFC_on_Fox_Gustafsson_vs_Johnson
+2,Ryan Bader,Phil Davis,Light Heavyweight,UFC_on_Fox_Gustafsson_vs_Johnson
+3,Sam Sicilia,Akira Corassani,Featherweight,UFC_on_Fox_Gustafsson_vs_Johnson
+4,Albert Tumenov,Nico Musoke,Welterweight,UFC_on_Fox_Gustafsson_vs_Johnson
+5,Kenny Robertson,Sultan Aliev,Welterweight,UFC_on_Fox_Gustafsson_vs_Johnson
+6,Makwan Amirkhani,Andy Ogle,Featherweight,UFC_on_Fox_Gustafsson_vs_Johnson
+7,Nikita Krylov,Stanislav Nedkov,Light Heavyweight,UFC_on_Fox_Gustafsson_vs_Johnson
+8,Mairbek Taisumov,Anthony Christodoulou,Lightweight,UFC_on_Fox_Gustafsson_vs_Johnson
+9,Mirsad Bekti\xc4\x87,Paul Redmond,Catchweight (149 lbs),UFC_on_Fox_Gustafsson_vs_Johnson
+10,Viktor Pe\xc5\xa1ta,Konstantin Erokhin,Heavyweight,UFC_on_Fox_Gustafsson_vs_Johnson
+11,Neil Seery,Chris Beal,Flyweight,UFC_on_Fox_Gustafsson_vs_Johnson

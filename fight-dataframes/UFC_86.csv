@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Forrest Griffin,Quinton Jackson (c),UFC_86
-1,Patrick C\xc3\xb4t\xc3\xa9,Ricardo Almeida,UFC_86
-2,Joe Stevenson,Gleison Tibau,UFC_86
-3,Josh Koscheck,Chris Lytle,UFC_86
-4,Tyson Griffin,Marcus Aur\xc3\xa9lio,UFC_86
-5,Gabriel Gonzaga,Justin McCully,UFC_86
-6,Melvin Guillard,Dennis Siver,UFC_86
-7,Cole Miller,Jorge Gurgel,UFC_86
-8,Justin Buchholz,Corey Hill,UFC_86
+,winner,loser,weight_class,event
+0,Forrest Griffin,Quinton Jackson (c),Light Heavyweight,UFC_86
+1,Patrick C\xc3\xb4t\xc3\xa9,Ricardo Almeida,Middleweight,UFC_86
+2,Joe Stevenson,Gleison Tibau,Lightweight,UFC_86
+3,Josh Koscheck,Chris Lytle,Welterweight,UFC_86
+4,Tyson Griffin,Marcus Aur\xc3\xa9lio,Lightweight,UFC_86
+5,Gabriel Gonzaga,Justin McCully,Heavyweight,UFC_86
+6,Melvin Guillard,Dennis Siver,Lightweight,UFC_86
+7,Cole Miller,Jorge Gurgel,Lightweight,UFC_86
+8,Justin Buchholz,Corey Hill,Lightweight,UFC_86

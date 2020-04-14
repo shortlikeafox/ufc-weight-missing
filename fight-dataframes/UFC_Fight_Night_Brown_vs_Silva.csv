@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Matt Brown,Erick Silva,UFC_Fight_Night_Brown_vs_Silva
-1,Costas Philippou,Lorenz Larkin,UFC_Fight_Night_Brown_vs_Silva
-2,Daron Cruickshank,Erik Koch,UFC_Fight_Night_Brown_vs_Silva
-3,Neil Magny,Tim Means,UFC_Fight_Night_Brown_vs_Silva
-4,Soa Palelei,Ruan Potts,UFC_Fight_Night_Brown_vs_Silva
-5,Chris Cariaso,Louis Smolka,UFC_Fight_Night_Brown_vs_Silva
-6,Ed Herman,Rafael Natal,UFC_Fight_Night_Brown_vs_Silva
-7,Kyoji Horiguchi,Darrell Montague,UFC_Fight_Night_Brown_vs_Silva
-8,Zak Cummings,Yan Cabral,UFC_Fight_Night_Brown_vs_Silva
-9,Johnny Eduardo,Eddie Wineland,UFC_Fight_Night_Brown_vs_Silva
-10,Nik Lentz,Manvel Gamburyan,UFC_Fight_Night_Brown_vs_Silva
-11,Justin Salas,Ben Wall,UFC_Fight_Night_Brown_vs_Silva
-12,Albert Tumenov,Anthony Lapsley,UFC_Fight_Night_Brown_vs_Silva
+,winner,loser,weight_class,event
+0,Matt Brown,Erick Silva,Welterweight,UFC_Fight_Night_Brown_vs_Silva
+1,Costas Philippou,Lorenz Larkin,Middleweight,UFC_Fight_Night_Brown_vs_Silva
+2,Daron Cruickshank,Erik Koch,Lightweight,UFC_Fight_Night_Brown_vs_Silva
+3,Neil Magny,Tim Means,Welterweight,UFC_Fight_Night_Brown_vs_Silva
+4,Soa Palelei,Ruan Potts,Heavyweight,UFC_Fight_Night_Brown_vs_Silva
+5,Chris Cariaso,Louis Smolka,Flyweight,UFC_Fight_Night_Brown_vs_Silva
+6,Ed Herman,Rafael Natal,Middleweight,UFC_Fight_Night_Brown_vs_Silva
+7,Kyoji Horiguchi,Darrell Montague,Flyweight,UFC_Fight_Night_Brown_vs_Silva
+8,Zak Cummings,Yan Cabral,Welterweight,UFC_Fight_Night_Brown_vs_Silva
+9,Johnny Eduardo,Eddie Wineland,Bantamweight,UFC_Fight_Night_Brown_vs_Silva
+10,Nik Lentz,Manvel Gamburyan,Featherweight,UFC_Fight_Night_Brown_vs_Silva
+11,Justin Salas,Ben Wall,Lightweight,UFC_Fight_Night_Brown_vs_Silva
+12,Albert Tumenov,Anthony Lapsley,Welterweight,UFC_Fight_Night_Brown_vs_Silva

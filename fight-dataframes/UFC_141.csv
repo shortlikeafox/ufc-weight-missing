@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Alistair Overeem,Brock Lesnar,UFC_141
-1,Nate Diaz,Donald Cerrone,UFC_141
-2,Johny Hendricks,Jon Fitch,UFC_141
-3,Alexander Gustafsson,Vladimir Matyushenko,UFC_141
-4,Jimy Hettes,Nam Phan,UFC_141
-5,Ross Pearson,Junior Assun\xc3\xa7\xc3\xa3o,UFC_141
-6,Danny Castillo,Anthony Njokuani,UFC_141
-7,Dong Hyun Kim,Sean Pierson,UFC_141
-8,Jacob Volkmann,Efrain Escudero,UFC_141
-9,Diego Nunes,Manny Gamburyan,UFC_141
+,winner,loser,weight_class,event
+0,Alistair Overeem,Brock Lesnar,Heavyweight,UFC_141
+1,Nate Diaz,Donald Cerrone,Lightweight,UFC_141
+2,Johny Hendricks,Jon Fitch,Welterweight,UFC_141
+3,Alexander Gustafsson,Vladimir Matyushenko,Light Heavyweight,UFC_141
+4,Jimy Hettes,Nam Phan,Featherweight,UFC_141
+5,Ross Pearson,Junior Assun\xc3\xa7\xc3\xa3o,Featherweight,UFC_141
+6,Danny Castillo,Anthony Njokuani,Lightweight,UFC_141
+7,Dong Hyun Kim,Sean Pierson,Welterweight,UFC_141
+8,Jacob Volkmann,Efrain Escudero,Lightweight,UFC_141
+9,Diego Nunes,Manny Gamburyan,Featherweight,UFC_141

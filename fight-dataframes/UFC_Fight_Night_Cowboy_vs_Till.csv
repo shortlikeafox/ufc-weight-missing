@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Darren Till,Donald Cerrone,UFC_Fight_Night_Cowboy_vs_Till
-1,Karolina Kowalkiewicz,Jodie Esquibel,UFC_Fight_Night_Cowboy_vs_Till
-2,Jan B\xc5\x82achowicz,Devin Clark,UFC_Fight_Night_Cowboy_vs_Till
-3,Oskar Piechota,Jonathan Wilson,UFC_Fight_Night_Cowboy_vs_Till
-4,Marcin Held,Nasrat Haqparast,UFC_Fight_Night_Cowboy_vs_Till
-5,Brian Kelleher,Damian Stasiak,UFC_Fight_Night_Cowboy_vs_Till
-6,Ramazan Emeev,Sam Alvey,UFC_Fight_Night_Cowboy_vs_Till
-7,Andre Fili,Artem Lobov,UFC_Fight_Night_Cowboy_vs_Till
-8,Warlley Alves,Salim Touahri,UFC_Fight_Night_Cowboy_vs_Till
-9,Aspen Ladd,Lina L\xc3\xa4nsberg,UFC_Fight_Night_Cowboy_vs_Till
-10,Josh Emmett,Felipe Arantes,UFC_Fight_Night_Cowboy_vs_Till
+,winner,loser,weight_class,event
+0,Darren Till,Donald Cerrone,Welterweight,UFC_Fight_Night_Cowboy_vs_Till
+1,Karolina Kowalkiewicz,Jodie Esquibel,Women\'s Strawweight,UFC_Fight_Night_Cowboy_vs_Till
+2,Jan B\xc5\x82achowicz,Devin Clark,Light Heavyweight,UFC_Fight_Night_Cowboy_vs_Till
+3,Oskar Piechota,Jonathan Wilson,Middleweight,UFC_Fight_Night_Cowboy_vs_Till
+4,Marcin Held,Nasrat Haqparast,Lightweight,UFC_Fight_Night_Cowboy_vs_Till
+5,Brian Kelleher,Damian Stasiak,Bantamweight,UFC_Fight_Night_Cowboy_vs_Till
+6,Ramazan Emeev,Sam Alvey,Catchweight (189 lbs),UFC_Fight_Night_Cowboy_vs_Till
+7,Andre Fili,Artem Lobov,Featherweight,UFC_Fight_Night_Cowboy_vs_Till
+8,Warlley Alves,Salim Touahri,Welterweight,UFC_Fight_Night_Cowboy_vs_Till
+9,Aspen Ladd,Lina L\xc3\xa4nsberg,Women\'s Bantamweight,UFC_Fight_Night_Cowboy_vs_Till
+10,Josh Emmett,Felipe Arantes,Featherweight,UFC_Fight_Night_Cowboy_vs_Till

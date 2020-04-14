@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Frank Shamrock (c),Igor Zinoviev,UFC_16
-1,Tsuyoshi Kohsaka,Kimo Leopoldo,UFC_16
-2,Jerry Bohlander,Kevin Jackson,UFC_16
-3,Pat Miletich,Chris Brennan,UFC_16
-4,Mikey Burnett,Eugenio Tadeu,UFC_16
-5,Pat Miletich,Townsend Saunders,UFC_16
-6,Laverne Clark,Josh Stuart,UFC_16
-7,Chris Brennan,Courtney Turner,UFC_16
+,winner,loser,weight_class,event
+0,Frank Shamrock (c),Igor Zinoviev,Middleweight,UFC_16
+1,Tsuyoshi Kohsaka,Kimo Leopoldo,Heavyweight,UFC_16
+2,Jerry Bohlander,Kevin Jackson,Middleweight,UFC_16
+3,Pat Miletich,Chris Brennan,Lightweight,UFC_16
+4,Mikey Burnett,Eugenio Tadeu,Lightweight,UFC_16
+5,Pat Miletich,Townsend Saunders,Lightweight,UFC_16
+6,Laverne Clark,Josh Stuart,Lightweight,UFC_16
+7,Chris Brennan,Courtney Turner,Lightweight,UFC_16

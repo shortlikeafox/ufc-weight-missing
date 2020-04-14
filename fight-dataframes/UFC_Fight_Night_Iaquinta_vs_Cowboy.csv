@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Donald Cerrone,Al Iaquinta,UFC_Fight_Night_Iaquinta_vs_Cowboy
-1,Derek Brunson,Elias Theodorou,UFC_Fight_Night_Iaquinta_vs_Cowboy
-2,Shane Burgos,Cub Swanson,UFC_Fight_Night_Iaquinta_vs_Cowboy
-3,Merab Dvalishvili,Brad Katona,UFC_Fight_Night_Iaquinta_vs_Cowboy
-4,Walt Harris,Sergey Spivak,UFC_Fight_Night_Iaquinta_vs_Cowboy
-5,Andrew Sanchez,Marc-Andr\xc3\xa9 Barriault,UFC_Fight_Night_Iaquinta_vs_Cowboy
-6,Macy Chiasson,Sarah Moras,UFC_Fight_Night_Iaquinta_vs_Cowboy
-7,Vince Morales,Aiemann Zahabi,UFC_Fight_Night_Iaquinta_vs_Cowboy
-8,Nordine Taleb,Kyle Prepolec,UFC_Fight_Night_Iaquinta_vs_Cowboy
-9,Matt Sayles,Kyle Nelson,UFC_Fight_Night_Iaquinta_vs_Cowboy
-10,Arjan Bhullar,Juan Adams,UFC_Fight_Night_Iaquinta_vs_Cowboy
-11,Cole Smith,Mitch Gagnon,UFC_Fight_Night_Iaquinta_vs_Cowboy
+,winner,loser,weight_class,event
+0,Donald Cerrone,Al Iaquinta,Lightweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+1,Derek Brunson,Elias Theodorou,Middleweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+2,Shane Burgos,Cub Swanson,Featherweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+3,Merab Dvalishvili,Brad Katona,Bantamweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+4,Walt Harris,Sergey Spivak,Heavyweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+5,Andrew Sanchez,Marc-Andr\xc3\xa9 Barriault,Middleweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+6,Macy Chiasson,Sarah Moras,Women\'s Bantamweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+7,Vince Morales,Aiemann Zahabi,Bantamweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+8,Nordine Taleb,Kyle Prepolec,Welterweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+9,Matt Sayles,Kyle Nelson,Featherweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+10,Arjan Bhullar,Juan Adams,Heavyweight,UFC_Fight_Night_Iaquinta_vs_Cowboy
+11,Cole Smith,Mitch Gagnon,Bantamweight,UFC_Fight_Night_Iaquinta_vs_Cowboy

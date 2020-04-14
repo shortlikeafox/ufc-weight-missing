@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Kevin Lee,Michael Chiesa,UFC_Fight_Night_Chiesa_vs_Lee
-1,Tim Boetsch,Johny Hendricks,UFC_Fight_Night_Chiesa_vs_Lee
-2,Felice Herrig,Justine Kish,UFC_Fight_Night_Chiesa_vs_Lee
-3,Dominick Reyes,Joachim Christensen,UFC_Fight_Night_Chiesa_vs_Lee
-4,Tim Means,Alex Garcia,UFC_Fight_Night_Chiesa_vs_Lee
-5,Dennis Siver,B.J. Penn,UFC_Fight_Night_Chiesa_vs_Lee
-6,Clay Guida,Erik Koch,UFC_Fight_Night_Chiesa_vs_Lee
-7,Marvin Vettori,Vitor Miranda,UFC_Fight_Night_Chiesa_vs_Lee
-8,Carla Esparza,Maryna Moroz,UFC_Fight_Night_Chiesa_vs_Lee
-9,Darrell Horcher,Devin Powell,UFC_Fight_Night_Chiesa_vs_Lee
-10,Jared Gordon,Michel Qui\xc3\xb1ones,UFC_Fight_Night_Chiesa_vs_Lee
-11,Tony Martin,Johnny Case,UFC_Fight_Night_Chiesa_vs_Lee
-12,Jeremy Kimball,Josh Stansbury,UFC_Fight_Night_Chiesa_vs_Lee
+,winner,loser,weight_class,event
+0,Kevin Lee,Michael Chiesa,Lightweight,UFC_Fight_Night_Chiesa_vs_Lee
+1,Tim Boetsch,Johny Hendricks,Catchweight (188 lbs),UFC_Fight_Night_Chiesa_vs_Lee
+2,Felice Herrig,Justine Kish,Women\'s Strawweight,UFC_Fight_Night_Chiesa_vs_Lee
+3,Dominick Reyes,Joachim Christensen,Light Heavyweight,UFC_Fight_Night_Chiesa_vs_Lee
+4,Tim Means,Alex Garcia,Welterweight,UFC_Fight_Night_Chiesa_vs_Lee
+5,Dennis Siver,B.J. Penn,Featherweight,UFC_Fight_Night_Chiesa_vs_Lee
+6,Clay Guida,Erik Koch,Lightweight,UFC_Fight_Night_Chiesa_vs_Lee
+7,Marvin Vettori,Vitor Miranda,Middleweight,UFC_Fight_Night_Chiesa_vs_Lee
+8,Carla Esparza,Maryna Moroz,Women\'s Strawweight,UFC_Fight_Night_Chiesa_vs_Lee
+9,Darrell Horcher,Devin Powell,Lightweight,UFC_Fight_Night_Chiesa_vs_Lee
+10,Jared Gordon,Michel Qui\xc3\xb1ones,Catchweight (149 lbs),UFC_Fight_Night_Chiesa_vs_Lee
+11,Tony Martin,Johnny Case,Lightweight,UFC_Fight_Night_Chiesa_vs_Lee
+12,Jeremy Kimball,Josh Stansbury,Light Heavyweight,UFC_Fight_Night_Chiesa_vs_Lee

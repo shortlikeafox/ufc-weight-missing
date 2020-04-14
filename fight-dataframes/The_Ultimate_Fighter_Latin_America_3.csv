@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Tony Ferguson,Rafael dos Anjos,The_Ultimate_Fighter_Latin_America_3
-1,Diego Sanchez,Marcin Held,The_Ultimate_Fighter_Latin_America_3
-2,Ricardo Lamas,Charles Oliveira,The_Ultimate_Fighter_Latin_America_3
-3,Mart\xc3\xadn Bravo,Claudio Puelles,The_Ultimate_Fighter_Latin_America_3
-4,Beneil Dariush,Rashid Magomedov,The_Ultimate_Fighter_Latin_America_3
-5,Alexa Grasso,Heather Jo Clark,The_Ultimate_Fighter_Latin_America_3
-6,\xc3\x89rik P\xc3\xa9rez,Felipe Arantes,The_Ultimate_Fighter_Latin_America_3
-7,Joe Soto,Marco Beltr\xc3\xa1n,The_Ultimate_Fighter_Latin_America_3
-8,Max Griffin,Erick Monta\xc3\xb1o,The_Ultimate_Fighter_Latin_America_3
-9,Douglas Silva de Andrade,Henry Briones,The_Ultimate_Fighter_Latin_America_3
-10,Sam Alvey,Alex Nicholson,The_Ultimate_Fighter_Latin_America_3
-11,Polo Reyes,Jason Novelli,The_Ultimate_Fighter_Latin_America_3
-12,Enrique Barzola,Chris Avila,The_Ultimate_Fighter_Latin_America_3
+,winner,loser,weight_class,event
+0,Tony Ferguson,Rafael dos Anjos,Lightweight,The_Ultimate_Fighter_Latin_America_3
+1,Diego Sanchez,Marcin Held,Lightweight,The_Ultimate_Fighter_Latin_America_3
+2,Ricardo Lamas,Charles Oliveira,Catchweight (155 lbs),The_Ultimate_Fighter_Latin_America_3
+3,Mart\xc3\xadn Bravo,Claudio Puelles,Lightweight,The_Ultimate_Fighter_Latin_America_3
+4,Beneil Dariush,Rashid Magomedov,Lightweight,The_Ultimate_Fighter_Latin_America_3
+5,Alexa Grasso,Heather Jo Clark,Women\'s Strawweight,The_Ultimate_Fighter_Latin_America_3
+6,\xc3\x89rik P\xc3\xa9rez,Felipe Arantes,Catchweight (138 lbs),The_Ultimate_Fighter_Latin_America_3
+7,Joe Soto,Marco Beltr\xc3\xa1n,Catchweight (140 lbs),The_Ultimate_Fighter_Latin_America_3
+8,Max Griffin,Erick Monta\xc3\xb1o,Welterweight,The_Ultimate_Fighter_Latin_America_3
+9,Douglas Silva de Andrade,Henry Briones,Bantamweight,The_Ultimate_Fighter_Latin_America_3
+10,Sam Alvey,Alex Nicholson,Middleweight,The_Ultimate_Fighter_Latin_America_3
+11,Polo Reyes,Jason Novelli,Lightweight,The_Ultimate_Fighter_Latin_America_3
+12,Enrique Barzola,Chris Avila,Featherweight,The_Ultimate_Fighter_Latin_America_3

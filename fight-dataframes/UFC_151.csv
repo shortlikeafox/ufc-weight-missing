@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Jon Jones (c),Dan Henderson,UFC_151
-1,Jake Ellenberger,Jay Hieron,UFC_151
-2,Dennis Siver,Eddie Yagin,UFC_151
-3,Dennis Hallman,Thiago Tavares,UFC_151
-4,John Lineker,Yasuhiro Urushitani,UFC_151
-5,Michael Johnson,Danny Castillo,UFC_151
-6,Takeya Mizugaki,Jeff Hougland,UFC_151
-7,Tim Means,Abel Trujillo,UFC_151
-8,Daron Cruickshank,Henry Martinez,UFC_151
-9,Shane Roller,Jacob Volkmann,UFC_151
-10,Kyle Noke,Charlie Brenneman,UFC_151
+,winner,loser,weight_class,event
+0,Jon Jones (c),Dan Henderson,Light Heavyweight,UFC_151
+1,Jake Ellenberger,Jay Hieron,Welterweight,UFC_151
+2,Dennis Siver,Eddie Yagin,Featherweight,UFC_151
+3,Dennis Hallman,Thiago Tavares,Lightweight,UFC_151
+4,John Lineker,Yasuhiro Urushitani,Flyweight,UFC_151
+5,Michael Johnson,Danny Castillo,Lightweight,UFC_151
+6,Takeya Mizugaki,Jeff Hougland,Bantamweight,UFC_151
+7,Tim Means,Abel Trujillo,Lightweight,UFC_151
+8,Daron Cruickshank,Henry Martinez,Lightweight,UFC_151
+9,Shane Roller,Jacob Volkmann,Lightweight,UFC_151
+10,Kyle Noke,Charlie Brenneman,Welterweight,UFC_151

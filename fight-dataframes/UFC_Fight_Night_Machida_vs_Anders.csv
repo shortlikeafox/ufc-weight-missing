@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Lyoto Machida,Eryk Anders,UFC_Fight_Night_Machida_vs_Anders
-1,Valentina Shevchenko,Priscila Cachoeira,UFC_Fight_Night_Machida_vs_Anders
-2,Michel Prazeres,Desmond Green,UFC_Fight_Night_Machida_vs_Anders
-3,Timothy Johnson,Marcelo Golm,UFC_Fight_Night_Machida_vs_Anders
-4,Douglas Silva de Andrade,Marlon Vera,UFC_Fight_Night_Machida_vs_Anders
-5,Thiago Santos,Anthony Smith,UFC_Fight_Night_Machida_vs_Anders
-6,S\xc3\xa9rgio Moraes,Tim Means,UFC_Fight_Night_Machida_vs_Anders
-7,Alan Patrick,Damir Had\xc5\xbeovi\xc4\x87,UFC_Fight_Night_Machida_vs_Anders
-8,Polyana Viana,Maia Stevenson,UFC_Fight_Night_Machida_vs_Anders
-9,Iuri Alc\xc3\xa2ntara,Joe Soto,UFC_Fight_Night_Machida_vs_Anders
-10,Deiveson Figueiredo,Joseph Morales,UFC_Fight_Night_Machida_vs_Anders
+,winner,loser,weight_class,event
+0,Lyoto Machida,Eryk Anders,Middleweight,UFC_Fight_Night_Machida_vs_Anders
+1,Valentina Shevchenko,Priscila Cachoeira,Women\'s Flyweight,UFC_Fight_Night_Machida_vs_Anders
+2,Michel Prazeres,Desmond Green,Catchweight (161 lbs),UFC_Fight_Night_Machida_vs_Anders
+3,Timothy Johnson,Marcelo Golm,Heavyweight,UFC_Fight_Night_Machida_vs_Anders
+4,Douglas Silva de Andrade,Marlon Vera,Bantamweight,UFC_Fight_Night_Machida_vs_Anders
+5,Thiago Santos,Anthony Smith,Middleweight,UFC_Fight_Night_Machida_vs_Anders
+6,S\xc3\xa9rgio Moraes,Tim Means,Welterweight,UFC_Fight_Night_Machida_vs_Anders
+7,Alan Patrick,Damir Had\xc5\xbeovi\xc4\x87,Lightweight,UFC_Fight_Night_Machida_vs_Anders
+8,Polyana Viana,Maia Stevenson,Women\'s Strawweight,UFC_Fight_Night_Machida_vs_Anders
+9,Iuri Alc\xc3\xa2ntara,Joe Soto,Bantamweight,UFC_Fight_Night_Machida_vs_Anders
+10,Deiveson Figueiredo,Joseph Morales,Flyweight,UFC_Fight_Night_Machida_vs_Anders

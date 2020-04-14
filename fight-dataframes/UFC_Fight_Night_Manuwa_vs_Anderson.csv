@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Jimi Manuwa,Corey Anderson,UFC_Fight_Night_Manuwa_vs_Anderson
-1,Gunnar Nelson,Alan Jouban,UFC_Fight_Night_Manuwa_vs_Anderson
-2,Marlon Vera,Brad Pickett,UFC_Fight_Night_Manuwa_vs_Anderson
-3,Arnold Allen,Makwan Amirkhani,UFC_Fight_Night_Manuwa_vs_Anderson
-4,Joe Duffy,Reza Madadi,UFC_Fight_Night_Manuwa_vs_Anderson
-5,Francimar Barroso,Darren Stewart,UFC_Fight_Night_Manuwa_vs_Anderson
-6,Timothy Johnson,Daniel Omiela\xc5\x84czuk,UFC_Fight_Night_Manuwa_vs_Anderson
-7,Leon Edwards,Vicente Luque,UFC_Fight_Night_Manuwa_vs_Anderson
-8,Marc Diakiese,Teemu Packalen,UFC_Fight_Night_Manuwa_vs_Anderson
-9,Brad Scott,Scott Askham,UFC_Fight_Night_Manuwa_vs_Anderson
-10,Lina L\xc3\xa4nsberg,Lucie Pudilov\xc3\xa1,UFC_Fight_Night_Manuwa_vs_Anderson
+,winner,loser,weight_class,event
+0,Jimi Manuwa,Corey Anderson,Light Heavyweight,UFC_Fight_Night_Manuwa_vs_Anderson
+1,Gunnar Nelson,Alan Jouban,Welterweight,UFC_Fight_Night_Manuwa_vs_Anderson
+2,Marlon Vera,Brad Pickett,Catchweight (140 lbs),UFC_Fight_Night_Manuwa_vs_Anderson
+3,Arnold Allen,Makwan Amirkhani,Featherweight,UFC_Fight_Night_Manuwa_vs_Anderson
+4,Joe Duffy,Reza Madadi,Lightweight,UFC_Fight_Night_Manuwa_vs_Anderson
+5,Francimar Barroso,Darren Stewart,Light Heavyweight,UFC_Fight_Night_Manuwa_vs_Anderson
+6,Timothy Johnson,Daniel Omiela\xc5\x84czuk,Heavyweight,UFC_Fight_Night_Manuwa_vs_Anderson
+7,Leon Edwards,Vicente Luque,Welterweight,UFC_Fight_Night_Manuwa_vs_Anderson
+8,Marc Diakiese,Teemu Packalen,Lightweight,UFC_Fight_Night_Manuwa_vs_Anderson
+9,Brad Scott,Scott Askham,Middleweight,UFC_Fight_Night_Manuwa_vs_Anderson
+10,Lina L\xc3\xa4nsberg,Lucie Pudilov\xc3\xa1,Women\'s Bantamweight,UFC_Fight_Night_Manuwa_vs_Anderson

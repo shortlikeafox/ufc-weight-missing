@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Yushin Okami,Nate Marquardt,UFC_122
-1,Dennis Siver,Andre Winner,UFC_122
-2,Amir Sadollah,Peter Sobotta,UFC_122
-3,Krzysztof Soszynski,Goran Reljic,UFC_122
-4,Duane Ludwig,Nick Osipczak,UFC_122
-5,Vladimir Matyushenko,Alexandre Ferreira,UFC_122
-6,Pascal Krauss,Mark Scanlon,UFC_122
-7,Kyle Noke,Rob Kimmons,UFC_122
-8,Karlos Vemola,Seth Petruzelli,UFC_122
-9,Carlos Eduardo Rocha,Kris McCray,UFC_122
+,winner,loser,weight_class,event
+0,Yushin Okami,Nate Marquardt,Middleweight,UFC_122
+1,Dennis Siver,Andre Winner,Lightweight,UFC_122
+2,Amir Sadollah,Peter Sobotta,Welterweight,UFC_122
+3,Krzysztof Soszynski,Goran Reljic,Light Heavyweight,UFC_122
+4,Duane Ludwig,Nick Osipczak,Welterweight,UFC_122
+5,Vladimir Matyushenko,Alexandre Ferreira,Light Heavyweight,UFC_122
+6,Pascal Krauss,Mark Scanlon,Welterweight,UFC_122
+7,Kyle Noke,Rob Kimmons,Middleweight,UFC_122
+8,Karlos Vemola,Seth Petruzelli,Light Heavyweight,UFC_122
+9,Carlos Eduardo Rocha,Kris McCray,Welterweight,UFC_122

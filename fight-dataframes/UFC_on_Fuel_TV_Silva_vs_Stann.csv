@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Wanderlei Silva,Brian Stann,UFC_on_Fuel_TV_Silva_vs_Stann
-1,Mark Hunt,Stefan Struve,UFC_on_Fuel_TV_Silva_vs_Stann
-2,Diego Sanchez,Takanori Gomi,UFC_on_Fuel_TV_Silva_vs_Stann
-3,Yushin Okami,Hector Lombard,UFC_on_Fuel_TV_Silva_vs_Stann
-4,Rani Yahya,Mizuto Hirota,UFC_on_Fuel_TV_Silva_vs_Stann
-5,Dong Hyun Kim,Siyar Bahadurzada,UFC_on_Fuel_TV_Silva_vs_Stann
-6,Brad Tavares,Riki Fukuda,UFC_on_Fuel_TV_Silva_vs_Stann
-7,Takeya Mizugaki,Bryan Caraway,UFC_on_Fuel_TV_Silva_vs_Stann
-8,Kazuki Tokudome,Cristiano Marcello,UFC_on_Fuel_TV_Silva_vs_Stann
-9,Alex Caceres,Kyung Ho Kang,UFC_on_Fuel_TV_Silva_vs_Stann
-10,Hyun Gyu Lim,Marcelo Guimar\xc3\xa3es,UFC_on_Fuel_TV_Silva_vs_Stann
+,winner,loser,weight_class,event
+0,Wanderlei Silva,Brian Stann,Light Heavyweight,UFC_on_Fuel_TV_Silva_vs_Stann
+1,Mark Hunt,Stefan Struve,Heavyweight,UFC_on_Fuel_TV_Silva_vs_Stann
+2,Diego Sanchez,Takanori Gomi,Catchweight (158 lb),UFC_on_Fuel_TV_Silva_vs_Stann
+3,Yushin Okami,Hector Lombard,Middleweight,UFC_on_Fuel_TV_Silva_vs_Stann
+4,Rani Yahya,Mizuto Hirota,Featherweight,UFC_on_Fuel_TV_Silva_vs_Stann
+5,Dong Hyun Kim,Siyar Bahadurzada,Welterweight,UFC_on_Fuel_TV_Silva_vs_Stann
+6,Brad Tavares,Riki Fukuda,Middleweight,UFC_on_Fuel_TV_Silva_vs_Stann
+7,Takeya Mizugaki,Bryan Caraway,Bantamweight,UFC_on_Fuel_TV_Silva_vs_Stann
+8,Kazuki Tokudome,Cristiano Marcello,Lightweight,UFC_on_Fuel_TV_Silva_vs_Stann
+9,Alex Caceres,Kyung Ho Kang,Bantamweight,UFC_on_Fuel_TV_Silva_vs_Stann
+10,Hyun Gyu Lim,Marcelo Guimar\xc3\xa3es,Welterweight,UFC_on_Fuel_TV_Silva_vs_Stann

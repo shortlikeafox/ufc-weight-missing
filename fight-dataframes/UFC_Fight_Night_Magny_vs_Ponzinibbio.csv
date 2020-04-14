@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Santiago Ponzinibbio,Neil Magny,UFC_Fight_Night_Magny_vs_Ponzinibbio
-1,Ricardo Lamas,Darren Elkins,UFC_Fight_Night_Magny_vs_Ponzinibbio
-2,Johnny Walker,Khalil Rountree Jr.,UFC_Fight_Night_Magny_vs_Ponzinibbio
-3,Ian Heinisch,Cezar Ferreira,UFC_Fight_Night_Magny_vs_Ponzinibbio
-4,Marlon Vera,Guido Cannetti,UFC_Fight_Night_Magny_vs_Ponzinibbio
-5,Cynthia Calvillo,Poliana Botelho,UFC_Fight_Night_Magny_vs_Ponzinibbio
-6,Michel Prazeres,Bartosz Fabi\xc5\x84ski,UFC_Fight_Night_Magny_vs_Ponzinibbio
-7,Alexandre Pantoja,Ulka Sasaki,UFC_Fight_Night_Magny_vs_Ponzinibbio
-8,Austin Arnett,Humberto Bandenay,UFC_Fight_Night_Magny_vs_Ponzinibbio
-9,Laureano Staropoli,Hector Aldana,UFC_Fight_Night_Magny_vs_Ponzinibbio
-10,Jesus Pinedo,Devin Powell,UFC_Fight_Night_Magny_vs_Ponzinibbio
-11,Nad Narimani,Anderson dos Santos,UFC_Fight_Night_Magny_vs_Ponzinibbio
+,winner,loser,weight_class,event
+0,Santiago Ponzinibbio,Neil Magny,Welterweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+1,Ricardo Lamas,Darren Elkins,Featherweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+2,Johnny Walker,Khalil Rountree Jr.,Light Heavyweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+3,Ian Heinisch,Cezar Ferreira,Middleweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+4,Marlon Vera,Guido Cannetti,Bantamweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+5,Cynthia Calvillo,Poliana Botelho,Catchweight (118 lbs),UFC_Fight_Night_Magny_vs_Ponzinibbio
+6,Michel Prazeres,Bartosz Fabi\xc5\x84ski,Welterweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+7,Alexandre Pantoja,Ulka Sasaki,Flyweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+8,Austin Arnett,Humberto Bandenay,Featherweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+9,Laureano Staropoli,Hector Aldana,Welterweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+10,Jesus Pinedo,Devin Powell,Lightweight,UFC_Fight_Night_Magny_vs_Ponzinibbio
+11,Nad Narimani,Anderson dos Santos,Featherweight,UFC_Fight_Night_Magny_vs_Ponzinibbio

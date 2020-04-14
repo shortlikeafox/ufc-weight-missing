@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Rashad Evans,Chuck Liddell,UFC_88
-1,Rich Franklin,Matt Hamill,UFC_88
-2,Dan Henderson,Rousimar Palhares,UFC_88
-3,Nate Marquardt,Martin Kampmann,UFC_88
-4,Dong Hyun Kim,Matt Brown,UFC_88
-5,Kurt Pellegrino,Thiago Tavares,UFC_88
-6,Tim Boetsch,Michael Patt,UFC_88
-7,Jason MacDonald,Jason Lambert,UFC_88
-8,Ryo Chonan,Roan Carneiro,UFC_88
+,winner,loser,weight_class,event
+0,Rashad Evans,Chuck Liddell,Light Heavyweight,UFC_88
+1,Rich Franklin,Matt Hamill,Light Heavyweight,UFC_88
+2,Dan Henderson,Rousimar Palhares,Middleweight,UFC_88
+3,Nate Marquardt,Martin Kampmann,Middleweight,UFC_88
+4,Dong Hyun Kim,Matt Brown,Welterweight,UFC_88
+5,Kurt Pellegrino,Thiago Tavares,Lightweight,UFC_88
+6,Tim Boetsch,Michael Patt,Light Heavyweight,UFC_88
+7,Jason MacDonald,Jason Lambert,Middleweight,UFC_88
+8,Ryo Chonan,Roan Carneiro,Welterweight,UFC_88

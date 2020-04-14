@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Johny Hendricks,UFC_167
-1,Rashad Evans,Chael Sonnen,UFC_167
-2,Robbie Lawler,Rory MacDonald,UFC_167
-3,Tyron Woodley,Josh Koscheck,UFC_167
-4,Ali Bagautinov,Tim Elliott,UFC_167
-5,Donald Cerrone,Evan Dunham,UFC_167
-6,Thales Leites,Ed Herman,UFC_167
-7,Rick Story,Brian Ebersole,UFC_167
-8,\xc3\x89rik P\xc3\xa9rez,Edwin Figueroa,UFC_167
-9,Jason High,Anthony Lapsley,UFC_167
-10,Sergio Pettis,Will Campuzano,UFC_167
-11,Gian Villante,Cody Donovan,UFC_167
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Johny Hendricks,Welterweight,UFC_167
+1,Rashad Evans,Chael Sonnen,Light Heavyweight,UFC_167
+2,Robbie Lawler,Rory MacDonald,Welterweight,UFC_167
+3,Tyron Woodley,Josh Koscheck,Welterweight,UFC_167
+4,Ali Bagautinov,Tim Elliott,Flyweight,UFC_167
+5,Donald Cerrone,Evan Dunham,Lightweight,UFC_167
+6,Thales Leites,Ed Herman,Middleweight,UFC_167
+7,Rick Story,Brian Ebersole,Welterweight,UFC_167
+8,\xc3\x89rik P\xc3\xa9rez,Edwin Figueroa,Bantamweight,UFC_167
+9,Jason High,Anthony Lapsley,Welterweight,UFC_167
+10,Sergio Pettis,Will Campuzano,Bantamweight,UFC_167
+11,Gian Villante,Cody Donovan,Light Heavyweight,UFC_167

@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jon Jones,Ovince Saint Preux,UFC_197
-1,Demetrious Johnson (c),Henry Cejudo,UFC_197
-2,Edson Barboza,Anthony Pettis,UFC_197
-3,Robert Whittaker,Rafael Natal,UFC_197
-4,Yair Rodr\xc3\xadguez,Andre Fili,UFC_197
-5,Sergio Pettis,Chris Kelades,UFC_197
-6,Danny Roberts,Dominique Steele,UFC_197
-7,Carla Esparza,Juliana Lima,UFC_197
-8,James Vick,Glaico Fran\xc3\xa7a,UFC_197
-9,Walt Harris,Cody East,UFC_197
-10,Marcos Rog\xc3\xa9rio de Lima,Clint Hester,UFC_197
-11,Kevin Lee,Efrain Escudero,UFC_197
+,winner,loser,weight_class,event
+0,Jon Jones,Ovince Saint Preux,Light Heavyweight,UFC_197
+1,Demetrious Johnson (c),Henry Cejudo,Flyweight,UFC_197
+2,Edson Barboza,Anthony Pettis,Lightweight,UFC_197
+3,Robert Whittaker,Rafael Natal,Middleweight,UFC_197
+4,Yair Rodr\xc3\xadguez,Andre Fili,Featherweight,UFC_197
+5,Sergio Pettis,Chris Kelades,Flyweight,UFC_197
+6,Danny Roberts,Dominique Steele,Welterweight,UFC_197
+7,Carla Esparza,Juliana Lima,Women\'s Strawweight,UFC_197
+8,James Vick,Glaico Fran\xc3\xa7a,Lightweight,UFC_197
+9,Walt Harris,Cody East,Heavyweight,UFC_197
+10,Marcos Rog\xc3\xa9rio de Lima,Clint Hester,Light Heavyweight,UFC_197
+11,Kevin Lee,Efrain Escudero,Lightweight,UFC_197

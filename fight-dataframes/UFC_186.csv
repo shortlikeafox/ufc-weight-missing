@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Demetrious Johnson (c),Kyoji Horiguchi,UFC_186
-1,Quinton Jackson,F\xc3\xa1bio Maldonado,UFC_186
-2,Michael Bisping,C.B. Dollaway,UFC_186
-3,John Makdessi,Shane Campbell,UFC_186
-4,Thomas Almeida,Yves Jabouin,UFC_186
-5,Patrick C\xc3\xb4t\xc3\xa9,Joe Riggs,UFC_186
-6,Alexis Davis,Sarah Kaufman,UFC_186
-7,Chad Laprise,Bryan Barberena,UFC_186
-8,Olivier Aubin-Mercier,David Michaud,UFC_186
-9,Nordine Taleb,Chris Clements,UFC_186
-10,Val\xc3\xa9rie L\xc3\xa9tourneau,Jessica Rakoczy,UFC_186
-11,Randa Markos,Aisling Daly,UFC_186
+,winner,loser,weight_class,event
+0,Demetrious Johnson (c),Kyoji Horiguchi,Flyweight,UFC_186
+1,Quinton Jackson,F\xc3\xa1bio Maldonado,Catchweight (215 lbs),UFC_186
+2,Michael Bisping,C.B. Dollaway,Middleweight,UFC_186
+3,John Makdessi,Shane Campbell,Catchweight (160 lbs),UFC_186
+4,Thomas Almeida,Yves Jabouin,Bantamweight,UFC_186
+5,Patrick C\xc3\xb4t\xc3\xa9,Joe Riggs,Welterweight,UFC_186
+6,Alexis Davis,Sarah Kaufman,Women\'s Bantamweight,UFC_186
+7,Chad Laprise,Bryan Barberena,Lightweight,UFC_186
+8,Olivier Aubin-Mercier,David Michaud,Lightweight,UFC_186
+9,Nordine Taleb,Chris Clements,Welterweight,UFC_186
+10,Val\xc3\xa9rie L\xc3\xa9tourneau,Jessica Rakoczy,Women\'s Strawweight,UFC_186
+11,Randa Markos,Aisling Daly,Women\'s Strawweight,UFC_186

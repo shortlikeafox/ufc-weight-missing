@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Jonathan Goulet,Luke Cummo,UFC_Ultimate_Fight_Night_5
-1,Anderson Silva,Chris Leben,UFC_Ultimate_Fight_Night_5
-2,Rob MacDonald,Kristian Rothaermel,UFC_Ultimate_Fight_Night_5
-3,Rashad Evans,Stephan Bonnar,UFC_Ultimate_Fight_Night_5
-4,Mark Hominick,Jorge Gurgel,UFC_Ultimate_Fight_Night_5
-5,Josh Koscheck,Dave Menne,UFC_Ultimate_Fight_Night_5
-6,Jason Lambert,Branden Lee Hinkle,UFC_Ultimate_Fight_Night_5
-7,Jon Fitch,Thiago Alves,UFC_Ultimate_Fight_Night_5
-8,Jorge Santiago,Justin Levens,UFC_Ultimate_Fight_Night_5
+,winner,loser,weight_class,event
+0,Jonathan Goulet,Luke Cummo,Welterweight,UFC_Ultimate_Fight_Night_5
+1,Anderson Silva,Chris Leben,Middleweight,UFC_Ultimate_Fight_Night_5
+2,Rob MacDonald,Kristian Rothaermel,Light Heavyweight,UFC_Ultimate_Fight_Night_5
+3,Rashad Evans,Stephan Bonnar,Light Heavyweight,UFC_Ultimate_Fight_Night_5
+4,Mark Hominick,Jorge Gurgel,Lightweight,UFC_Ultimate_Fight_Night_5
+5,Josh Koscheck,Dave Menne,Welterweight,UFC_Ultimate_Fight_Night_5
+6,Jason Lambert,Branden Lee Hinkle,Light Heavyweight,UFC_Ultimate_Fight_Night_5
+7,Jon Fitch,Thiago Alves,Welterweight,UFC_Ultimate_Fight_Night_5
+8,Jorge Santiago,Justin Levens,Middleweight,UFC_Ultimate_Fight_Night_5

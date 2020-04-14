@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Cheick Kongo,Pat Barry,UFC_Live_Kongo_vs_Barry
-1,Charlie Brenneman,Rick Story,UFC_Live_Kongo_vs_Barry
-2,Matt Brown,John Howard,UFC_Live_Kongo_vs_Barry
-3,Matt Mitrione,Christian Morecraft,UFC_Live_Kongo_vs_Barry
-4,Tyson Griffin,Manvel Gamburyan,UFC_Live_Kongo_vs_Barry
-5,Javier Vazquez,Joe Stevenson,UFC_Live_Kongo_vs_Barry
-6,Joe Lauzon,Curt Warburton,UFC_Live_Kongo_vs_Barry
-7,Rich Attonito,Daniel Roberts,UFC_Live_Kongo_vs_Barry
-8,Charles Oliveira,Nik Lentz,UFC_Live_Kongo_vs_Barry
-9,Ricardo Lamas,Matt Grice,UFC_Live_Kongo_vs_Barry
-10,Michael Johnson,Edward Faaloloto,UFC_Live_Kongo_vs_Barry
+,winner,loser,weight_class,event
+0,Cheick Kongo,Pat Barry,Heavyweight,UFC_Live_Kongo_vs_Barry
+1,Charlie Brenneman,Rick Story,Welterweight,UFC_Live_Kongo_vs_Barry
+2,Matt Brown,John Howard,Welterweight,UFC_Live_Kongo_vs_Barry
+3,Matt Mitrione,Christian Morecraft,Heavyweight,UFC_Live_Kongo_vs_Barry
+4,Tyson Griffin,Manvel Gamburyan,Featherweight,UFC_Live_Kongo_vs_Barry
+5,Javier Vazquez,Joe Stevenson,Featherweight,UFC_Live_Kongo_vs_Barry
+6,Joe Lauzon,Curt Warburton,Lightweight,UFC_Live_Kongo_vs_Barry
+7,Rich Attonito,Daniel Roberts,Welterweight,UFC_Live_Kongo_vs_Barry
+8,Charles Oliveira,Nik Lentz,Lightweight,UFC_Live_Kongo_vs_Barry
+9,Ricardo Lamas,Matt Grice,Featherweight,UFC_Live_Kongo_vs_Barry
+10,Michael Johnson,Edward Faaloloto,Lightweight,UFC_Live_Kongo_vs_Barry

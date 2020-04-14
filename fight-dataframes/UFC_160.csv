@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Cain Velasquez (c),Ant\xc3\xb4nio Silva,UFC_160
-1,Junior dos Santos,Mark Hunt,UFC_160
-2,Glover Teixeira,James Te Huna,UFC_160
-3,TJ Grant,Gray Maynard,UFC_160
-4,Donald Cerrone,K.J. Noons,UFC_160
-5,Mike Pyle,Rick Story,UFC_160
-6,Dennis Bermudez,Max Holloway,UFC_160
-7,Robert Whittaker,Colton Smith,UFC_160
-8,Khabib Nurmagomedov,Abel Trujillo,UFC_160
-9,Stephen Thompson,Nah-Shon Burrell,UFC_160
-10,George Roop,Brian Bowles,UFC_160
-11,Jeremy Stephens,Estevan Payan,UFC_160
+,winner,loser,weight_class,event
+0,Cain Velasquez (c),Ant\xc3\xb4nio Silva,Heavyweight,UFC_160
+1,Junior dos Santos,Mark Hunt,Heavyweight,UFC_160
+2,Glover Teixeira,James Te Huna,Light Heavyweight,UFC_160
+3,TJ Grant,Gray Maynard,Lightweight,UFC_160
+4,Donald Cerrone,K.J. Noons,Lightweight,UFC_160
+5,Mike Pyle,Rick Story,Welterweight,UFC_160
+6,Dennis Bermudez,Max Holloway,Featherweight,UFC_160
+7,Robert Whittaker,Colton Smith,Welterweight,UFC_160
+8,Khabib Nurmagomedov,Abel Trujillo,Catchweight (158.5 lbs),UFC_160
+9,Stephen Thompson,Nah-Shon Burrell,Welterweight,UFC_160
+10,George Roop,Brian Bowles,Bantamweight,UFC_160
+11,Jeremy Stephens,Estevan Payan,Featherweight,UFC_160

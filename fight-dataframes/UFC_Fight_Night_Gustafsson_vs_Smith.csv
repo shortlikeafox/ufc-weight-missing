@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Anthony Smith,Alexander Gustafsson,UFC_Fight_Night_Gustafsson_vs_Smith
-1,Aleksandar Raki\xc4\x87,Jimi Manuwa,UFC_Fight_Night_Gustafsson_vs_Smith
-2,Makwan Amirkhani,Chris Fishgold,UFC_Fight_Night_Gustafsson_vs_Smith
-3,Christos Giagos,Damir Had\xc5\xbeovi\xc4\x87,UFC_Fight_Night_Gustafsson_vs_Smith
-4,Daniel Teymur,Sung Bin Jo,UFC_Fight_Night_Gustafsson_vs_Smith
-5,Sergey Khandozhko,Rostem Akman,UFC_Fight_Night_Gustafsson_vs_Smith
-6,Lina L\xc3\xa4nsberg,Tonya Evinger,UFC_Fight_Night_Gustafsson_vs_Smith
-7,Leonardo Santos,Stevie Ray,UFC_Fight_Night_Gustafsson_vs_Smith
-8,Frank Camacho,Nick Hein,UFC_Fight_Night_Gustafsson_vs_Smith
-9,Bea Malecki,Duda Santana,UFC_Fight_Night_Gustafsson_vs_Smith
-10,Devin Clark,Darko Sto\xc5\xa1i\xc4\x87,UFC_Fight_Night_Gustafsson_vs_Smith
-11,Joel \xc3\x81lvarez,Danilo Belluardo,UFC_Fight_Night_Gustafsson_vs_Smith
+,winner,loser,weight_class,event
+0,Anthony Smith,Alexander Gustafsson,Light Heavyweight,UFC_Fight_Night_Gustafsson_vs_Smith
+1,Aleksandar Raki\xc4\x87,Jimi Manuwa,Light Heavyweight,UFC_Fight_Night_Gustafsson_vs_Smith
+2,Makwan Amirkhani,Chris Fishgold,Featherweight,UFC_Fight_Night_Gustafsson_vs_Smith
+3,Christos Giagos,Damir Had\xc5\xbeovi\xc4\x87,Lightweight,UFC_Fight_Night_Gustafsson_vs_Smith
+4,Daniel Teymur,Sung Bin Jo,Featherweight,UFC_Fight_Night_Gustafsson_vs_Smith
+5,Sergey Khandozhko,Rostem Akman,Welterweight,UFC_Fight_Night_Gustafsson_vs_Smith
+6,Lina L\xc3\xa4nsberg,Tonya Evinger,Women\'s Bantamweight,UFC_Fight_Night_Gustafsson_vs_Smith
+7,Leonardo Santos,Stevie Ray,Lightweight,UFC_Fight_Night_Gustafsson_vs_Smith
+8,Frank Camacho,Nick Hein,Lightweight,UFC_Fight_Night_Gustafsson_vs_Smith
+9,Bea Malecki,Duda Santana,Women\'s Bantamweight,UFC_Fight_Night_Gustafsson_vs_Smith
+10,Devin Clark,Darko Sto\xc5\xa1i\xc4\x87,Light Heavyweight,UFC_Fight_Night_Gustafsson_vs_Smith
+11,Joel \xc3\x81lvarez,Danilo Belluardo,Lightweight,UFC_Fight_Night_Gustafsson_vs_Smith

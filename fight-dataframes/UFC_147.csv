@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Rich Franklin,Wanderlei Silva,UFC_147
-1,Cezar Ferreira,S\xc3\xa9rgio Moraes,UFC_147
-2,Rony Jason,Godofredo Pepey,UFC_147
-3,Fabr\xc3\xadcio Werdum,Mike Russow,UFC_147
-4,Hacran Dias,Iuri Alc\xc3\xa2ntara,UFC_147
-5,Rodrigo Damm,Anistavio Medeiros,UFC_147
-6,Francisco Trinaldo,Delson Heleno,UFC_147
-7,Hugo Viana,John Teixeira,UFC_147
-8,Thiago Perp\xc3\xa9tuo,Leonardo Mafra,UFC_147
-9,Marcos Vinicius,Wagner Campos,UFC_147
-10,Felipe Arantes,Milton Vieira,UFC_147
+,winner,loser,weight_class,event
+0,Rich Franklin,Wanderlei Silva,Catchweight (190 lb),UFC_147
+1,Cezar Ferreira,S\xc3\xa9rgio Moraes,Middleweight,UFC_147
+2,Rony Jason,Godofredo Pepey,Featherweight,UFC_147
+3,Fabr\xc3\xadcio Werdum,Mike Russow,Heavyweight,UFC_147
+4,Hacran Dias,Iuri Alc\xc3\xa2ntara,Featherweight,UFC_147
+5,Rodrigo Damm,Anistavio Medeiros,Featherweight,UFC_147
+6,Francisco Trinaldo,Delson Heleno,Middleweight,UFC_147
+7,Hugo Viana,John Teixeira,Catchweight (150 lb),UFC_147
+8,Thiago Perp\xc3\xa9tuo,Leonardo Mafra,Middleweight,UFC_147
+9,Marcos Vinicius,Wagner Campos,Featherweight,UFC_147
+10,Felipe Arantes,Milton Vieira,Featherweight,UFC_147

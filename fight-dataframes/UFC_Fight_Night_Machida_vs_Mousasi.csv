@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Lyoto Machida,Gegard Mousasi,UFC_Fight_Night_Machida_vs_Mousasi
-1,Ronaldo Souza,Francis Carmont,UFC_Fight_Night_Machida_vs_Mousasi
-2,Erick Silva,Takenori Sato,UFC_Fight_Night_Machida_vs_Mousasi
-3,Nico Musoke,Viscardi Andrade,UFC_Fight_Night_Machida_vs_Mousasi
-4,Charles Oliveira,Andy Ogle,UFC_Fight_Night_Machida_vs_Mousasi
-5,Joe Proctor,Cristiano Marcello,UFC_Fight_Night_Machida_vs_Mousasi
-6,Rodrigo Damm,Ivan Jorge,UFC_Fight_Night_Machida_vs_Mousasi
-7,Francisco Trinaldo,Jesse Ronson,UFC_Fight_Night_Machida_vs_Mousasi
-8,Iuri Alc\xc3\xa2ntara,Wilson Reis,UFC_Fight_Night_Machida_vs_Mousasi
-9,Felipe Arantes,Maximo Blanco,UFC_Fight_Night_Machida_vs_Mousasi
-10,Ildemar Alc\xc3\xa2ntara,Albert Tumenov,UFC_Fight_Night_Machida_vs_Mousasi
-11,Zubaira Tukhugov,Douglas Silva de Andrade,UFC_Fight_Night_Machida_vs_Mousasi
+,winner,loser,weight_class,event
+0,Lyoto Machida,Gegard Mousasi,Middleweight,UFC_Fight_Night_Machida_vs_Mousasi
+1,Ronaldo Souza,Francis Carmont,Middleweight,UFC_Fight_Night_Machida_vs_Mousasi
+2,Erick Silva,Takenori Sato,Welterweight,UFC_Fight_Night_Machida_vs_Mousasi
+3,Nico Musoke,Viscardi Andrade,Welterweight,UFC_Fight_Night_Machida_vs_Mousasi
+4,Charles Oliveira,Andy Ogle,Featherweight,UFC_Fight_Night_Machida_vs_Mousasi
+5,Joe Proctor,Cristiano Marcello,Lightweight,UFC_Fight_Night_Machida_vs_Mousasi
+6,Rodrigo Damm,Ivan Jorge,Lightweight,UFC_Fight_Night_Machida_vs_Mousasi
+7,Francisco Trinaldo,Jesse Ronson,Lightweight,UFC_Fight_Night_Machida_vs_Mousasi
+8,Iuri Alc\xc3\xa2ntara,Wilson Reis,Bantamweight,UFC_Fight_Night_Machida_vs_Mousasi
+9,Felipe Arantes,Maximo Blanco,Featherweight,UFC_Fight_Night_Machida_vs_Mousasi
+10,Ildemar Alc\xc3\xa2ntara,Albert Tumenov,Welterweight,UFC_Fight_Night_Machida_vs_Mousasi
+11,Zubaira Tukhugov,Douglas Silva de Andrade,Featherweight,UFC_Fight_Night_Machida_vs_Mousasi

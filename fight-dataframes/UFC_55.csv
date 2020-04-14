@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Andrei Arlovski (c),Paul Buentello,UFC_55
-1,Branden Lee Hinkle,Sean Gannon,UFC_55
-2,Forrest Griffin,Elvis Sinosic,UFC_55
-3,Renato Sobral,Chael Sonnen,UFC_55
-4,Joe Riggs,Chris Lytle,UFC_55
-5,Jorge Rivera,Dennis Hallman,UFC_55
-6,Marcio Cruz,Keigo Kunihara,UFC_55
-7,Alessio Sakara,Ron Faircloth,UFC_55
+,winner,loser,weight_class,event
+0,Andrei Arlovski (c),Paul Buentello,Heavyweight,UFC_55
+1,Branden Lee Hinkle,Sean Gannon,Heavyweight,UFC_55
+2,Forrest Griffin,Elvis Sinosic,Light Heavyweight,UFC_55
+3,Renato Sobral,Chael Sonnen,Light Heavyweight,UFC_55
+4,Joe Riggs,Chris Lytle,Welterweight,UFC_55
+5,Jorge Rivera,Dennis Hallman,Middleweight,UFC_55
+6,Marcio Cruz,Keigo Kunihara,Heavyweight,UFC_55
+7,Alessio Sakara,Ron Faircloth,Light Heavyweight,UFC_55

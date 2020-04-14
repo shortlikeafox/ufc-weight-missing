@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Ken Shamrock (c),Kimo Leopoldo,UFC_8
-1,Don Frye,Gary Goodridge,UFC_8
-2,Don Frye,Sam Adkins,UFC_8
-3,Gary Goodridge,Jerry Bohlander,UFC_8
-4,Don Frye,Thomas Ramirez,UFC_8
-5,Paul Varelans,Joe Moreira,UFC_8
-6,Jerry Bohlander,Scott Ferrozzo,UFC_8
-7,Gary Goodridge,Paul Herrera,UFC_8
-8,Sam Adkins,Keith Mielke,UFC_8
+,winner,loser,weight_class,event
+0,Ken Shamrock (c),Kimo Leopoldo,N/A,UFC_8
+1,Don Frye,Gary Goodridge,N/A,UFC_8
+2,Don Frye,Sam Adkins,N/A,UFC_8
+3,Gary Goodridge,Jerry Bohlander,N/A,UFC_8
+4,Don Frye,Thomas Ramirez,N/A,UFC_8
+5,Paul Varelans,Joe Moreira,N/A,UFC_8
+6,Jerry Bohlander,Scott Ferrozzo,N/A,UFC_8
+7,Gary Goodridge,Paul Herrera,N/A,UFC_8
+8,Sam Adkins,Keith Mielke,N/A,UFC_8

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Chris Weidman,Anderson Silva (c),UFC_162
-1,Frankie Edgar,Charles Oliveira,UFC_162
-2,Tim Kennedy,Roger Gracie,UFC_162
-3,Mark Mu\xc3\xb1oz,Tim Boetsch,UFC_162
-4,Cub Swanson,Dennis Siver,UFC_162
-5,Andrew Craig,Chris Leben,UFC_162
-6,Norman Parke,Kazuki Tokudome,UFC_162
-7,Gabriel Gonzaga,Dave Herman,UFC_162
-8,Edson Barboza,Rafaello Oliveira,UFC_162
-9,Brian Melancon,Seth Baczynski,UFC_162
-10,Mike Pierce,David Mitchell,UFC_162
+,winner,loser,weight_class,event
+0,Chris Weidman,Anderson Silva (c),Middleweight,UFC_162
+1,Frankie Edgar,Charles Oliveira,Featherweight,UFC_162
+2,Tim Kennedy,Roger Gracie,Middleweight,UFC_162
+3,Mark Mu\xc3\xb1oz,Tim Boetsch,Middleweight,UFC_162
+4,Cub Swanson,Dennis Siver,Featherweight,UFC_162
+5,Andrew Craig,Chris Leben,Middleweight,UFC_162
+6,Norman Parke,Kazuki Tokudome,Lightweight,UFC_162
+7,Gabriel Gonzaga,Dave Herman,Heavyweight,UFC_162
+8,Edson Barboza,Rafaello Oliveira,Lightweight,UFC_162
+9,Brian Melancon,Seth Baczynski,Welterweight,UFC_162
+10,Mike Pierce,David Mitchell,Welterweight,UFC_162

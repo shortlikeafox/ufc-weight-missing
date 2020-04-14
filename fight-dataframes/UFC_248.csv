@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Israel Adesanya (c),Yoel Romero,UFC_248
-1,Zhang Weili (c),Joanna J\xc4\x99drzejczyk,UFC_248
-2,Beneil Dariush,Drakkar Klose,UFC_248
-3,Neil Magny,Li Jingliang,UFC_248
-4,Alex Oliveira,Max Griffin,UFC_248
-5,Sean O\'Malley,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,UFC_248
-6,Mark Madsen,Austin Hubbard,UFC_248
-7,Rodolfo Vieira,Saparbek Safarov,UFC_248
-8,Gerald Meerschaert,Deron Winn,UFC_248
-9,Giga Chikadze,Jamall Emmers,UFC_248
-10,Danaa Batgerel,Guido Cannetti,UFC_248
+,winner,loser,weight_class,event
+0,Israel Adesanya (c),Yoel Romero,Middleweight,UFC_248
+1,Zhang Weili (c),Joanna J\xc4\x99drzejczyk,Women\'s Strawweight,UFC_248
+2,Beneil Dariush,Drakkar Klose,Lightweight,UFC_248
+3,Neil Magny,Li Jingliang,Welterweight,UFC_248
+4,Alex Oliveira,Max Griffin,Welterweight,UFC_248
+5,Sean O\'Malley,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Bantamweight,UFC_248
+6,Mark Madsen,Austin Hubbard,Lightweight,UFC_248
+7,Rodolfo Vieira,Saparbek Safarov,Middleweight,UFC_248
+8,Gerald Meerschaert,Deron Winn,Middleweight,UFC_248
+9,Giga Chikadze,Jamall Emmers,Featherweight,UFC_248
+10,Danaa Batgerel,Guido Cannetti,Bantamweight,UFC_248

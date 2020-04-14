@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Rich Franklin (c),David Loiseau,UFC_58
-1,Mike Swick,Steve Vigneault,UFC_58
-2,Georges St-Pierre,B.J. Penn,UFC_58
-3,Nate Marquardt,Joe Doerksen,UFC_58
-4,Mark Hominick,Yves Edwards,UFC_58
-5,Sam Stout,Spencer Fisher,UFC_58
-6,Jason Lambert,Rob MacDonald,UFC_58
-7,Tom Murphy,Icho Larenas,UFC_58
+,winner,loser,weight_class,event
+0,Rich Franklin (c),David Loiseau,Middleweight,UFC_58
+1,Mike Swick,Steve Vigneault,Middleweight,UFC_58
+2,Georges St-Pierre,B.J. Penn,Welterweight,UFC_58
+3,Nate Marquardt,Joe Doerksen,Middleweight,UFC_58
+4,Mark Hominick,Yves Edwards,Lightweight,UFC_58
+5,Sam Stout,Spencer Fisher,Lightweight,UFC_58
+6,Jason Lambert,Rob MacDonald,Light Heavyweight,UFC_58
+7,Tom Murphy,Icho Larenas,Heavyweight,UFC_58

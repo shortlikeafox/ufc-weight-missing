@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Kevin Randleman,Pete Williams,UFC_23
-1,Pedro Rizzo,Tsuyoshi Kosaka,UFC_23
-2,Joe Slick,Jason DeLucia,UFC_23
-3,Eugene Jackson,Keiichiro Yamamiya,UFC_23
-4,Kenichi Yamamoto,Katsuhisa Fujii,UFC_23
-5,Katsuhisa Fujii,Masutatsu Yano,UFC_23
-6,Kenichi Yamamoto,Daiju Takase,UFC_23
+,winner,loser,weight_class,event
+0,Kevin Randleman,Pete Williams,Heavyweight,UFC_23
+1,Pedro Rizzo,Tsuyoshi Kosaka,Heavyweight,UFC_23
+2,Joe Slick,Jason DeLucia,Middleweight,UFC_23
+3,Eugene Jackson,Keiichiro Yamamiya,Middleweight,UFC_23
+4,Kenichi Yamamoto,Katsuhisa Fujii,Middleweight,UFC_23
+5,Katsuhisa Fujii,Masutatsu Yano,Middleweight,UFC_23
+6,Kenichi Yamamoto,Daiju Takase,Middleweight,UFC_23

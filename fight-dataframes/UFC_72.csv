@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Rich Franklin,Yushin Okami,UFC_72
-1,Forrest Griffin,Hector Ramirez,UFC_72
-2,Jason MacDonald,Rory Singer,UFC_72
-3,Tyson Griffin,Clay Guida,UFC_72
-4,Ed Herman,Scott Smith,UFC_72
-5,Eddie Sanchez,Colin Robinson,UFC_72
-6,Dustin Hazelett,Steven Lynch,UFC_72
-7,Marcus Davis,Jason Tan,UFC_72
+,winner,loser,weight_class,event
+0,Rich Franklin,Yushin Okami,Middleweight,UFC_72
+1,Forrest Griffin,Hector Ramirez,Light Heavyweight,UFC_72
+2,Jason MacDonald,Rory Singer,Middleweight,UFC_72
+3,Tyson Griffin,Clay Guida,Lightweight,UFC_72
+4,Ed Herman,Scott Smith,Middleweight,UFC_72
+5,Eddie Sanchez,Colin Robinson,Heavyweight,UFC_72
+6,Dustin Hazelett,Steven Lynch,Welterweight,UFC_72
+7,Marcus Davis,Jason Tan,Welterweight,UFC_72

@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jon Jones (c),Thiago Santos,UFC_239
-1,Amanda Nunes (c),Holly Holm,UFC_239
-2,Jorge Masvidal,Ben Askren,UFC_239
-3,Jan B\xc5\x82achowicz,Luke Rockhold,UFC_239
-4,Michael Chiesa,Diego Sanchez,UFC_239
-5,Arnold Allen,Gilbert Melendez,UFC_239
-6,Marlon Vera,Nohelin Hernandez,UFC_239
-7,Cl\xc3\xa1udia Gadelha,Randa Markos,UFC_239
-8,Yadong Song,Alejandro P\xc3\xa9rez,UFC_239
-9,Edmen Shahbazyan,Jack Marshman,UFC_239
-10,Chance Rencountre,Ismail Naurdiev,UFC_239
-11,Julia Avila,Pannie Kianzad,UFC_239
+,winner,loser,weight_class,event
+0,Jon Jones (c),Thiago Santos,Light Heavyweight,UFC_239
+1,Amanda Nunes (c),Holly Holm,Women\'s Bantamweight,UFC_239
+2,Jorge Masvidal,Ben Askren,Welterweight,UFC_239
+3,Jan B\xc5\x82achowicz,Luke Rockhold,Light Heavyweight,UFC_239
+4,Michael Chiesa,Diego Sanchez,Welterweight,UFC_239
+5,Arnold Allen,Gilbert Melendez,Featherweight,UFC_239
+6,Marlon Vera,Nohelin Hernandez,Bantamweight,UFC_239
+7,Cl\xc3\xa1udia Gadelha,Randa Markos,Women\'s Strawweight,UFC_239
+8,Yadong Song,Alejandro P\xc3\xa9rez,Bantamweight,UFC_239
+9,Edmen Shahbazyan,Jack Marshman,Middleweight,UFC_239
+10,Chance Rencountre,Ismail Naurdiev,Welterweight,UFC_239
+11,Julia Avila,Pannie Kianzad,Women\'s Bantamweight,UFC_239

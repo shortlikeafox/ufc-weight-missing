@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Nate Diaz,Melvin Guillard,UFC_Fight_Night_Diaz_vs_Guillard
-1,Gray Maynard,Roger Huerta,UFC_Fight_Night_Diaz_vs_Guillard
-2,Carlos Condit,Jake Ellenberger,UFC_Fight_Night_Diaz_vs_Guillard
-3,Nate Quarry,Tim Credeur,UFC_Fight_Night_Diaz_vs_Guillard
-4,Brian Stann,Steve Cantwell,UFC_Fight_Night_Diaz_vs_Guillard
-5,Mike Pyle,Chris Wilson,UFC_Fight_Night_Diaz_vs_Guillard
-6,C.B. Dollaway,Jay Silva,UFC_Fight_Night_Diaz_vs_Guillard
-7,Jeremy Stephens,Justin Buchholz,UFC_Fight_Night_Diaz_vs_Guillard
-8,Mike Pierce,Brock Larson,UFC_Fight_Night_Diaz_vs_Guillard
-9,Ryan Jensen,Steve Steinbeiss,UFC_Fight_Night_Diaz_vs_Guillard
+,winner,loser,weight_class,event
+0,Nate Diaz,Melvin Guillard,Lightweight,UFC_Fight_Night_Diaz_vs_Guillard
+1,Gray Maynard,Roger Huerta,Lightweight,UFC_Fight_Night_Diaz_vs_Guillard
+2,Carlos Condit,Jake Ellenberger,Welterweight,UFC_Fight_Night_Diaz_vs_Guillard
+3,Nate Quarry,Tim Credeur,Middleweight,UFC_Fight_Night_Diaz_vs_Guillard
+4,Brian Stann,Steve Cantwell,Light Heavyweight,UFC_Fight_Night_Diaz_vs_Guillard
+5,Mike Pyle,Chris Wilson,Welterweight,UFC_Fight_Night_Diaz_vs_Guillard
+6,C.B. Dollaway,Jay Silva,Middleweight,UFC_Fight_Night_Diaz_vs_Guillard
+7,Jeremy Stephens,Justin Buchholz,Lightweight,UFC_Fight_Night_Diaz_vs_Guillard
+8,Mike Pierce,Brock Larson,Welterweight,UFC_Fight_Night_Diaz_vs_Guillard
+9,Ryan Jensen,Steve Steinbeiss,Middleweight,UFC_Fight_Night_Diaz_vs_Guillard

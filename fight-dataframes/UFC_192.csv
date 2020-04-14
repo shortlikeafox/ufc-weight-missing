@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Daniel Cormier (c),Alexander Gustafsson,UFC_192
-1,Ryan Bader,Rashad Evans,UFC_192
-2,Ruslan Magomedov,Shawn Jordan,UFC_192
-3,Joseph Benavidez,Ali Bagautinov,UFC_192
-4,Julianna Pe\xc3\xb1a,Jessica Eye,UFC_192
-5,Yair Rodr\xc3\xadguez,Dan Hooker,UFC_192
-6,Albert Tumenov,Alan Jouban,UFC_192
-7,Adriano Martins,Islam Makhachev,UFC_192
-8,Rose Namajunas,Angela Hill,UFC_192
-9,Sage Northcutt,Francisco Trevino,UFC_192
-10,Sergio Pettis,Chris Cariaso,UFC_192
-11,Derrick Lewis,Viktor Pe\xc5\xa1ta,UFC_192
+,winner,loser,weight_class,event
+0,Daniel Cormier (c),Alexander Gustafsson,Light Heavyweight,UFC_192
+1,Ryan Bader,Rashad Evans,Light Heavyweight,UFC_192
+2,Ruslan Magomedov,Shawn Jordan,Heavyweight,UFC_192
+3,Joseph Benavidez,Ali Bagautinov,Flyweight,UFC_192
+4,Julianna Pe\xc3\xb1a,Jessica Eye,Women\'s Bantamweight,UFC_192
+5,Yair Rodr\xc3\xadguez,Dan Hooker,Featherweight,UFC_192
+6,Albert Tumenov,Alan Jouban,Welterweight,UFC_192
+7,Adriano Martins,Islam Makhachev,Lightweight,UFC_192
+8,Rose Namajunas,Angela Hill,Women\'s Strawweight,UFC_192
+9,Sage Northcutt,Francisco Trevino,Catchweight (160 lbs),UFC_192
+10,Sergio Pettis,Chris Cariaso,Flyweight,UFC_192
+11,Derrick Lewis,Viktor Pe\xc5\xa1ta,Heavyweight,UFC_192

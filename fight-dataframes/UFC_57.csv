@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Chuck Liddell (c),Randy Couture,UFC_57
-1,Brandon Vera,Justin Eilers,UFC_57
-2,Marcio Cruz,Frank Mir,UFC_57
-3,Renato Sobral,Mike Van Arsdale,UFC_57
-4,Joe Riggs,Nick Diaz,UFC_57
-5,Alessio Sakara,Elvis Sinosic,UFC_57
-6,Paul Buentello,Gilbert Aldana,UFC_57
-7,Jeff Monson,Branden Lee Hinkle,UFC_57
-8,Keith Jardine,Mike Whitehead,UFC_57
+,winner,loser,weight_class,event
+0,Chuck Liddell (c),Randy Couture,Light Heavyweight,UFC_57
+1,Brandon Vera,Justin Eilers,Heavyweight,UFC_57
+2,Marcio Cruz,Frank Mir,Heavyweight,UFC_57
+3,Renato Sobral,Mike Van Arsdale,Light Heavyweight,UFC_57
+4,Joe Riggs,Nick Diaz,Welterweight,UFC_57
+5,Alessio Sakara,Elvis Sinosic,Light Heavyweight,UFC_57
+6,Paul Buentello,Gilbert Aldana,Heavyweight,UFC_57
+7,Jeff Monson,Branden Lee Hinkle,Heavyweight,UFC_57
+8,Keith Jardine,Mike Whitehead,Light Heavyweight,UFC_57

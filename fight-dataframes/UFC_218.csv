@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Max Holloway (c),Jos\xc3\xa9 Aldo ,UFC_218
-1,Francis Ngannou,Alistair Overeem,UFC_218
-2,Henry Cejudo,Sergio Pettis,UFC_218
-3,Eddie Alvarez,Justin Gaethje,UFC_218
-4,Tecia Torres,Michelle Waterson,UFC_218
-5,Paul Felder,Charles Oliveira,UFC_218
-6,Yancy Medeiros,Alex Oliveira,UFC_218
-7,David Teymur,Drakkar Klose,UFC_218
-8,Felice Herrig,Cortney Casey,UFC_218
-9,Amanda Cooper,Angela Maga\xc3\xb1a,UFC_218
-10,Abdul Razak Alhassan,Sabah Homasi,UFC_218
-11,Dominick Reyes,Jeremy Kimball,UFC_218
-12,Justin Willis,Allen Crowder,UFC_218
+,winner,loser,weight_class,event
+0,Max Holloway (c),Jos\xc3\xa9 Aldo ,Featherweight,UFC_218
+1,Francis Ngannou,Alistair Overeem,Heavyweight,UFC_218
+2,Henry Cejudo,Sergio Pettis,Flyweight,UFC_218
+3,Eddie Alvarez,Justin Gaethje,Lightweight,UFC_218
+4,Tecia Torres,Michelle Waterson,Women\'s Strawweight,UFC_218
+5,Paul Felder,Charles Oliveira,Lightweight,UFC_218
+6,Yancy Medeiros,Alex Oliveira,Welterweight,UFC_218
+7,David Teymur,Drakkar Klose,Lightweight,UFC_218
+8,Felice Herrig,Cortney Casey,Women\'s Strawweight,UFC_218
+9,Amanda Cooper,Angela Maga\xc3\xb1a,Women\'s Strawweight,UFC_218
+10,Abdul Razak Alhassan,Sabah Homasi,Welterweight,UFC_218
+11,Dominick Reyes,Jeremy Kimball,Light Heavyweight,UFC_218
+12,Justin Willis,Allen Crowder,Heavyweight,UFC_218

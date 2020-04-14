@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Frank Mir,Todd Duffee,UFC_Fight_Night_Mir_vs_Duffee
-1,Tony Ferguson,Josh Thomson,UFC_Fight_Night_Mir_vs_Duffee
-2,Holly Holm,Marion Reneau,UFC_Fight_Night_Mir_vs_Duffee
-3,Manvel Gamburyan,Scott Jorgensen,UFC_Fight_Night_Mir_vs_Duffee
-4,Kevin Lee,James Moontasri,UFC_Fight_Night_Mir_vs_Duffee
-5,Alan Jouban,Matt Dwyer,UFC_Fight_Night_Mir_vs_Duffee
-6,Sam Sicilia,Yaotzin Meza,UFC_Fight_Night_Mir_vs_Duffee
-7,J\xc3\xa9ssica Andrade,Sarah Moras,UFC_Fight_Night_Mir_vs_Duffee
-8,Rani Yahya,Masanori Kanehara,UFC_Fight_Night_Mir_vs_Duffee
-9,Sean Strickland,Igor Ara\xc3\xbajo,UFC_Fight_Night_Mir_vs_Duffee
-10,Kevin Casey,Ildemar Alc\xc3\xa2ntara,UFC_Fight_Night_Mir_vs_Duffee
-11,Lyman Good,Andrew Craig,UFC_Fight_Night_Mir_vs_Duffee
+,winner,loser,weight_class,event
+0,Frank Mir,Todd Duffee,Heavyweight,UFC_Fight_Night_Mir_vs_Duffee
+1,Tony Ferguson,Josh Thomson,Lightweight,UFC_Fight_Night_Mir_vs_Duffee
+2,Holly Holm,Marion Reneau,Women\'s Bantamweight,UFC_Fight_Night_Mir_vs_Duffee
+3,Manvel Gamburyan,Scott Jorgensen,Bantamweight,UFC_Fight_Night_Mir_vs_Duffee
+4,Kevin Lee,James Moontasri,Lightweight,UFC_Fight_Night_Mir_vs_Duffee
+5,Alan Jouban,Matt Dwyer,Welterweight,UFC_Fight_Night_Mir_vs_Duffee
+6,Sam Sicilia,Yaotzin Meza,Featherweight,UFC_Fight_Night_Mir_vs_Duffee
+7,J\xc3\xa9ssica Andrade,Sarah Moras,Women\'s Bantamweight,UFC_Fight_Night_Mir_vs_Duffee
+8,Rani Yahya,Masanori Kanehara,Bantamweight,UFC_Fight_Night_Mir_vs_Duffee
+9,Sean Strickland,Igor Ara\xc3\xbajo,Welterweight,UFC_Fight_Night_Mir_vs_Duffee
+10,Kevin Casey,Ildemar Alc\xc3\xa2ntara,Middleweight,UFC_Fight_Night_Mir_vs_Duffee
+11,Lyman Good,Andrew Craig,Welterweight,UFC_Fight_Night_Mir_vs_Duffee

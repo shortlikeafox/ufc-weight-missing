@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jon Jones (c),Dominick Reyes,UFC_247
-1,Valentina Shevchenko (c),Katlyn Chookagian,UFC_247
-2,Justin Tafa,Juan Adams,UFC_247
-3,Dan Ige,Mirsad Bekti\xc4\x87,UFC_247
-4,Derrick Lewis,Ilir Latifi,UFC_247
-5,Trevin Giles,James Krause,UFC_247
-6,Lauren Murphy,Andrea Lee,UFC_247
-7,Kalinn Williams,Alex Morono,UFC_247
-8,Mario Bautista,Miles Johns,UFC_247
-9,Journey Newson,Domingo Pilarte,UFC_247
-10,Andre Ewell,Jonathan Martinez,UFC_247
-11,Youssef Zalal,Austin Lingo,UFC_247
+,winner,loser,weight_class,event
+0,Jon Jones (c),Dominick Reyes,Light Heavyweight,UFC_247
+1,Valentina Shevchenko (c),Katlyn Chookagian,Women\xe2\x80\x99s Flyweight,UFC_247
+2,Justin Tafa,Juan Adams,Heavyweight,UFC_247
+3,Dan Ige,Mirsad Bekti\xc4\x87,Featherweight,UFC_247
+4,Derrick Lewis,Ilir Latifi,Heavyweight,UFC_247
+5,Trevin Giles,James Krause,Middleweight,UFC_247
+6,Lauren Murphy,Andrea Lee,Women\'s Flyweight,UFC_247
+7,Kalinn Williams,Alex Morono,Welterweight,UFC_247
+8,Mario Bautista,Miles Johns,Bantamweight,UFC_247
+9,Journey Newson,Domingo Pilarte,Bantamweight,UFC_247
+10,Andre Ewell,Jonathan Martinez,Bantamweight,UFC_247
+11,Youssef Zalal,Austin Lingo,Featherweight,UFC_247

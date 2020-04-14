@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Joanna J\xc4\x99drzejczyk (c),Jessica Penne,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-1,Tatsuya Kawajiri,Dennis Siver,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-2,Peter Sobotta,Steve Kennedy,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-3,Nick Hein,\xc5\x81ukasz Sajewski,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-4,Makwan Amirkhani,Masio Fullen,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-5,Mairbek Taisumov,Alan Patrick,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-6,Arnold Allen,Alan Omer,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-7,Noad Lahat,Niklas B\xc3\xa4ckstr\xc3\xb6m,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-8,Scott Askham,Ant\xc3\xb4nio dos Santos Jr.,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-9,Magomed Mustafaev,Piotr Hallmann,UFC_Fight_Night_Jędrzejczyk_vs_Penne
-10,Taylor Lapilus,Yuta Sasaki,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+,winner,loser,weight_class,event
+0,Joanna J\xc4\x99drzejczyk (c),Jessica Penne,Women\'s Strawweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+1,Tatsuya Kawajiri,Dennis Siver,Featherweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+2,Peter Sobotta,Steve Kennedy,Welterweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+3,Nick Hein,\xc5\x81ukasz Sajewski,Lightweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+4,Makwan Amirkhani,Masio Fullen,Featherweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+5,Mairbek Taisumov,Alan Patrick,Lightweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+6,Arnold Allen,Alan Omer,Featherweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+7,Noad Lahat,Niklas B\xc3\xa4ckstr\xc3\xb6m,Featherweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+8,Scott Askham,Ant\xc3\xb4nio dos Santos Jr.,Middleweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+9,Magomed Mustafaev,Piotr Hallmann,Lightweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne
+10,Taylor Lapilus,Yuta Sasaki,Bantamweight,UFC_Fight_Night_Jędrzejczyk_vs_Penne

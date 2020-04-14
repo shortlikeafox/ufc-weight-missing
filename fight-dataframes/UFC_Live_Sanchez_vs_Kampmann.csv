@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Diego Sanchez,Martin Kampmann,UFC_Live_Sanchez_vs_Kampmann
-1,Mark Mu\xc3\xb1oz,C.B. Dollaway,UFC_Live_Sanchez_vs_Kampmann
-2,Chris Weidman,Alessio Sakara,UFC_Live_Sanchez_vs_Kampmann
-3,Brian Bowles,Damacio Page,UFC_Live_Sanchez_vs_Kampmann
-4,Cyrille Diabat\xc3\xa9,Steve Cantwell,UFC_Live_Sanchez_vs_Kampmann
-5,Danny Castillo,Joe Stevenson,UFC_Live_Sanchez_vs_Kampmann
-6,Shane Roller,Thiago Tavares,UFC_Live_Sanchez_vs_Kampmann
-7,Takeya Mizugaki,Reuben Duran,UFC_Live_Sanchez_vs_Kampmann
-8,Dongi Yang,Rob Kimmons,UFC_Live_Sanchez_vs_Kampmann
-9,Rousimar Palhares,David Branch,UFC_Live_Sanchez_vs_Kampmann
-10,Igor Pokrajac,Todd Brown,UFC_Live_Sanchez_vs_Kampmann
+,winner,loser,weight_class,event
+0,Diego Sanchez,Martin Kampmann,Welterweight,UFC_Live_Sanchez_vs_Kampmann
+1,Mark Mu\xc3\xb1oz,C.B. Dollaway,Middleweight,UFC_Live_Sanchez_vs_Kampmann
+2,Chris Weidman,Alessio Sakara,Middleweight,UFC_Live_Sanchez_vs_Kampmann
+3,Brian Bowles,Damacio Page,Bantamweight,UFC_Live_Sanchez_vs_Kampmann
+4,Cyrille Diabat\xc3\xa9,Steve Cantwell,Light Heavyweight,UFC_Live_Sanchez_vs_Kampmann
+5,Danny Castillo,Joe Stevenson,Lightweight,UFC_Live_Sanchez_vs_Kampmann
+6,Shane Roller,Thiago Tavares,Lightweight,UFC_Live_Sanchez_vs_Kampmann
+7,Takeya Mizugaki,Reuben Duran,Bantamweight,UFC_Live_Sanchez_vs_Kampmann
+8,Dongi Yang,Rob Kimmons,Middleweight,UFC_Live_Sanchez_vs_Kampmann
+9,Rousimar Palhares,David Branch,Middleweight,UFC_Live_Sanchez_vs_Kampmann
+10,Igor Pokrajac,Todd Brown,Light Heavyweight,UFC_Live_Sanchez_vs_Kampmann

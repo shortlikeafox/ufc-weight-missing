@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Justin Gaethje,Donald Cerrone,UFC_Fight_Night_Cowboy_vs_Gaethje
-1,Glover Teixeira,Nikita Krylov,UFC_Fight_Night_Cowboy_vs_Gaethje
-2,Todd Duffee,Jeff Hughes,UFC_Fight_Night_Cowboy_vs_Gaethje
-3,Tristan Connelly,Michel Pereira,UFC_Fight_Night_Cowboy_vs_Gaethje
-4,Uriah Hall,Ant\xc3\xb4nio Carlos J\xc3\xbanior,UFC_Fight_Night_Cowboy_vs_Gaethje
-5,Misha Cirkunov,Jimmy Crute,UFC_Fight_Night_Cowboy_vs_Gaethje
-6,Augusto Sakai,Marcin Tybura,UFC_Fight_Night_Cowboy_vs_Gaethje
-7,Miles Johns,Cole Smith,UFC_Fight_Night_Cowboy_vs_Gaethje
-8,Hunter Azure,Brad Katona,UFC_Fight_Night_Cowboy_vs_Gaethje
-9,Chas Skelly,Jordan Griffin,UFC_Fight_Night_Cowboy_vs_Gaethje
-10,Louis Smolka,Ryan MacDonald,UFC_Fight_Night_Cowboy_vs_Gaethje
-11,Austin Hubbard,Kyle Prepolec,UFC_Fight_Night_Cowboy_vs_Gaethje
+,winner,loser,weight_class,event
+0,Justin Gaethje,Donald Cerrone,Lightweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+1,Glover Teixeira,Nikita Krylov,Light Heavyweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+2,Todd Duffee,Jeff Hughes,Heavyweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+3,Tristan Connelly,Michel Pereira,Catchweight (172 lbs),UFC_Fight_Night_Cowboy_vs_Gaethje
+4,Uriah Hall,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Middleweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+5,Misha Cirkunov,Jimmy Crute,Light Heavyweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+6,Augusto Sakai,Marcin Tybura,Heavyweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+7,Miles Johns,Cole Smith,Bantamweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+8,Hunter Azure,Brad Katona,Bantamweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+9,Chas Skelly,Jordan Griffin,Featherweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+10,Louis Smolka,Ryan MacDonald,Bantamweight,UFC_Fight_Night_Cowboy_vs_Gaethje
+11,Austin Hubbard,Kyle Prepolec,Lightweight,UFC_Fight_Night_Cowboy_vs_Gaethje

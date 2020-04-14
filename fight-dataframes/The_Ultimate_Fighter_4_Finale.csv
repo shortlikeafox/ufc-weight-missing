@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Matt Serra,Chris Lytle,The_Ultimate_Fighter_4_Finale
-1,Travis Lutter,Patrick C\xc3\xb4t\xc3\xa9,The_Ultimate_Fighter_4_Finale
-2,Din Thomas,Rich Clementi,The_Ultimate_Fighter_4_Finale
-3,Jorge Rivera,Edwin Dewees,The_Ultimate_Fighter_4_Finale
-4,Pete Spratt,Jeremy Jackson,The_Ultimate_Fighter_4_Finale
-5,Scott Smith,Pete Sell,The_Ultimate_Fighter_4_Finale
-6,Charles McCarthy,Gideon Ray,The_Ultimate_Fighter_4_Finale
-7,Martin Kampmann,Thales Leites,The_Ultimate_Fighter_4_Finale
+,winner,loser,weight_class,event
+0,Matt Serra,Chris Lytle,Welterweight,The_Ultimate_Fighter_4_Finale
+1,Travis Lutter,Patrick C\xc3\xb4t\xc3\xa9,Middleweight,The_Ultimate_Fighter_4_Finale
+2,Din Thomas,Rich Clementi,Lightweight,The_Ultimate_Fighter_4_Finale
+3,Jorge Rivera,Edwin Dewees,Middleweight,The_Ultimate_Fighter_4_Finale
+4,Pete Spratt,Jeremy Jackson,Welterweight,The_Ultimate_Fighter_4_Finale
+5,Scott Smith,Pete Sell,Middleweight,The_Ultimate_Fighter_4_Finale
+6,Charles McCarthy,Gideon Ray,Middleweight,The_Ultimate_Fighter_4_Finale
+7,Martin Kampmann,Thales Leites,Middleweight,The_Ultimate_Fighter_4_Finale

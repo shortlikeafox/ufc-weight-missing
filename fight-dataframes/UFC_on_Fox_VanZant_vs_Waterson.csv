@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Michelle Waterson,Paige VanZant,UFC_on_Fox_VanZant_vs_Waterson
-1,Mickey Gall,Sage Northcutt,UFC_on_Fox_VanZant_vs_Waterson
-2,Urijah Faber,Brad Pickett,UFC_on_Fox_VanZant_vs_Waterson
-3,Alan Jouban,Mike Perry,UFC_on_Fox_VanZant_vs_Waterson
-4,Paul Craig,Henrique da Silva,UFC_on_Fox_VanZant_vs_Waterson
-5,Mizuto Hirota,Cole Miller,UFC_on_Fox_VanZant_vs_Waterson
-6,Colby Covington,Bryan Barberena,UFC_on_Fox_VanZant_vs_Waterson
-7,Alex Morono,James Moontasri,UFC_on_Fox_VanZant_vs_Waterson
-8,Josh Emmett,Scott Holtzman,UFC_on_Fox_VanZant_vs_Waterson
-9,Leslie Smith,Irene Aldana,UFC_on_Fox_VanZant_vs_Waterson
-10,Eddie Wineland,Takeya Mizugaki,UFC_on_Fox_VanZant_vs_Waterson
-11,Hector Sandoval,Fredy Serrano,UFC_on_Fox_VanZant_vs_Waterson
-12,Sultan Aliev,Bojan Veli\xc4\x8dkovi\xc4\x87,UFC_on_Fox_VanZant_vs_Waterson
+,winner,loser,weight_class,event
+0,Michelle Waterson,Paige VanZant,Women\'s Strawweight,UFC_on_Fox_VanZant_vs_Waterson
+1,Mickey Gall,Sage Northcutt,Welterweight,UFC_on_Fox_VanZant_vs_Waterson
+2,Urijah Faber,Brad Pickett,Bantamweight,UFC_on_Fox_VanZant_vs_Waterson
+3,Alan Jouban,Mike Perry,Welterweight,UFC_on_Fox_VanZant_vs_Waterson
+4,Paul Craig,Henrique da Silva,Light Heavyweight,UFC_on_Fox_VanZant_vs_Waterson
+5,Mizuto Hirota,Cole Miller,Featherweight,UFC_on_Fox_VanZant_vs_Waterson
+6,Colby Covington,Bryan Barberena,Welterweight,UFC_on_Fox_VanZant_vs_Waterson
+7,Alex Morono,James Moontasri,Welterweight,UFC_on_Fox_VanZant_vs_Waterson
+8,Josh Emmett,Scott Holtzman,Lightweight,UFC_on_Fox_VanZant_vs_Waterson
+9,Leslie Smith,Irene Aldana,Women\'s Bantamweight,UFC_on_Fox_VanZant_vs_Waterson
+10,Eddie Wineland,Takeya Mizugaki,Bantamweight,UFC_on_Fox_VanZant_vs_Waterson
+11,Hector Sandoval,Fredy Serrano,Flyweight,UFC_on_Fox_VanZant_vs_Waterson
+12,Sultan Aliev,Bojan Veli\xc4\x8dkovi\xc4\x87,Welterweight,UFC_on_Fox_VanZant_vs_Waterson

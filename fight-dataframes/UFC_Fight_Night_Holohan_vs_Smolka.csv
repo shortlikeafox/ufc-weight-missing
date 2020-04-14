@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Louis Smolka,Paddy Holohan,UFC_Fight_Night_Holohan_vs_Smolka
-1,Norman Parke,Reza Madadi,UFC_Fight_Night_Holohan_vs_Smolka
-2,Darren Till,Nicolas Dalby,UFC_Fight_Night_Holohan_vs_Smolka
-3,Neil Seery,Jon Delos Reyes,UFC_Fight_Night_Holohan_vs_Smolka
-4,Stevie Ray,Mickael Lebout,UFC_Fight_Night_Holohan_vs_Smolka
-5,Aisling Daly,Ericka Almeida,UFC_Fight_Night_Holohan_vs_Smolka
-6,Krzysztof Jotko,Scott Askham,UFC_Fight_Night_Holohan_vs_Smolka
-7,Tom Breese,Cathal Pendred,UFC_Fight_Night_Holohan_vs_Smolka
-8,Darren Elkins,Robert Whiteford,UFC_Fight_Night_Holohan_vs_Smolka
-9,Garreth McLellan,Bubba Bush,UFC_Fight_Night_Holohan_vs_Smolka
+,winner,loser,weight_class,event
+0,Louis Smolka,Paddy Holohan,Flyweight,UFC_Fight_Night_Holohan_vs_Smolka
+1,Norman Parke,Reza Madadi,Lightweight,UFC_Fight_Night_Holohan_vs_Smolka
+2,Darren Till,Nicolas Dalby,Welterweight,UFC_Fight_Night_Holohan_vs_Smolka
+3,Neil Seery,Jon Delos Reyes,Flyweight,UFC_Fight_Night_Holohan_vs_Smolka
+4,Stevie Ray,Mickael Lebout,Lightweight,UFC_Fight_Night_Holohan_vs_Smolka
+5,Aisling Daly,Ericka Almeida,Women\'s Strawweight,UFC_Fight_Night_Holohan_vs_Smolka
+6,Krzysztof Jotko,Scott Askham,Middleweight,UFC_Fight_Night_Holohan_vs_Smolka
+7,Tom Breese,Cathal Pendred,Welterweight,UFC_Fight_Night_Holohan_vs_Smolka
+8,Darren Elkins,Robert Whiteford,Featherweight,UFC_Fight_Night_Holohan_vs_Smolka
+9,Garreth McLellan,Bubba Bush,Middleweight,UFC_Fight_Night_Holohan_vs_Smolka

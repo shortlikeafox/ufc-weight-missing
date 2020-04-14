@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Sergio Pettis,Brandon Moreno,UFC_Fight_Night_Pettis_vs_Moreno
-1,Alexa Grasso,Randa Markos,UFC_Fight_Night_Pettis_vs_Moreno
-2,Niko Price,Alan Jouban,UFC_Fight_Night_Pettis_vs_Moreno
-3,Humberto Bandenay,Mart\xc3\xadn Bravo,UFC_Fight_Night_Pettis_vs_Moreno
-4,Sam Alvey,Rashad Evans,UFC_Fight_Night_Pettis_vs_Moreno
-5,Alejandro P\xc3\xa9rez,Andre Soukhamthath,UFC_Fight_Night_Pettis_vs_Moreno
-6,Jack Hermansson,Brad Scott,UFC_Fight_Night_Pettis_vs_Moreno
-7,Dustin Ortiz,Hector Sandoval,UFC_Fight_Night_Pettis_vs_Moreno
-8,Rani Yahya,Henry Briones,UFC_Fight_Night_Pettis_vs_Moreno
-9,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Diego Rivas,UFC_Fight_Night_Pettis_vs_Moreno
-10,Joseph Morales,Roberto Sanchez,UFC_Fight_Night_Pettis_vs_Moreno
-11,Jordan Rinaldi,\xc3\x81lvaro Herrera,UFC_Fight_Night_Pettis_vs_Moreno
+,winner,loser,weight_class,event
+0,Sergio Pettis,Brandon Moreno,Flyweight,UFC_Fight_Night_Pettis_vs_Moreno
+1,Alexa Grasso,Randa Markos,Catchweight (119 lbs),UFC_Fight_Night_Pettis_vs_Moreno
+2,Niko Price,Alan Jouban,Welterweight,UFC_Fight_Night_Pettis_vs_Moreno
+3,Humberto Bandenay,Mart\xc3\xadn Bravo,Featherweight,UFC_Fight_Night_Pettis_vs_Moreno
+4,Sam Alvey,Rashad Evans,Middleweight,UFC_Fight_Night_Pettis_vs_Moreno
+5,Alejandro P\xc3\xa9rez,Andre Soukhamthath,Bantamweight,UFC_Fight_Night_Pettis_vs_Moreno
+6,Jack Hermansson,Brad Scott,Middleweight,UFC_Fight_Night_Pettis_vs_Moreno
+7,Dustin Ortiz,Hector Sandoval,Flyweight,UFC_Fight_Night_Pettis_vs_Moreno
+8,Rani Yahya,Henry Briones,Bantamweight,UFC_Fight_Night_Pettis_vs_Moreno
+9,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Diego Rivas,Bantamweight,UFC_Fight_Night_Pettis_vs_Moreno
+10,Joseph Morales,Roberto Sanchez,Flyweight,UFC_Fight_Night_Pettis_vs_Moreno
+11,Jordan Rinaldi,\xc3\x81lvaro Herrera,Lightweight,UFC_Fight_Night_Pettis_vs_Moreno

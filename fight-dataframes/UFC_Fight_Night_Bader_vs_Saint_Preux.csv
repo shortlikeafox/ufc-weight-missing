@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Ryan Bader,Ovince Saint Preux,UFC_Fight_Night_Bader_vs_Saint_Preux
-1,Ross Pearson,Gray Maynard,UFC_Fight_Night_Bader_vs_Saint_Preux
-2,Tim Boetsch,Brad Tavares,UFC_Fight_Night_Bader_vs_Saint_Preux
-3,Alan Jouban,Seth Baczynski,UFC_Fight_Night_Bader_vs_Saint_Preux
-4,Shawn Jordan,Jack May,UFC_Fight_Night_Bader_vs_Saint_Preux
-5,Thiago Tavares,Robbie Peralta,UFC_Fight_Night_Bader_vs_Saint_Preux
-6,Jussier Formiga,Zach Makovsky,UFC_Fight_Night_Bader_vs_Saint_Preux
-7,Sara McMann,Lauren Murphy,UFC_Fight_Night_Bader_vs_Saint_Preux
-8,Tom Watson,Sam Alvey,UFC_Fight_Night_Bader_vs_Saint_Preux
-9,Frankie Saenz,Nolan Ticman,UFC_Fight_Night_Bader_vs_Saint_Preux
+,winner,loser,weight_class,event
+0,Ryan Bader,Ovince Saint Preux,Light Heavyweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+1,Ross Pearson,Gray Maynard,Lightweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+2,Tim Boetsch,Brad Tavares,Middleweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+3,Alan Jouban,Seth Baczynski,Welterweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+4,Shawn Jordan,Jack May,Heavyweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+5,Thiago Tavares,Robbie Peralta,Featherweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+6,Jussier Formiga,Zach Makovsky,Flyweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+7,Sara McMann,Lauren Murphy,Women\'s Bantamweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+8,Tom Watson,Sam Alvey,Middleweight,UFC_Fight_Night_Bader_vs_Saint_Preux
+9,Frankie Saenz,Nolan Ticman,Bantamweight,UFC_Fight_Night_Bader_vs_Saint_Preux

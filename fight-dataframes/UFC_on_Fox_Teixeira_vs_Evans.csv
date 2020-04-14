@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Glover Teixeira,Rashad Evans,UFC_on_Fox_Teixeira_vs_Evans
-1,Rose Namajunas,Tecia Torres,UFC_on_Fox_Teixeira_vs_Evans
-2,Khabib Nurmagomedov,Darrell Horcher,UFC_on_Fox_Teixeira_vs_Evans
-3,Cub Swanson,Hacran Dias,UFC_on_Fox_Teixeira_vs_Evans
-4,Michael Chiesa,Beneil Dariush,UFC_on_Fox_Teixeira_vs_Evans
-5,Raquel Pennington,Bethe Correia,UFC_on_Fox_Teixeira_vs_Evans
-6,Santiago Ponzinibbio,Court McGee,UFC_on_Fox_Teixeira_vs_Evans
-7,Michael Graves,Randy Brown,UFC_on_Fox_Teixeira_vs_Evans
-8,John Dodson,Manvel Gamburyan,UFC_on_Fox_Teixeira_vs_Evans
-9,Cezar Ferreira,Oluwale Bamgbose,UFC_on_Fox_Teixeira_vs_Evans
-10,Elizeu Zaleski dos Santos,Omari Akhmedov,UFC_on_Fox_Teixeira_vs_Evans
+,winner,loser,weight_class,event
+0,Glover Teixeira,Rashad Evans,Light Heavyweight,UFC_on_Fox_Teixeira_vs_Evans
+1,Rose Namajunas,Tecia Torres,Women\'s Strawweight,UFC_on_Fox_Teixeira_vs_Evans
+2,Khabib Nurmagomedov,Darrell Horcher,Catchweight (160 lbs),UFC_on_Fox_Teixeira_vs_Evans
+3,Cub Swanson,Hacran Dias,Featherweight,UFC_on_Fox_Teixeira_vs_Evans
+4,Michael Chiesa,Beneil Dariush,Lightweight,UFC_on_Fox_Teixeira_vs_Evans
+5,Raquel Pennington,Bethe Correia,Women\'s Bantamweight,UFC_on_Fox_Teixeira_vs_Evans
+6,Santiago Ponzinibbio,Court McGee,Welterweight,UFC_on_Fox_Teixeira_vs_Evans
+7,Michael Graves,Randy Brown,Welterweight,UFC_on_Fox_Teixeira_vs_Evans
+8,John Dodson,Manvel Gamburyan,Bantamweight,UFC_on_Fox_Teixeira_vs_Evans
+9,Cezar Ferreira,Oluwale Bamgbose,Middleweight,UFC_on_Fox_Teixeira_vs_Evans
+10,Elizeu Zaleski dos Santos,Omari Akhmedov,Welterweight,UFC_on_Fox_Teixeira_vs_Evans

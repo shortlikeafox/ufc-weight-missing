@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Gray Maynard,Nate Diaz,UFC_Fight_Night_Maynard_vs_Diaz
-1,Evan Dunham,Efrain Escudero,UFC_Fight_Night_Maynard_vs_Diaz
-2,Aaron Simpson,Tom Lawlor,UFC_Fight_Night_Maynard_vs_Diaz
-3,Amir Sadollah,Brad Blackburn,UFC_Fight_Night_Maynard_vs_Diaz
-4,Chris Leben,Jay Silva,UFC_Fight_Night_Maynard_vs_Diaz
-5,Rick Story,Jesse Lennox,UFC_Fight_Night_Maynard_vs_Diaz
-6,Thiago Tavares,Nik Lentz,UFC_Fight_Night_Maynard_vs_Diaz
-7,Rory MacDonald,Mike Guymon,UFC_Fight_Night_Maynard_vs_Diaz
-8,Rafael dos Anjos,Kyle Bradley,UFC_Fight_Night_Maynard_vs_Diaz
-9,Gerald Harris,John Salter,UFC_Fight_Night_Maynard_vs_Diaz
-10,Nick Catone,Jesse Forbes,UFC_Fight_Night_Maynard_vs_Diaz
+,winner,loser,weight_class,event
+0,Gray Maynard,Nate Diaz,Lightweight,UFC_Fight_Night_Maynard_vs_Diaz
+1,Evan Dunham,Efrain Escudero,Lightweight,UFC_Fight_Night_Maynard_vs_Diaz
+2,Aaron Simpson,Tom Lawlor,Middleweight,UFC_Fight_Night_Maynard_vs_Diaz
+3,Amir Sadollah,Brad Blackburn,Welterweight,UFC_Fight_Night_Maynard_vs_Diaz
+4,Chris Leben,Jay Silva,Middleweight,UFC_Fight_Night_Maynard_vs_Diaz
+5,Rick Story,Jesse Lennox,Welterweight,UFC_Fight_Night_Maynard_vs_Diaz
+6,Thiago Tavares,Nik Lentz,Lightweight,UFC_Fight_Night_Maynard_vs_Diaz
+7,Rory MacDonald,Mike Guymon,Welterweight,UFC_Fight_Night_Maynard_vs_Diaz
+8,Rafael dos Anjos,Kyle Bradley,Lightweight,UFC_Fight_Night_Maynard_vs_Diaz
+9,Gerald Harris,John Salter,Middleweight,UFC_Fight_Night_Maynard_vs_Diaz
+10,Nick Catone,Jesse Forbes,Middleweight,UFC_Fight_Night_Maynard_vs_Diaz

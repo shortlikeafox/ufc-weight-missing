@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Jake Shields,UFC_129
-1,Jos\xc3\xa9 Aldo (c),Mark Hominick,UFC_129
-2,Lyoto Machida,Randy Couture,UFC_129
-3,Vladimir Matyushenko,Jason Brilz,UFC_129
-4,Benson Henderson,Mark Bocek,UFC_129
-5,Rory MacDonald,Nate Diaz,UFC_129
-6,Jake Ellenberger,Sean Pierson,UFC_129
-7,Claude Patrick,Daniel Roberts,UFC_129
-8,Ivan Menjivar,Charlie Valencia,UFC_129
-9,Jason MacDonald,Ryan Jensen,UFC_129
-10,John Makdessi,Kyle Watson,UFC_129
-11,Pablo Garza,Yves Jabouin,UFC_129
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Jake Shields,Welterweight,UFC_129
+1,Jos\xc3\xa9 Aldo (c),Mark Hominick,Featherweight,UFC_129
+2,Lyoto Machida,Randy Couture,Light Heavyweight,UFC_129
+3,Vladimir Matyushenko,Jason Brilz,Light Heavyweight,UFC_129
+4,Benson Henderson,Mark Bocek,Lightweight,UFC_129
+5,Rory MacDonald,Nate Diaz,Welterweight,UFC_129
+6,Jake Ellenberger,Sean Pierson,Welterweight,UFC_129
+7,Claude Patrick,Daniel Roberts,Welterweight,UFC_129
+8,Ivan Menjivar,Charlie Valencia,Bantamweight,UFC_129
+9,Jason MacDonald,Ryan Jensen,Middleweight,UFC_129
+10,John Makdessi,Kyle Watson,Lightweight,UFC_129
+11,Pablo Garza,Yves Jabouin,Featherweight,UFC_129

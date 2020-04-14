@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Max Holloway (c),Brian Ortega,UFC_231
-1,Valentina Shevchenko,Joanna J\xc4\x99drzejczyk,UFC_231
-2,Gunnar Nelson,Alex Oliveira,UFC_231
-3,Hakeem Dawodu,Kyle Bochniak,UFC_231
-4,Thiago Santos,Jimi Manuwa,UFC_231
-5,Nina Ansaroff,Cl\xc3\xa1udia Gadelha,UFC_231
-6,Gilbert Burns,Olivier Aubin-Mercier,UFC_231
-7,Jessica Eye,Katlyn Chookagian,UFC_231
-8,Elias Theodorou,Eryk Anders,UFC_231
-9,Brad Katona,Matthew Lopez,UFC_231
-10,Dhiego Lima,Chad Laprise,UFC_231
-11,Carlos Diego Ferreira,Kyle Nelson,UFC_231
-12,Aleksandar Raki\xc4\x87,Devin Clark,UFC_231
+,winner,loser,weight_class,event
+0,Max Holloway (c),Brian Ortega,Featherweight,UFC_231
+1,Valentina Shevchenko,Joanna J\xc4\x99drzejczyk,Women\'s Flyweight,UFC_231
+2,Gunnar Nelson,Alex Oliveira,Welterweight,UFC_231
+3,Hakeem Dawodu,Kyle Bochniak,Featherweight,UFC_231
+4,Thiago Santos,Jimi Manuwa,Light Heavyweight,UFC_231
+5,Nina Ansaroff,Cl\xc3\xa1udia Gadelha,Women\'s Strawweight,UFC_231
+6,Gilbert Burns,Olivier Aubin-Mercier,Lightweight,UFC_231
+7,Jessica Eye,Katlyn Chookagian,Women\'s Flyweight,UFC_231
+8,Elias Theodorou,Eryk Anders,Middleweight,UFC_231
+9,Brad Katona,Matthew Lopez,Bantamweight,UFC_231
+10,Dhiego Lima,Chad Laprise,Welterweight,UFC_231
+11,Carlos Diego Ferreira,Kyle Nelson,Lightweight,UFC_231
+12,Aleksandar Raki\xc4\x87,Devin Clark,Light Heavyweight,UFC_231

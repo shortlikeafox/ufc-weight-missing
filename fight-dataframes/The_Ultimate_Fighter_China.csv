@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Dong Hyun Kim,John Hathaway,The_Ultimate_Fighter_China
-1,Zhang Lipeng,Wang Sai,The_Ultimate_Fighter_China
-2,Matt Mitrione,Shawn Jordan,The_Ultimate_Fighter_China
-3,Hatsu Hioki,Ivan Menjivar,The_Ultimate_Fighter_China
-4,Yui Chul Nam,Kazuki Tokudome,The_Ultimate_Fighter_China
-5,Vaughan Lee,Nam Phan,The_Ultimate_Fighter_China
-6,Wang Anying,Albert Cheng,The_Ultimate_Fighter_China
-7,Mark Eddiva,Jumabieke Tuerxun,The_Ultimate_Fighter_China
+,winner,loser,weight_class,event
+0,Dong Hyun Kim,John Hathaway,Welterweight,The_Ultimate_Fighter_China
+1,Zhang Lipeng,Wang Sai,Welterweight,The_Ultimate_Fighter_China
+2,Matt Mitrione,Shawn Jordan,Heavyweight,The_Ultimate_Fighter_China
+3,Hatsu Hioki,Ivan Menjivar,Featherweight,The_Ultimate_Fighter_China
+4,Yui Chul Nam,Kazuki Tokudome,Lightweight,The_Ultimate_Fighter_China
+5,Vaughan Lee,Nam Phan,Bantamweight,The_Ultimate_Fighter_China
+6,Wang Anying,Albert Cheng,Welterweight,The_Ultimate_Fighter_China
+7,Mark Eddiva,Jumabieke Tuerxun,Featherweight,The_Ultimate_Fighter_China

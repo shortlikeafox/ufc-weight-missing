@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Leon Edwards,Donald Cerrone,UFC_Fight_Night_Cowboy_vs_Edwards
-1,Ovince Saint Preux,Tyson Pedro,UFC_Fight_Night_Cowboy_vs_Edwards
-2,Jessica Eye,Jessica-Rose Clark,UFC_Fight_Night_Cowboy_vs_Edwards
-3,Li Jingliang,Daichi Abe,UFC_Fight_Night_Cowboy_vs_Edwards
-4,Petr Yan,Teruto Ishihara,UFC_Fight_Night_Cowboy_vs_Edwards
-5,Song Yadong,Felipe Arantes,UFC_Fight_Night_Cowboy_vs_Edwards
-6,Shane Young,Rolando Dy,UFC_Fight_Night_Cowboy_vs_Edwards
-7,Song Kenan,Hector Aldana,UFC_Fight_Night_Cowboy_vs_Edwards
-8,Jake Matthews,Shinsho Anzai,UFC_Fight_Night_Cowboy_vs_Edwards
-9,Yan Xiaonan,Viviane Pereira,UFC_Fight_Night_Cowboy_vs_Edwards
-10,Matt Schnell,Naoki Inoue,UFC_Fight_Night_Cowboy_vs_Edwards
-11,Ulka Sasaki,Jenel Lausa,UFC_Fight_Night_Cowboy_vs_Edwards
-12,Ji Yeon Kim,Melinda F\xc3\xa1bi\xc3\xa1n,UFC_Fight_Night_Cowboy_vs_Edwards
+,winner,loser,weight_class,event
+0,Leon Edwards,Donald Cerrone,Welterweight,UFC_Fight_Night_Cowboy_vs_Edwards
+1,Ovince Saint Preux,Tyson Pedro,Light Heavyweight,UFC_Fight_Night_Cowboy_vs_Edwards
+2,Jessica Eye,Jessica-Rose Clark,Women\'s Flyweight,UFC_Fight_Night_Cowboy_vs_Edwards
+3,Li Jingliang,Daichi Abe,Welterweight,UFC_Fight_Night_Cowboy_vs_Edwards
+4,Petr Yan,Teruto Ishihara,Bantamweight,UFC_Fight_Night_Cowboy_vs_Edwards
+5,Song Yadong,Felipe Arantes,Bantamweight,UFC_Fight_Night_Cowboy_vs_Edwards
+6,Shane Young,Rolando Dy,Featherweight,UFC_Fight_Night_Cowboy_vs_Edwards
+7,Song Kenan,Hector Aldana,Welterweight,UFC_Fight_Night_Cowboy_vs_Edwards
+8,Jake Matthews,Shinsho Anzai,Welterweight,UFC_Fight_Night_Cowboy_vs_Edwards
+9,Yan Xiaonan,Viviane Pereira,Women\'s Strawweight,UFC_Fight_Night_Cowboy_vs_Edwards
+10,Matt Schnell,Naoki Inoue,Flyweight,UFC_Fight_Night_Cowboy_vs_Edwards
+11,Ulka Sasaki,Jenel Lausa,Flyweight,UFC_Fight_Night_Cowboy_vs_Edwards
+12,Ji Yeon Kim,Melinda F\xc3\xa1bi\xc3\xa1n,Women\'s Flyweight,UFC_Fight_Night_Cowboy_vs_Edwards

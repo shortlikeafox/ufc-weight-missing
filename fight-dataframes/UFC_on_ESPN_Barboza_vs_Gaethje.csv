@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Justin Gaethje,Edson Barboza,UFC_on_ESPN_Barboza_vs_Gaethje
-1,Jack Hermansson,David Branch,UFC_on_ESPN_Barboza_vs_Gaethje
-2,Josh Emmett,Michael Johnson,UFC_on_ESPN_Barboza_vs_Gaethje
-3,Michelle Waterson,Karolina Kowalkiewicz,UFC_on_ESPN_Barboza_vs_Gaethje
-4,Paul Craig,Kennedy Nzechukwu,UFC_on_ESPN_Barboza_vs_Gaethje
-5,Sodiq Yusuff,Sheymon Moraes,UFC_on_ESPN_Barboza_vs_Gaethje
-6,Marina Rodriguez,Jessica Aguilar,UFC_on_ESPN_Barboza_vs_Gaethje
-7,Desmond Green,Ross Pearson,UFC_on_ESPN_Barboza_vs_Gaethje
-8,Kevin Aguilar,Enrique Barzola,UFC_on_ESPN_Barboza_vs_Gaethje
-9,Kevin Holland,Gerald Meerschaert,UFC_on_ESPN_Barboza_vs_Gaethje
-10,Casey Kenney,Ray Borg,UFC_on_ESPN_Barboza_vs_Gaethje
-11,Maryna Moroz,Sabina Mazo,UFC_on_ESPN_Barboza_vs_Gaethje
-12,Alex Perez,Mark De La Rosa,UFC_on_ESPN_Barboza_vs_Gaethje
+,winner,loser,weight_class,event
+0,Justin Gaethje,Edson Barboza,Lightweight,UFC_on_ESPN_Barboza_vs_Gaethje
+1,Jack Hermansson,David Branch,Middleweight,UFC_on_ESPN_Barboza_vs_Gaethje
+2,Josh Emmett,Michael Johnson,Featherweight,UFC_on_ESPN_Barboza_vs_Gaethje
+3,Michelle Waterson,Karolina Kowalkiewicz,Women\'s Strawweight,UFC_on_ESPN_Barboza_vs_Gaethje
+4,Paul Craig,Kennedy Nzechukwu,Light Heavyweight,UFC_on_ESPN_Barboza_vs_Gaethje
+5,Sodiq Yusuff,Sheymon Moraes,Featherweight,UFC_on_ESPN_Barboza_vs_Gaethje
+6,Marina Rodriguez,Jessica Aguilar,Women\'s Strawweight,UFC_on_ESPN_Barboza_vs_Gaethje
+7,Desmond Green,Ross Pearson,Lightweight,UFC_on_ESPN_Barboza_vs_Gaethje
+8,Kevin Aguilar,Enrique Barzola,Featherweight,UFC_on_ESPN_Barboza_vs_Gaethje
+9,Kevin Holland,Gerald Meerschaert,Middleweight,UFC_on_ESPN_Barboza_vs_Gaethje
+10,Casey Kenney,Ray Borg,Catchweight (137 lbs),UFC_on_ESPN_Barboza_vs_Gaethje
+11,Maryna Moroz,Sabina Mazo,Women\'s Flyweight,UFC_on_ESPN_Barboza_vs_Gaethje
+12,Alex Perez,Mark De La Rosa,Bantamweight,UFC_on_ESPN_Barboza_vs_Gaethje

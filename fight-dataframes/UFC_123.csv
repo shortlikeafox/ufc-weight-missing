@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Quinton Jackson,Lyoto Machida,UFC_123
-1,B.J. Penn,Matt Hughes,UFC_123
-2,Maiquel Falc\xc3\xa3o,Gerald Harris,UFC_123
-3,Phil Davis,Tim Boetsch,UFC_123
-4,George Sotiropoulos,Joe Lauzon,UFC_123
-5,Brian Foster,Matt Brown,UFC_123
-6,Mark Mu\xc3\xb1oz,Aaron Simpson,UFC_123
-7,Dennis Hallman,Karo Parisyan,UFC_123
-8,Edson Barboza,Mike Lullo,UFC_123
-9,Paul Kelly,T.J. O\'Brien,UFC_123
-10,Nik Lentz,Tyson Griffin,UFC_123
+,winner,loser,weight_class,event
+0,Quinton Jackson,Lyoto Machida,Light Heavyweight,UFC_123
+1,B.J. Penn,Matt Hughes,Welterweight,UFC_123
+2,Maiquel Falc\xc3\xa3o,Gerald Harris,Middleweight,UFC_123
+3,Phil Davis,Tim Boetsch,Light Heavyweight,UFC_123
+4,George Sotiropoulos,Joe Lauzon,Lightweight,UFC_123
+5,Brian Foster,Matt Brown,Welterweight,UFC_123
+6,Mark Mu\xc3\xb1oz,Aaron Simpson,Middleweight,UFC_123
+7,Dennis Hallman,Karo Parisyan,Welterweight,UFC_123
+8,Edson Barboza,Mike Lullo,Lightweight,UFC_123
+9,Paul Kelly,T.J. O\'Brien,Lightweight,UFC_123
+10,Nik Lentz,Tyson Griffin,Lightweight,UFC_123

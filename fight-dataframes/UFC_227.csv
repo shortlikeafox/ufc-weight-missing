@@ -1,13 +1,13 @@
-,winner,loser,event
-0,T.J. Dillashaw (c),Cody Garbrandt,UFC_227
-1,Henry Cejudo,Demetrious Johnson (c),UFC_227
-2,Renato Moicano,Cub Swanson,UFC_227
-3,JJ Aldrich,Polyana Viana,UFC_227
-4,Thiago Santos,Kevin Holland,UFC_227
-5,Pedro Munhoz,Brett Johns,UFC_227
-6,Ricky Simon,Montel Jackson,UFC_227
-7,Ricardo Ramos,Kyung Ho Kang,UFC_227
-8,Sheymon Moraes,Matt Sayles,UFC_227
-9,Alex Perez,Jose Torres,UFC_227
-10,Zhang Weili,Danielle Taylor,UFC_227
-11,Marlon Vera,Wuliji Buren,UFC_227
+,winner,loser,weight_class,event
+0,T.J. Dillashaw (c),Cody Garbrandt,Bantamweight,UFC_227
+1,Henry Cejudo,Demetrious Johnson (c),Flyweight,UFC_227
+2,Renato Moicano,Cub Swanson,Featherweight,UFC_227
+3,JJ Aldrich,Polyana Viana,Women\'s Strawweight,UFC_227
+4,Thiago Santos,Kevin Holland,Middleweight,UFC_227
+5,Pedro Munhoz,Brett Johns,Bantamweight,UFC_227
+6,Ricky Simon,Montel Jackson,Bantamweight,UFC_227
+7,Ricardo Ramos,Kyung Ho Kang,Bantamweight,UFC_227
+8,Sheymon Moraes,Matt Sayles,Featherweight,UFC_227
+9,Alex Perez,Jose Torres,Flyweight,UFC_227
+10,Zhang Weili,Danielle Taylor,Women\'s Strawweight,UFC_227
+11,Marlon Vera,Wuliji Buren,Bantamweight,UFC_227

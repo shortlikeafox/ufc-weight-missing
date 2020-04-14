@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Carlos Condit (ic),UFC_154
-1,Johny Hendricks,Martin Kampmann,UFC_154
-2,Francis Carmont,Tom Lawlor,UFC_154
-3,Rafael dos Anjos,Mark Bocek,UFC_154
-4,Pablo Garza,Mark Hominick,UFC_154
-5,Patrick C\xc3\xb4t\xc3\xa9,Alessio Sakara,UFC_154
-6,Cyrille Diabat\xc3\xa9,Chad Griggs,UFC_154
-7,John Makdessi,Sam Stout,UFC_154
-8,Antonio Carvalho,Rodrigo Damm,UFC_154
-9,Matthew Riddle,John Maguire,UFC_154
-10,Ivan Menjivar,Azamat Gashimov,UFC_154
-11,Darren Elkins,Steven Siler,UFC_154
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Carlos Condit (ic),Welterweight,UFC_154
+1,Johny Hendricks,Martin Kampmann,Welterweight,UFC_154
+2,Francis Carmont,Tom Lawlor,Middleweight,UFC_154
+3,Rafael dos Anjos,Mark Bocek,Lightweight,UFC_154
+4,Pablo Garza,Mark Hominick,Featherweight,UFC_154
+5,Patrick C\xc3\xb4t\xc3\xa9,Alessio Sakara,Middleweight,UFC_154
+6,Cyrille Diabat\xc3\xa9,Chad Griggs,Light Heavyweight,UFC_154
+7,John Makdessi,Sam Stout,Lightweight,UFC_154
+8,Antonio Carvalho,Rodrigo Damm,Featherweight,UFC_154
+9,Matthew Riddle,John Maguire,Welterweight,UFC_154
+10,Ivan Menjivar,Azamat Gashimov,Bantamweight,UFC_154
+11,Darren Elkins,Steven Siler,Featherweight,UFC_154

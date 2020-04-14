@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Tito Ortiz (c),Evan Tanner,UFC_30
-1,Jens Pulver,Caol Uno,UFC_30
-2,Fabiano Iha,Phil Johns,UFC_30
-3,Elvis Sinosic,Jeremy Horn,UFC_30
-4,Pedro Rizzo,Josh Barnett,UFC_30
-5,Bobby Hoffman,Mark Robinson,UFC_30
-6,Phil Baroni,Curtis Stout,UFC_30
-7,Sean Sherk,Tiki Ghosn,UFC_30
+,winner,loser,weight_class,event
+0,Tito Ortiz (c),Evan Tanner,Middleweight,UFC_30
+1,Jens Pulver,Caol Uno,Bantamweight,UFC_30
+2,Fabiano Iha,Phil Johns,Lightweight,UFC_30
+3,Elvis Sinosic,Jeremy Horn,Middleweight,UFC_30
+4,Pedro Rizzo,Josh Barnett,Heavyweight,UFC_30
+5,Bobby Hoffman,Mark Robinson,Heavyweight,UFC_30
+6,Phil Baroni,Curtis Stout,Middleweight,UFC_30
+7,Sean Sherk,Tiki Ghosn,Lightweight,UFC_30

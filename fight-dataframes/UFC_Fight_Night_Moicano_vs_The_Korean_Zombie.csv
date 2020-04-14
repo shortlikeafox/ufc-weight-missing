@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Chan Sung Jung,Renato Moicano,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-1,Randy Brown,Bryan Barberena,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-2,Andre Ewell,Anderson dos Santos,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-3,Andrea Lee,Montana De La Rosa,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-4,Kevin Holland,Alessio Di Chirico,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-5,Dan Ige,Kevin Aguilar,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-6,Ashley Yoder,Syuri Kondo,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-7,Luis Pe\xc3\xb1a,Matt Wiman,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-8,Jairzinho Rozenstruik,Allen Crowder,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-9,Molly McCann,Ariane Lipski,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
-10,Deron Winn,Eric Spicely,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+,winner,loser,weight_class,event
+0,Chan Sung Jung,Renato Moicano,Featherweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+1,Randy Brown,Bryan Barberena,Welterweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+2,Andre Ewell,Anderson dos Santos,Bantamweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+3,Andrea Lee,Montana De La Rosa,Women\'s Flyweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+4,Kevin Holland,Alessio Di Chirico,Middleweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+5,Dan Ige,Kevin Aguilar,Featherweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+6,Ashley Yoder,Syuri Kondo,Women\'s Strawweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+7,Luis Pe\xc3\xb1a,Matt Wiman,Lightweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+8,Jairzinho Rozenstruik,Allen Crowder,Heavyweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+9,Molly McCann,Ariane Lipski,Women\'s Flyweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie
+10,Deron Winn,Eric Spicely,Middleweight,UFC_Fight_Night_Moicano_vs_The_Korean_Zombie

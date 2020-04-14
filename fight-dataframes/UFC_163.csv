@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jos\xc3\xa9 Aldo (c),Chan Sung Jung,UFC_163
-1,Phil Davis,Lyoto Machida,UFC_163
-2,Cezar Ferreira,Thiago Santos,UFC_163
-3,Thales Leites,Tom Watson,UFC_163
-4,John Lineker,Jos\xc3\xa9 Maria Tom\xc3\xa9,UFC_163
-5,Anthony Perosh,Vinny Magalh\xc3\xa3es,UFC_163
-6,Amanda Nunes,Sheila Gaff,UFC_163
-7,S\xc3\xa9rgio Moraes,Neil Magny,UFC_163
-8,Ian McCall,Iliarde Santos,UFC_163
-9,Rani Yahya,Josh Clopton,UFC_163
-10,Francimar Barroso,Ednaldo Oliveira,UFC_163
-11,Viscardi Andrade,Bristol Marunde,UFC_163
+,winner,loser,weight_class,event
+0,Jos\xc3\xa9 Aldo (c),Chan Sung Jung,Featherweight,UFC_163
+1,Phil Davis,Lyoto Machida,Light Heavyweight,UFC_163
+2,Cezar Ferreira,Thiago Santos,Middleweight,UFC_163
+3,Thales Leites,Tom Watson,Middleweight,UFC_163
+4,John Lineker,Jos\xc3\xa9 Maria Tom\xc3\xa9,Catchweight (129 lbs),UFC_163
+5,Anthony Perosh,Vinny Magalh\xc3\xa3es,Light Heavyweight,UFC_163
+6,Amanda Nunes,Sheila Gaff,Women\'s Bantamweight,UFC_163
+7,S\xc3\xa9rgio Moraes,Neil Magny,Welterweight,UFC_163
+8,Ian McCall,Iliarde Santos,Flyweight,UFC_163
+9,Rani Yahya,Josh Clopton,Featherweight,UFC_163
+10,Francimar Barroso,Ednaldo Oliveira,Light Heavyweight,UFC_163
+11,Viscardi Andrade,Bristol Marunde,Welterweight,UFC_163

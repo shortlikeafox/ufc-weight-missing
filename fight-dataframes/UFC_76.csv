@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Keith Jardine,Chuck Liddell,UFC_76
-1,Forrest Griffin,Maur\xc3\xadcio Rua,UFC_76
-2,Jon Fitch,Diego Sanchez,UFC_76
-3,Lyoto Machida,Kazuhiro Nakamura,UFC_76
-4,Tyson Griffin,Thiago Tavares,UFC_76
-5,Rich Clementi,Anthony Johnson,UFC_76
-6,Jeremy Stephens,Diego Saraiva,UFC_76
-7,Christian Wellisch,Scott Junk,UFC_76
-8,Matt Wiman,Michihiro Omigawa,UFC_76
+,winner,loser,weight_class,event
+0,Keith Jardine,Chuck Liddell,Light Heavyweight,UFC_76
+1,Forrest Griffin,Maur\xc3\xadcio Rua,Light Heavyweight,UFC_76
+2,Jon Fitch,Diego Sanchez,Welterweight,UFC_76
+3,Lyoto Machida,Kazuhiro Nakamura,Light Heavyweight,UFC_76
+4,Tyson Griffin,Thiago Tavares,Lightweight,UFC_76
+5,Rich Clementi,Anthony Johnson,Catchweight (177 lbs),UFC_76
+6,Jeremy Stephens,Diego Saraiva,Lightweight,UFC_76
+7,Christian Wellisch,Scott Junk,Heavyweight,UFC_76
+8,Matt Wiman,Michihiro Omigawa,Lightweight,UFC_76

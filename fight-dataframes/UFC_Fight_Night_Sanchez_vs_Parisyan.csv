@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Diego Sanchez,Karo Parisyan,UFC_Fight_Night_Sanchez_vs_Parisyan
-1,Chris Leben,Jorge Santiago,UFC_Fight_Night_Sanchez_vs_Parisyan
-2,Dean Lister,Yuki Sasaki,UFC_Fight_Night_Sanchez_vs_Parisyan
-3,Josh Koscheck,Jonathan Goulet,UFC_Fight_Night_Sanchez_vs_Parisyan
-4,Martin Kampmann,Crafton Wallace,UFC_Fight_Night_Sanchez_vs_Parisyan
-5,Joe Riggs,Jason Von Flue,UFC_Fight_Night_Sanchez_vs_Parisyan
-6,Jake O\'Brien,Kristof Midoux,UFC_Fight_Night_Sanchez_vs_Parisyan
-7,Forrest Petz,Sam Morgan,UFC_Fight_Night_Sanchez_vs_Parisyan
-8,Anthony Torres,Pat Healy,UFC_Fight_Night_Sanchez_vs_Parisyan
+,winner,loser,weight_class,event
+0,Diego Sanchez,Karo Parisyan,Welterweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+1,Chris Leben,Jorge Santiago,Middleweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+2,Dean Lister,Yuki Sasaki,Middleweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+3,Josh Koscheck,Jonathan Goulet,Welterweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+4,Martin Kampmann,Crafton Wallace,Middleweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+5,Joe Riggs,Jason Von Flue,Welterweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+6,Jake O\'Brien,Kristof Midoux,Heavyweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+7,Forrest Petz,Sam Morgan,Welterweight,UFC_Fight_Night_Sanchez_vs_Parisyan
+8,Anthony Torres,Pat Healy,Welterweight,UFC_Fight_Night_Sanchez_vs_Parisyan

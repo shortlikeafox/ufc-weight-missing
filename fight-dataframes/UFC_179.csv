@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Jos\xc3\xa9 Aldo (c),Chad Mendes,UFC_179
-1,Phil Davis,Glover Teixeira,UFC_179
-2,F\xc3\xa1bio Maldonado,Hans Stringer,UFC_179
-3,Darren Elkins,Lucas Martins,UFC_179
-4,Beneil Dariush,Carlos Diego Ferreira,UFC_179
-5,Neil Magny,William Mac\xc3\xa1rio,UFC_179
-6,Yan Cabral,Naoyuki Kotani,UFC_179
-7,Wilson Reis,Scott Jorgensen,UFC_179
-8,Andre Fili,Felipe Arantes,UFC_179
-9,Gilbert Burns,Christos Giagos,UFC_179
-10,Tony Martin,Fabr\xc3\xadcio Cam\xc3\xb5es,UFC_179
+,winner,loser,weight_class,event
+0,Jos\xc3\xa9 Aldo (c),Chad Mendes,Featherweight,UFC_179
+1,Phil Davis,Glover Teixeira,Light Heavyweight,UFC_179
+2,F\xc3\xa1bio Maldonado,Hans Stringer,Light Heavyweight,UFC_179
+3,Darren Elkins,Lucas Martins,Featherweight,UFC_179
+4,Beneil Dariush,Carlos Diego Ferreira,Lightweight,UFC_179
+5,Neil Magny,William Mac\xc3\xa1rio,Welterweight,UFC_179
+6,Yan Cabral,Naoyuki Kotani,Lightweight,UFC_179
+7,Wilson Reis,Scott Jorgensen,Catchweight (128 lbs),UFC_179
+8,Andre Fili,Felipe Arantes,Featherweight,UFC_179
+9,Gilbert Burns,Christos Giagos,Lightweight,UFC_179
+10,Tony Martin,Fabr\xc3\xadcio Cam\xc3\xb5es,Catchweight (158 lbs),UFC_179

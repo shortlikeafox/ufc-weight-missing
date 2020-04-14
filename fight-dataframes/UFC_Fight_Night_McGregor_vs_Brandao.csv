@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Conor McGregor ,Diego Brand\xc3\xa3o,UFC_Fight_Night_McGregor_vs_Brandao
-1,Gunnar Nelson,Zak Cummings,UFC_Fight_Night_McGregor_vs_Brandao
-2,Ian McCall,Brad Pickett,UFC_Fight_Night_McGregor_vs_Brandao
-3,Norman Parke,Naoyuki Kotani,UFC_Fight_Night_McGregor_vs_Brandao
-4,Ilir Latifi,Chris Dempsey,UFC_Fight_Night_McGregor_vs_Brandao
-5,Neil Seery,Phil Harris,UFC_Fight_Night_McGregor_vs_Brandao
-6,Cathal Pendred,Mike King,UFC_Fight_Night_McGregor_vs_Brandao
-7,Trevor Smith,Tor Tro\xc3\xa9ng,UFC_Fight_Night_McGregor_vs_Brandao
-8,Nikita Krylov,Cody Donovan,UFC_Fight_Night_McGregor_vs_Brandao
-9,Paddy Holohan,Josh Sampo,UFC_Fight_Night_McGregor_vs_Brandao
+,winner,loser,weight_class,event
+0,Conor McGregor ,Diego Brand\xc3\xa3o,Featherweight,UFC_Fight_Night_McGregor_vs_Brandao
+1,Gunnar Nelson,Zak Cummings,Welterweight,UFC_Fight_Night_McGregor_vs_Brandao
+2,Ian McCall,Brad Pickett,Flyweight,UFC_Fight_Night_McGregor_vs_Brandao
+3,Norman Parke,Naoyuki Kotani,Lightweight,UFC_Fight_Night_McGregor_vs_Brandao
+4,Ilir Latifi,Chris Dempsey,Light Heavyweight,UFC_Fight_Night_McGregor_vs_Brandao
+5,Neil Seery,Phil Harris,Flyweight,UFC_Fight_Night_McGregor_vs_Brandao
+6,Cathal Pendred,Mike King,Middleweight,UFC_Fight_Night_McGregor_vs_Brandao
+7,Trevor Smith,Tor Tro\xc3\xa9ng,Middleweight,UFC_Fight_Night_McGregor_vs_Brandao
+8,Nikita Krylov,Cody Donovan,Light Heavyweight,UFC_Fight_Night_McGregor_vs_Brandao
+9,Paddy Holohan,Josh Sampo,Flyweight,UFC_Fight_Night_McGregor_vs_Brandao

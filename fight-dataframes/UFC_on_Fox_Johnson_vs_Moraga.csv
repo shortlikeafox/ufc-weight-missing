@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Demetrious Johnson (c),John Moraga,UFC_on_Fox_Johnson_vs_Moraga
-1,Rory MacDonald,Jake Ellenberger,UFC_on_Fox_Johnson_vs_Moraga
-2,Robbie Lawler,Bobby Voelker,UFC_on_Fox_Johnson_vs_Moraga
-3,Liz Carmouche,J\xc3\xa9ssica Andrade,UFC_on_Fox_Johnson_vs_Moraga
-4,Jorge Masvidal,Michael Chiesa,UFC_on_Fox_Johnson_vs_Moraga
-5,Danny Castillo,Tim Means,UFC_on_Fox_Johnson_vs_Moraga
-6,Melvin Guillard,Mac Danzig,UFC_on_Fox_Johnson_vs_Moraga
-7,Daron Cruickshank,Yves Edwards,UFC_on_Fox_Johnson_vs_Moraga
-8,Ed Herman,Trevor Smith,UFC_on_Fox_Johnson_vs_Moraga
-9,Germaine de Randamie,Julie Kedzie,UFC_on_Fox_Johnson_vs_Moraga
-10,Justin Salas,Aaron Riley,UFC_on_Fox_Johnson_vs_Moraga
-11,Yaotzin Meza,John Albert,UFC_on_Fox_Johnson_vs_Moraga
+,winner,loser,weight_class,event
+0,Demetrious Johnson (c),John Moraga,Flyweight,UFC_on_Fox_Johnson_vs_Moraga
+1,Rory MacDonald,Jake Ellenberger,Welterweight,UFC_on_Fox_Johnson_vs_Moraga
+2,Robbie Lawler,Bobby Voelker,Welterweight,UFC_on_Fox_Johnson_vs_Moraga
+3,Liz Carmouche,J\xc3\xa9ssica Andrade,Women\'s Bantamweight,UFC_on_Fox_Johnson_vs_Moraga
+4,Jorge Masvidal,Michael Chiesa,Lightweight,UFC_on_Fox_Johnson_vs_Moraga
+5,Danny Castillo,Tim Means,Catchweight (160 lbs),UFC_on_Fox_Johnson_vs_Moraga
+6,Melvin Guillard,Mac Danzig,Lightweight,UFC_on_Fox_Johnson_vs_Moraga
+7,Daron Cruickshank,Yves Edwards,Lightweight,UFC_on_Fox_Johnson_vs_Moraga
+8,Ed Herman,Trevor Smith,Middleweight,UFC_on_Fox_Johnson_vs_Moraga
+9,Germaine de Randamie,Julie Kedzie,Women\'s Bantamweight,UFC_on_Fox_Johnson_vs_Moraga
+10,Justin Salas,Aaron Riley,Lightweight,UFC_on_Fox_Johnson_vs_Moraga
+11,Yaotzin Meza,John Albert,Catchweight (137 lbs),UFC_on_Fox_Johnson_vs_Moraga

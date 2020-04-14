@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Tarec Saffiedine,Hyun Gyu Lim,UFC_Fight_Night_Saffiedine_vs_Lim
-1,Tatsuya Kawajiri,Sean Soriano,UFC_Fight_Night_Saffiedine_vs_Lim
-2,Kiichi Kunimoto,Luiz Dutra Jr.,UFC_Fight_Night_Saffiedine_vs_Lim
-3,Kyung Ho Kang,Shunichi Shimizu,UFC_Fight_Night_Saffiedine_vs_Lim
-4,Max Holloway,Will Chope,UFC_Fight_Night_Saffiedine_vs_Lim
-5,Katsunori Kikuno,Quinn Mulhern,UFC_Fight_Night_Saffiedine_vs_Lim
-6,Royston Wee,Dave Galera,UFC_Fight_Night_Saffiedine_vs_Lim
-7,Mairbek Taisumov,Tae Hyun Bang,UFC_Fight_Night_Saffiedine_vs_Lim
-8,Dustin Kimura,Jon delos Reyes,UFC_Fight_Night_Saffiedine_vs_Lim
-9,Russell Doane,Leandro Issa,UFC_Fight_Night_Saffiedine_vs_Lim
+,winner,loser,weight_class,event
+0,Tarec Saffiedine,Hyun Gyu Lim,Welterweight,UFC_Fight_Night_Saffiedine_vs_Lim
+1,Tatsuya Kawajiri,Sean Soriano,Featherweight,UFC_Fight_Night_Saffiedine_vs_Lim
+2,Kiichi Kunimoto,Luiz Dutra Jr.,Welterweight,UFC_Fight_Night_Saffiedine_vs_Lim
+3,Kyung Ho Kang,Shunichi Shimizu,Bantamweight,UFC_Fight_Night_Saffiedine_vs_Lim
+4,Max Holloway,Will Chope,Featherweight,UFC_Fight_Night_Saffiedine_vs_Lim
+5,Katsunori Kikuno,Quinn Mulhern,Lightweight,UFC_Fight_Night_Saffiedine_vs_Lim
+6,Royston Wee,Dave Galera,Bantamweight,UFC_Fight_Night_Saffiedine_vs_Lim
+7,Mairbek Taisumov,Tae Hyun Bang,Lightweight,UFC_Fight_Night_Saffiedine_vs_Lim
+8,Dustin Kimura,Jon delos Reyes,Bantamweight,UFC_Fight_Night_Saffiedine_vs_Lim
+9,Russell Doane,Leandro Issa,Bantamweight,UFC_Fight_Night_Saffiedine_vs_Lim

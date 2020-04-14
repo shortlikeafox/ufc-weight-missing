@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Rory MacDonald,Tarec Saffiedine,UFC_Fight_Night_MacDonald_vs_Saffiedine
-1,Raphael Assun\xc3\xa7\xc3\xa3o,Bryan Caraway,UFC_Fight_Night_MacDonald_vs_Saffiedine
-2,Chad Laprise,Yosdenis Cedeno,UFC_Fight_Night_MacDonald_vs_Saffiedine
-3,Elias Theodorou,Bruno Santos,UFC_Fight_Night_MacDonald_vs_Saffiedine
-4,Nordine Taleb,Li Jingliang,UFC_Fight_Night_MacDonald_vs_Saffiedine
-5,Mitch Gagnon,Roman Salazar,UFC_Fight_Night_MacDonald_vs_Saffiedine
-6,Daron Cruickshank,Anthony Njokuani,UFC_Fight_Night_MacDonald_vs_Saffiedine
-7,Olivier Aubin-Mercier,Jake Lindsey,UFC_Fight_Night_MacDonald_vs_Saffiedine
-8,Paul Felder,Jason Saggo,UFC_Fight_Night_MacDonald_vs_Saffiedine
-9,Chris Kelades,Paddy Holohan,UFC_Fight_Night_MacDonald_vs_Saffiedine
-10,Albert Tumenov,Matt Dwyer,UFC_Fight_Night_MacDonald_vs_Saffiedine
-11,Pedro Munhoz,Jerrod Sanders,UFC_Fight_Night_MacDonald_vs_Saffiedine
+,winner,loser,weight_class,event
+0,Rory MacDonald,Tarec Saffiedine,Welterweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+1,Raphael Assun\xc3\xa7\xc3\xa3o,Bryan Caraway,Bantamweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+2,Chad Laprise,Yosdenis Cedeno,Lightweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+3,Elias Theodorou,Bruno Santos,Middleweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+4,Nordine Taleb,Li Jingliang,Welterweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+5,Mitch Gagnon,Roman Salazar,Bantamweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+6,Daron Cruickshank,Anthony Njokuani,Lightweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+7,Olivier Aubin-Mercier,Jake Lindsey,Lightweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+8,Paul Felder,Jason Saggo,Lightweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+9,Chris Kelades,Paddy Holohan,Flyweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+10,Albert Tumenov,Matt Dwyer,Welterweight,UFC_Fight_Night_MacDonald_vs_Saffiedine
+11,Pedro Munhoz,Jerrod Sanders,Bantamweight,UFC_Fight_Night_MacDonald_vs_Saffiedine

@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Ross Pearson,George Sotiropoulos,The_Ultimate_Fighter_The_Smashes
-1,Robert Whittaker,Brad Scott,The_Ultimate_Fighter_The_Smashes
-2,Norman Parke,Colin Fletcher,The_Ultimate_Fighter_The_Smashes
-3,Hector Lombard,Rousimar Palhares,The_Ultimate_Fighter_The_Smashes
-4,Chad Mendes,Yaotzin Meza,The_Ultimate_Fighter_The_Smashes
-5,Joey Beltran,Igor Pokrajac,The_Ultimate_Fighter_The_Smashes
-6,Mike Pierce,Seth Baczynski,The_Ultimate_Fighter_The_Smashes
-7,Ben Alloway,Manuel Rodriguez,The_Ultimate_Fighter_The_Smashes
-8,Mike Wilkinson,Brendan Loughnane,The_Ultimate_Fighter_The_Smashes
-9,Cody Donovan,Nick Penner,The_Ultimate_Fighter_The_Smashes
+,winner,loser,weight_class,event
+0,Ross Pearson,George Sotiropoulos,Lightweight,The_Ultimate_Fighter_The_Smashes
+1,Robert Whittaker,Brad Scott,Welterweight,The_Ultimate_Fighter_The_Smashes
+2,Norman Parke,Colin Fletcher,Lightweight,The_Ultimate_Fighter_The_Smashes
+3,Hector Lombard,Rousimar Palhares,Middleweight,The_Ultimate_Fighter_The_Smashes
+4,Chad Mendes,Yaotzin Meza,Featherweight,The_Ultimate_Fighter_The_Smashes
+5,Joey Beltran,Igor Pokrajac,Light Heavyweight,The_Ultimate_Fighter_The_Smashes
+6,Mike Pierce,Seth Baczynski,Welterweight,The_Ultimate_Fighter_The_Smashes
+7,Ben Alloway,Manuel Rodriguez,Welterweight,The_Ultimate_Fighter_The_Smashes
+8,Mike Wilkinson,Brendan Loughnane,Lightweight,The_Ultimate_Fighter_The_Smashes
+9,Cody Donovan,Nick Penner,Light Heavyweight,The_Ultimate_Fighter_The_Smashes

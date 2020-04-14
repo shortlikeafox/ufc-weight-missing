@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Mirko Cro Cop,Gabriel Gonzaga,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-1,Jimi Manuwa,Jan B\xc5\x82achowicz,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-2,Pawel Pawlak,Sheldon Westcott,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-3,Maryna Moroz,Joanne Calderwood,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-4,Leon Edwards,Seth Baczynski,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-5,Bartosz Fabi\xc5\x84ski,Garreth McLellan,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-6,S\xc3\xa9rgio Moraes,Micka\xc3\xabl Lebout,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-7,Yaotzin Meza,Damian Stasiak,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-8,Anthony Hamilton,Daniel Omiela\xc5\x84czuk,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-9,Aleksandra Albu,Izabela Badurek,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-10,Stevie Ray,Marcin Bandel,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
-11,Taylor Lapilus,Rocky Lee,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+,winner,loser,weight_class,event
+0,Mirko Cro Cop,Gabriel Gonzaga,Heavyweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+1,Jimi Manuwa,Jan B\xc5\x82achowicz,Light Heavyweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+2,Pawel Pawlak,Sheldon Westcott,Welterweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+3,Maryna Moroz,Joanne Calderwood,Women\'s Strawweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+4,Leon Edwards,Seth Baczynski,Welterweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+5,Bartosz Fabi\xc5\x84ski,Garreth McLellan,Middleweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+6,S\xc3\xa9rgio Moraes,Micka\xc3\xabl Lebout,Welterweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+7,Yaotzin Meza,Damian Stasiak,Featherweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+8,Anthony Hamilton,Daniel Omiela\xc5\x84czuk,Heavyweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+9,Aleksandra Albu,Izabela Badurek,Women\'s Strawweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+10,Stevie Ray,Marcin Bandel,Lightweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2
+11,Taylor Lapilus,Rocky Lee,Featherweight,UFC_Fight_Night_Gonzaga_vs_Cro_Cop_2

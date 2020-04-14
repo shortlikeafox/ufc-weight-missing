@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Frankie Edgar,Cub Swanson,UFC_Fight_Night_Edgar_vs_Swanson
-1,Edson Barboza,Bobby Green,UFC_Fight_Night_Edgar_vs_Swanson
-2,Chico Camus,Brad Pickett,UFC_Fight_Night_Edgar_vs_Swanson
-3,Aleksei Oleinik,Jared Rosholt,UFC_Fight_Night_Edgar_vs_Swanson
-4,Joseph Benavidez,Dustin Ortiz,UFC_Fight_Night_Edgar_vs_Swanson
-5,Matt Wiman,Isaac Vallie-Flagg,UFC_Fight_Night_Edgar_vs_Swanson
-6,Ruslan Magomedov,Josh Copeland,UFC_Fight_Night_Edgar_vs_Swanson
-7,Roger Narvaez,Luke Barnatt,UFC_Fight_Night_Edgar_vs_Swanson
-8,James Vick,Nick Hein,UFC_Fight_Night_Edgar_vs_Swanson
-9,Akbarh Arreola,Yves Edwards,UFC_Fight_Night_Edgar_vs_Swanson
-10,Paige VanZant,Kailin Curran,UFC_Fight_Night_Edgar_vs_Swanson
-11,Doo Ho Choi,Juan Puig,UFC_Fight_Night_Edgar_vs_Swanson
+,winner,loser,weight_class,event
+0,Frankie Edgar,Cub Swanson,Featherweight,UFC_Fight_Night_Edgar_vs_Swanson
+1,Edson Barboza,Bobby Green,Lightweight,UFC_Fight_Night_Edgar_vs_Swanson
+2,Chico Camus,Brad Pickett,Flyweight,UFC_Fight_Night_Edgar_vs_Swanson
+3,Aleksei Oleinik,Jared Rosholt,Heavyweight,UFC_Fight_Night_Edgar_vs_Swanson
+4,Joseph Benavidez,Dustin Ortiz,Flyweight,UFC_Fight_Night_Edgar_vs_Swanson
+5,Matt Wiman,Isaac Vallie-Flagg,Lightweight,UFC_Fight_Night_Edgar_vs_Swanson
+6,Ruslan Magomedov,Josh Copeland,Heavyweight,UFC_Fight_Night_Edgar_vs_Swanson
+7,Roger Narvaez,Luke Barnatt,Middleweight,UFC_Fight_Night_Edgar_vs_Swanson
+8,James Vick,Nick Hein,Lightweight,UFC_Fight_Night_Edgar_vs_Swanson
+9,Akbarh Arreola,Yves Edwards,Lightweight,UFC_Fight_Night_Edgar_vs_Swanson
+10,Paige VanZant,Kailin Curran,Women\'s Strawweight,UFC_Fight_Night_Edgar_vs_Swanson
+11,Doo Ho Choi,Juan Puig,Featherweight,UFC_Fight_Night_Edgar_vs_Swanson

@@ -1,15 +1,15 @@
-,winner,loser,event
-0,Thiago Santos,Eryk Anders,UFC_Fight_Night_Santos_vs_Anders
-1,Alex Oliveira,Carlo Pedersoli Jr.,UFC_Fight_Night_Santos_vs_Anders
-2,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Sam Alvey,UFC_Fight_Night_Santos_vs_Anders
-3,Andre Ewell,Renan Bar\xc3\xa3o,UFC_Fight_Night_Santos_vs_Anders
-4,Randa Markos,Marina Rodriguez,UFC_Fight_Night_Santos_vs_Anders
-5,Charles Oliveira,Christos Giagos,UFC_Fight_Night_Santos_vs_Anders
-6,Francisco Trinaldo,Evan Dunham,UFC_Fight_Night_Santos_vs_Anders
-7,Ryan Spann,Luis Henrique,UFC_Fight_Night_Santos_vs_Anders
-8,Augusto Sakai,Chase Sherman,UFC_Fight_Night_Santos_vs_Anders
-9,S\xc3\xa9rgio Moraes,Ben Saunders,UFC_Fight_Night_Santos_vs_Anders
-10,Mayra Bueno Silva,Gillian Robertson,UFC_Fight_Night_Santos_vs_Anders
-11,Thales Leites,Hector Lombard,UFC_Fight_Night_Santos_vs_Anders
-12,Elizeu Zaleski dos Santos,Luigi Vendramini,UFC_Fight_Night_Santos_vs_Anders
-13,L\xc3\xadvia Renata Souza,Alex Chambers,UFC_Fight_Night_Santos_vs_Anders
+,winner,loser,weight_class,event
+0,Thiago Santos,Eryk Anders,Light Heavyweight,UFC_Fight_Night_Santos_vs_Anders
+1,Alex Oliveira,Carlo Pedersoli Jr.,Welterweight,UFC_Fight_Night_Santos_vs_Anders
+2,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Sam Alvey,Light Heavyweight,UFC_Fight_Night_Santos_vs_Anders
+3,Andre Ewell,Renan Bar\xc3\xa3o,Catchweight (141.6 lbs),UFC_Fight_Night_Santos_vs_Anders
+4,Randa Markos,Marina Rodriguez,Women\'s Strawweight,UFC_Fight_Night_Santos_vs_Anders
+5,Charles Oliveira,Christos Giagos,Lightweight,UFC_Fight_Night_Santos_vs_Anders
+6,Francisco Trinaldo,Evan Dunham,Lightweight,UFC_Fight_Night_Santos_vs_Anders
+7,Ryan Spann,Luis Henrique,Light Heavyweight,UFC_Fight_Night_Santos_vs_Anders
+8,Augusto Sakai,Chase Sherman,Heavyweight,UFC_Fight_Night_Santos_vs_Anders
+9,S\xc3\xa9rgio Moraes,Ben Saunders,Welterweight,UFC_Fight_Night_Santos_vs_Anders
+10,Mayra Bueno Silva,Gillian Robertson,Women\'s Flyweight,UFC_Fight_Night_Santos_vs_Anders
+11,Thales Leites,Hector Lombard,Middleweight,UFC_Fight_Night_Santos_vs_Anders
+12,Elizeu Zaleski dos Santos,Luigi Vendramini,Welterweight,UFC_Fight_Night_Santos_vs_Anders
+13,L\xc3\xadvia Renata Souza,Alex Chambers,Women\'s Strawweight,UFC_Fight_Night_Santos_vs_Anders

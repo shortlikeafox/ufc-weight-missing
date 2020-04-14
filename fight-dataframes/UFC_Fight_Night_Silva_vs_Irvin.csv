@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Anderson Silva,James Irvin,UFC_Fight_Night_Silva_vs_Irvin
-1,Brandon Vera,Reese Andy,UFC_Fight_Night_Silva_vs_Irvin
-2,Frankie Edgar,Hermes Fran\xc3\xa7a,UFC_Fight_Night_Silva_vs_Irvin
-3,Cain Velasquez,Jake O\'Brien,UFC_Fight_Night_Silva_vs_Irvin
-4,Kevin Burns,Anthony Johnson,UFC_Fight_Night_Silva_vs_Irvin
-5,C.B. Dollaway,Jesse Taylor,UFC_Fight_Night_Silva_vs_Irvin
-6,Tim Credeur,Cale Yarbrough,UFC_Fight_Night_Silva_vs_Irvin
-7,Nate Loughran,Johnny Rees,UFC_Fight_Night_Silva_vs_Irvin
-8,Shannon Gugerty,Dale Hartt,UFC_Fight_Night_Silva_vs_Irvin
-9,Rory Markham,Brodie Farber,UFC_Fight_Night_Silva_vs_Irvin
-10,Brad Blackburn,James Giboo,UFC_Fight_Night_Silva_vs_Irvin
+,winner,loser,weight_class,event
+0,Anderson Silva,James Irvin,Light Heavyweight,UFC_Fight_Night_Silva_vs_Irvin
+1,Brandon Vera,Reese Andy,Light Heavyweight,UFC_Fight_Night_Silva_vs_Irvin
+2,Frankie Edgar,Hermes Fran\xc3\xa7a,Lightweight,UFC_Fight_Night_Silva_vs_Irvin
+3,Cain Velasquez,Jake O\'Brien,Heavyweight,UFC_Fight_Night_Silva_vs_Irvin
+4,Kevin Burns,Anthony Johnson,Welterweight,UFC_Fight_Night_Silva_vs_Irvin
+5,C.B. Dollaway,Jesse Taylor,Middleweight,UFC_Fight_Night_Silva_vs_Irvin
+6,Tim Credeur,Cale Yarbrough,Middleweight,UFC_Fight_Night_Silva_vs_Irvin
+7,Nate Loughran,Johnny Rees,Middleweight,UFC_Fight_Night_Silva_vs_Irvin
+8,Shannon Gugerty,Dale Hartt,Lightweight,UFC_Fight_Night_Silva_vs_Irvin
+9,Rory Markham,Brodie Farber,Welterweight,UFC_Fight_Night_Silva_vs_Irvin
+10,Brad Blackburn,James Giboo,Welterweight,UFC_Fight_Night_Silva_vs_Irvin

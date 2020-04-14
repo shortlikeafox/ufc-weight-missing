@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Santiago Ponzinibbio,Gunnar Nelson,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-1,Cynthia Calvillo,Joanne Calderwood,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-2,Paul Felder,Stevie Ray,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-3,Jack Marshman,Ryan Janes,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-4,Khalil Rountree,Paul Craig,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-5,Justin Willis,James Mulheron,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-6,Danny Roberts,Bobby Nash,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-7,Alexandre Pantoja,Neil Seery,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-8,Galore Bofando,Charlie Ward,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-9,Danny Henry,Daniel Teymur,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-10,Brett Johns,Albert Morales,UFC_Fight_Night_Nelson_vs_Ponzinibbio
-11,Leslie Smith,Amanda Lemos,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+,winner,loser,weight_class,event
+0,Santiago Ponzinibbio,Gunnar Nelson,Welterweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+1,Cynthia Calvillo,Joanne Calderwood,Catchweight (118 lbs),UFC_Fight_Night_Nelson_vs_Ponzinibbio
+2,Paul Felder,Stevie Ray,Lightweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+3,Jack Marshman,Ryan Janes,Middleweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+4,Khalil Rountree,Paul Craig,Light Heavyweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+5,Justin Willis,James Mulheron,Heavyweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+6,Danny Roberts,Bobby Nash,Welterweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+7,Alexandre Pantoja,Neil Seery,Flyweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+8,Galore Bofando,Charlie Ward,Welterweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+9,Danny Henry,Daniel Teymur,Lightweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+10,Brett Johns,Albert Morales,Bantamweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio
+11,Leslie Smith,Amanda Lemos,Women\'s Bantamweight,UFC_Fight_Night_Nelson_vs_Ponzinibbio

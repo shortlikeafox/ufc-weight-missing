@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Maur\xc3\xadcio Rua,Lyoto Machida (c),UFC_113
-1,Josh Koscheck,Paul Daley,UFC_113
-2,Jeremy Stephens,Sam Stout,UFC_113
-3,Matt Mitrione,Kimbo Slice,UFC_113
-4,Alan Belcher,Patrick C\xc3\xb4t\xc3\xa9,UFC_113
-5,Joe Doerksen,Tom Lawlor,UFC_113
-6,Marcus Davis,Jonathan Goulet,UFC_113
-7,Johny Hendricks,TJ Grant,UFC_113
-8,Joey Beltran,Tim Hague,UFC_113
-9,Mike Guymon,Yoshiyuki Yoshida,UFC_113
-10,John Salter,Jason MacDonald,UFC_113
+,winner,loser,weight_class,event
+0,Maur\xc3\xadcio Rua,Lyoto Machida (c),Light Heavyweight,UFC_113
+1,Josh Koscheck,Paul Daley,Welterweight,UFC_113
+2,Jeremy Stephens,Sam Stout,Lightweight,UFC_113
+3,Matt Mitrione,Kimbo Slice,Heavyweight,UFC_113
+4,Alan Belcher,Patrick C\xc3\xb4t\xc3\xa9,Middleweight,UFC_113
+5,Joe Doerksen,Tom Lawlor,Middleweight,UFC_113
+6,Marcus Davis,Jonathan Goulet,Welterweight,UFC_113
+7,Johny Hendricks,TJ Grant,Welterweight,UFC_113
+8,Joey Beltran,Tim Hague,Heavyweight,UFC_113
+9,Mike Guymon,Yoshiyuki Yoshida,Welterweight,UFC_113
+10,John Salter,Jason MacDonald,Middleweight,UFC_113

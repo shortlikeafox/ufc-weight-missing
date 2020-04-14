@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Vitor Belfort,Rich Franklin,UFC_103
-1,Junior dos Santos,Mirko Cro Cop,UFC_103
-2,Paul Daley,Martin Kampmann,UFC_103
-3,Josh Koscheck,Frank Trigg,UFC_103
-4,Tyson Griffin,Hermes Fran\xc3\xa7a,UFC_103
-5,Efrain Escudero,Cole Miller,UFC_103
-6,Tomasz Drwal,Drew McFedries,UFC_103
-7,Jim Miller,Steve Lopez,UFC_103
-8,Nik Lentz,Rafaello Oliveira,UFC_103
-9,Rick Story,Brian Foster,UFC_103
-10,Eliot Marshall,Jason Brilz,UFC_103
-11,Vladimir Matyushenko,Igor Pokrajac,UFC_103
-12,Rafael dos Anjos,Rob Emerson,UFC_103
+,winner,loser,weight_class,event
+0,Vitor Belfort,Rich Franklin,Catchweight (195 lbs),UFC_103
+1,Junior dos Santos,Mirko Cro Cop,Heavyweight,UFC_103
+2,Paul Daley,Martin Kampmann,Welterweight,UFC_103
+3,Josh Koscheck,Frank Trigg,Welterweight,UFC_103
+4,Tyson Griffin,Hermes Fran\xc3\xa7a,Catchweight (159 lbs),UFC_103
+5,Efrain Escudero,Cole Miller,Lightweight,UFC_103
+6,Tomasz Drwal,Drew McFedries,Middleweight,UFC_103
+7,Jim Miller,Steve Lopez,Lightweight,UFC_103
+8,Nik Lentz,Rafaello Oliveira,Lightweight,UFC_103
+9,Rick Story,Brian Foster,Welterweight,UFC_103
+10,Eliot Marshall,Jason Brilz,Light Heavyweight,UFC_103
+11,Vladimir Matyushenko,Igor Pokrajac,Light Heavyweight,UFC_103
+12,Rafael dos Anjos,Rob Emerson,Lightweight,UFC_103

@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Mark Hunt,Frank Mir,UFC_Fight_Night_Hunt_vs_Mir
-1,Neil Magny,Hector Lombard,UFC_Fight_Night_Hunt_vs_Mir
-2,Jake Matthews,Johnny Case,UFC_Fight_Night_Hunt_vs_Mir
-3,Dan Kelly,Ant\xc3\xb4nio Carlos J\xc3\xbanior,UFC_Fight_Night_Hunt_vs_Mir
-4,Steve Boss\xc3\xa9,James Te Huna,UFC_Fight_Night_Hunt_vs_Mir
-5,Bec Rawlings,Seo Hee Ham,UFC_Fight_Night_Hunt_vs_Mir
-6,Alan Jouban,Brendan O\'Reilly,UFC_Fight_Night_Hunt_vs_Mir
-7,Dan Hooker,Mark Eddiva,UFC_Fight_Night_Hunt_vs_Mir
-8,Leslie Smith,Rin Nakai,UFC_Fight_Night_Hunt_vs_Mir
-9,Viscardi Andrade,Richard Walsh,UFC_Fight_Night_Hunt_vs_Mir
-10,Ross Pearson,Chad Laprise,UFC_Fight_Night_Hunt_vs_Mir
-11,Alan Patrick,Damien Brown,UFC_Fight_Night_Hunt_vs_Mir
+,winner,loser,weight_class,event
+0,Mark Hunt,Frank Mir,Heavyweight,UFC_Fight_Night_Hunt_vs_Mir
+1,Neil Magny,Hector Lombard,Welterweight,UFC_Fight_Night_Hunt_vs_Mir
+2,Jake Matthews,Johnny Case,Lightweight,UFC_Fight_Night_Hunt_vs_Mir
+3,Dan Kelly,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Middleweight,UFC_Fight_Night_Hunt_vs_Mir
+4,Steve Boss\xc3\xa9,James Te Huna,Light Heavyweight,UFC_Fight_Night_Hunt_vs_Mir
+5,Bec Rawlings,Seo Hee Ham,Women\'s Strawweight,UFC_Fight_Night_Hunt_vs_Mir
+6,Alan Jouban,Brendan O\'Reilly,Welterweight,UFC_Fight_Night_Hunt_vs_Mir
+7,Dan Hooker,Mark Eddiva,Featherweight,UFC_Fight_Night_Hunt_vs_Mir
+8,Leslie Smith,Rin Nakai,Women\'s Bantamweight,UFC_Fight_Night_Hunt_vs_Mir
+9,Viscardi Andrade,Richard Walsh,Welterweight,UFC_Fight_Night_Hunt_vs_Mir
+10,Ross Pearson,Chad Laprise,Lightweight,UFC_Fight_Night_Hunt_vs_Mir
+11,Alan Patrick,Damien Brown,Lightweight,UFC_Fight_Night_Hunt_vs_Mir

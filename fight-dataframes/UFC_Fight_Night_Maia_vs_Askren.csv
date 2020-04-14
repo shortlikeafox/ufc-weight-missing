@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Demian Maia,Ben Askren,UFC_Fight_Night_Maia_vs_Askren
-1,Stevie Ray,Michael Johnson,UFC_Fight_Night_Maia_vs_Askren
-2,Beneil Dariush,Frank Camacho,UFC_Fight_Night_Maia_vs_Askren
-3,Ciryl Gane,Don\xe2\x80\x99Tale Mayes,UFC_Fight_Night_Maia_vs_Askren
-4,Muslim Salikhov,Laureano Staropoli,UFC_Fight_Night_Maia_vs_Askren
-5,Randa Markos,Ashley Yoder,UFC_Fight_Night_Maia_vs_Askren
-6,Rafael Fiziev,Alex White,UFC_Fight_Night_Maia_vs_Askren
-7,Movsar Evloev,Enrique Barzola,UFC_Fight_Night_Maia_vs_Askren
-8,Sergei Pavlovich,Maurice Greene,UFC_Fight_Night_Maia_vs_Askren
-9,Loma Lookboonmee,Aleksandra Albu,UFC_Fight_Night_Maia_vs_Askren
-10,Raphael Pessoa Nunes,Jeff Hughes,UFC_Fight_Night_Maia_vs_Askren
+,winner,loser,weight_class,event
+0,Demian Maia,Ben Askren,Welterweight,UFC_Fight_Night_Maia_vs_Askren
+1,Stevie Ray,Michael Johnson,Lightweight,UFC_Fight_Night_Maia_vs_Askren
+2,Beneil Dariush,Frank Camacho,Lightweight,UFC_Fight_Night_Maia_vs_Askren
+3,Ciryl Gane,Don\xe2\x80\x99Tale Mayes,Heavyweight,UFC_Fight_Night_Maia_vs_Askren
+4,Muslim Salikhov,Laureano Staropoli,Welterweight,UFC_Fight_Night_Maia_vs_Askren
+5,Randa Markos,Ashley Yoder,Women\'s Strawweight,UFC_Fight_Night_Maia_vs_Askren
+6,Rafael Fiziev,Alex White,Lightweight,UFC_Fight_Night_Maia_vs_Askren
+7,Movsar Evloev,Enrique Barzola,Featherweight,UFC_Fight_Night_Maia_vs_Askren
+8,Sergei Pavlovich,Maurice Greene,Heavyweight,UFC_Fight_Night_Maia_vs_Askren
+9,Loma Lookboonmee,Aleksandra Albu,Women\'s Strawweight,UFC_Fight_Night_Maia_vs_Askren
+10,Raphael Pessoa Nunes,Jeff Hughes,Heavyweight,UFC_Fight_Night_Maia_vs_Askren

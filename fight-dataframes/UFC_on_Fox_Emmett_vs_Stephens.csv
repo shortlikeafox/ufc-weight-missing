@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jeremy Stephens,Josh Emmett,UFC_on_Fox_Emmett_vs_Stephens
-1,J\xc3\xa9ssica Andrade,Tecia Torres,UFC_on_Fox_Emmett_vs_Stephens
-2,Ilir Latifi,Ovince Saint Preux,UFC_on_Fox_Emmett_vs_Stephens
-3,Max Griffin,Mike Perry,UFC_on_Fox_Emmett_vs_Stephens
-4,Brian Kelleher,Renan Bar\xc3\xa3o,UFC_on_Fox_Emmett_vs_Stephens
-5,Marion Reneau,Sara McMann,UFC_on_Fox_Emmett_vs_Stephens
-6,Angela Hill,Maryna Moroz,UFC_on_Fox_Emmett_vs_Stephens
-7,Alan Jouban,Ben Saunders,UFC_on_Fox_Emmett_vs_Stephens
-8,Sam Alvey,Marcin Prachnio,UFC_on_Fox_Emmett_vs_Stephens
-9,Rani Yahya,Russell Doane,UFC_on_Fox_Emmett_vs_Stephens
-10,Alex Perez,Eric Shelton,UFC_on_Fox_Emmett_vs_Stephens
-11,Manny Bermudez,Albert Morales,UFC_on_Fox_Emmett_vs_Stephens
+,winner,loser,weight_class,event
+0,Jeremy Stephens,Josh Emmett,Featherweight,UFC_on_Fox_Emmett_vs_Stephens
+1,J\xc3\xa9ssica Andrade,Tecia Torres,Women\'s Strawweight,UFC_on_Fox_Emmett_vs_Stephens
+2,Ilir Latifi,Ovince Saint Preux,Light Heavyweight,UFC_on_Fox_Emmett_vs_Stephens
+3,Max Griffin,Mike Perry,Welterweight,UFC_on_Fox_Emmett_vs_Stephens
+4,Brian Kelleher,Renan Bar\xc3\xa3o,Bantamweight,UFC_on_Fox_Emmett_vs_Stephens
+5,Marion Reneau,Sara McMann,Women\'s Bantamweight,UFC_on_Fox_Emmett_vs_Stephens
+6,Angela Hill,Maryna Moroz,Women\'s Strawweight,UFC_on_Fox_Emmett_vs_Stephens
+7,Alan Jouban,Ben Saunders,Welterweight,UFC_on_Fox_Emmett_vs_Stephens
+8,Sam Alvey,Marcin Prachnio,Light Heavyweight,UFC_on_Fox_Emmett_vs_Stephens
+9,Rani Yahya,Russell Doane,Bantamweight,UFC_on_Fox_Emmett_vs_Stephens
+10,Alex Perez,Eric Shelton,Catchweight (126.5 lbs),UFC_on_Fox_Emmett_vs_Stephens
+11,Manny Bermudez,Albert Morales,Bantamweight,UFC_on_Fox_Emmett_vs_Stephens

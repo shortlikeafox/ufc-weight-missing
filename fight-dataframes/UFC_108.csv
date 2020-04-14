@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Rashad Evans,Thiago Silva,UFC_108
-1,Paul Daley,Dustin Hazelett,UFC_108
-2,Sam Stout,Joe Lauzon,UFC_108
-3,Jim Miller,Duane Ludwig,UFC_108
-4,Junior dos Santos,Gilbert Yvel,UFC_108
-5,Martin Kampmann,Jacob Volkmann,UFC_108
-6,Cole Miller,Dan Lauzon,UFC_108
-7,Mark Mu\xc3\xb1oz,Ryan Jensen,UFC_108
-8,Jake Ellenberger,Mike Pyle,UFC_108
-9,Rafaello Oliveira,John Gunderson,UFC_108
+,winner,loser,weight_class,event
+0,Rashad Evans,Thiago Silva,Light Heavyweight,UFC_108
+1,Paul Daley,Dustin Hazelett,Catchweight (172\xc2\xa0lb),UFC_108
+2,Sam Stout,Joe Lauzon,Lightweight,UFC_108
+3,Jim Miller,Duane Ludwig,Lightweight,UFC_108
+4,Junior dos Santos,Gilbert Yvel,Heavyweight,UFC_108
+5,Martin Kampmann,Jacob Volkmann,Welterweight,UFC_108
+6,Cole Miller,Dan Lauzon,Lightweight,UFC_108
+7,Mark Mu\xc3\xb1oz,Ryan Jensen,Middleweight,UFC_108
+8,Jake Ellenberger,Mike Pyle,Welterweight,UFC_108
+9,Rafaello Oliveira,John Gunderson,Lightweight,UFC_108

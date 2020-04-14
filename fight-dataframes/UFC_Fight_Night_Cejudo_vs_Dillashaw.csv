@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Henry Cejudo (c),T.J. Dillashaw,UFC_Fight_Night_Cejudo_vs_Dillashaw
-1,Allen Crowder,Greg Hardy,UFC_Fight_Night_Cejudo_vs_Dillashaw
-2,Gregor Gillespie,Yancy Medeiros,UFC_Fight_Night_Cejudo_vs_Dillashaw
-3,Joseph Benavidez,Dustin Ortiz,UFC_Fight_Night_Cejudo_vs_Dillashaw
-4,Paige VanZant,Rachael Ostovich,UFC_Fight_Night_Cejudo_vs_Dillashaw
-5,Glover Teixeira,Karl Roberson,UFC_Fight_Night_Cejudo_vs_Dillashaw
-6,Donald Cerrone,Alexander Hernandez,UFC_Fight_Night_Cejudo_vs_Dillashaw
-7,Joanne Calderwood,Ariane Lipski,UFC_Fight_Night_Cejudo_vs_Dillashaw
-8,Alonzo Menifield,Vinicius Moreira,UFC_Fight_Night_Cejudo_vs_Dillashaw
-9,Cory Sandhagen,Mario Bautista,UFC_Fight_Night_Cejudo_vs_Dillashaw
-10,Dennis Bermudez,Te Edwards,UFC_Fight_Night_Cejudo_vs_Dillashaw
-11,Geoff Neal,Belal Muhammad,UFC_Fight_Night_Cejudo_vs_Dillashaw
-12,Chance Rencountre,Kyle Stewart,UFC_Fight_Night_Cejudo_vs_Dillashaw
+,winner,loser,weight_class,event
+0,Henry Cejudo (c),T.J. Dillashaw,Flyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+1,Allen Crowder,Greg Hardy,Heavyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+2,Gregor Gillespie,Yancy Medeiros,Lightweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+3,Joseph Benavidez,Dustin Ortiz,Flyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+4,Paige VanZant,Rachael Ostovich,Women\'s Flyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+5,Glover Teixeira,Karl Roberson,Light Heavyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+6,Donald Cerrone,Alexander Hernandez,Lightweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+7,Joanne Calderwood,Ariane Lipski,Women\'s Flyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+8,Alonzo Menifield,Vinicius Moreira,Light Heavyweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+9,Cory Sandhagen,Mario Bautista,Bantamweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+10,Dennis Bermudez,Te Edwards,Lightweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+11,Geoff Neal,Belal Muhammad,Welterweight,UFC_Fight_Night_Cejudo_vs_Dillashaw
+12,Chance Rencountre,Kyle Stewart,Welterweight,UFC_Fight_Night_Cejudo_vs_Dillashaw

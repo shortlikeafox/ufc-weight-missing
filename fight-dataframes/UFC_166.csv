@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Cain Velasquez (c),Junior dos Santos,UFC_166
-1,Daniel Cormier,Roy Nelson,UFC_166
-2,Gilbert Melendez,Diego Sanchez,UFC_166
-3,Gabriel Gonzaga,Shawn Jordan,UFC_166
-4,John Dodson,Darrell Montague,UFC_166
-5,Tim Boetsch,C.B. Dollaway,UFC_166
-6,Hector Lombard,Nate Marquardt,UFC_166
-7,Jessica Eye,Sarah Kaufman,UFC_166
-8,K.J. Noons,George Sotiropoulos,UFC_166
-9,Adlan Amagov,TJ Waldburger,UFC_166
-10,Tony Ferguson,Mike Rio,UFC_166
-11,Andre Fili,Jeremy Larsen,UFC_166
-12,Kyoji Horiguchi,Dustin Pague,UFC_166
+,winner,loser,weight_class,event
+0,Cain Velasquez (c),Junior dos Santos,Heavyweight,UFC_166
+1,Daniel Cormier,Roy Nelson,Heavyweight,UFC_166
+2,Gilbert Melendez,Diego Sanchez,Lightweight,UFC_166
+3,Gabriel Gonzaga,Shawn Jordan,Heavyweight,UFC_166
+4,John Dodson,Darrell Montague,Flyweight,UFC_166
+5,Tim Boetsch,C.B. Dollaway,Middleweight,UFC_166
+6,Hector Lombard,Nate Marquardt,Welterweight,UFC_166
+7,Jessica Eye,Sarah Kaufman,Women\'s Bantamweight,UFC_166
+8,K.J. Noons,George Sotiropoulos,Lightweight,UFC_166
+9,Adlan Amagov,TJ Waldburger,Welterweight,UFC_166
+10,Tony Ferguson,Mike Rio,Lightweight,UFC_166
+11,Andre Fili,Jeremy Larsen,Catchweight (148.5 lbs),UFC_166
+12,Kyoji Horiguchi,Dustin Pague,Bantamweight,UFC_166

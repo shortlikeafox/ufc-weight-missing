@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Anderson Silva (c),Patrick C\xc3\xb4t\xc3\xa9,UFC_90
-1,Thiago Alves,Josh Koscheck,UFC_90
-2,Gray Maynard,Rich Clementi,UFC_90
-3,Junior dos Santos,Fabr\xc3\xadcio Werdum,UFC_90
-4,Sean Sherk,Tyson Griffin,UFC_90
-5,Thales Leites,Drew McFedries,UFC_90
-6,Spencer Fisher,Shannon Gugerty,UFC_90
-7,Dan Miller,Matt Horwich,UFC_90
-8,Hermes Fran\xc3\xa7a,Marcus Aur\xc3\xa9lio,UFC_90
-9,Pete Sell,Josh Burkman,UFC_90
+,winner,loser,weight_class,event
+0,Anderson Silva (c),Patrick C\xc3\xb4t\xc3\xa9,Middleweight,UFC_90
+1,Thiago Alves,Josh Koscheck,Welterweight,UFC_90
+2,Gray Maynard,Rich Clementi,Lightweight,UFC_90
+3,Junior dos Santos,Fabr\xc3\xadcio Werdum,Heavyweight,UFC_90
+4,Sean Sherk,Tyson Griffin,Lightweight,UFC_90
+5,Thales Leites,Drew McFedries,Middleweight,UFC_90
+6,Spencer Fisher,Shannon Gugerty,Lightweight,UFC_90
+7,Dan Miller,Matt Horwich,Middleweight,UFC_90
+8,Hermes Fran\xc3\xa7a,Marcus Aur\xc3\xa9lio,Lightweight,UFC_90
+9,Pete Sell,Josh Burkman,Welterweight,UFC_90

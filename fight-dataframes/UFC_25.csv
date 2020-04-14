@@ -1,7 +1,7 @@
-,winner,loser,event
-0,Tito Ortiz,Wanderlei Silva,UFC_25
-1,Murilo Bustamante,Yoji Anjo,UFC_25
-2,Sanae Kikuta,Eugene Jackson,UFC_25
-3,Ron Waterman,Satoshi Honma,UFC_25
-4,Ikuhisa Minowa,Joe Slick,UFC_25
-5,LaVerne Clark,Koji Oishi,UFC_25
+,winner,loser,weight_class,event
+0,Tito Ortiz,Wanderlei Silva,Middleweight,UFC_25
+1,Murilo Bustamante,Yoji Anjo,Middleweight,UFC_25
+2,Sanae Kikuta,Eugene Jackson,Middleweight,UFC_25
+3,Ron Waterman,Satoshi Honma,Heavyweight,UFC_25
+4,Ikuhisa Minowa,Joe Slick,Middleweight,UFC_25
+5,LaVerne Clark,Koji Oishi,Lightweight,UFC_25

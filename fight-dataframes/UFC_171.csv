@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Johny Hendricks,Robbie Lawler,UFC_171
-1,Tyron Woodley,Carlos Condit,UFC_171
-2,Myles Jury,Diego Sanchez,UFC_171
-3,Hector Lombard,Jake Shields,UFC_171
-4,Ovince Saint Preux,Nikita Krylov,UFC_171
-5,Kelvin Gastelum,Rick Story,UFC_171
-6,J\xc3\xa9ssica Andrade,Raquel Pennington,UFC_171
-7,Dennis Bermudez,Jimy Hettes,UFC_171
-8,Alex Garcia,Sean Spencer,UFC_171
-9,Francisco Trevino,Ren\xc3\xa9e Forte,UFC_171
-10,Justin Scoggins,Will Campuzano,UFC_171
-11,Sean Strickland,Bubba McDaniel,UFC_171
-12,Robert Whiteford,Daniel Pineda,UFC_171
+,winner,loser,weight_class,event
+0,Johny Hendricks,Robbie Lawler,Welterweight,UFC_171
+1,Tyron Woodley,Carlos Condit,Welterweight,UFC_171
+2,Myles Jury,Diego Sanchez,Lightweight,UFC_171
+3,Hector Lombard,Jake Shields,Welterweight,UFC_171
+4,Ovince Saint Preux,Nikita Krylov,Light Heavyweight,UFC_171
+5,Kelvin Gastelum,Rick Story,Welterweight,UFC_171
+6,J\xc3\xa9ssica Andrade,Raquel Pennington,Women\'s Bantamweight,UFC_171
+7,Dennis Bermudez,Jimy Hettes,Featherweight,UFC_171
+8,Alex Garcia,Sean Spencer,Welterweight,UFC_171
+9,Francisco Trevino,Ren\xc3\xa9e Forte,Catchweight (157 lbs),UFC_171
+10,Justin Scoggins,Will Campuzano,Flyweight,UFC_171
+11,Sean Strickland,Bubba McDaniel,Middleweight,UFC_171
+12,Robert Whiteford,Daniel Pineda,Featherweight,UFC_171

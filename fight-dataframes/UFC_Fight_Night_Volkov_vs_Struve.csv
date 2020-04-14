@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Alexander Volkov,Stefan Struve,UFC_Fight_Night_Volkov_vs_Struve
-1,Siyar Bahadurzada,Rob Wilkinson,UFC_Fight_Night_Volkov_vs_Struve
-2,Marion Reneau,Talita Bernardo,UFC_Fight_Night_Volkov_vs_Struve
-3,Leon Edwards,Bryan Barberena,UFC_Fight_Night_Volkov_vs_Struve
-4,Darren Till,Bojan Veli\xc4\x8dkovi\xc4\x87,UFC_Fight_Night_Volkov_vs_Struve
-5,Mairbek Taisumov,Felipe Silva,UFC_Fight_Night_Volkov_vs_Struve
-6,Michel Prazeres,Mads Burnell,UFC_Fight_Night_Volkov_vs_Struve
-7,Rustam Khabilov,Desmond Green,UFC_Fight_Night_Volkov_vs_Struve
-8,Aleksandar Raki\xc4\x87,Francimar Barroso,UFC_Fight_Night_Volkov_vs_Struve
-9,Zabit Magomedsharipov,Mike Santiago,UFC_Fight_Night_Volkov_vs_Struve
-10,Abdul-Kerim Edilov,Bojan Mihajlovi\xc4\x87,UFC_Fight_Night_Volkov_vs_Struve
-11,Thibault Gouti,Andrew Holbrook,UFC_Fight_Night_Volkov_vs_Struve
+,winner,loser,weight_class,event
+0,Alexander Volkov,Stefan Struve,Heavyweight,UFC_Fight_Night_Volkov_vs_Struve
+1,Siyar Bahadurzada,Rob Wilkinson,Middleweight,UFC_Fight_Night_Volkov_vs_Struve
+2,Marion Reneau,Talita Bernardo,Women\'s Bantamweight,UFC_Fight_Night_Volkov_vs_Struve
+3,Leon Edwards,Bryan Barberena,Welterweight,UFC_Fight_Night_Volkov_vs_Struve
+4,Darren Till,Bojan Veli\xc4\x8dkovi\xc4\x87,Welterweight,UFC_Fight_Night_Volkov_vs_Struve
+5,Mairbek Taisumov,Felipe Silva,Lightweight,UFC_Fight_Night_Volkov_vs_Struve
+6,Michel Prazeres,Mads Burnell,Catchweight (159 lbs),UFC_Fight_Night_Volkov_vs_Struve
+7,Rustam Khabilov,Desmond Green,Lightweight,UFC_Fight_Night_Volkov_vs_Struve
+8,Aleksandar Raki\xc4\x87,Francimar Barroso,Light Heavyweight,UFC_Fight_Night_Volkov_vs_Struve
+9,Zabit Magomedsharipov,Mike Santiago,Featherweight,UFC_Fight_Night_Volkov_vs_Struve
+10,Abdul-Kerim Edilov,Bojan Mihajlovi\xc4\x87,Light Heavyweight,UFC_Fight_Night_Volkov_vs_Struve
+11,Thibault Gouti,Andrew Holbrook,Lightweight,UFC_Fight_Night_Volkov_vs_Struve

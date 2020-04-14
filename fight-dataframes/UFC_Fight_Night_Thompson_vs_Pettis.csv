@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Anthony Pettis,Stephen Thompson,UFC_Fight_Night_Thompson_vs_Pettis
-1,Curtis Blaydes,Justin Willis,UFC_Fight_Night_Thompson_vs_Pettis
-2,John Makdessi,Jes\xc3\xbas Pinedo,UFC_Fight_Night_Thompson_vs_Pettis
-3,Jussier Formiga,Deiveson Figueiredo,UFC_Fight_Night_Thompson_vs_Pettis
-4,Luis Pe\xc3\xb1a,Steven Peterson,UFC_Fight_Night_Thompson_vs_Pettis
-5,Maycee Barber,JJ Aldrich,UFC_Fight_Night_Thompson_vs_Pettis
-6,Bryce Mitchell,Bobby Moffett,UFC_Fight_Night_Thompson_vs_Pettis
-7,Marlon Vera,Frankie Saenz,UFC_Fight_Night_Thompson_vs_Pettis
-8,Jennifer Maia,Alexis Davis,UFC_Fight_Night_Thompson_vs_Pettis
-9,Randa Markos,Angela Hill,UFC_Fight_Night_Thompson_vs_Pettis
-10,Chris Guti\xc3\xa9rrez,Ryan MacDonald,UFC_Fight_Night_Thompson_vs_Pettis
-11,Jordan Espinosa,Eric Shelton,UFC_Fight_Night_Thompson_vs_Pettis
+,winner,loser,weight_class,event
+0,Anthony Pettis,Stephen Thompson,Welterweight,UFC_Fight_Night_Thompson_vs_Pettis
+1,Curtis Blaydes,Justin Willis,Heavyweight,UFC_Fight_Night_Thompson_vs_Pettis
+2,John Makdessi,Jes\xc3\xbas Pinedo,Lightweight,UFC_Fight_Night_Thompson_vs_Pettis
+3,Jussier Formiga,Deiveson Figueiredo,Flyweight,UFC_Fight_Night_Thompson_vs_Pettis
+4,Luis Pe\xc3\xb1a,Steven Peterson,Catchweight (148.5 lbs),UFC_Fight_Night_Thompson_vs_Pettis
+5,Maycee Barber,JJ Aldrich,Women\'s Flyweight,UFC_Fight_Night_Thompson_vs_Pettis
+6,Bryce Mitchell,Bobby Moffett,Featherweight,UFC_Fight_Night_Thompson_vs_Pettis
+7,Marlon Vera,Frankie Saenz,Bantamweight,UFC_Fight_Night_Thompson_vs_Pettis
+8,Jennifer Maia,Alexis Davis,Women\'s Flyweight,UFC_Fight_Night_Thompson_vs_Pettis
+9,Randa Markos,Angela Hill,Women\'s Strawweight,UFC_Fight_Night_Thompson_vs_Pettis
+10,Chris Guti\xc3\xa9rrez,Ryan MacDonald,Bantamweight,UFC_Fight_Night_Thompson_vs_Pettis
+11,Jordan Espinosa,Eric Shelton,Flyweight,UFC_Fight_Night_Thompson_vs_Pettis

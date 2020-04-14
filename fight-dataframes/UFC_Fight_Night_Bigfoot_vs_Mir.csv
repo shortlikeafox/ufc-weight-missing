@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Frank Mir,Ant\xc3\xb4nio Silva,UFC_Fight_Night_Bigfoot_vs_Mir
-1,Michael Johnson,Edson Barboza,UFC_Fight_Night_Bigfoot_vs_Mir
-2,Sam Alvey,Cezar Ferreira,UFC_Fight_Night_Bigfoot_vs_Mir
-3,Adriano Martins,Rustam Khabilov,UFC_Fight_Night_Bigfoot_vs_Mir
-4,Frankie Saenz,Iuri Alc\xc3\xa2ntara,UFC_Fight_Night_Bigfoot_vs_Mir
-5,Santiago Ponzinibbio,Sean Strickland,UFC_Fight_Night_Bigfoot_vs_Mir
-6,Marion Reneau,J\xc3\xa9ssica Andrade,UFC_Fight_Night_Bigfoot_vs_Mir
-7,Matt Dwyer,William Mac\xc3\xa1rio,UFC_Fight_Night_Bigfoot_vs_Mir
-8,Mike De La Torre,Tiago Trator,UFC_Fight_Night_Bigfoot_vs_Mir
-9,Douglas Silva de Andrade,Cody Gibson,UFC_Fight_Night_Bigfoot_vs_Mir
-10,Ivan Jorge,Josh Shockley,UFC_Fight_Night_Bigfoot_vs_Mir
+,winner,loser,weight_class,event
+0,Frank Mir,Ant\xc3\xb4nio Silva,Heavyweight,UFC_Fight_Night_Bigfoot_vs_Mir
+1,Michael Johnson,Edson Barboza,Lightweight,UFC_Fight_Night_Bigfoot_vs_Mir
+2,Sam Alvey,Cezar Ferreira,Middleweight,UFC_Fight_Night_Bigfoot_vs_Mir
+3,Adriano Martins,Rustam Khabilov,Lightweight,UFC_Fight_Night_Bigfoot_vs_Mir
+4,Frankie Saenz,Iuri Alc\xc3\xa2ntara,Bantamweight,UFC_Fight_Night_Bigfoot_vs_Mir
+5,Santiago Ponzinibbio,Sean Strickland,Welterweight,UFC_Fight_Night_Bigfoot_vs_Mir
+6,Marion Reneau,J\xc3\xa9ssica Andrade,Women\'s Bantamweight,UFC_Fight_Night_Bigfoot_vs_Mir
+7,Matt Dwyer,William Mac\xc3\xa1rio,Welterweight,UFC_Fight_Night_Bigfoot_vs_Mir
+8,Mike De La Torre,Tiago Trator,Featherweight,UFC_Fight_Night_Bigfoot_vs_Mir
+9,Douglas Silva de Andrade,Cody Gibson,Bantamweight,UFC_Fight_Night_Bigfoot_vs_Mir
+10,Ivan Jorge,Josh Shockley,Lightweight,UFC_Fight_Night_Bigfoot_vs_Mir

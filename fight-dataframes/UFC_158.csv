@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Nick Diaz,UFC_158
-1,Johny Hendricks,Carlos Condit,UFC_158
-2,Jake Ellenberger,Nate Marquardt,UFC_158
-3,Chris Camozzi,Nick Ring,UFC_158
-4,Mike Ricci,Colin Fletcher,UFC_158
-5,Patrick C\xc3\xb4t\xc3\xa9,Bobby Voelker,UFC_158
-6,Darren Elkins,Antonio Carvalho,UFC_158
-7,Jordan Mein,Dan Miller,UFC_158
-8,John Makdessi,Daron Cruickshank,UFC_158
-9,Rick Story,Quinn Mulhern,UFC_158
-10,T.J. Dillashaw,Issei Tamura,UFC_158
-11,George Roop,Reuben Duran,UFC_158
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Nick Diaz,Welterweight,UFC_158
+1,Johny Hendricks,Carlos Condit,Welterweight,UFC_158
+2,Jake Ellenberger,Nate Marquardt,Welterweight,UFC_158
+3,Chris Camozzi,Nick Ring,Middleweight,UFC_158
+4,Mike Ricci,Colin Fletcher,Lightweight,UFC_158
+5,Patrick C\xc3\xb4t\xc3\xa9,Bobby Voelker,Welterweight,UFC_158
+6,Darren Elkins,Antonio Carvalho,Featherweight,UFC_158
+7,Jordan Mein,Dan Miller,Welterweight,UFC_158
+8,John Makdessi,Daron Cruickshank,Lightweight,UFC_158
+9,Rick Story,Quinn Mulhern,Welterweight,UFC_158
+10,T.J. Dillashaw,Issei Tamura,Bantamweight,UFC_158
+11,George Roop,Reuben Duran,Bantamweight,UFC_158

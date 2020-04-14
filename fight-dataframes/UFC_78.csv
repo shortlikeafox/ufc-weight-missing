@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Rashad Evans,Michael Bisping,UFC_78
-1,Thiago Silva,Houston Alexander,UFC_78
-2,Karo Parisyan,Ryo Chonan,UFC_78
-3,Ed Herman,Joe Doerksen,UFC_78
-4,Frankie Edgar,Spencer Fisher,UFC_78
-5,Thiago Alves,Chris Lytle,UFC_78
-6,Joe Lauzon,Jason Reinhardt,UFC_78
-7,Marcus Aur\xc3\xa9lio,Luke Caudillo,UFC_78
-8,Akihiro Gono,Tamdan McCrory,UFC_78
+,winner,loser,weight_class,event
+0,Rashad Evans,Michael Bisping,Light Heavyweight,UFC_78
+1,Thiago Silva,Houston Alexander,Light Heavyweight,UFC_78
+2,Karo Parisyan,Ryo Chonan,Welterweight,UFC_78
+3,Ed Herman,Joe Doerksen,Middleweight,UFC_78
+4,Frankie Edgar,Spencer Fisher,Lightweight,UFC_78
+5,Thiago Alves,Chris Lytle,Welterweight,UFC_78
+6,Joe Lauzon,Jason Reinhardt,Lightweight,UFC_78
+7,Marcus Aur\xc3\xa9lio,Luke Caudillo,Lightweight,UFC_78
+8,Akihiro Gono,Tamdan McCrory,Welterweight,UFC_78

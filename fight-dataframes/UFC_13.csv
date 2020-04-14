@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Guy Mezger,Tito Ortiz,UFC_13
-1,Guy Mezger,Christophe Leininger,UFC_13
-2,Enson Inoue,Royce Alger,UFC_13
-3,Tito Ortiz,Wes Albritton,UFC_13
-4,Randy Couture,Steven Graham,UFC_13
-5,Steven Graham,Dmitri Stepanov,UFC_13
-6,Randy Couture,Tony Halme,UFC_13
-7,Jack Nilson,Saeed Hosseini,UFC_13
-8,Vitor Belfort,Tank Abbott,UFC_13
+,winner,loser,weight_class,event
+0,Guy Mezger,Tito Ortiz,Lightweight,UFC_13
+1,Guy Mezger,Christophe Leininger,Lightweight,UFC_13
+2,Enson Inoue,Royce Alger,Lightweight,UFC_13
+3,Tito Ortiz,Wes Albritton,Lightweight,UFC_13
+4,Randy Couture,Steven Graham,Heavyweight,UFC_13
+5,Steven Graham,Dmitri Stepanov,Heavyweight,UFC_13
+6,Randy Couture,Tony Halme,Heavyweight,UFC_13
+7,Jack Nilson,Saeed Hosseini,Heavyweight,UFC_13
+8,Vitor Belfort,Tank Abbott,Heavyweight,UFC_13

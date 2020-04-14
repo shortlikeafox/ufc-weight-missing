@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Bas Rutten,Kevin Randleman,UFC_20
-1,Pedro Rizzo,Tra Telligman,UFC_20
-2,Pete Williams,Travis Fulton,UFC_20
-3,Wanderlei Silva,Tony Petarra,UFC_20
-4,Marcelo Mello,Dave Roberts,UFC_20
-5,LaVerne Clark,Fabiano Iha,UFC_20
-6,Ron Waterman,Chris Condo,UFC_20
+,winner,loser,weight_class,event
+0,Bas Rutten,Kevin Randleman,Heavyweight,UFC_20
+1,Pedro Rizzo,Tra Telligman,Heavyweight,UFC_20
+2,Pete Williams,Travis Fulton,Heavyweight,UFC_20
+3,Wanderlei Silva,Tony Petarra,Middleweight,UFC_20
+4,Marcelo Mello,Dave Roberts,Lightweight,UFC_20
+5,LaVerne Clark,Fabiano Iha,Lightweight,UFC_20
+6,Ron Waterman,Chris Condo,Heavyweight,UFC_20

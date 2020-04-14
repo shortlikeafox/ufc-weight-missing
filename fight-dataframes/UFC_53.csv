@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Andrei Arlovski (ic),Justin Eilers,UFC_53
-1,Karo Parisyan,Matt Serra,UFC_53
-2,Rich Franklin,Evan Tanner (c),UFC_53
-3,Forrest Griffin,Bill Mahood,UFC_53
-4,Paul Buentello,Kevin Jordan,UFC_53
-5,Nate Quarry,Shonie Carter,UFC_53
-6,David Loiseau,Charles McCarthy,UFC_53
-7,Nick Diaz,Koji Oishi,UFC_53
+,winner,loser,weight_class,event
+0,Andrei Arlovski (ic),Justin Eilers,Heavyweight,UFC_53
+1,Karo Parisyan,Matt Serra,Welterweight,UFC_53
+2,Rich Franklin,Evan Tanner (c),Middleweight,UFC_53
+3,Forrest Griffin,Bill Mahood,Light Heavyweight,UFC_53
+4,Paul Buentello,Kevin Jordan,Heavyweight,UFC_53
+5,Nate Quarry,Shonie Carter,Middleweight,UFC_53
+6,David Loiseau,Charles McCarthy,Middleweight,UFC_53
+7,Nick Diaz,Koji Oishi,Welterweight,UFC_53

@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Stephan Bonnar,Keith Jardine,UFC_Ultimate_Fight_Night_4
-1,Rashad Evans,Sam Hoger,UFC_Ultimate_Fight_Night_4
-2,Josh Neer,Joe Stevenson,UFC_Ultimate_Fight_Night_4
-3,Chris Leben,Luigi Fioravanti,UFC_Ultimate_Fight_Night_4
-4,Luke Cummo,Jason Von Flue,UFC_Ultimate_Fight_Night_4
-5,Jon Fitch,Josh Burkman,UFC_Ultimate_Fight_Night_4
-6,Dan Christison,Brad Imes,UFC_Ultimate_Fight_Night_4
-7,Josh Koscheck,Ansar Chalangov,UFC_Ultimate_Fight_Night_4
-8,Chael Sonnen,Trevor Prangley,UFC_Ultimate_Fight_Night_4
+,winner,loser,weight_class,event
+0,Stephan Bonnar,Keith Jardine,Light Heavyweight,UFC_Ultimate_Fight_Night_4
+1,Rashad Evans,Sam Hoger,Light Heavyweight,UFC_Ultimate_Fight_Night_4
+2,Josh Neer,Joe Stevenson,Welterweight,UFC_Ultimate_Fight_Night_4
+3,Chris Leben,Luigi Fioravanti,Middleweight,UFC_Ultimate_Fight_Night_4
+4,Luke Cummo,Jason Von Flue,Welterweight,UFC_Ultimate_Fight_Night_4
+5,Jon Fitch,Josh Burkman,Welterweight,UFC_Ultimate_Fight_Night_4
+6,Dan Christison,Brad Imes,Heavyweight,UFC_Ultimate_Fight_Night_4
+7,Josh Koscheck,Ansar Chalangov,Welterweight,UFC_Ultimate_Fight_Night_4
+8,Chael Sonnen,Trevor Prangley,Middleweight,UFC_Ultimate_Fight_Night_4

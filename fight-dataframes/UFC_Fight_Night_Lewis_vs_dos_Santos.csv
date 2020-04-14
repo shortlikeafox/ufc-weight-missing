@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Junior dos Santos,Derrick Lewis,UFC_Fight_Night_Lewis_vs_dos_Santos
-1,Elizeu Zaleski dos Santos,Curtis Millender,UFC_Fight_Night_Lewis_vs_dos_Santos
-2,Niko Price,Tim Means,UFC_Fight_Night_Lewis_vs_dos_Santos
-3,Blagoy Ivanov,Ben Rothwell,UFC_Fight_Night_Lewis_vs_dos_Santos
-4,Beneil Dariush,Drew Dober,UFC_Fight_Night_Lewis_vs_dos_Santos
-5,Omari Akhmedov,Tim Boetsch,UFC_Fight_Night_Lewis_vs_dos_Santos
-6,Anthony Rocco Martin,S\xc3\xa9rgio Moraes,UFC_Fight_Night_Lewis_vs_dos_Santos
-7,Yana Kunitskaya,Marion Reneau,UFC_Fight_Night_Lewis_vs_dos_Santos
-8,Grant Dawson,Julian Erosa,UFC_Fight_Night_Lewis_vs_dos_Santos
-9,Maurice Greene,Jeff Hughes,UFC_Fight_Night_Lewis_vs_dos_Santos
-10,Matt Schnell,Louis Smolka,UFC_Fight_Night_Lewis_vs_dos_Santos
-11,Alex Morono,Zak Ottow,UFC_Fight_Night_Lewis_vs_dos_Santos
-12,Alex White,Dan Moret,UFC_Fight_Night_Lewis_vs_dos_Santos
+,winner,loser,weight_class,event
+0,Junior dos Santos,Derrick Lewis,Heavyweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+1,Elizeu Zaleski dos Santos,Curtis Millender,Welterweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+2,Niko Price,Tim Means,Welterweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+3,Blagoy Ivanov,Ben Rothwell,Heavyweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+4,Beneil Dariush,Drew Dober,Lightweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+5,Omari Akhmedov,Tim Boetsch,Middleweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+6,Anthony Rocco Martin,S\xc3\xa9rgio Moraes,Welterweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+7,Yana Kunitskaya,Marion Reneau,Women\'s Bantamweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+8,Grant Dawson,Julian Erosa,Featherweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+9,Maurice Greene,Jeff Hughes,Heavyweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+10,Matt Schnell,Louis Smolka,Bantamweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+11,Alex Morono,Zak Ottow,Welterweight,UFC_Fight_Night_Lewis_vs_dos_Santos
+12,Alex White,Dan Moret,Lightweight,UFC_Fight_Night_Lewis_vs_dos_Santos

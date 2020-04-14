@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Chan Sung Jung,Frankie Edgar,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-1,Volkan Oezdemir,Aleksandar Raki\xc4\x87,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-2,Charles Jourdain,Doo Ho Choi,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-3,Da Un Jung,Mike Rodr\xc3\xadguez,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-4,Jun Yong Park,Marc-Andr\xc3\xa9 Barriault,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-5,Kyung Ho Kang,Liu Pingyuan,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-6,Ciryl Gane,Tanner Boser,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-7,Seung Woo Choi,Suman Mokhtarian,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-8,Omar Morales,Dong Hyun Ma,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-9,Alexandre Pantoja,Matt Schnell,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-10,Raoni Barcelos,Said Nurmagomedov,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-11,Amanda Lemos,Miranda Granger,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
-12,Heili Alateng,Ryan Benoit,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+,winner,loser,weight_class,event
+0,Chan Sung Jung,Frankie Edgar,Featherweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+1,Volkan Oezdemir,Aleksandar Raki\xc4\x87,Light Heavyweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+2,Charles Jourdain,Doo Ho Choi,Featherweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+3,Da Un Jung,Mike Rodr\xc3\xadguez,Light Heavyweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+4,Jun Yong Park,Marc-Andr\xc3\xa9 Barriault,Middleweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+5,Kyung Ho Kang,Liu Pingyuan,Bantamweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+6,Ciryl Gane,Tanner Boser,Heavyweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+7,Seung Woo Choi,Suman Mokhtarian,Featherweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+8,Omar Morales,Dong Hyun Ma,Lightweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+9,Alexandre Pantoja,Matt Schnell,Flyweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+10,Raoni Barcelos,Said Nurmagomedov,Bantamweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+11,Amanda Lemos,Miranda Granger,Womens\'s Strawweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie
+12,Heili Alateng,Ryan Benoit,Bantamweight,UFC_Fight_Night_Edgar_vs_The_Korean_Zombie

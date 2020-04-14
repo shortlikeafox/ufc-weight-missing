@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Matt Hughes (c),Carlos Newton,UFC_38
-1,Ian Freeman,Frank Mir,UFC_38
-2,Mark Weir,Eugene Jackson,UFC_38
-3,Genki Sudo,Leigh Remedios,UFC_38
-4,Phillip Miller,James Zikic,UFC_38
-5,Renato Sobral,Elvis Sinosic,UFC_38
-6,Evan Tanner,Chris Haseman,UFC_38
+,winner,loser,weight_class,event
+0,Matt Hughes (c),Carlos Newton,Welterweight,UFC_38
+1,Ian Freeman,Frank Mir,Heavyweight,UFC_38
+2,Mark Weir,Eugene Jackson,Middleweight,UFC_38
+3,Genki Sudo,Leigh Remedios,Lightweight,UFC_38
+4,Phillip Miller,James Zikic,Light Heavyweight,UFC_38
+5,Renato Sobral,Elvis Sinosic,Light Heavyweight,UFC_38
+6,Evan Tanner,Chris Haseman,Light Heavyweight,UFC_38

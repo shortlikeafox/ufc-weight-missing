@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Diego Sanchez,Joe Stevenson,UFC_95
-1,Dan Hardy,Rory Markham,UFC_95
-2,Nate Marquardt,Wilson Gouveia,UFC_95
-3,Demian Maia,Chael Sonnen,UFC_95
-4,Paulo Thiago,Josh Koscheck,UFC_95
-5,Terry Etim,Brian Cobb,UFC_95
-6,Junior dos Santos,Stefan Struve,UFC_95
-7,Evan Dunham,Per Eklund,UFC_95
-8,Mike Ciesnolevicz,Neil Grove,UFC_95
-9,Paul Kelly,Troy Mandaloniz,UFC_95
+,winner,loser,weight_class,event
+0,Diego Sanchez,Joe Stevenson,Lightweight,UFC_95
+1,Dan Hardy,Rory Markham,Welterweight,UFC_95
+2,Nate Marquardt,Wilson Gouveia,Middleweight,UFC_95
+3,Demian Maia,Chael Sonnen,Middleweight,UFC_95
+4,Paulo Thiago,Josh Koscheck,Welterweight,UFC_95
+5,Terry Etim,Brian Cobb,Lightweight,UFC_95
+6,Junior dos Santos,Stefan Struve,Heavyweight,UFC_95
+7,Evan Dunham,Per Eklund,Lightweight,UFC_95
+8,Mike Ciesnolevicz,Neil Grove,Heavyweight,UFC_95
+9,Paul Kelly,Troy Mandaloniz,Welterweight,UFC_95

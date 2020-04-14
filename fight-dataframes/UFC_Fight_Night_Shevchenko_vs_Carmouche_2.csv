@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Valentina Shevchenko (c),Liz Carmouche,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-1,Vicente Luque,Mike Perry,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-2,Luiz Eduardo Garagorri,Humberto Bandenay,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-3,Volkan Oezdemir,Ilir Latifi,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-4,Rodolfo Vieira,Oskar Piechota,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-5,Enrique Barzola,Bobby Moffett,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-6,Gilbert Burns,Alexey Kunchenko,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-7,Ciryl Gane,Raphael Pessoa Nunes,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-8,Marina Rodriguez,Tecia Torres,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-9,Rog\xc3\xa9rio Bontorin,Raulian Paiva,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-10,Chris Guti\xc3\xa9rrez,Geraldo de Freitas,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-11,Alex da Silva Coelho,Rodrigo Vargas,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
-12,Veronica Macedo,Polyana Viana,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+,winner,loser,weight_class,event
+0,Valentina Shevchenko (c),Liz Carmouche,Women\'s Flyweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+1,Vicente Luque,Mike Perry,Welterweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+2,Luiz Eduardo Garagorri,Humberto Bandenay,Featherweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+3,Volkan Oezdemir,Ilir Latifi,Light Heavyweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+4,Rodolfo Vieira,Oskar Piechota,Middleweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+5,Enrique Barzola,Bobby Moffett,Featherweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+6,Gilbert Burns,Alexey Kunchenko,Welterweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+7,Ciryl Gane,Raphael Pessoa Nunes,Heavyweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+8,Marina Rodriguez,Tecia Torres,Women\'s Strawweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+9,Rog\xc3\xa9rio Bontorin,Raulian Paiva,Flyweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+10,Chris Guti\xc3\xa9rrez,Geraldo de Freitas,Bantamweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+11,Alex da Silva Coelho,Rodrigo Vargas,Lightweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2
+12,Veronica Macedo,Polyana Viana,Women\'s Flyweight,UFC_Fight_Night_Shevchenko_vs_Carmouche_2

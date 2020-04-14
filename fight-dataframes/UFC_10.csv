@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Mark Coleman,Don Frye,UFC_10
-1,Don Frye,Brian Johnston,UFC_10
-2,Mark Coleman,Gary Goodridge,UFC_10
-3,Don Frye,Mark Hall,UFC_10
-4,Brian Johnston,Scott Fiedler,UFC_10
-5,Mark Coleman,Moti Horenstein,UFC_10
-6,Gary Goodridge,John Campetella,UFC_10
-7,Geza Kalman,Dieuseul Berto,UFC_10
-8,Sam Adkins,Felix Mitchell,UFC_10
+,winner,loser,weight_class,event
+0,Mark Coleman,Don Frye,N/A,UFC_10
+1,Don Frye,Brian Johnston,N/A,UFC_10
+2,Mark Coleman,Gary Goodridge,N/A,UFC_10
+3,Don Frye,Mark Hall,N/A,UFC_10
+4,Brian Johnston,Scott Fiedler,N/A,UFC_10
+5,Mark Coleman,Moti Horenstein,N/A,UFC_10
+6,Gary Goodridge,John Campetella,N/A,UFC_10
+7,Geza Kalman,Dieuseul Berto,N/A,UFC_10
+8,Sam Adkins,Felix Mitchell,N/A,UFC_10

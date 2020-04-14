@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Khabib Nurmagomedov,Al Iaquinta,UFC_223
-1,Rose Namajunas (c),Joanna J\xc4\x99drzejczyk,UFC_223
-2,Renato Moicano,Calvin Kattar,UFC_223
-3,Zabit Magomedsharipov,Kyle Bochniak,UFC_223
-4,Chris Gruetzemacher,Joe Lauzon,UFC_223
-5,Karolina Kowalkiewicz,Felice Herrig,UFC_223
-6,Olivier Aubin-Mercier,Evan Dunham,UFC_223
-7,Ashlee Evans-Smith,Bec Rawlings,UFC_223
-8,Devin Clark,Mike Rodr\xc3\xadguez,UFC_223
+,winner,loser,weight_class,event
+0,Khabib Nurmagomedov,Al Iaquinta,Lightweight,UFC_223
+1,Rose Namajunas (c),Joanna J\xc4\x99drzejczyk,Women\'s Strawweight,UFC_223
+2,Renato Moicano,Calvin Kattar,Featherweight,UFC_223
+3,Zabit Magomedsharipov,Kyle Bochniak,Featherweight,UFC_223
+4,Chris Gruetzemacher,Joe Lauzon,Lightweight,UFC_223
+5,Karolina Kowalkiewicz,Felice Herrig,Women\'s Strawweight,UFC_223
+6,Olivier Aubin-Mercier,Evan Dunham,Lightweight,UFC_223
+7,Ashlee Evans-Smith,Bec Rawlings,Women\'s Flyweight,UFC_223
+8,Devin Clark,Mike Rodr\xc3\xadguez,Light Heavyweight,UFC_223

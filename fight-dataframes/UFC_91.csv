@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Brock Lesnar,Randy Couture (c),UFC_91
-1,Kenny Florian,Joe Stevenson,UFC_91
-2,Dustin Hazelett,Tamdan McCrory,UFC_91
-3,Gabriel Gonzaga,Josh Hendricks,UFC_91
-4,Demian Maia,Nate Quarry,UFC_91
-5,Aaron Riley,Jorge Gurgel,UFC_91
-6,Jeremy Stephens,Rafael dos Anjos,UFC_91
-7,Mark Bocek,Alvin Robinson,UFC_91
-8,Matt Brown,Ryan Thomas,UFC_91
+,winner,loser,weight_class,event
+0,Brock Lesnar,Randy Couture (c),Heavyweight,UFC_91
+1,Kenny Florian,Joe Stevenson,Lightweight,UFC_91
+2,Dustin Hazelett,Tamdan McCrory,Welterweight,UFC_91
+3,Gabriel Gonzaga,Josh Hendricks,Heavyweight,UFC_91
+4,Demian Maia,Nate Quarry,Middleweight,UFC_91
+5,Aaron Riley,Jorge Gurgel,Lightweight,UFC_91
+6,Jeremy Stephens,Rafael dos Anjos,Lightweight,UFC_91
+7,Mark Bocek,Alvin Robinson,Lightweight,UFC_91
+8,Matt Brown,Ryan Thomas,Welterweight,UFC_91

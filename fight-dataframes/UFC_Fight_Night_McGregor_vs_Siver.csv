@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Conor McGregor,Dennis Siver,UFC_Fight_Night_McGregor_vs_Siver
-1,Donald Cerrone,Benson Henderson,UFC_Fight_Night_McGregor_vs_Siver
-2,Uriah Hall,Ron Stallings,UFC_Fight_Night_McGregor_vs_Siver
-3,Gleison Tibau,Norman Parke,UFC_Fight_Night_McGregor_vs_Siver
-4,Cathal Pendred,Sean Spencer,UFC_Fight_Night_McGregor_vs_Siver
-5,Lorenz Larkin,John Howard,UFC_Fight_Night_McGregor_vs_Siver
-6,Chris Wade,Zhang Lipeng,UFC_Fight_Night_McGregor_vs_Siver
-7,Paddy Holohan,Shane Howell,UFC_Fight_Night_McGregor_vs_Siver
-8,Johnny Case,Frankie Perez,UFC_Fight_Night_McGregor_vs_Siver
-9,Charles Rosa,Sean Soriano,UFC_Fight_Night_McGregor_vs_Siver
-10,Sean O\'Connell,Matt Van Buren,UFC_Fight_Night_McGregor_vs_Siver
-11,Joby Sanchez,Tateki Matsuda,UFC_Fight_Night_McGregor_vs_Siver
+,winner,loser,weight_class,event
+0,Conor McGregor,Dennis Siver,Featherweight,UFC_Fight_Night_McGregor_vs_Siver
+1,Donald Cerrone,Benson Henderson,Lightweight,UFC_Fight_Night_McGregor_vs_Siver
+2,Uriah Hall,Ron Stallings,Middleweight,UFC_Fight_Night_McGregor_vs_Siver
+3,Gleison Tibau,Norman Parke,Lightweight,UFC_Fight_Night_McGregor_vs_Siver
+4,Cathal Pendred,Sean Spencer,Welterweight,UFC_Fight_Night_McGregor_vs_Siver
+5,Lorenz Larkin,John Howard,Welterweight,UFC_Fight_Night_McGregor_vs_Siver
+6,Chris Wade,Zhang Lipeng,Lightweight,UFC_Fight_Night_McGregor_vs_Siver
+7,Paddy Holohan,Shane Howell,Flyweight,UFC_Fight_Night_McGregor_vs_Siver
+8,Johnny Case,Frankie Perez,Lightweight,UFC_Fight_Night_McGregor_vs_Siver
+9,Charles Rosa,Sean Soriano,Featherweight,UFC_Fight_Night_McGregor_vs_Siver
+10,Sean O\'Connell,Matt Van Buren,Light Heavyweight,UFC_Fight_Night_McGregor_vs_Siver
+11,Joby Sanchez,Tateki Matsuda,Flyweight,UFC_Fight_Night_McGregor_vs_Siver

@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Ant\xc3\xb4nio Silva,Travis Browne,UFC_on_FX_Browne_vs_Bigfoot
-1,Jake Ellenberger,Jay Hieron,UFC_on_FX_Browne_vs_Bigfoot
-2,John Dodson,Jussier Formiga,UFC_on_FX_Browne_vs_Bigfoot
-3,Justin Edwards,Josh Neer,UFC_on_FX_Browne_vs_Bigfoot
-4,Michael Johnson,Danny Castillo,UFC_on_FX_Browne_vs_Bigfoot
-5,Mike Pierce,Aaron Simpson,UFC_on_FX_Browne_vs_Bigfoot
-6,Marcus LeVesseur,Carlo Prater,UFC_on_FX_Browne_vs_Bigfoot
-7,Jacob Volkmann,Shane Roller,UFC_on_FX_Browne_vs_Bigfoot
-8,Diego Nunes,Bart Palaszewski,UFC_on_FX_Browne_vs_Bigfoot
-9,Darren Uyenoyama,Phil Harris,UFC_on_FX_Browne_vs_Bigfoot
+,winner,loser,weight_class,event
+0,Ant\xc3\xb4nio Silva,Travis Browne,Heavyweight,UFC_on_FX_Browne_vs_Bigfoot
+1,Jake Ellenberger,Jay Hieron,Welterweight,UFC_on_FX_Browne_vs_Bigfoot
+2,John Dodson,Jussier Formiga,Flyweight,UFC_on_FX_Browne_vs_Bigfoot
+3,Justin Edwards,Josh Neer,Welterweight,UFC_on_FX_Browne_vs_Bigfoot
+4,Michael Johnson,Danny Castillo,Lightweight,UFC_on_FX_Browne_vs_Bigfoot
+5,Mike Pierce,Aaron Simpson,Welterweight,UFC_on_FX_Browne_vs_Bigfoot
+6,Marcus LeVesseur,Carlo Prater,Lightweight,UFC_on_FX_Browne_vs_Bigfoot
+7,Jacob Volkmann,Shane Roller,Lightweight,UFC_on_FX_Browne_vs_Bigfoot
+8,Diego Nunes,Bart Palaszewski,Featherweight,UFC_on_FX_Browne_vs_Bigfoot
+9,Darren Uyenoyama,Phil Harris,Flyweight,UFC_on_FX_Browne_vs_Bigfoot

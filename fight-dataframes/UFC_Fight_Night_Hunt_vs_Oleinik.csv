@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Aleksei Oleinik,Mark Hunt,UFC_Fight_Night_Hunt_vs_Oleinik
-1,Jan B\xc5\x82achowicz,Nikita Krylov,UFC_Fight_Night_Hunt_vs_Oleinik
-2,Shamil Abdurakhimov,Andrei Arlovski,UFC_Fight_Night_Hunt_vs_Oleinik
-3,Alexey Kunchenko,Thiago Alves,UFC_Fight_Night_Hunt_vs_Oleinik
-4,Khalid Murtazaliev,C.B. Dollaway,UFC_Fight_Night_Hunt_vs_Oleinik
-5,Petr Yan,Jin Soo Son,UFC_Fight_Night_Hunt_vs_Oleinik
-6,Rustam Khabilov,Kajan Johnson,UFC_Fight_Night_Hunt_vs_Oleinik
-7,Mairbek Taisumov,Desmond Green,UFC_Fight_Night_Hunt_vs_Oleinik
-8,Magomed Ankalaev,Marcin Prachnio,UFC_Fight_Night_Hunt_vs_Oleinik
-9,Jordan Johnson,Adam Yandiev,UFC_Fight_Night_Hunt_vs_Oleinik
-10,Ramazan Emeev,Stefan Sekuli\xc4\x87,UFC_Fight_Night_Hunt_vs_Oleinik
-11,Merab Dvalishvili,Terrion Ware,UFC_Fight_Night_Hunt_vs_Oleinik
+,winner,loser,weight_class,event
+0,Aleksei Oleinik,Mark Hunt,Heavyweight,UFC_Fight_Night_Hunt_vs_Oleinik
+1,Jan B\xc5\x82achowicz,Nikita Krylov,Light Heavyweight,UFC_Fight_Night_Hunt_vs_Oleinik
+2,Shamil Abdurakhimov,Andrei Arlovski,Heavyweight,UFC_Fight_Night_Hunt_vs_Oleinik
+3,Alexey Kunchenko,Thiago Alves,Welterweight,UFC_Fight_Night_Hunt_vs_Oleinik
+4,Khalid Murtazaliev,C.B. Dollaway,Middleweight,UFC_Fight_Night_Hunt_vs_Oleinik
+5,Petr Yan,Jin Soo Son,Catchweight (137 lbs),UFC_Fight_Night_Hunt_vs_Oleinik
+6,Rustam Khabilov,Kajan Johnson,Lightweight,UFC_Fight_Night_Hunt_vs_Oleinik
+7,Mairbek Taisumov,Desmond Green,Catchweight (161 lbs),UFC_Fight_Night_Hunt_vs_Oleinik
+8,Magomed Ankalaev,Marcin Prachnio,Light Heavyweight,UFC_Fight_Night_Hunt_vs_Oleinik
+9,Jordan Johnson,Adam Yandiev,Middleweight,UFC_Fight_Night_Hunt_vs_Oleinik
+10,Ramazan Emeev,Stefan Sekuli\xc4\x87,Welterweight,UFC_Fight_Night_Hunt_vs_Oleinik
+11,Merab Dvalishvili,Terrion Ware,Bantamweight,UFC_Fight_Night_Hunt_vs_Oleinik

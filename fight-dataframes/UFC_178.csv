@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Demetrious Johnson (c),Chris Cariaso,UFC_178
-1,Donald Cerrone,Eddie Alvarez,UFC_178
-2,Conor McGregor,Dustin Poirier,UFC_178
-3,Yoel Romero,Tim Kennedy,UFC_178
-4,Cat Zingano,Amanda Nunes,UFC_178
-5,Dominick Cruz,Takeya Mizugaki,UFC_178
-6,Jorge Masvidal,James Krause,UFC_178
-7,Stephen Thompson,Patrick C\xc3\xb4t\xc3\xa9,UFC_178
-8,Brian Ebersole,John Howard,UFC_178
-9,Kevin Lee,Jon Tuck,UFC_178
-10,Manvel Gamburyan,Cody Gibson,UFC_178
+,winner,loser,weight_class,event
+0,Demetrious Johnson (c),Chris Cariaso,Flyweight,UFC_178
+1,Donald Cerrone,Eddie Alvarez,Lightweight,UFC_178
+2,Conor McGregor,Dustin Poirier,Featherweight,UFC_178
+3,Yoel Romero,Tim Kennedy,Middleweight,UFC_178
+4,Cat Zingano,Amanda Nunes,Women\'s Bantamweight,UFC_178
+5,Dominick Cruz,Takeya Mizugaki,Bantamweight,UFC_178
+6,Jorge Masvidal,James Krause,Lightweight,UFC_178
+7,Stephen Thompson,Patrick C\xc3\xb4t\xc3\xa9,Welterweight,UFC_178
+8,Brian Ebersole,John Howard,Welterweight,UFC_178
+9,Kevin Lee,Jon Tuck,Lightweight,UFC_178
+10,Manvel Gamburyan,Cody Gibson,Bantamweight,UFC_178

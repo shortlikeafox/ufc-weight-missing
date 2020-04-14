@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Benson Henderson,Frankie Edgar (c),UFC_144
-1,Ryan Bader,Quinton Jackson,UFC_144
-2,Mark Hunt,Cheick Kongo,UFC_144
-3,Jake Shields,Yoshihiro Akiyama,UFC_144
-4,Tim Boetsch,Yushin Okami,UFC_144
-5,Hatsu Hioki,Bart Palaszewski,UFC_144
-6,Anthony Pettis,Joe Lauzon,UFC_144
-7,Takanori Gomi,Eiji Mitsuoka,UFC_144
-8,Vaughan Lee,Norifumi Yamamoto,UFC_144
-9,Riki Fukuda,Steve Cantwell,UFC_144
-10,Chris Cariaso,Takeya Mizugaki,UFC_144
-11,Issei Tamura,Zhang Tiequan,UFC_144
+,winner,loser,weight_class,event
+0,Benson Henderson,Frankie Edgar (c),Lightweight,UFC_144
+1,Ryan Bader,Quinton Jackson,Catchweight (211 lb),UFC_144
+2,Mark Hunt,Cheick Kongo,Heavyweight,UFC_144
+3,Jake Shields,Yoshihiro Akiyama,Welterweight,UFC_144
+4,Tim Boetsch,Yushin Okami,Middleweight,UFC_144
+5,Hatsu Hioki,Bart Palaszewski,Featherweight,UFC_144
+6,Anthony Pettis,Joe Lauzon,Lightweight,UFC_144
+7,Takanori Gomi,Eiji Mitsuoka,Lightweight,UFC_144
+8,Vaughan Lee,Norifumi Yamamoto,Bantamweight,UFC_144
+9,Riki Fukuda,Steve Cantwell,Middleweight,UFC_144
+10,Chris Cariaso,Takeya Mizugaki,Bantamweight,UFC_144
+11,Issei Tamura,Zhang Tiequan,Featherweight,UFC_144

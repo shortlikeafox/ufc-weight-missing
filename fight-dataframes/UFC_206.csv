@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Max Holloway,Anthony Pettis,UFC_206
-1,Donald Cerrone,Matt Brown,UFC_206
-2,Cub Swanson,Doo Ho Choi,UFC_206
-3,Kelvin Gastelum,Tim Kennedy,UFC_206
-4,Emil Weber Meek,Jordan Mein,UFC_206
-5,Misha Cirkunov,Nikita Krylov,UFC_206
-6,Olivier Aubin-Mercier,Drew Dober,UFC_206
-7,Viviane Pereira,Val\xc3\xa9rie L\xc3\xa9tourneau,UFC_206
-8,Matthew Lopez,Mitch Gagnon,UFC_206
-9,Lando Vannata,John Makdessi,UFC_206
-10,Rustam Khabilov,Jason Saggo,UFC_206
-11,Dustin Ortiz,Zach Makovsky,UFC_206
+,winner,loser,weight_class,event
+0,Max Holloway,Anthony Pettis,Catchweight (148 lbs),UFC_206
+1,Donald Cerrone,Matt Brown,Welterweight,UFC_206
+2,Cub Swanson,Doo Ho Choi,Featherweight,UFC_206
+3,Kelvin Gastelum,Tim Kennedy,Middleweight,UFC_206
+4,Emil Weber Meek,Jordan Mein,Welterweight,UFC_206
+5,Misha Cirkunov,Nikita Krylov,Light Heavyweight,UFC_206
+6,Olivier Aubin-Mercier,Drew Dober,Lightweight,UFC_206
+7,Viviane Pereira,Val\xc3\xa9rie L\xc3\xa9tourneau,Catchweight (117.5 lbs),UFC_206
+8,Matthew Lopez,Mitch Gagnon,Bantamweight,UFC_206
+9,Lando Vannata,John Makdessi,Lightweight,UFC_206
+10,Rustam Khabilov,Jason Saggo,Catchweight (158 lbs),UFC_206
+11,Dustin Ortiz,Zach Makovsky,Flyweight,UFC_206

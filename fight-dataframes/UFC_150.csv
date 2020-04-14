@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Benson Henderson (c),Frankie Edgar,UFC_150
-1,Donald Cerrone,Melvin Guillard,UFC_150
-2,Jake Shields,Ed Herman,UFC_150
-3,Yushin Okami,Buddy Roberts,UFC_150
-4,Max Holloway,Justin Lawrence,UFC_150
-5,Dennis Bermudez,Tommy Hayden,UFC_150
-6,Michael Kuiper,Jared Hamman,UFC_150
-7,\xc3\x89rik P\xc3\xa9rez,Ken Stone,UFC_150
-8,Chico Camus,Dustin Pague,UFC_150
-9,Nik Lentz,Eiji Mitsuoka,UFC_150
+,winner,loser,weight_class,event
+0,Benson Henderson (c),Frankie Edgar,Lightweight,UFC_150
+1,Donald Cerrone,Melvin Guillard,Catchweight (157.5 lbs.),UFC_150
+2,Jake Shields,Ed Herman,Middleweight,UFC_150
+3,Yushin Okami,Buddy Roberts,Middleweight,UFC_150
+4,Max Holloway,Justin Lawrence,Featherweight,UFC_150
+5,Dennis Bermudez,Tommy Hayden,Featherweight,UFC_150
+6,Michael Kuiper,Jared Hamman,Middleweight,UFC_150
+7,\xc3\x89rik P\xc3\xa9rez,Ken Stone,Bantamweight,UFC_150
+8,Chico Camus,Dustin Pague,Bantamweight,UFC_150
+9,Nik Lentz,Eiji Mitsuoka,Featherweight,UFC_150

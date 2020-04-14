@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Conor McGregor (ic),Jos\xc3\xa9 Aldo (c),UFC_194
-1,Luke Rockhold,Chris Weidman (c),UFC_194
-2,Yoel Romero,Ronaldo Souza,UFC_194
-3,Demian Maia,Gunnar Nelson,UFC_194
-4,Max Holloway,Jeremy Stephens,UFC_194
-5,Urijah Faber,Frankie Saenz,UFC_194
-6,Tecia Torres,Jocelyn Jones-Lybarger,UFC_194
-7,Warlley Alves,Colby Covington,UFC_194
-8,Leonardo Santos,Kevin Lee,UFC_194
-9,Magomed Mustafaev,Joe Proctor,UFC_194
-10,Yancy Medeiros,John Makdessi,UFC_194
-11,Court McGee,M\xc3\xa1rcio Alexandre Jr.,UFC_194
+,winner,loser,weight_class,event
+0,Conor McGregor (ic),Jos\xc3\xa9 Aldo (c),Featherweight,UFC_194
+1,Luke Rockhold,Chris Weidman (c),Middleweight,UFC_194
+2,Yoel Romero,Ronaldo Souza,Middleweight,UFC_194
+3,Demian Maia,Gunnar Nelson,Welterweight,UFC_194
+4,Max Holloway,Jeremy Stephens,Featherweight,UFC_194
+5,Urijah Faber,Frankie Saenz,Bantamweight,UFC_194
+6,Tecia Torres,Jocelyn Jones-Lybarger,Women\'s Strawweight,UFC_194
+7,Warlley Alves,Colby Covington,Welterweight,UFC_194
+8,Leonardo Santos,Kevin Lee,Lightweight,UFC_194
+9,Magomed Mustafaev,Joe Proctor,Lightweight,UFC_194
+10,Yancy Medeiros,John Makdessi,Lightweight,UFC_194
+11,Court McGee,M\xc3\xa1rcio Alexandre Jr.,Welterweight,UFC_194

@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Chuck Liddell (c),Renato Sobral,UFC_62
-1,Forrest Griffin,Stephan Bonnar,UFC_62
-2,Nick Diaz,Josh Neer,UFC_62
-3,Cheick Kongo,Christian Wellisch,UFC_62
-4,Hermes Fran\xc3\xa7a,Jamie Varner,UFC_62
-5,Eric Schafer,Rob MacDonald,UFC_62
-6,Wilson Gouveia,Wes Combs,UFC_62
-7,David Heath,Cory Walmsley,UFC_62
-8,Yushin Okami,Alan Belcher,UFC_62
+,winner,loser,weight_class,event
+0,Chuck Liddell (c),Renato Sobral,Light Heavyweight,UFC_62
+1,Forrest Griffin,Stephan Bonnar,Light Heavyweight,UFC_62
+2,Nick Diaz,Josh Neer,Welterweight,UFC_62
+3,Cheick Kongo,Christian Wellisch,Heavyweight,UFC_62
+4,Hermes Fran\xc3\xa7a,Jamie Varner,Lightweight,UFC_62
+5,Eric Schafer,Rob MacDonald,Light Heavyweight,UFC_62
+6,Wilson Gouveia,Wes Combs,Light Heavyweight,UFC_62
+7,David Heath,Cory Walmsley,Light Heavyweight,UFC_62
+8,Yushin Okami,Alan Belcher,Middleweight,UFC_62

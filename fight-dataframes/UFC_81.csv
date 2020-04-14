@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Ant\xc3\xb4nio Rodrigo Nogueira,Tim Sylvia,UFC_81
-1,Frank Mir,Brock Lesnar,UFC_81
-2,Nate Marquardt,Jeremy Horn,UFC_81
-3,Ricardo Almeida,Rob Yundt,UFC_81
-4,Tyson Griffin,Gleison Tibau,UFC_81
-5,Chris Lytle,Kyle Bradley,UFC_81
-6,Marvin Eastman,Terry Martin,UFC_81
-7,Tim Boetsch,David Heath,UFC_81
-8,Rob Emerson,Keita Nakamura,UFC_81
+,winner,loser,weight_class,event
+0,Ant\xc3\xb4nio Rodrigo Nogueira,Tim Sylvia,Heavyweight,UFC_81
+1,Frank Mir,Brock Lesnar,Heavyweight,UFC_81
+2,Nate Marquardt,Jeremy Horn,Middleweight,UFC_81
+3,Ricardo Almeida,Rob Yundt,Middleweight,UFC_81
+4,Tyson Griffin,Gleison Tibau,Lightweight,UFC_81
+5,Chris Lytle,Kyle Bradley,Welterweight,UFC_81
+6,Marvin Eastman,Terry Martin,Middleweight,UFC_81
+7,Tim Boetsch,David Heath,Light Heavyweight,UFC_81
+8,Rob Emerson,Keita Nakamura,Lightweight,UFC_81

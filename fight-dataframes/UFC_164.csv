@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Anthony Pettis,Benson Henderson (c),UFC_164
-1,Josh Barnett,Frank Mir,UFC_164
-2,Chad Mendes,Clay Guida,UFC_164
-3,Ben Rothwell,Brandon Vera,UFC_164
-4,Dustin Poirier,Erik Koch,UFC_164
-5,Gleison Tibau,Jamie Varner,UFC_164
-6,Tim Elliott,Louis Gaudinot,UFC_164
-7,Hyun Gyu Lim,Pascal Krauss,UFC_164
-8,Chico Camus,Kyung Ho Kang,UFC_164
-9,Soa Palelei,Nikita Krylov,UFC_164
-10,Al Iaquinta,Ryan Couture,UFC_164
-11,Magnus Cedenblad,Jared Hamman,UFC_164
+,winner,loser,weight_class,event
+0,Anthony Pettis,Benson Henderson (c),Lightweight,UFC_164
+1,Josh Barnett,Frank Mir,Heavyweight,UFC_164
+2,Chad Mendes,Clay Guida,Featherweight,UFC_164
+3,Ben Rothwell,Brandon Vera,Heavyweight,UFC_164
+4,Dustin Poirier,Erik Koch,Featherweight,UFC_164
+5,Gleison Tibau,Jamie Varner,Lightweight,UFC_164
+6,Tim Elliott,Louis Gaudinot,Flyweight,UFC_164
+7,Hyun Gyu Lim,Pascal Krauss,Welterweight,UFC_164
+8,Chico Camus,Kyung Ho Kang,Bantamweight,UFC_164
+9,Soa Palelei,Nikita Krylov,Heavyweight,UFC_164
+10,Al Iaquinta,Ryan Couture,Lightweight,UFC_164
+11,Magnus Cedenblad,Jared Hamman,Middleweight,UFC_164

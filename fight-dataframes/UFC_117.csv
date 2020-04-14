@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Anderson Silva (c),Chael Sonnen,UFC_117
-1,Jon Fitch,Thiago Alves,UFC_117
-2,Clay Guida,Rafael dos Anjos,UFC_117
-3,Matt Hughes,Ricardo Almeida,UFC_117
-4,Junior dos Santos,Roy Nelson,UFC_117
-5,Rick Story,Dustin Hazelett,UFC_117
-6,Phil Davis,Rodney Wallace,UFC_117
-7,Johny Hendricks,Charlie Brenneman,UFC_117
-8,Tim Boetsch,Todd Brown,UFC_117
-9,Stefan Struve,Christian Morecraft,UFC_117
-10,Dennis Hallman,Ben Saunders,UFC_117
+,winner,loser,weight_class,event
+0,Anderson Silva (c),Chael Sonnen,Middleweight,UFC_117
+1,Jon Fitch,Thiago Alves,Catchweight (171.5\xc2\xa0lbs),UFC_117
+2,Clay Guida,Rafael dos Anjos,Lightweight,UFC_117
+3,Matt Hughes,Ricardo Almeida,Welterweight,UFC_117
+4,Junior dos Santos,Roy Nelson,Heavyweight,UFC_117
+5,Rick Story,Dustin Hazelett,Welterweight,UFC_117
+6,Phil Davis,Rodney Wallace,Light Heavyweight,UFC_117
+7,Johny Hendricks,Charlie Brenneman,Welterweight,UFC_117
+8,Tim Boetsch,Todd Brown,Light Heavyweight,UFC_117
+9,Stefan Struve,Christian Morecraft,Heavyweight,UFC_117
+10,Dennis Hallman,Ben Saunders,Welterweight,UFC_117

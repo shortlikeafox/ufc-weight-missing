@@ -1,15 +1,15 @@
-,winner,loser,event
-0,Joanna J\xc4\x99drzejczyk,Michelle Waterson,UFC_Fight_Night_Joanna_vs_Waterson
-1,Cub Swanson,Kron Gracie,UFC_Fight_Night_Joanna_vs_Waterson
-2,Niko Price,James Vick,UFC_Fight_Night_Joanna_vs_Waterson
-3,Amanda Ribas,Mackenzie Dern,UFC_Fight_Night_Joanna_vs_Waterson
-4,Matt Frevola,Luis Pe\xc3\xb1a,UFC_Fight_Night_Joanna_vs_Waterson
-5,Eryk Anders,Gerald Meerschaert,UFC_Fight_Night_Joanna_vs_Waterson
-6,Ryan Spann,Devin Clark,UFC_Fight_Night_Joanna_vs_Waterson
-7,Mike Davis,Thomas Gifford,UFC_Fight_Night_Joanna_vs_Waterson
-8,Alex Morono,Max Griffin,UFC_Fight_Night_Joanna_vs_Waterson
-9,Deiveson Figueiredo,Tim Elliott,UFC_Fight_Night_Joanna_vs_Waterson
-10,Marlon Vera,Andre Ewell,UFC_Fight_Night_Joanna_vs_Waterson
-11,Miguel Baeza,Hector Aldana,UFC_Fight_Night_Joanna_vs_Waterson
-12,Marvin Vettori,Andrew Sanchez,UFC_Fight_Night_Joanna_vs_Waterson
-13,JJ Aldrich,Lauren Mueller,UFC_Fight_Night_Joanna_vs_Waterson
+,winner,loser,weight_class,event
+0,Joanna J\xc4\x99drzejczyk,Michelle Waterson,Women\'s Strawweight,UFC_Fight_Night_Joanna_vs_Waterson
+1,Cub Swanson,Kron Gracie,Featherweight,UFC_Fight_Night_Joanna_vs_Waterson
+2,Niko Price,James Vick,Welterweight,UFC_Fight_Night_Joanna_vs_Waterson
+3,Amanda Ribas,Mackenzie Dern,Women\'s Strawweight,UFC_Fight_Night_Joanna_vs_Waterson
+4,Matt Frevola,Luis Pe\xc3\xb1a,Lightweight,UFC_Fight_Night_Joanna_vs_Waterson
+5,Eryk Anders,Gerald Meerschaert,Middleweight,UFC_Fight_Night_Joanna_vs_Waterson
+6,Ryan Spann,Devin Clark,Light Heavyweight,UFC_Fight_Night_Joanna_vs_Waterson
+7,Mike Davis,Thomas Gifford,Lightweight,UFC_Fight_Night_Joanna_vs_Waterson
+8,Alex Morono,Max Griffin,Welterweight,UFC_Fight_Night_Joanna_vs_Waterson
+9,Deiveson Figueiredo,Tim Elliott,Flyweight,UFC_Fight_Night_Joanna_vs_Waterson
+10,Marlon Vera,Andre Ewell,Bantamweight,UFC_Fight_Night_Joanna_vs_Waterson
+11,Miguel Baeza,Hector Aldana,Welterweight,UFC_Fight_Night_Joanna_vs_Waterson
+12,Marvin Vettori,Andrew Sanchez,Middleweight,UFC_Fight_Night_Joanna_vs_Waterson
+13,JJ Aldrich,Lauren Mueller,Women\'s Flyweight,UFC_Fight_Night_Joanna_vs_Waterson

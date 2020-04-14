@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Robert Whittaker (c),Yoel Romero,UFC_225
-1,Colby Covington,Rafael dos Anjos,UFC_225
-2,Holly Holm,Megan Anderson,UFC_225
-3,Tai Tuivasa,Andrei Arlovski,UFC_225
-4,Mike Jackson,CM Punk,UFC_225
-5,Curtis Blaydes,Alistair Overeem,UFC_225
-6,Cl\xc3\xa1udia Gadelha,Carla Esparza,UFC_225
-7,Mirsad Bekti\xc4\x87,Ricardo Lamas,UFC_225
-8,Chris de la Rocha,Rashad Coulter,UFC_225
-9,Anthony Smith,Rashad Evans,UFC_225
-10,Sergio Pettis,Joseph Benavidez,UFC_225
-11,Charles Oliveira,Clay Guida,UFC_225
-12,Dan Ige,Mike Santiago,UFC_225
+,winner,loser,weight_class,event
+0,Robert Whittaker (c),Yoel Romero,Middleweight,UFC_225
+1,Colby Covington,Rafael dos Anjos,Welterweight,UFC_225
+2,Holly Holm,Megan Anderson,Women\'s Featherweight,UFC_225
+3,Tai Tuivasa,Andrei Arlovski,Heavyweight,UFC_225
+4,Mike Jackson,CM Punk,Welterweight,UFC_225
+5,Curtis Blaydes,Alistair Overeem,Heavyweight,UFC_225
+6,Cl\xc3\xa1udia Gadelha,Carla Esparza,Women\'s Strawweight,UFC_225
+7,Mirsad Bekti\xc4\x87,Ricardo Lamas,Featherweight,UFC_225
+8,Chris de la Rocha,Rashad Coulter,Heavyweight,UFC_225
+9,Anthony Smith,Rashad Evans,Light Heavyweight,UFC_225
+10,Sergio Pettis,Joseph Benavidez,Flyweight,UFC_225
+11,Charles Oliveira,Clay Guida,Lightweight,UFC_225
+12,Dan Ige,Mike Santiago,Featherweight,UFC_225

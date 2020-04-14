@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Kenny Florian,Din Thomas,UFC_Fight_Night_Thomas_vs_Florian
-1,Chris Leben,Terry Martin,UFC_Fight_Night_Thomas_vs_Florian
-2,Nate Diaz,Junior Assuncao,UFC_Fight_Night_Thomas_vs_Florian
-3,Nate Quarry,Pete Sell,UFC_Fight_Night_Thomas_vs_Florian
-4,Dustin Hazelett,Jonathan Goulet,UFC_Fight_Night_Thomas_vs_Florian
-5,Thiago Alves,Kuniyoshi Hironaka,UFC_Fight_Night_Thomas_vs_Florian
-6,Cole Miller,Leonard Garcia,UFC_Fight_Night_Thomas_vs_Florian
-7,Luke Cummo,Edilberto de Oliveira,UFC_Fight_Night_Thomas_vs_Florian
-8,Gray Maynard,Joe Veres,UFC_Fight_Night_Thomas_vs_Florian
+,winner,loser,weight_class,event
+0,Kenny Florian,Din Thomas,Lightweight,UFC_Fight_Night_Thomas_vs_Florian
+1,Chris Leben,Terry Martin,Middleweight,UFC_Fight_Night_Thomas_vs_Florian
+2,Nate Diaz,Junior Assuncao,Lightweight,UFC_Fight_Night_Thomas_vs_Florian
+3,Nate Quarry,Pete Sell,Middleweight,UFC_Fight_Night_Thomas_vs_Florian
+4,Dustin Hazelett,Jonathan Goulet,Welterweight,UFC_Fight_Night_Thomas_vs_Florian
+5,Thiago Alves,Kuniyoshi Hironaka,Welterweight,UFC_Fight_Night_Thomas_vs_Florian
+6,Cole Miller,Leonard Garcia,Lightweight,UFC_Fight_Night_Thomas_vs_Florian
+7,Luke Cummo,Edilberto de Oliveira,Welterweight,UFC_Fight_Night_Thomas_vs_Florian
+8,Gray Maynard,Joe Veres,Lightweight,UFC_Fight_Night_Thomas_vs_Florian

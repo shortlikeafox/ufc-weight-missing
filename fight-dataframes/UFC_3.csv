@@ -1,7 +1,7 @@
-,winner,loser,event
-0,Steve Jennum,Harold Howard,UFC_3
-1,Ken Shamrock,Felix Mitchell,UFC_3
-2,Keith Hackney,Emmanuel Yarborough,UFC_3
-3,Ken Shamrock,Christophe Leininger,UFC_3
-4,Harold Howard,Roland Payne,UFC_3
-5,Royce Gracie,Kimo Leopoldo,UFC_3
+,winner,loser,weight_class,event
+0,Steve Jennum,Harold Howard,N/A,UFC_3
+1,Ken Shamrock,Felix Mitchell,N/A,UFC_3
+2,Keith Hackney,Emmanuel Yarborough,N/A,UFC_3
+3,Ken Shamrock,Christophe Leininger,N/A,UFC_3
+4,Harold Howard,Roland Payne,N/A,UFC_3
+5,Royce Gracie,Kimo Leopoldo,N/A,UFC_3

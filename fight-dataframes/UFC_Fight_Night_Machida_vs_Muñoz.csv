@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Lyoto Machida,Mark Mu\xc3\xb1oz,UFC_Fight_Night_Machida_vs_Muñoz
-1,Ross Pearson,Melvin Guillard,UFC_Fight_Night_Machida_vs_Muñoz
-2,Jimi Manuwa,Ryan Jimmo,UFC_Fight_Night_Machida_vs_Muñoz
-3,Norman Parke,Jon Tuck,UFC_Fight_Night_Machida_vs_Muñoz
-4,Nico Musoke,Alessio Sakara,UFC_Fight_Night_Machida_vs_Muñoz
-5,John Lineker,Phil Harris,UFC_Fight_Night_Machida_vs_Muñoz
-6,Al Iaquinta,Piotr Hallmann,UFC_Fight_Night_Machida_vs_Muñoz
-7,Luke Barnatt,Andrew Craig,UFC_Fight_Night_Machida_vs_Muñoz
-8,J\xc3\xa9ssica Andrade,Rosi Sexton,UFC_Fight_Night_Machida_vs_Muñoz
-9,Cole Miller,Andy Ogle,UFC_Fight_Night_Machida_vs_Muñoz
-10,Jimy Hettes,Robert Whiteford,UFC_Fight_Night_Machida_vs_Muñoz
-11,Brad Scott,Michael Kuiper,UFC_Fight_Night_Machida_vs_Muñoz
+,winner,loser,weight_class,event
+0,Lyoto Machida,Mark Mu\xc3\xb1oz,Middleweight,UFC_Fight_Night_Machida_vs_Muñoz
+1,Ross Pearson,Melvin Guillard,Lightweight,UFC_Fight_Night_Machida_vs_Muñoz
+2,Jimi Manuwa,Ryan Jimmo,Light Heavyweight,UFC_Fight_Night_Machida_vs_Muñoz
+3,Norman Parke,Jon Tuck,Lightweight,UFC_Fight_Night_Machida_vs_Muñoz
+4,Nico Musoke,Alessio Sakara,Middleweight,UFC_Fight_Night_Machida_vs_Muñoz
+5,John Lineker,Phil Harris,Catchweight (128 lbs),UFC_Fight_Night_Machida_vs_Muñoz
+6,Al Iaquinta,Piotr Hallmann,Lightweight,UFC_Fight_Night_Machida_vs_Muñoz
+7,Luke Barnatt,Andrew Craig,Middleweight,UFC_Fight_Night_Machida_vs_Muñoz
+8,J\xc3\xa9ssica Andrade,Rosi Sexton,Women\'s Bantamweight,UFC_Fight_Night_Machida_vs_Muñoz
+9,Cole Miller,Andy Ogle,Featherweight,UFC_Fight_Night_Machida_vs_Muñoz
+10,Jimy Hettes,Robert Whiteford,Featherweight,UFC_Fight_Night_Machida_vs_Muñoz
+11,Brad Scott,Michael Kuiper,Middleweight,UFC_Fight_Night_Machida_vs_Muñoz

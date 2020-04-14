@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Daniel Cormier (c),Derrick Lewis,UFC_230
-1,Ronaldo Souza,Chris Weidman,UFC_230
-2,Jared Cannonier,David Branch,UFC_230
-3,Karl Roberson,Jack Marshman,UFC_230
-4,Israel Adesanya,Derek Brunson,UFC_230
-5,Jordan Rinaldi,Jason Knight,UFC_230
-6,Sijara Eubanks,Roxanne Modafferi,UFC_230
-7,Sheymon Moraes,Julio Arce,UFC_230
-8,Lyman Good,Ben Saunders,UFC_230
-9,Matt Frevola,Lando Vannata,UFC_230
-10,Shane Burgos,Kurt Holobaugh,UFC_230
-11,Marcos Rog\xc3\xa9rio de Lima,Adam Wieczorek,UFC_230
+,winner,loser,weight_class,event
+0,Daniel Cormier (c),Derrick Lewis,Heavyweight,UFC_230
+1,Ronaldo Souza,Chris Weidman,Middleweight,UFC_230
+2,Jared Cannonier,David Branch,Middleweight,UFC_230
+3,Karl Roberson,Jack Marshman,Middleweight,UFC_230
+4,Israel Adesanya,Derek Brunson,Middleweight,UFC_230
+5,Jordan Rinaldi,Jason Knight,Featherweight,UFC_230
+6,Sijara Eubanks,Roxanne Modafferi,Catchweight (127.2 lbs),UFC_230
+7,Sheymon Moraes,Julio Arce,Featherweight,UFC_230
+8,Lyman Good,Ben Saunders,Welterweight,UFC_230
+9,Matt Frevola,Lando Vannata,Lightweight,UFC_230
+10,Shane Burgos,Kurt Holobaugh,Featherweight,UFC_230
+11,Marcos Rog\xc3\xa9rio de Lima,Adam Wieczorek,Heavyweight,UFC_230

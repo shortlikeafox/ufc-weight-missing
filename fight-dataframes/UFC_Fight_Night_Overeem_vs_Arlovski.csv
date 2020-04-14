@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Alistair Overeem,Andrei Arlovski,UFC_Fight_Night_Overeem_vs_Arlovski
-1,Stefan Struve,Ant\xc3\xb4nio Silva,UFC_Fight_Night_Overeem_vs_Arlovski
-2,Gunnar Nelson,Albert Tumenov,UFC_Fight_Night_Overeem_vs_Arlovski
-3,Germaine de Randamie,Anna Elmose,UFC_Fight_Night_Overeem_vs_Arlovski
-4,Nikita Krylov,Francimar Barroso,UFC_Fight_Night_Overeem_vs_Arlovski
-5,Karolina Kowalkiewicz,Heather Jo Clark,UFC_Fight_Night_Overeem_vs_Arlovski
-6,Rustam Khabilov,Chris Wade,UFC_Fight_Night_Overeem_vs_Arlovski
-7,Magnus Cedenblad,Garreth McLellan,UFC_Fight_Night_Overeem_vs_Arlovski
-8,Josh Emmett,Jon Tuck,UFC_Fight_Night_Overeem_vs_Arlovski
-9,Reza Madadi,Yan Cabral,UFC_Fight_Night_Overeem_vs_Arlovski
-10,Kyoji Horiguchi,Neil Seery,UFC_Fight_Night_Overeem_vs_Arlovski
-11,Leon Edwards,Dominic Waters,UFC_Fight_Night_Overeem_vs_Arlovski
-12,Ulka Sasaki,Willie Gates,UFC_Fight_Night_Overeem_vs_Arlovski
+,winner,loser,weight_class,event
+0,Alistair Overeem,Andrei Arlovski,Heavyweight,UFC_Fight_Night_Overeem_vs_Arlovski
+1,Stefan Struve,Ant\xc3\xb4nio Silva,Heavyweight,UFC_Fight_Night_Overeem_vs_Arlovski
+2,Gunnar Nelson,Albert Tumenov,Welterweight,UFC_Fight_Night_Overeem_vs_Arlovski
+3,Germaine de Randamie,Anna Elmose,Women\'s Bantamweight,UFC_Fight_Night_Overeem_vs_Arlovski
+4,Nikita Krylov,Francimar Barroso,Light Heavyweight,UFC_Fight_Night_Overeem_vs_Arlovski
+5,Karolina Kowalkiewicz,Heather Jo Clark,Women\'s Strawweight,UFC_Fight_Night_Overeem_vs_Arlovski
+6,Rustam Khabilov,Chris Wade,Lightweight,UFC_Fight_Night_Overeem_vs_Arlovski
+7,Magnus Cedenblad,Garreth McLellan,Middleweight,UFC_Fight_Night_Overeem_vs_Arlovski
+8,Josh Emmett,Jon Tuck,Lightweight,UFC_Fight_Night_Overeem_vs_Arlovski
+9,Reza Madadi,Yan Cabral,Lightweight,UFC_Fight_Night_Overeem_vs_Arlovski
+10,Kyoji Horiguchi,Neil Seery,Flyweight,UFC_Fight_Night_Overeem_vs_Arlovski
+11,Leon Edwards,Dominic Waters,Welterweight,UFC_Fight_Night_Overeem_vs_Arlovski
+12,Ulka Sasaki,Willie Gates,Flyweight,UFC_Fight_Night_Overeem_vs_Arlovski

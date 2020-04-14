@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Thiago Alves,Matt Hughes,UFC_85
-1,Michael Bisping,Jason Day,UFC_85
-2,Mike Swick,Marcus Davis,UFC_85
-3,Thales Leites,Nate Marquardt,UFC_85
-4,Fabr\xc3\xadcio Werdum,Brandon Vera,UFC_85
-5,Martin Kampmann,Jorge Rivera,UFC_85
-6,Matt Wiman,Thiago Tavares,UFC_85
-7,Kevin Burns,Roan Carneiro,UFC_85
-8,Luiz Cane,Jason Lambert,UFC_85
-9,Paul Taylor,Jess Liaudin,UFC_85
-10,Antoni Hardonk,Eddie Sanchez,UFC_85
+,winner,loser,weight_class,event
+0,Thiago Alves,Matt Hughes,Catchweight (174 lbs),UFC_85
+1,Michael Bisping,Jason Day,Middleweight,UFC_85
+2,Mike Swick,Marcus Davis,Welterweight,UFC_85
+3,Thales Leites,Nate Marquardt,Middleweight,UFC_85
+4,Fabr\xc3\xadcio Werdum,Brandon Vera,Heavyweight,UFC_85
+5,Martin Kampmann,Jorge Rivera,Middleweight,UFC_85
+6,Matt Wiman,Thiago Tavares,Lightweight,UFC_85
+7,Kevin Burns,Roan Carneiro,Welterweight,UFC_85
+8,Luiz Cane,Jason Lambert,Light Heavyweight,UFC_85
+9,Paul Taylor,Jess Liaudin,Welterweight,UFC_85
+10,Antoni Hardonk,Eddie Sanchez,Heavyweight,UFC_85

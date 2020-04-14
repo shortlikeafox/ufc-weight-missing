@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Cain Velasquez,Junior dos Santos (c),UFC_155
-1,Jim Miller,Joe Lauzon,UFC_155
-2,Costas Philippou,Tim Boetsch,UFC_155
-3,Yushin Okami,Alan Belcher,UFC_155
-4,Derek Brunson,Chris Leben,UFC_155
-5,Eddie Wineland,Brad Pickett,UFC_155
-6,\xc3\x89rik P\xc3\xa9rez,Byron Bloodworth,UFC_155
-7,Jamie Varner,Melvin Guillard,UFC_155
-8,Myles Jury,Michael Johnson,UFC_155
-9,Todd Duffee,Phil De Fries,UFC_155
-10,Max Holloway,Leonard Garcia,UFC_155
-11,John Moraga,Chris Cariaso,UFC_155
+,winner,loser,weight_class,event
+0,Cain Velasquez,Junior dos Santos (c),Heavyweight,UFC_155
+1,Jim Miller,Joe Lauzon,Lightweight,UFC_155
+2,Costas Philippou,Tim Boetsch,Middleweight,UFC_155
+3,Yushin Okami,Alan Belcher,Middleweight,UFC_155
+4,Derek Brunson,Chris Leben,Middleweight,UFC_155
+5,Eddie Wineland,Brad Pickett,Bantamweight,UFC_155
+6,\xc3\x89rik P\xc3\xa9rez,Byron Bloodworth,Bantamweight,UFC_155
+7,Jamie Varner,Melvin Guillard,Lightweight,UFC_155
+8,Myles Jury,Michael Johnson,Lightweight,UFC_155
+9,Todd Duffee,Phil De Fries,Heavyweight,UFC_155
+10,Max Holloway,Leonard Garcia,Featherweight,UFC_155
+11,John Moraga,Chris Cariaso,Flyweight,UFC_155

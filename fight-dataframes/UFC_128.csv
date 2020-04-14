@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jon Jones,Maur\xc3\xadcio Rua (c),UFC_128
-1,Urijah Faber,Eddie Wineland,UFC_128
-2,Jim Miller,Kamal Shalorus,UFC_128
-3,Nate Marquardt,Dan Miller,UFC_128
-4,Brendan Schaub,Mirko Cro Cop,UFC_128
-5,Luiz Can\xc3\xa9,Eliot Marshall,UFC_128
-6,Edson Barboza,Anthony Njokuani,UFC_128
-7,Mike Pyle,Ricardo Almeida,UFC_128
-8,Gleison Tibau,Kurt Pellegrino,UFC_128
-9,Joseph Benavidez,Ian Loveland,UFC_128
-10,Nick Catone,Costas Philippou,UFC_128
-11,Erik Koch,Raphael Assun\xc3\xa7\xc3\xa3o,UFC_128
+,winner,loser,weight_class,event
+0,Jon Jones,Maur\xc3\xadcio Rua (c),Light Heavyweight,UFC_128
+1,Urijah Faber,Eddie Wineland,Bantamweight,UFC_128
+2,Jim Miller,Kamal Shalorus,Lightweight,UFC_128
+3,Nate Marquardt,Dan Miller,Middleweight,UFC_128
+4,Brendan Schaub,Mirko Cro Cop,Heavyweight,UFC_128
+5,Luiz Can\xc3\xa9,Eliot Marshall,Light Heavyweight,UFC_128
+6,Edson Barboza,Anthony Njokuani,Lightweight,UFC_128
+7,Mike Pyle,Ricardo Almeida,Welterweight,UFC_128
+8,Gleison Tibau,Kurt Pellegrino,Lightweight,UFC_128
+9,Joseph Benavidez,Ian Loveland,Bantamweight,UFC_128
+10,Nick Catone,Costas Philippou,Catchweight (195 lbs),UFC_128
+11,Erik Koch,Raphael Assun\xc3\xa7\xc3\xa3o,Featherweight,UFC_128

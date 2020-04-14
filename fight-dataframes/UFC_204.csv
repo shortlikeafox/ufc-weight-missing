@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Michael Bisping (c),Dan Henderson,UFC_204
-1,Gegard Mousasi,Vitor Belfort,UFC_204
-2,Jimi Manuwa,Ovince Saint Preux,UFC_204
-3,Stefan Struve,Daniel Omiela\xc5\x84czuk,UFC_204
-4,Mirsad Bekti\xc4\x87,Russell Doane,UFC_204
-5,Iuri Alc\xc3\xa2ntara,Brad Pickett,UFC_204
-6,Damian Stasiak,Davey Grant,UFC_204
-7,Leon Edwards,Albert Tumenov,UFC_204
-8,Marc Diakiese,\xc5\x81ukasz Sajewski,UFC_204
-9,Mike Perry,Danny Roberts,UFC_204
-10,Leonardo Santos,Adriano Martins,UFC_204
+,winner,loser,weight_class,event
+0,Michael Bisping (c),Dan Henderson,Middleweight,UFC_204
+1,Gegard Mousasi,Vitor Belfort,Middleweight,UFC_204
+2,Jimi Manuwa,Ovince Saint Preux,Light Heavyweight,UFC_204
+3,Stefan Struve,Daniel Omiela\xc5\x84czuk,Heavyweight,UFC_204
+4,Mirsad Bekti\xc4\x87,Russell Doane,Featherweight,UFC_204
+5,Iuri Alc\xc3\xa2ntara,Brad Pickett,Bantamweight,UFC_204
+6,Damian Stasiak,Davey Grant,Bantamweight,UFC_204
+7,Leon Edwards,Albert Tumenov,Welterweight,UFC_204
+8,Marc Diakiese,\xc5\x81ukasz Sajewski,Lightweight,UFC_204
+9,Mike Perry,Danny Roberts,Welterweight,UFC_204
+10,Leonardo Santos,Adriano Martins,Lightweight,UFC_204

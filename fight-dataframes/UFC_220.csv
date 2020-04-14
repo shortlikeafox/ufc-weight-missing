@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Stipe Miocic (c),Francis Ngannou,UFC_220
-1,Daniel Cormier (c),Volkan Oezdemir,UFC_220
-2,Calvin Kattar,Shane Burgos,UFC_220
-3,Gian Villante,Francimar Barroso,UFC_220
-4,Rob Font,Thomas Almeida,UFC_220
-5,Kyle Bochniak,Brandon Davis,UFC_220
-6,Abdul Razak Alhassan,Sabah Homasi,UFC_220
-7,Dustin Ortiz,Alexandre Pantoja,UFC_220
-8,Julio Arce,Dan Ige,UFC_220
-9,Enrique Barzola,Matt Bessette,UFC_220
-10,Islam Makhachev,Gleison Tibau,UFC_220
+,winner,loser,weight_class,event
+0,Stipe Miocic (c),Francis Ngannou,Heavyweight,UFC_220
+1,Daniel Cormier (c),Volkan Oezdemir,Light Heavyweight,UFC_220
+2,Calvin Kattar,Shane Burgos,Featherweight,UFC_220
+3,Gian Villante,Francimar Barroso,Light Heavyweight,UFC_220
+4,Rob Font,Thomas Almeida,Bantamweight,UFC_220
+5,Kyle Bochniak,Brandon Davis,Featherweight,UFC_220
+6,Abdul Razak Alhassan,Sabah Homasi,Welterweight,UFC_220
+7,Dustin Ortiz,Alexandre Pantoja,Flyweight,UFC_220
+8,Julio Arce,Dan Ige,Featherweight,UFC_220
+9,Enrique Barzola,Matt Bessette,Featherweight,UFC_220
+10,Islam Makhachev,Gleison Tibau,Lightweight,UFC_220

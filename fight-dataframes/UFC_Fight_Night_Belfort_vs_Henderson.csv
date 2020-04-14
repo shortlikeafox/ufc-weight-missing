@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Vitor Belfort,Dan Henderson,UFC_Fight_Night_Belfort_vs_Henderson
-1,Cezar Ferreira,Daniel Sarafian,UFC_Fight_Night_Belfort_vs_Henderson
-2,Rafael Cavalcante,Igor Pokrajac,UFC_Fight_Night_Belfort_vs_Henderson
-3,Brandon Thatch,Paulo Thiago,UFC_Fight_Night_Belfort_vs_Henderson
-4,Ryan LaFlare,Santiago Ponzinibbio,UFC_Fight_Night_Belfort_vs_Henderson
-5,Jeremy Stephens,Rony Jason,UFC_Fight_Night_Belfort_vs_Henderson
-6,Sam Sicilia,Godofredo Pepey,UFC_Fight_Night_Belfort_vs_Henderson
-7,Omari Akhmedov,Thiago Perp\xc3\xa9tuo,UFC_Fight_Night_Belfort_vs_Henderson
-8,Thiago Tavares,Justin Salas,UFC_Fight_Night_Belfort_vs_Henderson
-9,Adriano Martins,Daron Cruickshank,UFC_Fight_Night_Belfort_vs_Henderson
-10,Dustin Ortiz,Jose Maria Tome,UFC_Fight_Night_Belfort_vs_Henderson
+,winner,loser,weight_class,event
+0,Vitor Belfort,Dan Henderson,Light Heavyweight,UFC_Fight_Night_Belfort_vs_Henderson
+1,Cezar Ferreira,Daniel Sarafian,Middleweight,UFC_Fight_Night_Belfort_vs_Henderson
+2,Rafael Cavalcante,Igor Pokrajac,Light Heavyweight,UFC_Fight_Night_Belfort_vs_Henderson
+3,Brandon Thatch,Paulo Thiago,Welterweight,UFC_Fight_Night_Belfort_vs_Henderson
+4,Ryan LaFlare,Santiago Ponzinibbio,Welterweight,UFC_Fight_Night_Belfort_vs_Henderson
+5,Jeremy Stephens,Rony Jason,Featherweight,UFC_Fight_Night_Belfort_vs_Henderson
+6,Sam Sicilia,Godofredo Pepey,Featherweight,UFC_Fight_Night_Belfort_vs_Henderson
+7,Omari Akhmedov,Thiago Perp\xc3\xa9tuo,Middleweight,UFC_Fight_Night_Belfort_vs_Henderson
+8,Thiago Tavares,Justin Salas,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson
+9,Adriano Martins,Daron Cruickshank,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson
+10,Dustin Ortiz,Jose Maria Tome,Flyweight,UFC_Fight_Night_Belfort_vs_Henderson

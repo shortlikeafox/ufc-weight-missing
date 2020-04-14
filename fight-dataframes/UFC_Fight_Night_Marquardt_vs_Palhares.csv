@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Nate Marquardt,Rousimar Palhares,UFC_Fight_Night_Marquardt_vs_Palhares
-1,Charles Oliveira,Efrain Escudero,UFC_Fight_Night_Marquardt_vs_Palhares
-2,Jim Miller,Gleison Tibau,UFC_Fight_Night_Marquardt_vs_Palhares
-3,Cole Miller,Ross Pearson,UFC_Fight_Night_Marquardt_vs_Palhares
-4,Yves Edwards,John Gunderson,UFC_Fight_Night_Marquardt_vs_Palhares
-5,Kyle Kingsbury,Jared Hamman,UFC_Fight_Night_Marquardt_vs_Palhares
-6,David Branch,Tomasz Drwal,UFC_Fight_Night_Marquardt_vs_Palhares
-7,Rich Attonito,Rafael Natal,UFC_Fight_Night_Marquardt_vs_Palhares
-8,TJ Waldburger,David Mitchell,UFC_Fight_Night_Marquardt_vs_Palhares
-9,Brian Foster,Forrest Petz,UFC_Fight_Night_Marquardt_vs_Palhares
+,winner,loser,weight_class,event
+0,Nate Marquardt,Rousimar Palhares,Middleweight,UFC_Fight_Night_Marquardt_vs_Palhares
+1,Charles Oliveira,Efrain Escudero,Catchweight (159 lbs),UFC_Fight_Night_Marquardt_vs_Palhares
+2,Jim Miller,Gleison Tibau,Lightweight,UFC_Fight_Night_Marquardt_vs_Palhares
+3,Cole Miller,Ross Pearson,Lightweight,UFC_Fight_Night_Marquardt_vs_Palhares
+4,Yves Edwards,John Gunderson,Lightweight,UFC_Fight_Night_Marquardt_vs_Palhares
+5,Kyle Kingsbury,Jared Hamman,Light Heavyweight,UFC_Fight_Night_Marquardt_vs_Palhares
+6,David Branch,Tomasz Drwal,Middleweight,UFC_Fight_Night_Marquardt_vs_Palhares
+7,Rich Attonito,Rafael Natal,Middleweight,UFC_Fight_Night_Marquardt_vs_Palhares
+8,TJ Waldburger,David Mitchell,Welterweight,UFC_Fight_Night_Marquardt_vs_Palhares
+9,Brian Foster,Forrest Petz,Welterweight,UFC_Fight_Night_Marquardt_vs_Palhares

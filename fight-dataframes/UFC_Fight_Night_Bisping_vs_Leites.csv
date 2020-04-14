@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Michael Bisping,Thales Leites,UFC_Fight_Night_Bisping_vs_Leites
-1,Evan Dunham,Ross Pearson,UFC_Fight_Night_Bisping_vs_Leites
-2,Joseph Duffy,Ivan Jorge,UFC_Fight_Night_Bisping_vs_Leites
-3,Joanne Calderwood,Cortney Casey,UFC_Fight_Night_Bisping_vs_Leites
-4,Leon Edwards,Pawel Pawlak,UFC_Fight_Night_Bisping_vs_Leites
-5,Stevie Ray,Leonardo Mafra,UFC_Fight_Night_Bisping_vs_Leites
-6,Paddy Holohan,Vaughan Lee,UFC_Fight_Night_Bisping_vs_Leites
-7,Ilir Latifi,Hans Stringer,UFC_Fight_Night_Bisping_vs_Leites
-8,Micka\xc3\xabl Lebout,Teemu Packal\xc3\xa9n,UFC_Fight_Night_Bisping_vs_Leites
-9,Robert Whiteford,Paul Redmond,UFC_Fight_Night_Bisping_vs_Leites
-10,Jimmie Rivera,Marcus Brimage,UFC_Fight_Night_Bisping_vs_Leites
-11,Daniel Omiela\xc5\x84czuk,Chris de la Rocha,UFC_Fight_Night_Bisping_vs_Leites
+,winner,loser,weight_class,event
+0,Michael Bisping,Thales Leites,Middleweight,UFC_Fight_Night_Bisping_vs_Leites
+1,Evan Dunham,Ross Pearson,Lightweight,UFC_Fight_Night_Bisping_vs_Leites
+2,Joseph Duffy,Ivan Jorge,Lightweight,UFC_Fight_Night_Bisping_vs_Leites
+3,Joanne Calderwood,Cortney Casey,Women\'s Strawweight,UFC_Fight_Night_Bisping_vs_Leites
+4,Leon Edwards,Pawel Pawlak,Welterweight,UFC_Fight_Night_Bisping_vs_Leites
+5,Stevie Ray,Leonardo Mafra,Lightweight,UFC_Fight_Night_Bisping_vs_Leites
+6,Paddy Holohan,Vaughan Lee,Flyweight,UFC_Fight_Night_Bisping_vs_Leites
+7,Ilir Latifi,Hans Stringer,Light Heavyweight,UFC_Fight_Night_Bisping_vs_Leites
+8,Micka\xc3\xabl Lebout,Teemu Packal\xc3\xa9n,Lightweight,UFC_Fight_Night_Bisping_vs_Leites
+9,Robert Whiteford,Paul Redmond,Featherweight,UFC_Fight_Night_Bisping_vs_Leites
+10,Jimmie Rivera,Marcus Brimage,Bantamweight,UFC_Fight_Night_Bisping_vs_Leites
+11,Daniel Omiela\xc5\x84czuk,Chris de la Rocha,Heavyweight,UFC_Fight_Night_Bisping_vs_Leites

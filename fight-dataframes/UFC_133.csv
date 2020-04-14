@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Rashad Evans,Tito Ortiz,UFC_133
-1,Vitor Belfort,Yoshihiro Akiyama,UFC_133
-2,Brian Ebersole,Dennis Hallman,UFC_133
-3,Costas Philippou,Jorge Rivera,UFC_133
-4,Rory MacDonald,Mike Pyle,UFC_133
-5,Alexander Gustafsson,Matt Hamill,UFC_133
-6,Chad Mendes,Rani Yahya,UFC_133
-7,Ivan Menjivar,Nick Pace,UFC_133
-8,Johny Hendricks,Mike Pierce,UFC_133
-9,Mike Brown,Nam Phan,UFC_133
-10,Rafael Natal,Paul Bradley,UFC_133
+,winner,loser,weight_class,event
+0,Rashad Evans,Tito Ortiz,Light Heavyweight,UFC_133
+1,Vitor Belfort,Yoshihiro Akiyama,Middleweight,UFC_133
+2,Brian Ebersole,Dennis Hallman,Welterweight,UFC_133
+3,Costas Philippou,Jorge Rivera,Middleweight,UFC_133
+4,Rory MacDonald,Mike Pyle,Welterweight,UFC_133
+5,Alexander Gustafsson,Matt Hamill,Light Heavyweight,UFC_133
+6,Chad Mendes,Rani Yahya,Featherweight,UFC_133
+7,Ivan Menjivar,Nick Pace,Catchweight (138 lb),UFC_133
+8,Johny Hendricks,Mike Pierce,Welterweight,UFC_133
+9,Mike Brown,Nam Phan,Featherweight,UFC_133
+10,Rafael Natal,Paul Bradley,Middleweight,UFC_133

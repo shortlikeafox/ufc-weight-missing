@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Dan Hardy,UFC_111
-1,Shane Carwin,Frank Mir,UFC_111
-2,Kurt Pellegrino,Fabricio Camoes,UFC_111
-3,Jon Fitch,Ben Saunders,UFC_111
-4,Jim Miller,Mark Bocek,UFC_111
-5,Nate Diaz,Rory Markham,UFC_111
-6,Ricardo Almeida,Matt Brown,UFC_111
-7,Rousimar Palhares,Tomasz Drwal,UFC_111
-8,Jared Hamman,Rodney Wallace,UFC_111
-9,Matthew Riddle,Greg Soto,UFC_111
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Dan Hardy,Welterweight,UFC_111
+1,Shane Carwin,Frank Mir,Heavyweight,UFC_111
+2,Kurt Pellegrino,Fabricio Camoes,Lightweight,UFC_111
+3,Jon Fitch,Ben Saunders,Welterweight,UFC_111
+4,Jim Miller,Mark Bocek,Lightweight,UFC_111
+5,Nate Diaz,Rory Markham,Catchweight (177\xc2\xa0lb),UFC_111
+6,Ricardo Almeida,Matt Brown,Welterweight,UFC_111
+7,Rousimar Palhares,Tomasz Drwal,Middleweight,UFC_111
+8,Jared Hamman,Rodney Wallace,Light Heavyweight,UFC_111
+9,Matthew Riddle,Greg Soto,Welterweight,UFC_111

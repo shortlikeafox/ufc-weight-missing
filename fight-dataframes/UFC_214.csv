@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Daniel Cormier (c),Jon Jones,UFC_214
-1,Tyron Woodley (c),Demian Maia,UFC_214
-2,Cris Cyborg,Tonya Evinger,UFC_214
-3,Robbie Lawler,Donald Cerrone,UFC_214
-4,Volkan Oezdemir,Jimi Manuwa,UFC_214
-5,Ricardo Lamas,Jason Knight,UFC_214
-6,Aljamain Sterling,Renan Bar\xc3\xa3o,UFC_214
-7,Brian Ortega,Renato Moicano,UFC_214
-8,Calvin Kattar,Andre Fili,UFC_214
-9,Aleksandra Albu,Kailin Curran,UFC_214
-10,Jarred Brooks,Eric Shelton,UFC_214
-11,Drew Dober,Josh Burkman,UFC_214
+,winner,loser,weight_class,event
+0,Daniel Cormier (c),Jon Jones,Light Heavyweight,UFC_214
+1,Tyron Woodley (c),Demian Maia,Welterweight,UFC_214
+2,Cris Cyborg,Tonya Evinger,Women\'s Featherweight,UFC_214
+3,Robbie Lawler,Donald Cerrone,Welterweight,UFC_214
+4,Volkan Oezdemir,Jimi Manuwa,Light Heavyweight,UFC_214
+5,Ricardo Lamas,Jason Knight,Featherweight,UFC_214
+6,Aljamain Sterling,Renan Bar\xc3\xa3o,Catchweight (140 lbs),UFC_214
+7,Brian Ortega,Renato Moicano,Featherweight,UFC_214
+8,Calvin Kattar,Andre Fili,Featherweight,UFC_214
+9,Aleksandra Albu,Kailin Curran,Women\'s Strawweight,UFC_214
+10,Jarred Brooks,Eric Shelton,Flyweight,UFC_214
+11,Drew Dober,Josh Burkman,Lightweight,UFC_214

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Benson Henderson (c),Nate Diaz,UFC_on_Fox_Henderson_vs_Diaz
-1,Alexander Gustafsson,Maur\xc3\xadcio Rua,UFC_on_Fox_Henderson_vs_Diaz
-2,Rory MacDonald,B.J. Penn,UFC_on_Fox_Henderson_vs_Diaz
-3,Matt Brown,Mike Swick,UFC_on_Fox_Henderson_vs_Diaz
-4,Yves Edwards,Jeremy Stephens,UFC_on_Fox_Henderson_vs_Diaz
-5,Raphael Assun\xc3\xa7\xc3\xa3o,Mike Easton,UFC_on_Fox_Henderson_vs_Diaz
-6,Ramsey Nijem,Joe Proctor,UFC_on_Fox_Henderson_vs_Diaz
-7,Daron Cruickshank,Henry Martinez,UFC_on_Fox_Henderson_vs_Diaz
-8,Abel Trujillo,Marcus LeVesseur,UFC_on_Fox_Henderson_vs_Diaz
-9,Dennis Siver,Nam Phan,UFC_on_Fox_Henderson_vs_Diaz
-10,Scott Jorgensen,John Albert,UFC_on_Fox_Henderson_vs_Diaz
+,winner,loser,weight_class,event
+0,Benson Henderson (c),Nate Diaz,Lightweight,UFC_on_Fox_Henderson_vs_Diaz
+1,Alexander Gustafsson,Maur\xc3\xadcio Rua,Light Heavyweight,UFC_on_Fox_Henderson_vs_Diaz
+2,Rory MacDonald,B.J. Penn,Welterweight,UFC_on_Fox_Henderson_vs_Diaz
+3,Matt Brown,Mike Swick,Welterweight,UFC_on_Fox_Henderson_vs_Diaz
+4,Yves Edwards,Jeremy Stephens,Lightweight,UFC_on_Fox_Henderson_vs_Diaz
+5,Raphael Assun\xc3\xa7\xc3\xa3o,Mike Easton,Bantamweight,UFC_on_Fox_Henderson_vs_Diaz
+6,Ramsey Nijem,Joe Proctor,Lightweight,UFC_on_Fox_Henderson_vs_Diaz
+7,Daron Cruickshank,Henry Martinez,Catchweight (158.8 lbs.),UFC_on_Fox_Henderson_vs_Diaz
+8,Abel Trujillo,Marcus LeVesseur,Lightweight,UFC_on_Fox_Henderson_vs_Diaz
+9,Dennis Siver,Nam Phan,Featherweight,UFC_on_Fox_Henderson_vs_Diaz
+10,Scott Jorgensen,John Albert,Bantamweight,UFC_on_Fox_Henderson_vs_Diaz

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Conor McGregor,Eddie Alvarez (c),UFC_205
-1,Tyron Woodley (c),Stephen Thompson,UFC_205
-2,Joanna J\xc4\x99drzejczyk (c),Karolina Kowalkiewicz,UFC_205
-3,Yoel Romero,Chris Weidman,UFC_205
-4,Raquel Pennington,Miesha Tate,UFC_205
-5,Frankie Edgar,Jeremy Stephens,UFC_205
-6,Khabib Nurmagomedov,Michael Johnson,UFC_205
-7,Tim Boetsch,Rafael Natal,UFC_205
-8,Vicente Luque,Belal Muhammad,UFC_205
-9,Jim Miller,Thiago Alves,UFC_205
-10,Liz Carmouche,Katlyn Chookagian,UFC_205
+,winner,loser,weight_class,event
+0,Conor McGregor,Eddie Alvarez (c),Lightweight,UFC_205
+1,Tyron Woodley (c),Stephen Thompson,Welterweight,UFC_205
+2,Joanna J\xc4\x99drzejczyk (c),Karolina Kowalkiewicz,Women\'s Strawweight,UFC_205
+3,Yoel Romero,Chris Weidman,Middleweight,UFC_205
+4,Raquel Pennington,Miesha Tate,Women\'s Bantamweight,UFC_205
+5,Frankie Edgar,Jeremy Stephens,Featherweight,UFC_205
+6,Khabib Nurmagomedov,Michael Johnson,Lightweight,UFC_205
+7,Tim Boetsch,Rafael Natal,Middleweight,UFC_205
+8,Vicente Luque,Belal Muhammad,Welterweight,UFC_205
+9,Jim Miller,Thiago Alves,Catchweight (162.6 lbs),UFC_205
+10,Liz Carmouche,Katlyn Chookagian,Women\'s Bantamweight,UFC_205

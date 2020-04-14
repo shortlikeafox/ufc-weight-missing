@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Yair Rodr\xc3\xadguez,Alex Caceres,UFC_Fight_Night_Rodríguez_vs_Caceres
-1,Dennis Bermudez,Rony Jason,UFC_Fight_Night_Rodríguez_vs_Caceres
-2,Thales Leites,Chris Camozzi,UFC_Fight_Night_Rodríguez_vs_Caceres
-3,Santiago Ponzinibbio,Zak Cummings,UFC_Fight_Night_Rodríguez_vs_Caceres
-4,Trevor Smith,Joe Gigliotti,UFC_Fight_Night_Rodríguez_vs_Caceres
-5,Maryna Moroz,Danielle Taylor,UFC_Fight_Night_Rodríguez_vs_Caceres
-6,Court McGee,Dominique Steele,UFC_Fight_Night_Rodríguez_vs_Caceres
-7,Marcin Tybura,Viktor Pe\xc5\xa1ta,UFC_Fight_Night_Rodríguez_vs_Caceres
-8,David Teymur,Jason Novelli,UFC_Fight_Night_Rodríguez_vs_Caceres
-9,Teruto Ishihara,Horacio Guti\xc3\xa9rrez,UFC_Fight_Night_Rodríguez_vs_Caceres
-10,Cub Swanson,Tatsuya Kawajiri,UFC_Fight_Night_Rodríguez_vs_Caceres
-11,Justin Ledet,Chase Sherman,UFC_Fight_Night_Rodríguez_vs_Caceres
+,winner,loser,weight_class,event
+0,Yair Rodr\xc3\xadguez,Alex Caceres,Featherweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+1,Dennis Bermudez,Rony Jason,Featherweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+2,Thales Leites,Chris Camozzi,Middleweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+3,Santiago Ponzinibbio,Zak Cummings,Welterweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+4,Trevor Smith,Joe Gigliotti,Middleweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+5,Maryna Moroz,Danielle Taylor,Women\'s Strawweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+6,Court McGee,Dominique Steele,Welterweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+7,Marcin Tybura,Viktor Pe\xc5\xa1ta,Heavyweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+8,David Teymur,Jason Novelli,Lightweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+9,Teruto Ishihara,Horacio Guti\xc3\xa9rrez,Featherweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+10,Cub Swanson,Tatsuya Kawajiri,Featherweight,UFC_Fight_Night_Rodríguez_vs_Caceres
+11,Justin Ledet,Chase Sherman,Heavyweight,UFC_Fight_Night_Rodríguez_vs_Caceres

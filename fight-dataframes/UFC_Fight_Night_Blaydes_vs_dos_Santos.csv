@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Curtis Blaydes,Junior dos Santos,UFC_Fight_Night_Blaydes_vs_dos_Santos
-1,Michael Chiesa,Rafael dos Anjos,UFC_Fight_Night_Blaydes_vs_dos_Santos
-2,Alex Perez,Jordan Espinosa,UFC_Fight_Night_Blaydes_vs_dos_Santos
-3,Angela Hill,Hannah Cifers,UFC_Fight_Night_Blaydes_vs_dos_Santos
-4,Jamahal Hill,Darko Sto\xc5\xa1i\xc4\x87,UFC_Fight_Night_Blaydes_vs_dos_Santos
-5,Bevon Lewis,Dequan Townsend,UFC_Fight_Night_Blaydes_vs_dos_Santos
-6,Arnold Allen,Nik Lentz,UFC_Fight_Night_Blaydes_vs_dos_Santos
-7,Justine Kish,Lucie Pudilov\xc3\xa1,UFC_Fight_Night_Blaydes_vs_dos_Santos
-8,Montel Jackson,Felipe Colares,UFC_Fight_Night_Blaydes_vs_dos_Santos
-9,Sara McMann,Lina L\xc3\xa4nsberg,UFC_Fight_Night_Blaydes_vs_dos_Santos
-10,Brett Johns,Tony Gravely,UFC_Fight_Night_Blaydes_vs_dos_Santos
-11,Herbert Burns,Nate Landwehr,UFC_Fight_Night_Blaydes_vs_dos_Santos
+,winner,loser,weight_class,event
+0,Curtis Blaydes,Junior dos Santos,Heavyweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+1,Michael Chiesa,Rafael dos Anjos,Welterweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+2,Alex Perez,Jordan Espinosa,Flyweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+3,Angela Hill,Hannah Cifers,Women\'s Strawweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+4,Jamahal Hill,Darko Sto\xc5\xa1i\xc4\x87,Light Heavyweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+5,Bevon Lewis,Dequan Townsend,Middleweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+6,Arnold Allen,Nik Lentz,Featherweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+7,Justine Kish,Lucie Pudilov\xc3\xa1,Women\'s Flyweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+8,Montel Jackson,Felipe Colares,Bantamweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+9,Sara McMann,Lina L\xc3\xa4nsberg,Women\'s Bantamweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+10,Brett Johns,Tony Gravely,Bantamweight,UFC_Fight_Night_Blaydes_vs_dos_Santos
+11,Herbert Burns,Nate Landwehr,Featherweight,UFC_Fight_Night_Blaydes_vs_dos_Santos

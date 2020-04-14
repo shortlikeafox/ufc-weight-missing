@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jan B\xc5\x82achowicz,Ronaldo Souza,UFC_Fight_Night_Błachowicz_vs_Jacaré
-1,Maur\xc3\xadcio Rua,Paul Craig,UFC_Fight_Night_Błachowicz_vs_Jacaré
-2,Charles Oliveira,Jared Gordon,UFC_Fight_Night_Błachowicz_vs_Jacaré
-3,Andre Muniz,Antonio Arroyo,UFC_Fight_Night_Błachowicz_vs_Jacaré
-4,Wellington Turman,Markus Perez,UFC_Fight_Night_Błachowicz_vs_Jacaré
-5,James Krause,S\xc3\xa9rgio Moraes,UFC_Fight_Night_Błachowicz_vs_Jacaré
-6,Ricardo Ramos,Luiz Eduardo Garagorri,UFC_Fight_Night_Błachowicz_vs_Jacaré
-7,Francisco Trinaldo,Bobby Green,UFC_Fight_Night_Błachowicz_vs_Jacaré
-8,Randy Brown,Warlley Alves,UFC_Fight_Night_Błachowicz_vs_Jacaré
-9,Douglas Silva de Andrade,Renan Bar\xc3\xa3o,UFC_Fight_Night_Błachowicz_vs_Jacaré
-10,Ariane Lipski,Isabella de P\xc3\xa1dua,UFC_Fight_Night_Błachowicz_vs_Jacaré
-11,Tracy Cortez,Vanessa Melo,UFC_Fight_Night_Błachowicz_vs_Jacaré
+,winner,loser,weight_class,event
+0,Jan B\xc5\x82achowicz,Ronaldo Souza,Light Heavyweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+1,Maur\xc3\xadcio Rua,Paul Craig,Light Heavyweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+2,Charles Oliveira,Jared Gordon,Lightweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+3,Andre Muniz,Antonio Arroyo,Middleweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+4,Wellington Turman,Markus Perez,Middleweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+5,James Krause,S\xc3\xa9rgio Moraes,Welterweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+6,Ricardo Ramos,Luiz Eduardo Garagorri,Featherweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+7,Francisco Trinaldo,Bobby Green,Lightweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+8,Randy Brown,Warlley Alves,Welterweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+9,Douglas Silva de Andrade,Renan Bar\xc3\xa3o,Featherweight,UFC_Fight_Night_Błachowicz_vs_Jacaré
+10,Ariane Lipski,Isabella de P\xc3\xa1dua,Catchweight (130.5 Ibs),UFC_Fight_Night_Błachowicz_vs_Jacaré
+11,Tracy Cortez,Vanessa Melo,Women\'s Bantamweight,UFC_Fight_Night_Błachowicz_vs_Jacaré

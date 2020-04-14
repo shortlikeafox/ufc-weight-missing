@@ -1,20 +1,20 @@
-,winner,loser,event
-0,Randy Couture,Tim Sylvia (c),UFC_Fight_Night_Stevenson_vs_Guillard
-1,Welterweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-2,[b],Quinton Jackson,UFC_Fight_Night_Stevenson_vs_Guillard
-3,UFC 71: Liddell vs. Jackson,Middleweight,UFC_Fight_Night_Stevenson_vs_Guillard
-4,4:50,[d],UFC_Fight_Night_Stevenson_vs_Guillard
-5,5,UFC 73: Stacked,UFC_Fight_Night_Stevenson_vs_Guillard
-6,TKO (punches),1:37,UFC_Fight_Night_Stevenson_vs_Guillard
-7,Dan Henderson(Pride Champion),5,UFC_Fight_Night_Stevenson_vs_Guillard
-8,def.,TKO (knees),UFC_Fight_Night_Stevenson_vs_Guillard
-9,Georges St-Pierre,Matt Hughes,UFC_Fight_Night_Stevenson_vs_Guillard
-10,Lightweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-11,Heavyweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-12,Lightweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-13,Light Heavyweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-14,Welterweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-15,Lightweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-16,Welterweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-17,Welterweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
-18,Lightweight,def.,UFC_Fight_Night_Stevenson_vs_Guillard
+,winner,loser,weight_class,event
+0,Randy Couture,Tim Sylvia (c),Heavyweight,UFC_Fight_Night_Stevenson_vs_Guillard
+1,Welterweight,def.,[a],UFC_Fight_Night_Stevenson_vs_Guillard
+2,[b],Quinton Jackson,UFC 69: Shootout,UFC_Fight_Night_Stevenson_vs_Guillard
+3,UFC 71: Liddell vs. Jackson,Middleweight,1:53,UFC_Fight_Night_Stevenson_vs_Guillard
+4,4:50,[d],1,UFC_Fight_Night_Stevenson_vs_Guillard
+5,5,UFC 73: Stacked,"Decision (unanimous) (50\xe2\x80\x9345, 50\xe2\x80\x9345, 49\xe2\x80\x9346)",UFC_Fight_Night_Stevenson_vs_Guillard
+6,TKO (punches),1:37,Gabriel Gonzaga,UFC_Fight_Night_Stevenson_vs_Guillard
+7,Dan Henderson(Pride Champion),5,def.,UFC_Fight_Night_Stevenson_vs_Guillard
+8,def.,TKO (knees),Anderson Silva (c),UFC_Fight_Night_Stevenson_vs_Guillard
+9,Georges St-Pierre,Matt Hughes,Welterweight,UFC_Fight_Night_Stevenson_vs_Guillard
+10,Lightweight,def.,[i],UFC_Fight_Night_Stevenson_vs_Guillard
+11,Heavyweight,def.,[a],UFC_Fight_Night_Stevenson_vs_Guillard
+12,Lightweight,def.,,UFC_Fight_Night_Stevenson_vs_Guillard
+13,Light Heavyweight,def.,,UFC_Fight_Night_Stevenson_vs_Guillard
+14,Welterweight,def.,,UFC_Fight_Night_Stevenson_vs_Guillard
+15,Lightweight,def.,[b],UFC_Fight_Night_Stevenson_vs_Guillard
+16,Welterweight,def.,[c],UFC_Fight_Night_Stevenson_vs_Guillard
+17,Welterweight,def.,,UFC_Fight_Night_Stevenson_vs_Guillard
+18,Lightweight,def.,,UFC_Fight_Night_Stevenson_vs_Guillard

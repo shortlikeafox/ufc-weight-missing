@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Luke Rockhold,Costas Philippou,UFC_Fight_Night_Rockhold_vs_Philippou
-1,Brad Tavares,Lorenz Larkin,UFC_Fight_Night_Rockhold_vs_Philippou
-2,T.J. Dillashaw,Mike Easton,UFC_Fight_Night_Rockhold_vs_Philippou
-3,Yoel Romero,Derek Brunson,UFC_Fight_Night_Rockhold_vs_Philippou
-4,John Moraga,Dustin Ortiz,UFC_Fight_Night_Rockhold_vs_Philippou
-5,Cole Miller,Sam Sicilia,UFC_Fight_Night_Rockhold_vs_Philippou
-6,Ramsey Nijem,Justin Edwards,UFC_Fight_Night_Rockhold_vs_Philippou
-7,Elias Silv\xc3\xa9rio,Isaac Vallie-Flagg,UFC_Fight_Night_Rockhold_vs_Philippou
-8,Trevor Smith,Brian Houston,UFC_Fight_Night_Rockhold_vs_Philippou
-9,Louis Smolka,Alptekin \xc3\x96zk\xc4\xb1l\xc4\xb1\xc3\xa7,UFC_Fight_Night_Rockhold_vs_Philippou
-10,Vinc Pichel,Garett Whiteley,UFC_Fight_Night_Rockhold_vs_Philippou
-11,Beneil Dariush,Charlie Brenneman,UFC_Fight_Night_Rockhold_vs_Philippou
+,winner,loser,weight_class,event
+0,Luke Rockhold,Costas Philippou,Middleweight,UFC_Fight_Night_Rockhold_vs_Philippou
+1,Brad Tavares,Lorenz Larkin,Middleweight,UFC_Fight_Night_Rockhold_vs_Philippou
+2,T.J. Dillashaw,Mike Easton,Bantamweight,UFC_Fight_Night_Rockhold_vs_Philippou
+3,Yoel Romero,Derek Brunson,Middleweight,UFC_Fight_Night_Rockhold_vs_Philippou
+4,John Moraga,Dustin Ortiz,Flyweight,UFC_Fight_Night_Rockhold_vs_Philippou
+5,Cole Miller,Sam Sicilia,Featherweight,UFC_Fight_Night_Rockhold_vs_Philippou
+6,Ramsey Nijem,Justin Edwards,Lightweight,UFC_Fight_Night_Rockhold_vs_Philippou
+7,Elias Silv\xc3\xa9rio,Isaac Vallie-Flagg,Lightweight,UFC_Fight_Night_Rockhold_vs_Philippou
+8,Trevor Smith,Brian Houston,Middleweight,UFC_Fight_Night_Rockhold_vs_Philippou
+9,Louis Smolka,Alptekin \xc3\x96zk\xc4\xb1l\xc4\xb1\xc3\xa7,Flyweight,UFC_Fight_Night_Rockhold_vs_Philippou
+10,Vinc Pichel,Garett Whiteley,Lightweight,UFC_Fight_Night_Rockhold_vs_Philippou
+11,Beneil Dariush,Charlie Brenneman,Lightweight,UFC_Fight_Night_Rockhold_vs_Philippou

@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Jan B\xc5\x82achowicz,Corey Anderson,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-1,Diego Sanchez,Michel Pereira,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-2,Montana De La Rosa,Mara Romero Borella,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-3,Brok Weaver,Kazula Vargas,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-4,Ray Borg,Rog\xc3\xa9rio Bontorin,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-5,Lando Vannata,Yancy Medeiros,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-6,Daniel Rodriguez,Tim Means,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-7,John Dodson,Nathaniel Wood,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-8,Scott Holtzman,Jim Miller,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-9,Devin Clark,Dequan Townsend,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-10,Merab Dvalishvili,Casey Kenney,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-11,Macy Chiasson,Shanna Young,UFC_Fight_Night_Anderson_vs_Błachowicz_2
-12,Raulian Paiva,Mark De La Rosa,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+,winner,loser,weight_class,event
+0,Jan B\xc5\x82achowicz,Corey Anderson,Light Heavyweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+1,Diego Sanchez,Michel Pereira,Welterweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+2,Montana De La Rosa,Mara Romero Borella,Women\'s Flyweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+3,Brok Weaver,Kazula Vargas,Lightweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+4,Ray Borg,Rog\xc3\xa9rio Bontorin,Catchweight (128 lbs),UFC_Fight_Night_Anderson_vs_Błachowicz_2
+5,Lando Vannata,Yancy Medeiros,Lightweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+6,Daniel Rodriguez,Tim Means,Welterweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+7,John Dodson,Nathaniel Wood,Bantamweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+8,Scott Holtzman,Jim Miller,Lightweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+9,Devin Clark,Dequan Townsend,Light Heavyweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+10,Merab Dvalishvili,Casey Kenney,Bantamweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+11,Macy Chiasson,Shanna Young,Women\'s Bantamweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2
+12,Raulian Paiva,Mark De La Rosa,Flyweight,UFC_Fight_Night_Anderson_vs_Błachowicz_2

@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Tim Sylvia,Andrei Arlovski (c),UFC_59
-1,Sean Sherk,Nick Diaz,UFC_59
-2,Tito Ortiz,Forrest Griffin,UFC_59
-3,Evan Tanner,Justin Levens,UFC_59
-4,Jeff Monson,Marcio Cruz,UFC_59
-5,Karo Parisyan,Nick Thompson,UFC_59
-6,David Terrell,Scott Smith,UFC_59
-7,Jason Lambert,Terry Martin,UFC_59
-8,Thiago Alves,Derrick Noble,UFC_59
+,winner,loser,weight_class,event
+0,Tim Sylvia,Andrei Arlovski (c),Heavyweight,UFC_59
+1,Sean Sherk,Nick Diaz,Welterweight,UFC_59
+2,Tito Ortiz,Forrest Griffin,Light Heavyweight,UFC_59
+3,Evan Tanner,Justin Levens,Middleweight,UFC_59
+4,Jeff Monson,Marcio Cruz,Heavyweight,UFC_59
+5,Karo Parisyan,Nick Thompson,Welterweight,UFC_59
+6,David Terrell,Scott Smith,Middleweight,UFC_59
+7,Jason Lambert,Terry Martin,Light Heavyweight,UFC_59
+8,Thiago Alves,Derrick Noble,Welterweight,UFC_59

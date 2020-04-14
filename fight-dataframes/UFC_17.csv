@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Frank Shamrock (c),Jeremy Horn,UFC_17
-1,Pete Williams,Mark Coleman,UFC_17
-2,Tank Abbott,Hugo Duarte,UFC_17
-3,Mike Van Arsdale,Joe Pardo,UFC_17
-4,Andre Roberts,Harry Moskowitz,UFC_17
-5,Chuck Liddell,Noe Hernandez,UFC_17
-6,Dan Henderson,Carlos Newton,UFC_17
-7,Dan Henderson,Allan Goes,UFC_17
-8,Carlos Newton,Bob Gilstrap,UFC_17
+,winner,loser,weight_class,event
+0,Frank Shamrock (c),Jeremy Horn,Middleweight,UFC_17
+1,Pete Williams,Mark Coleman,Heavyweight,UFC_17
+2,Tank Abbott,Hugo Duarte,Heavyweight,UFC_17
+3,Mike Van Arsdale,Joe Pardo,Heavyweight,UFC_17
+4,Andre Roberts,Harry Moskowitz,Heavyweight,UFC_17
+5,Chuck Liddell,Noe Hernandez,Middleweight,UFC_17
+6,Dan Henderson,Carlos Newton,Middleweight,UFC_17
+7,Dan Henderson,Allan Goes,Middleweight,UFC_17
+8,Carlos Newton,Bob Gilstrap,Middleweight,UFC_17

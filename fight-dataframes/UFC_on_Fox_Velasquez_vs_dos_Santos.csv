@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Junior dos Santos,Cain Velasquez (c),UFC_on_Fox_Velasquez_vs_dos_Santos
-1,Benson Henderson,Clay Guida,UFC_on_Fox_Velasquez_vs_dos_Santos
-2,Dustin Poirier,Pablo Garza,UFC_on_Fox_Velasquez_vs_dos_Santos
-3,Ricardo Lamas,Cub Swanson,UFC_on_Fox_Velasquez_vs_dos_Santos
-4,DaMarques Johnson,Clay Harvison,UFC_on_Fox_Velasquez_vs_dos_Santos
-5,Darren Uyenoyama,Norifumi Yamamoto,UFC_on_Fox_Velasquez_vs_dos_Santos
-6,Robbie Peralta,Mackens Semerzier,UFC_on_Fox_Velasquez_vs_dos_Santos
-7,Alex Caceres,Cole Escovedo,UFC_on_Fox_Velasquez_vs_dos_Santos
-8,Mike Pierce,Paul Bradley,UFC_on_Fox_Velasquez_vs_dos_Santos
-9,Aaron Rosa,Matt Lucas,UFC_on_Fox_Velasquez_vs_dos_Santos
+,winner,loser,weight_class,event
+0,Junior dos Santos,Cain Velasquez (c),Heavyweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+1,Benson Henderson,Clay Guida,Lightweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+2,Dustin Poirier,Pablo Garza,Featherweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+3,Ricardo Lamas,Cub Swanson,Featherweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+4,DaMarques Johnson,Clay Harvison,Welterweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+5,Darren Uyenoyama,Norifumi Yamamoto,Bantamweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+6,Robbie Peralta,Mackens Semerzier,Featherweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+7,Alex Caceres,Cole Escovedo,Bantamweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+8,Mike Pierce,Paul Bradley,Welterweight,UFC_on_Fox_Velasquez_vs_dos_Santos
+9,Aaron Rosa,Matt Lucas,Light Heavyweight,UFC_on_Fox_Velasquez_vs_dos_Santos

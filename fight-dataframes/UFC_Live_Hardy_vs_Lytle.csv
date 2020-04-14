@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Chris Lytle,Dan Hardy,UFC_Live_Hardy_vs_Lytle
-1,Benson Henderson,Jim Miller,UFC_Live_Hardy_vs_Lytle
-2,Donald Cerrone,Charles Oliveira,UFC_Live_Hardy_vs_Lytle
-3,Duane Ludwig,Amir Sadollah,UFC_Live_Hardy_vs_Lytle
-4,Jared Hamman,C.B. Dollaway,UFC_Live_Hardy_vs_Lytle
-5,Joseph Benavidez,Eddie Wineland,UFC_Live_Hardy_vs_Lytle
-6,Ed Herman,Kyle Noke,UFC_Live_Hardy_vs_Lytle
-7,Ronny Markes,Karlos Vemola,UFC_Live_Hardy_vs_Lytle
-8,Jimy Hettes,Alex Caceres,UFC_Live_Hardy_vs_Lytle
-9,Cole Miller,T.J. O\'Brien,UFC_Live_Hardy_vs_Lytle
-10,Jacob Volkmann,Danny Castillo,UFC_Live_Hardy_vs_Lytle
-11,Edwin Figueroa,Jason Reinhardt,UFC_Live_Hardy_vs_Lytle
+,winner,loser,weight_class,event
+0,Chris Lytle,Dan Hardy,Welterweight,UFC_Live_Hardy_vs_Lytle
+1,Benson Henderson,Jim Miller,Lightweight,UFC_Live_Hardy_vs_Lytle
+2,Donald Cerrone,Charles Oliveira,Lightweight,UFC_Live_Hardy_vs_Lytle
+3,Duane Ludwig,Amir Sadollah,Welterweight,UFC_Live_Hardy_vs_Lytle
+4,Jared Hamman,C.B. Dollaway,Middleweight,UFC_Live_Hardy_vs_Lytle
+5,Joseph Benavidez,Eddie Wineland,Bantamweight,UFC_Live_Hardy_vs_Lytle
+6,Ed Herman,Kyle Noke,Middleweight,UFC_Live_Hardy_vs_Lytle
+7,Ronny Markes,Karlos Vemola,Light Heavyweight,UFC_Live_Hardy_vs_Lytle
+8,Jimy Hettes,Alex Caceres,Featherweight,UFC_Live_Hardy_vs_Lytle
+9,Cole Miller,T.J. O\'Brien,Lightweight,UFC_Live_Hardy_vs_Lytle
+10,Jacob Volkmann,Danny Castillo,Lightweight,UFC_Live_Hardy_vs_Lytle
+11,Edwin Figueroa,Jason Reinhardt,Bantamweight,UFC_Live_Hardy_vs_Lytle

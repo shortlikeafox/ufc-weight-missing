@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Cain Velasquez,Ant\xc3\xb4nio Rodrigo Nogueira,UFC_110
-1,Wanderlei Silva,Michael Bisping,UFC_110
-2,George Sotiropoulos,Joe Stevenson,UFC_110
-3,Ryan Bader,Keith Jardine,UFC_110
-4,Mirko Cro Cop,Anthony Perosh,UFC_110
-5,Krzysztof Soszynski,Stephan Bonnar,UFC_110
-6,Chris Lytle,Brian Foster,UFC_110
-7,C.B. Dollaway,Goran Reljic,UFC_110
-8,James Te Huna,Igor Pokrajac,UFC_110
+,winner,loser,weight_class,event
+0,Cain Velasquez,Ant\xc3\xb4nio Rodrigo Nogueira,Heavyweight,UFC_110
+1,Wanderlei Silva,Michael Bisping,Middleweight,UFC_110
+2,George Sotiropoulos,Joe Stevenson,Lightweight,UFC_110
+3,Ryan Bader,Keith Jardine,Light Heavyweight,UFC_110
+4,Mirko Cro Cop,Anthony Perosh,Heavyweight,UFC_110
+5,Krzysztof Soszynski,Stephan Bonnar,Light Heavyweight,UFC_110
+6,Chris Lytle,Brian Foster,Welterweight,UFC_110
+7,C.B. Dollaway,Goran Reljic,Middleweight,UFC_110
+8,James Te Huna,Igor Pokrajac,Light Heavyweight,UFC_110

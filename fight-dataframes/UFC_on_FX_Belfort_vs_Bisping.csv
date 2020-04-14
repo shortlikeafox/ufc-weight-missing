@@ -1,45 +1,45 @@
-,winner,loser,event
-0,Demetrious Johnson (c),John Dodson,UFC_on_FX_Belfort_vs_Bisping
-1,Featherweight,def.,UFC_on_FX_Belfort_vs_Bisping
-2,[b],Renan Bar\xc3\xa3o (ic),UFC_on_FX_Belfort_vs_Bisping
-3,UFC on Fuel TV 7,Women\'s Bantamweight,UFC_on_FX_Belfort_vs_Bisping
-4,4:49,[c],UFC_on_FX_Belfort_vs_Bisping
-5,5,UFC 158,UFC_on_FX_Belfort_vs_Bisping
-6,"Decision (split) (47\xe2\x80\x9348, 48\xe2\x80\x9347, 48\xe2\x80\x9347)",5:00,UFC_on_FX_Belfort_vs_Bisping
-7,Chael Sonnen,1,UFC_on_FX_Belfort_vs_Bisping
-8,def.,TKO (punches),UFC_on_FX_Belfort_vs_Bisping
-9,Chris Weidman,Anderson Silva (c),UFC_on_FX_Belfort_vs_Bisping
-10,Flyweight,def.,UFC_on_FX_Belfort_vs_Bisping
-11,[h],Jos\xc3\xa9 Aldo (c),UFC_on_FX_Belfort_vs_Bisping
-12,UFC 163,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-13,4:31,[j],UFC_on_FX_Belfort_vs_Bisping
-14,2,UFC 165,UFC_on_FX_Belfort_vs_Bisping
-15,"Decision (unanimous) (48\xe2\x80\x9347, 48\xe2\x80\x9347, 49\xe2\x80\x9346)",5:00,UFC_on_FX_Belfort_vs_Bisping
-16,Junior dos Santos,5,UFC_on_FX_Belfort_vs_Bisping
-17,def.,"Decision (split) (48\xe2\x80\x9347, 47\xe2\x80\x9348, 48\xe2\x80\x9347)",UFC_on_FX_Belfort_vs_Bisping
-18,Demetrious Johnson (c),Joseph Benavidez,UFC_on_FX_Belfort_vs_Bisping
-19,Women\'s Bantamweight,def.,UFC_on_FX_Belfort_vs_Bisping
-20,[p],Chris Weidman (c),UFC_on_FX_Belfort_vs_Bisping
-21,UFC 168,Middleweight,UFC_on_FX_Belfort_vs_Bisping
-22,1:27,Middleweight,UFC_on_FX_Belfort_vs_Bisping
-23,5:00,Heavyweight,UFC_on_FX_Belfort_vs_Bisping
-24,1:01,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-25,1:55,Featherweight,UFC_on_FX_Belfort_vs_Bisping
-26,5:00,Middleweight,UFC_on_FX_Belfort_vs_Bisping
-27,5:00,Featherweight,UFC_on_FX_Belfort_vs_Bisping
-28,5:00,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-29,2:38,Bantamweight,UFC_on_FX_Belfort_vs_Bisping
-30,2:11,Light Heavyweight,UFC_on_FX_Belfort_vs_Bisping
-31,2:39,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-32,1:50,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-33,5:00,Heavyweight,UFC_on_FX_Belfort_vs_Bisping
-34,5:00,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-35,3:44,Welterweight,UFC_on_FX_Belfort_vs_Bisping
-36,1:00,Featherweight,UFC_on_FX_Belfort_vs_Bisping
-37,1:08,Middleweight,UFC_on_FX_Belfort_vs_Bisping
-38,5:00,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-39,1:02,Flyweight,UFC_on_FX_Belfort_vs_Bisping
-40,4:50,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-41,5:00,Bantamweight,UFC_on_FX_Belfort_vs_Bisping
-42,4:22,Lightweight,UFC_on_FX_Belfort_vs_Bisping
-43,2:52,Middleweight,UFC_on_FX_Belfort_vs_Bisping
+,winner,loser,weight_class,event
+0,Demetrious Johnson (c),John Dodson,Flyweight,UFC_on_FX_Belfort_vs_Bisping
+1,Featherweight,def.,[a],UFC_on_FX_Belfort_vs_Bisping
+2,[b],Renan Bar\xc3\xa3o (ic),UFC 156,UFC_on_FX_Belfort_vs_Bisping
+3,UFC on Fuel TV 7,Women\'s Bantamweight,3:57,UFC_on_FX_Belfort_vs_Bisping
+4,4:49,[c],1,UFC_on_FX_Belfort_vs_Bisping
+5,5,UFC 158,"Decision (unanimous) (50\xe2\x80\x9345, 50\xe2\x80\x9345, 50\xe2\x80\x9345)",UFC_on_FX_Belfort_vs_Bisping
+6,"Decision (split) (47\xe2\x80\x9348, 48\xe2\x80\x9347, 48\xe2\x80\x9347)",5:00,Gilbert Melendez,UFC_on_FX_Belfort_vs_Bisping
+7,Chael Sonnen,1,def.,UFC_on_FX_Belfort_vs_Bisping
+8,def.,TKO (punches),Cain Velasquez (c),UFC_on_FX_Belfort_vs_Bisping
+9,Chris Weidman,Anderson Silva (c),Middleweight,UFC_on_FX_Belfort_vs_Bisping
+10,Flyweight,def.,[g],UFC_on_FX_Belfort_vs_Bisping
+11,[h],Jos\xc3\xa9 Aldo (c),UFC on Fox 8,UFC_on_FX_Belfort_vs_Bisping
+12,UFC 163,Lightweight,2:00,UFC_on_FX_Belfort_vs_Bisping
+13,4:31,[j],1,UFC_on_FX_Belfort_vs_Bisping
+14,2,UFC 165,TKO (spinning back kick and punches),UFC_on_FX_Belfort_vs_Bisping
+15,"Decision (unanimous) (48\xe2\x80\x9347, 48\xe2\x80\x9347, 49\xe2\x80\x9346)",5:00,Alexander Gustafsson,UFC_on_FX_Belfort_vs_Bisping
+16,Junior dos Santos,5,def.,UFC_on_FX_Belfort_vs_Bisping
+17,def.,"Decision (split) (48\xe2\x80\x9347, 47\xe2\x80\x9348, 48\xe2\x80\x9347)",Georges St-Pierre (c),UFC_on_FX_Belfort_vs_Bisping
+18,Demetrious Johnson (c),Joseph Benavidez,Flyweight,UFC_on_FX_Belfort_vs_Bisping
+19,Women\'s Bantamweight,def.,[o],UFC_on_FX_Belfort_vs_Bisping
+20,[p],Chris Weidman (c),UFC 168,UFC_on_FX_Belfort_vs_Bisping
+21,UFC 168,Middleweight,1:16,UFC_on_FX_Belfort_vs_Bisping
+22,1:27,Middleweight,2,UFC_on_FX_Belfort_vs_Bisping
+23,5:00,Heavyweight,3,UFC_on_FX_Belfort_vs_Bisping
+24,1:01,Lightweight,2,UFC_on_FX_Belfort_vs_Bisping
+25,1:55,Featherweight,1,UFC_on_FX_Belfort_vs_Bisping
+26,5:00,Middleweight,3,UFC_on_FX_Belfort_vs_Bisping
+27,5:00,Featherweight,3,UFC_on_FX_Belfort_vs_Bisping
+28,5:00,Lightweight,3,UFC_on_FX_Belfort_vs_Bisping
+29,2:38,Bantamweight,1,UFC_on_FX_Belfort_vs_Bisping
+30,2:11,Light Heavyweight,1,UFC_on_FX_Belfort_vs_Bisping
+31,2:39,Lightweight,2,UFC_on_FX_Belfort_vs_Bisping
+32,1:50,Lightweight,2,UFC_on_FX_Belfort_vs_Bisping
+33,5:00,Heavyweight,5,UFC_on_FX_Belfort_vs_Bisping
+34,5:00,Lightweight,3,UFC_on_FX_Belfort_vs_Bisping
+35,3:44,Welterweight,2,UFC_on_FX_Belfort_vs_Bisping
+36,1:00,Featherweight,2,UFC_on_FX_Belfort_vs_Bisping
+37,1:08,Middleweight,1,UFC_on_FX_Belfort_vs_Bisping
+38,5:00,Lightweight,3,UFC_on_FX_Belfort_vs_Bisping
+39,1:02,Flyweight,2,UFC_on_FX_Belfort_vs_Bisping
+40,4:50,Lightweight,2,UFC_on_FX_Belfort_vs_Bisping
+41,5:00,Bantamweight,3,UFC_on_FX_Belfort_vs_Bisping
+42,4:22,Lightweight,1,UFC_on_FX_Belfort_vs_Bisping
+43,2:52,Middleweight,2,UFC_on_FX_Belfort_vs_Bisping

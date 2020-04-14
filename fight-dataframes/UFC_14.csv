@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Maurice Smith,Mark Coleman (c),UFC_14
-1,Kevin Jackson,Tony Fryklund,UFC_14
-2,Joe Moreira,Yuri Vaulin,UFC_14
-3,Kevin Jackson,Todd Butler,UFC_14
-4,Tony Fryklund,Donnie Chappell,UFC_14
-5,Mark Kerr,Dan Bobish,UFC_14
-6,Mark Kerr,Moti Horenstein,UFC_14
-7,Dan Bobish,Brian Johnston,UFC_14
-8,Alex Hunter,Sam Fulton,UFC_14
+,winner,loser,weight_class,event
+0,Maurice Smith,Mark Coleman (c),Heavyweight,UFC_14
+1,Kevin Jackson,Tony Fryklund,Middleweight,UFC_14
+2,Joe Moreira,Yuri Vaulin,Middleweight,UFC_14
+3,Kevin Jackson,Todd Butler,Middleweight,UFC_14
+4,Tony Fryklund,Donnie Chappell,Middleweight,UFC_14
+5,Mark Kerr,Dan Bobish,Heavyweight,UFC_14
+6,Mark Kerr,Moti Horenstein,Heavyweight,UFC_14
+7,Dan Bobish,Brian Johnston,Heavyweight,UFC_14
+8,Alex Hunter,Sam Fulton,Heavyweight,UFC_14

@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Frank Shamrock (c),John Lober,UFC_Brazil
-1,Pat Miletich,Mikey Burnett,UFC_Brazil
-2,Vitor Belfort,Wanderlei Silva,UFC_Brazil
-3,Pedro Rizzo,Tank Abbott,UFC_Brazil
-4,Tsuyoshi Kosaka,Pete Williams,UFC_Brazil
-5,Ebenezer Fontes Braga,Jeremy Horn,UFC_Brazil
-6,Cesar Marscucci,Paulo Santos,UFC_Brazil
-7,Tulio Palhares,Adriano Santos,UFC_Brazil
+,winner,loser,weight_class,event
+0,Frank Shamrock (c),John Lober,Middleweight,UFC_Brazil
+1,Pat Miletich,Mikey Burnett,Lightweight,UFC_Brazil
+2,Vitor Belfort,Wanderlei Silva,Middleweight,UFC_Brazil
+3,Pedro Rizzo,Tank Abbott,Heavyweight,UFC_Brazil
+4,Tsuyoshi Kosaka,Pete Williams,Heavyweight,UFC_Brazil
+5,Ebenezer Fontes Braga,Jeremy Horn,Middleweight,UFC_Brazil
+6,Cesar Marscucci,Paulo Santos,Lightweight,UFC_Brazil
+7,Tulio Palhares,Adriano Santos,Middleweight,UFC_Brazil

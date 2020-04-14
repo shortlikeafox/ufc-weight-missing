@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Jerry Bohlander,Nick Sanzo,UFC_12
-1,Jerry Bohlander,Rainy Martinez,UFC_12
-2,Yoshiki Takahashi,Wallid Ismail,UFC_12
-3,Nick Sanzo,Jackie Lee,UFC_12
-4,Mark Coleman,Dan Severn,UFC_12
-5,Vitor Belfort,Scott Ferrozzo,UFC_12
-6,Scott Ferrozzo,Jim Mullen,UFC_12
-7,Vitor Belfort,Tra Telligman,UFC_12
-8,Justin Martin,Eric Martin,UFC_12
+,winner,loser,weight_class,event
+0,Jerry Bohlander,Nick Sanzo,Lightweight,UFC_12
+1,Jerry Bohlander,Rainy Martinez,Lightweight,UFC_12
+2,Yoshiki Takahashi,Wallid Ismail,Lightweight,UFC_12
+3,Nick Sanzo,Jackie Lee,Lightweight,UFC_12
+4,Mark Coleman,Dan Severn,Heavyweight,UFC_12
+5,Vitor Belfort,Scott Ferrozzo,Heavyweight,UFC_12
+6,Scott Ferrozzo,Jim Mullen,Heavyweight,UFC_12
+7,Vitor Belfort,Tra Telligman,Heavyweight,UFC_12
+8,Justin Martin,Eric Martin,Heavyweight,UFC_12

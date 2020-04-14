@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Robert Whittaker,Yoel Romero,UFC_213
-1,Alistair Overeem,Fabr\xc3\xadcio Werdum,UFC_213
-2,Curtis Blaydes,Daniel Omiela\xc5\x84czuk,UFC_213
-3,Anthony Pettis,Jim Miller,UFC_213
-4,Rob Font,Douglas Silva de Andrade,UFC_213
-5,Aleksei Oleinik,Travis Browne,UFC_213
-6,Chad Laprise,Brian Camozzi,UFC_213
-7,Thiago Santos,Gerald Meerschaert,UFC_213
-8,Belal Muhammad,Jordan Mein,UFC_213
-9,Cody Stamann,Terrion Ware,UFC_213
-10,Trevin Giles,James Bochnovic,UFC_213
+,winner,loser,weight_class,event
+0,Robert Whittaker,Yoel Romero,Middleweight,UFC_213
+1,Alistair Overeem,Fabr\xc3\xadcio Werdum,Heavyweight,UFC_213
+2,Curtis Blaydes,Daniel Omiela\xc5\x84czuk,Heavyweight,UFC_213
+3,Anthony Pettis,Jim Miller,Lightweight,UFC_213
+4,Rob Font,Douglas Silva de Andrade,Bantamweight,UFC_213
+5,Aleksei Oleinik,Travis Browne,Heavyweight,UFC_213
+6,Chad Laprise,Brian Camozzi,Welterweight,UFC_213
+7,Thiago Santos,Gerald Meerschaert,Middleweight,UFC_213
+8,Belal Muhammad,Jordan Mein,Welterweight,UFC_213
+9,Cody Stamann,Terrion Ware,Featherweight,UFC_213
+10,Trevin Giles,James Bochnovic,Light Heavyweight,UFC_213

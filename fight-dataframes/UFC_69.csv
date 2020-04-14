@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Matt Serra,Georges St-Pierre (c),UFC_69
-1,Josh Koscheck,Diego Sanchez,UFC_69
-2,Roger Huerta,Leonard Garcia,UFC_69
-3,Yushin Okami,Mike Swick,UFC_69
-4,Kendall Grove,Alan Belcher,UFC_69
-5,Heath Herring,Brad Imes,UFC_69
-6,Thales Leites,Pete Sell,UFC_69
-7,Marcus Davis,Pete Spratt,UFC_69
-8,Luke Cummo,Josh Haynes,UFC_69
+,winner,loser,weight_class,event
+0,Matt Serra,Georges St-Pierre (c),Welterweight,UFC_69
+1,Josh Koscheck,Diego Sanchez,Welterweight,UFC_69
+2,Roger Huerta,Leonard Garcia,Lightweight,UFC_69
+3,Yushin Okami,Mike Swick,Middleweight,UFC_69
+4,Kendall Grove,Alan Belcher,Middleweight,UFC_69
+5,Heath Herring,Brad Imes,Heavyweight,UFC_69
+6,Thales Leites,Pete Sell,Middleweight,UFC_69
+7,Marcus Davis,Pete Spratt,Welterweight,UFC_69
+8,Luke Cummo,Josh Haynes,Welterweight,UFC_69

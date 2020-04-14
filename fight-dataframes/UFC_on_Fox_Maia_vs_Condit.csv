@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Demian Maia,Carlos Condit,UFC_on_Fox_Maia_vs_Condit
-1,Anthony Pettis,Charles Oliveira,UFC_on_Fox_Maia_vs_Condit
-2,Paige VanZant,Bec Rawlings,UFC_on_Fox_Maia_vs_Condit
-3,Jim Miller,Joe Lauzon,UFC_on_Fox_Maia_vs_Condit
-4,Sam Alvey,Kevin Casey,UFC_on_Fox_Maia_vs_Condit
-5,Kyle Bochniak,Enrique Barzola,UFC_on_Fox_Maia_vs_Condit
-6,Alessio Di Chirico,Garreth McLellan,UFC_on_Fox_Maia_vs_Condit
-7,Felipe Silva,Shane Campbell,UFC_on_Fox_Maia_vs_Condit
-8,Chad Laprise,Thibault Gouti,UFC_on_Fox_Maia_vs_Condit
-9,Jeremy Kennedy,Alessandro Ricci,UFC_on_Fox_Maia_vs_Condit
+,winner,loser,weight_class,event
+0,Demian Maia,Carlos Condit,Welterweight,UFC_on_Fox_Maia_vs_Condit
+1,Anthony Pettis,Charles Oliveira,Featherweight,UFC_on_Fox_Maia_vs_Condit
+2,Paige VanZant,Bec Rawlings,Women\'s Strawweight,UFC_on_Fox_Maia_vs_Condit
+3,Jim Miller,Joe Lauzon,Lightweight,UFC_on_Fox_Maia_vs_Condit
+4,Sam Alvey,Kevin Casey,Middleweight,UFC_on_Fox_Maia_vs_Condit
+5,Kyle Bochniak,Enrique Barzola,Featherweight,UFC_on_Fox_Maia_vs_Condit
+6,Alessio Di Chirico,Garreth McLellan,Middleweight,UFC_on_Fox_Maia_vs_Condit
+7,Felipe Silva,Shane Campbell,Lightweight,UFC_on_Fox_Maia_vs_Condit
+8,Chad Laprise,Thibault Gouti,Catchweight (159 lbs),UFC_on_Fox_Maia_vs_Condit
+9,Jeremy Kennedy,Alessandro Ricci,Lightweight,UFC_on_Fox_Maia_vs_Condit

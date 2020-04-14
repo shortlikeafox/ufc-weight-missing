@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Yoel Romero,Lyoto Machida,UFC_Fight_Night_Machida_vs_Romero
-1,Lorenz Larkin,Santiago Ponzinibbio,UFC_Fight_Night_Machida_vs_Romero
-2,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Eddie Gordon,UFC_Fight_Night_Machida_vs_Romero
-3,Thiago Santos,Steve Boss\xc3\xa9,UFC_Fight_Night_Machida_vs_Romero
-4,Hacran Dias,Levan Makashvili,UFC_Fight_Night_Machida_vs_Romero
-5,Alex Oliveira,Joe Merritt,UFC_Fight_Night_Machida_vs_Romero
-6,Leandro Silva,Lewis Gonzalez,UFC_Fight_Night_Machida_vs_Romero
-7,Tony Sims,Steve Montgomery,UFC_Fight_Night_Machida_vs_Romero
-8,Sirwan Kakai,Danny Martinez,UFC_Fight_Night_Machida_vs_Romero
+,winner,loser,weight_class,event
+0,Yoel Romero,Lyoto Machida,Middleweight,UFC_Fight_Night_Machida_vs_Romero
+1,Lorenz Larkin,Santiago Ponzinibbio,Welterweight,UFC_Fight_Night_Machida_vs_Romero
+2,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Eddie Gordon,Middleweight,UFC_Fight_Night_Machida_vs_Romero
+3,Thiago Santos,Steve Boss\xc3\xa9,Middleweight,UFC_Fight_Night_Machida_vs_Romero
+4,Hacran Dias,Levan Makashvili,Featherweight,UFC_Fight_Night_Machida_vs_Romero
+5,Alex Oliveira,Joe Merritt,Welterweight,UFC_Fight_Night_Machida_vs_Romero
+6,Leandro Silva,Lewis Gonzalez,Catchweight (174 lbs),UFC_Fight_Night_Machida_vs_Romero
+7,Tony Sims,Steve Montgomery,Welterweight,UFC_Fight_Night_Machida_vs_Romero
+8,Sirwan Kakai,Danny Martinez,Bantamweight,UFC_Fight_Night_Machida_vs_Romero

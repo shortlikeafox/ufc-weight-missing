@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Jon Jones (c),Quinton Jackson,UFC_135
-1,Josh Koscheck,Matt Hughes,UFC_135
-2,Mark Hunt,Ben Rothwell,UFC_135
-3,Travis Browne,Rob Broughton,UFC_135
-4,Nate Diaz,Takanori Gomi,UFC_135
-5,Tony Ferguson,Aaron Riley,UFC_135
-6,Tim Boetsch,Nick Ring,UFC_135
-7,Junior Assun\xc3\xa7\xc3\xa3o,Eddie Yagin,UFC_135
-8,Takeya Mizugaki,Cole Escovedo,UFC_135
-9,James Te Huna,Ricardo Romero,UFC_135
+,winner,loser,weight_class,event
+0,Jon Jones (c),Quinton Jackson,Light Heavyweight,UFC_135
+1,Josh Koscheck,Matt Hughes,Welterweight,UFC_135
+2,Mark Hunt,Ben Rothwell,Heavyweight,UFC_135
+3,Travis Browne,Rob Broughton,Heavyweight,UFC_135
+4,Nate Diaz,Takanori Gomi,Lightweight,UFC_135
+5,Tony Ferguson,Aaron Riley,Lightweight,UFC_135
+6,Tim Boetsch,Nick Ring,Middleweight,UFC_135
+7,Junior Assun\xc3\xa7\xc3\xa3o,Eddie Yagin,Featherweight,UFC_135
+8,Takeya Mizugaki,Cole Escovedo,Bantamweight,UFC_135
+9,James Te Huna,Ricardo Romero,Light Heavyweight,UFC_135

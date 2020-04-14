@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Derrick Lewis,Shamil Abdurakhimov,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-1,Francis Ngannou,Anthony Hamilton,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-2,Corey Anderson,Sean O\'Connell,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-3,Gian Villante,Saparbek Safarov,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-4,Justine Kish,Ashley Yoder,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-5,Randy Brown,Brian Camozzi,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-6,Gerald Meerschaert,Joe Gigliotti,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-7,Andrew Sanchez,Trevor Smith,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-8,Shane Burgos,Tiago Trator,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-9,Marc Diakiese,Frankie Perez,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-10,Ryan Janes,Keith Berish,UFC_Fight_Night_Lewis_vs_Abdurakhimov
-11,Juliana Lima,JJ Aldrich,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+,winner,loser,weight_class,event
+0,Derrick Lewis,Shamil Abdurakhimov,Heavyweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+1,Francis Ngannou,Anthony Hamilton,Heavyweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+2,Corey Anderson,Sean O\'Connell,Light Heavyweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+3,Gian Villante,Saparbek Safarov,Light Heavyweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+4,Justine Kish,Ashley Yoder,Catchweight (116.4 lbs),UFC_Fight_Night_Lewis_vs_Abdurakhimov
+5,Randy Brown,Brian Camozzi,Welterweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+6,Gerald Meerschaert,Joe Gigliotti,Middleweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+7,Andrew Sanchez,Trevor Smith,Middleweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+8,Shane Burgos,Tiago Trator,Featherweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+9,Marc Diakiese,Frankie Perez,Lightweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+10,Ryan Janes,Keith Berish,Middleweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov
+11,Juliana Lima,JJ Aldrich,Women\'s Strawweight,UFC_Fight_Night_Lewis_vs_Abdurakhimov

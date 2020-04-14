@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Luke Rockhold,David Branch,UFC_Fight_Night_Rockhold_vs_Branch
-1,Mike Perry,Alex Reyes,UFC_Fight_Night_Rockhold_vs_Branch
-2,Anthony Smith,Hector Lombard,UFC_Fight_Night_Rockhold_vs_Branch
-3,Gregor Gillespie,Jason Gonzalez,UFC_Fight_Night_Rockhold_vs_Branch
-4,Kamaru Usman,S\xc3\xa9rgio Moraes,UFC_Fight_Night_Rockhold_vs_Branch
-5,Justin Ledet,Zu Anyanwu,UFC_Fight_Night_Rockhold_vs_Branch
-6,Olivier Aubin-Mercier,Tony Martin,UFC_Fight_Night_Rockhold_vs_Branch
-7,Daniel Spitz,Anthony Hamilton,UFC_Fight_Night_Rockhold_vs_Branch
-8,Uriah Hall,Krzysztof Jotko,UFC_Fight_Night_Rockhold_vs_Branch
-9,Gilbert Burns,Jason Saggo,UFC_Fight_Night_Rockhold_vs_Branch
+,winner,loser,weight_class,event
+0,Luke Rockhold,David Branch,Middleweight,UFC_Fight_Night_Rockhold_vs_Branch
+1,Mike Perry,Alex Reyes,Welterweight,UFC_Fight_Night_Rockhold_vs_Branch
+2,Anthony Smith,Hector Lombard,Middleweight,UFC_Fight_Night_Rockhold_vs_Branch
+3,Gregor Gillespie,Jason Gonzalez,Lightweight,UFC_Fight_Night_Rockhold_vs_Branch
+4,Kamaru Usman,S\xc3\xa9rgio Moraes,Welterweight,UFC_Fight_Night_Rockhold_vs_Branch
+5,Justin Ledet,Zu Anyanwu,Heavyweight,UFC_Fight_Night_Rockhold_vs_Branch
+6,Olivier Aubin-Mercier,Tony Martin,Lightweight,UFC_Fight_Night_Rockhold_vs_Branch
+7,Daniel Spitz,Anthony Hamilton,Heavyweight,UFC_Fight_Night_Rockhold_vs_Branch
+8,Uriah Hall,Krzysztof Jotko,Middleweight,UFC_Fight_Night_Rockhold_vs_Branch
+9,Gilbert Burns,Jason Saggo,Lightweight,UFC_Fight_Night_Rockhold_vs_Branch

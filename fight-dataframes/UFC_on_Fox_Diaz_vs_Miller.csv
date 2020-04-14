@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Nate Diaz,Jim Miller,UFC_on_Fox_Diaz_vs_Miller
-1,Johny Hendricks,Josh Koscheck,UFC_on_Fox_Diaz_vs_Miller
-2,Alan Belcher,Rousimar Palhares,UFC_on_Fox_Diaz_vs_Miller
-3,Lavar Johnson,Pat Barry,UFC_on_Fox_Diaz_vs_Miller
-4,Michael Johnson,Tony Ferguson,UFC_on_Fox_Diaz_vs_Miller
-5,John Dodson,Tim Elliott,UFC_on_Fox_Diaz_vs_Miller
-6,John Hathaway,Pascal Krauss,UFC_on_Fox_Diaz_vs_Miller
-7,Louis Gaudinot,John Lineker,UFC_on_Fox_Diaz_vs_Miller
-8,Danny Castillo,John Cholish,UFC_on_Fox_Diaz_vs_Miller
-9,Dennis Bermudez,Pablo Garza,UFC_on_Fox_Diaz_vs_Miller
-10,Roland Delorme,Nick Denis,UFC_on_Fox_Diaz_vs_Miller
-11,Karlos Vemola,Mike Massenzio,UFC_on_Fox_Diaz_vs_Miller
+,winner,loser,weight_class,event
+0,Nate Diaz,Jim Miller,Lightweight,UFC_on_Fox_Diaz_vs_Miller
+1,Johny Hendricks,Josh Koscheck,Welterweight,UFC_on_Fox_Diaz_vs_Miller
+2,Alan Belcher,Rousimar Palhares,Middleweight,UFC_on_Fox_Diaz_vs_Miller
+3,Lavar Johnson,Pat Barry,Heavyweight,UFC_on_Fox_Diaz_vs_Miller
+4,Michael Johnson,Tony Ferguson,Lightweight,UFC_on_Fox_Diaz_vs_Miller
+5,John Dodson,Tim Elliott,Flyweight,UFC_on_Fox_Diaz_vs_Miller
+6,John Hathaway,Pascal Krauss,Welterweight,UFC_on_Fox_Diaz_vs_Miller
+7,Louis Gaudinot,John Lineker,Catchweight (127lb),UFC_on_Fox_Diaz_vs_Miller
+8,Danny Castillo,John Cholish,Lightweight,UFC_on_Fox_Diaz_vs_Miller
+9,Dennis Bermudez,Pablo Garza,Featherweight,UFC_on_Fox_Diaz_vs_Miller
+10,Roland Delorme,Nick Denis,Bantamweight,UFC_on_Fox_Diaz_vs_Miller
+11,Karlos Vemola,Mike Massenzio,Middleweight,UFC_on_Fox_Diaz_vs_Miller

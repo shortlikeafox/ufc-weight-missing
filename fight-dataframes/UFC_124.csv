@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Georges St-Pierre (c),Josh Koscheck,UFC_124
-1,Stefan Struve,Sean McCorkle,UFC_124
-2,Jim Miller,Charles Oliveira,UFC_124
-3,Mac Danzig,Joe Stevenson,UFC_124
-4,Thiago Alves,John Howard,UFC_124
-5,Dan Miller,Joe Doerksen,UFC_124
-6,Mark Bocek,Dustin Hazelett,UFC_124
-7,Rafael Natal,Jesse Bongfeldt,UFC_124
-8,Sean Pierson,Matthew Riddle,UFC_124
-9,Ricardo Almeida,TJ Grant,UFC_124
-10,John Makdessi,Pat Audinwood,UFC_124
+,winner,loser,weight_class,event
+0,Georges St-Pierre (c),Josh Koscheck,Welterweight,UFC_124
+1,Stefan Struve,Sean McCorkle,Heavyweight,UFC_124
+2,Jim Miller,Charles Oliveira,Lightweight,UFC_124
+3,Mac Danzig,Joe Stevenson,Lightweight,UFC_124
+4,Thiago Alves,John Howard,Welterweight,UFC_124
+5,Dan Miller,Joe Doerksen,Middleweight,UFC_124
+6,Mark Bocek,Dustin Hazelett,Lightweight,UFC_124
+7,Rafael Natal,Jesse Bongfeldt,Middleweight,UFC_124
+8,Sean Pierson,Matthew Riddle,Welterweight,UFC_124
+9,Ricardo Almeida,TJ Grant,Welterweight,UFC_124
+10,John Makdessi,Pat Audinwood,Lightweight,UFC_124

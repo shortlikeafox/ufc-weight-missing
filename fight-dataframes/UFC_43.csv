@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Randy Couture,Chuck Liddell,UFC_43
-1,Kimo Leopoldo,Tank Abbott,UFC_43
-2,Vitor Belfort,Marvin Eastman,UFC_43
-3,Vernon White,Ian Freeman,UFC_43
-4,Frank Mir,Wes Sims,UFC_43
-5,Pedro Rizzo,Tra Telligman,UFC_43
-6,Falaniko Vitale,Matt Lindland,UFC_43
-7,Yves Edwards,Eddie Ruiz,UFC_43
+,winner,loser,weight_class,event
+0,Randy Couture,Chuck Liddell,Light Heavyweight,UFC_43
+1,Kimo Leopoldo,Tank Abbott,Heavyweight,UFC_43
+2,Vitor Belfort,Marvin Eastman,Light Heavyweight,UFC_43
+3,Vernon White,Ian Freeman,Heavyweight,UFC_43
+4,Frank Mir,Wes Sims,Heavyweight,UFC_43
+5,Pedro Rizzo,Tra Telligman,Heavyweight,UFC_43
+6,Falaniko Vitale,Matt Lindland,Middleweight,UFC_43
+7,Yves Edwards,Eddie Ruiz,Lightweight,UFC_43

@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Robert Whittaker,Derek Brunson,UFC_Fight_Night_Whittaker_vs_Brunson
-1,Andrew Holbrook,Jake Matthews,UFC_Fight_Night_Whittaker_vs_Brunson
-2,Omari Akhmedov,Kyle Noke,UFC_Fight_Night_Whittaker_vs_Brunson
-3,Alexander Volkanovski,Yusuke Kasuya,UFC_Fight_Night_Whittaker_vs_Brunson
-4,Tyson Pedro,Khalil Rountree,UFC_Fight_Night_Whittaker_vs_Brunson
-5,Danielle Taylor,Seo Hee Ham,UFC_Fight_Night_Whittaker_vs_Brunson
-6,Dan Kelly,Chris Camozzi,UFC_Fight_Night_Whittaker_vs_Brunson
-7,Damien Brown,Jon Tuck,UFC_Fight_Night_Whittaker_vs_Brunson
-8,Jonathan Meunier,Richard Walsh,UFC_Fight_Night_Whittaker_vs_Brunson
-9,Ben Nguyen,Geane Herrera,UFC_Fight_Night_Whittaker_vs_Brunson
-10,Jason Knight,Dan Hooker,UFC_Fight_Night_Whittaker_vs_Brunson
-11,Marlon Vera,Ning Guangyou,UFC_Fight_Night_Whittaker_vs_Brunson
-12,Jenel Lausa,Yao Zhikui,UFC_Fight_Night_Whittaker_vs_Brunson
+,winner,loser,weight_class,event
+0,Robert Whittaker,Derek Brunson,Middleweight,UFC_Fight_Night_Whittaker_vs_Brunson
+1,Andrew Holbrook,Jake Matthews,Lightweight,UFC_Fight_Night_Whittaker_vs_Brunson
+2,Omari Akhmedov,Kyle Noke,Welterweight,UFC_Fight_Night_Whittaker_vs_Brunson
+3,Alexander Volkanovski,Yusuke Kasuya,Lightweight,UFC_Fight_Night_Whittaker_vs_Brunson
+4,Tyson Pedro,Khalil Rountree,Light Heavyweight,UFC_Fight_Night_Whittaker_vs_Brunson
+5,Danielle Taylor,Seo Hee Ham,Women\'s Strawweight,UFC_Fight_Night_Whittaker_vs_Brunson
+6,Dan Kelly,Chris Camozzi,Middleweight,UFC_Fight_Night_Whittaker_vs_Brunson
+7,Damien Brown,Jon Tuck,Lightweight,UFC_Fight_Night_Whittaker_vs_Brunson
+8,Jonathan Meunier,Richard Walsh,Welterweight,UFC_Fight_Night_Whittaker_vs_Brunson
+9,Ben Nguyen,Geane Herrera,Flyweight,UFC_Fight_Night_Whittaker_vs_Brunson
+10,Jason Knight,Dan Hooker,Featherweight,UFC_Fight_Night_Whittaker_vs_Brunson
+11,Marlon Vera,Ning Guangyou,Featherweight,UFC_Fight_Night_Whittaker_vs_Brunson
+12,Jenel Lausa,Yao Zhikui,Flyweight,UFC_Fight_Night_Whittaker_vs_Brunson

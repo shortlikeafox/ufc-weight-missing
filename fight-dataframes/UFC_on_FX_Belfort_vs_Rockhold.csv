@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Vitor Belfort,Luke Rockhold,UFC_on_FX_Belfort_vs_Rockhold
-1,Ronaldo Souza,Chris Camozzi,UFC_on_FX_Belfort_vs_Rockhold
-2,Rafael dos Anjos,Evan Dunham,UFC_on_FX_Belfort_vs_Rockhold
-3,Rafael Natal,Jo\xc3\xa3o Zeferino,UFC_on_FX_Belfort_vs_Rockhold
-4,Nik Lentz,Hacran Dias,UFC_on_FX_Belfort_vs_Rockhold
-5,Francisco Trinaldo,Mike Rio,UFC_on_FX_Belfort_vs_Rockhold
-6,Gleison Tibau,John Cholish,UFC_on_FX_Belfort_vs_Rockhold
-7,Paulo Thiago,Michel Prazeres,UFC_on_FX_Belfort_vs_Rockhold
-8,Iuri Alc\xc3\xa2ntara,Iliarde Santos,UFC_on_FX_Belfort_vs_Rockhold
-9,Fabio Maldonado,Roger Hollett,UFC_on_FX_Belfort_vs_Rockhold
-10,John Lineker,Azamat Gashimov,UFC_on_FX_Belfort_vs_Rockhold
-11,Jussier Formiga,Chris Cariaso,UFC_on_FX_Belfort_vs_Rockhold
-12,Lucas Martins,Jeremy Larsen,UFC_on_FX_Belfort_vs_Rockhold
+,winner,loser,weight_class,event
+0,Vitor Belfort,Luke Rockhold,Middleweight,UFC_on_FX_Belfort_vs_Rockhold
+1,Ronaldo Souza,Chris Camozzi,Middleweight,UFC_on_FX_Belfort_vs_Rockhold
+2,Rafael dos Anjos,Evan Dunham,Lightweight,UFC_on_FX_Belfort_vs_Rockhold
+3,Rafael Natal,Jo\xc3\xa3o Zeferino,Middleweight,UFC_on_FX_Belfort_vs_Rockhold
+4,Nik Lentz,Hacran Dias,Featherweight,UFC_on_FX_Belfort_vs_Rockhold
+5,Francisco Trinaldo,Mike Rio,Lightweight,UFC_on_FX_Belfort_vs_Rockhold
+6,Gleison Tibau,John Cholish,Lightweight,UFC_on_FX_Belfort_vs_Rockhold
+7,Paulo Thiago,Michel Prazeres,Welterweight,UFC_on_FX_Belfort_vs_Rockhold
+8,Iuri Alc\xc3\xa2ntara,Iliarde Santos,Bantamweight,UFC_on_FX_Belfort_vs_Rockhold
+9,Fabio Maldonado,Roger Hollett,Light Heavyweight,UFC_on_FX_Belfort_vs_Rockhold
+10,John Lineker,Azamat Gashimov,Flyweight,UFC_on_FX_Belfort_vs_Rockhold
+11,Jussier Formiga,Chris Cariaso,Flyweight,UFC_on_FX_Belfort_vs_Rockhold
+12,Lucas Martins,Jeremy Larsen,Lightweight,UFC_on_FX_Belfort_vs_Rockhold

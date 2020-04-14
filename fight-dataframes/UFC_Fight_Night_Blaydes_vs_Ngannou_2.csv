@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Francis Ngannou,Curtis Blaydes,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-1,Alistair Overeem,Sergei Pavlovich,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-2,Song Yadong,Vince Morales,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-3,Li Jingliang,David Zawada,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-4,Alex Morono,Song Kenan,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-5,Wu Yanan,Lauren Mueller,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-6,Rashad Coulter,Hu Yaozong,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-7,Zhang Weili,Jessica Aguilar,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-8,Liu Pingyuan,Martin Day,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-9,Yan Xiaonan,Syuri Kondo,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-10,Kevin Holland,John Phillips,UFC_Fight_Night_Blaydes_vs_Ngannou_2
-11,Louis Smolka,Su Mudaerji,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+,winner,loser,weight_class,event
+0,Francis Ngannou,Curtis Blaydes,Heavyweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+1,Alistair Overeem,Sergei Pavlovich,Heavyweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+2,Song Yadong,Vince Morales,Bantamweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+3,Li Jingliang,David Zawada,Welterweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+4,Alex Morono,Song Kenan,Welterweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+5,Wu Yanan,Lauren Mueller,Women\'s Flyweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+6,Rashad Coulter,Hu Yaozong,Catchweight (208 lbs),UFC_Fight_Night_Blaydes_vs_Ngannou_2
+7,Zhang Weili,Jessica Aguilar,Women\'s Strawweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+8,Liu Pingyuan,Martin Day,Bantamweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+9,Yan Xiaonan,Syuri Kondo,Women\'s Strawweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+10,Kevin Holland,John Phillips,Middleweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2
+11,Louis Smolka,Su Mudaerji,Bantamweight,UFC_Fight_Night_Blaydes_vs_Ngannou_2

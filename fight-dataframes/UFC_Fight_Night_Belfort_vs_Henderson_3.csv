@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Vitor Belfort,Dan Henderson,UFC_Fight_Night_Belfort_vs_Henderson_3
-1,Glover Teixeira,Patrick Cummins,UFC_Fight_Night_Belfort_vs_Henderson_3
-2,Thomas Almeida,Anthony Birchak,UFC_Fight_Night_Belfort_vs_Henderson_3
-3,Alex Oliveira,Piotr Hallmann,UFC_Fight_Night_Belfort_vs_Henderson_3
-4,Rashid Magomedov,Gilbert Burns,UFC_Fight_Night_Belfort_vs_Henderson_3
-5,Corey Anderson,Fabio Maldonado,UFC_Fight_Night_Belfort_vs_Henderson_3
-6,Abel Trujillo,Gleison Tibau,UFC_Fight_Night_Belfort_vs_Henderson_3
-7,Johnny Case,Yan Cabral,UFC_Fight_Night_Belfort_vs_Henderson_3
-8,Thiago Tavares,Clay Guida,UFC_Fight_Night_Belfort_vs_Henderson_3
-9,Chas Skelly,Kevin Souza,UFC_Fight_Night_Belfort_vs_Henderson_3
-10,Viscardi Andrade,Gasan Umalatov,UFC_Fight_Night_Belfort_vs_Henderson_3
-11,Jimmie Rivera,Pedro Munhoz,UFC_Fight_Night_Belfort_vs_Henderson_3
-12,Matheus Nicolau,Bruno Rodrigues,UFC_Fight_Night_Belfort_vs_Henderson_3
+,winner,loser,weight_class,event
+0,Vitor Belfort,Dan Henderson,Middleweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+1,Glover Teixeira,Patrick Cummins,Light Heavyweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+2,Thomas Almeida,Anthony Birchak,Bantamweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+3,Alex Oliveira,Piotr Hallmann,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+4,Rashid Magomedov,Gilbert Burns,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+5,Corey Anderson,Fabio Maldonado,Light Heavyweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+6,Abel Trujillo,Gleison Tibau,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+7,Johnny Case,Yan Cabral,Lightweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+8,Thiago Tavares,Clay Guida,Featherweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+9,Chas Skelly,Kevin Souza,Featherweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+10,Viscardi Andrade,Gasan Umalatov,Welterweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+11,Jimmie Rivera,Pedro Munhoz,Bantamweight,UFC_Fight_Night_Belfort_vs_Henderson_3
+12,Matheus Nicolau,Bruno Rodrigues,Bantamweight,UFC_Fight_Night_Belfort_vs_Henderson_3

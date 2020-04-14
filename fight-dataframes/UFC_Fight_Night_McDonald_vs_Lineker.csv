@@ -1,13 +1,13 @@
-,winner,loser,event
-0,John Lineker,Michael McDonald,UFC_Fight_Night_McDonald_vs_Lineker
-1,Tony Ferguson,Lando Vannata,UFC_Fight_Night_McDonald_vs_Lineker
-2,Tim Boetsch,Josh Samman,UFC_Fight_Night_McDonald_vs_Lineker
-3,Daniel Omiela\xc5\x84czuk,Aleksei Oleinik,UFC_Fight_Night_McDonald_vs_Lineker
-4,Keita Nakamura,Kyle Noke,UFC_Fight_Night_McDonald_vs_Lineker
-5,Louis Smolka,Ben Nguyen,UFC_Fight_Night_McDonald_vs_Lineker
-6,Katlyn Chookagian,Lauren Murphy,UFC_Fight_Night_McDonald_vs_Lineker
-7,Sam Alvey,Eric Spicely,UFC_Fight_Night_McDonald_vs_Lineker
-8,Cortney Casey,Cristina Stanciu,UFC_Fight_Night_McDonald_vs_Lineker
-9,Scott Holtzman,Cody Pfister,UFC_Fight_Night_McDonald_vs_Lineker
-10,Rani Yahya,Matthew Lopez,UFC_Fight_Night_McDonald_vs_Lineker
-11,Alex Nicholson,Devin Clark,UFC_Fight_Night_McDonald_vs_Lineker
+,winner,loser,weight_class,event
+0,John Lineker,Michael McDonald,Bantamweight,UFC_Fight_Night_McDonald_vs_Lineker
+1,Tony Ferguson,Lando Vannata,Lightweight,UFC_Fight_Night_McDonald_vs_Lineker
+2,Tim Boetsch,Josh Samman,Middleweight,UFC_Fight_Night_McDonald_vs_Lineker
+3,Daniel Omiela\xc5\x84czuk,Aleksei Oleinik,Heavyweight,UFC_Fight_Night_McDonald_vs_Lineker
+4,Keita Nakamura,Kyle Noke,Welterweight,UFC_Fight_Night_McDonald_vs_Lineker
+5,Louis Smolka,Ben Nguyen,Flyweight,UFC_Fight_Night_McDonald_vs_Lineker
+6,Katlyn Chookagian,Lauren Murphy,Women\'s Bantamweight,UFC_Fight_Night_McDonald_vs_Lineker
+7,Sam Alvey,Eric Spicely,Middleweight,UFC_Fight_Night_McDonald_vs_Lineker
+8,Cortney Casey,Cristina Stanciu,Women\'s Strawweight,UFC_Fight_Night_McDonald_vs_Lineker
+9,Scott Holtzman,Cody Pfister,Lightweight,UFC_Fight_Night_McDonald_vs_Lineker
+10,Rani Yahya,Matthew Lopez,Bantamweight,UFC_Fight_Night_McDonald_vs_Lineker
+11,Alex Nicholson,Devin Clark,Middleweight,UFC_Fight_Night_McDonald_vs_Lineker

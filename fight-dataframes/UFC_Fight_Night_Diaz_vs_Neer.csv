@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Nate Diaz,Josh Neer,UFC_Fight_Night_Diaz_vs_Neer
-1,Clay Guida,Mac Danzig,UFC_Fight_Night_Diaz_vs_Neer
-2,Alan Belcher,Ed Herman,UFC_Fight_Night_Diaz_vs_Neer
-3,Eric Schafer,Houston Alexander,UFC_Fight_Night_Diaz_vs_Neer
-4,Alessio Sakara,Joe Vedepo,UFC_Fight_Night_Diaz_vs_Neer
-5,Wilson Gouveia,Ryan Jensen,UFC_Fight_Night_Diaz_vs_Neer
-6,Joe Lauzon,Kyle Bradley,UFC_Fight_Night_Diaz_vs_Neer
-7,Jason Brilz,Brad Morris,UFC_Fight_Night_Diaz_vs_Neer
-8,Mike Massenzio,Drew McFedries,UFC_Fight_Night_Diaz_vs_Neer
-9,Dan Miller,Rob Kimmons,UFC_Fight_Night_Diaz_vs_Neer
+,winner,loser,weight_class,event
+0,Nate Diaz,Josh Neer,Lightweight,UFC_Fight_Night_Diaz_vs_Neer
+1,Clay Guida,Mac Danzig,Lightweight,UFC_Fight_Night_Diaz_vs_Neer
+2,Alan Belcher,Ed Herman,Middleweight,UFC_Fight_Night_Diaz_vs_Neer
+3,Eric Schafer,Houston Alexander,Light Heavyweight,UFC_Fight_Night_Diaz_vs_Neer
+4,Alessio Sakara,Joe Vedepo,Middleweight,UFC_Fight_Night_Diaz_vs_Neer
+5,Wilson Gouveia,Ryan Jensen,Middleweight,UFC_Fight_Night_Diaz_vs_Neer
+6,Joe Lauzon,Kyle Bradley,Lightweight,UFC_Fight_Night_Diaz_vs_Neer
+7,Jason Brilz,Brad Morris,Light Heavyweight,UFC_Fight_Night_Diaz_vs_Neer
+8,Mike Massenzio,Drew McFedries,Middleweight,UFC_Fight_Night_Diaz_vs_Neer
+9,Dan Miller,Rob Kimmons,Middleweight,UFC_Fight_Night_Diaz_vs_Neer

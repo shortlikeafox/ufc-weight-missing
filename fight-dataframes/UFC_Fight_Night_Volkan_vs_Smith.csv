@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Anthony Smith,Volkan Oezdemir,UFC_Fight_Night_Volkan_vs_Smith
-1,Michael Johnson,Artem Lobov,UFC_Fight_Night_Volkan_vs_Smith
-2,Misha Cirkunov,Patrick Cummins,UFC_Fight_Night_Volkan_vs_Smith
-3,Andre Soukhamthath,Jonathan Martinez,UFC_Fight_Night_Volkan_vs_Smith
-4,Gian Villante,Ed Herman,UFC_Fight_Night_Volkan_vs_Smith
-5,Court McGee,Alex Garcia,UFC_Fight_Night_Volkan_vs_Smith
-6,Sean Strickland,Nordine Taleb,UFC_Fight_Night_Volkan_vs_Smith
-7,Nasrat Haqparast,Thibault Gouti,UFC_Fight_Night_Volkan_vs_Smith
-8,Calvin Kattar,Chris Fishgold,UFC_Fight_Night_Volkan_vs_Smith
-9,Talita Bernardo,Sarah Moras,UFC_Fight_Night_Volkan_vs_Smith
-10,Don Madge,Te Edwards,UFC_Fight_Night_Volkan_vs_Smith
-11,Arjan Bhullar,Marcelo Golm,UFC_Fight_Night_Volkan_vs_Smith
-12,Stevie Ray,Jessin Ayari,UFC_Fight_Night_Volkan_vs_Smith
+,winner,loser,weight_class,event
+0,Anthony Smith,Volkan Oezdemir,Light Heavyweight,UFC_Fight_Night_Volkan_vs_Smith
+1,Michael Johnson,Artem Lobov,Catchweight (147 lbs),UFC_Fight_Night_Volkan_vs_Smith
+2,Misha Cirkunov,Patrick Cummins,Light Heavyweight,UFC_Fight_Night_Volkan_vs_Smith
+3,Andre Soukhamthath,Jonathan Martinez,Bantamweight,UFC_Fight_Night_Volkan_vs_Smith
+4,Gian Villante,Ed Herman,Light Heavyweight,UFC_Fight_Night_Volkan_vs_Smith
+5,Court McGee,Alex Garcia,Welterweight,UFC_Fight_Night_Volkan_vs_Smith
+6,Sean Strickland,Nordine Taleb,Welterweight,UFC_Fight_Night_Volkan_vs_Smith
+7,Nasrat Haqparast,Thibault Gouti,Lightweight,UFC_Fight_Night_Volkan_vs_Smith
+8,Calvin Kattar,Chris Fishgold,Featherweight,UFC_Fight_Night_Volkan_vs_Smith
+9,Talita Bernardo,Sarah Moras,Women\'s Bantamweight,UFC_Fight_Night_Volkan_vs_Smith
+10,Don Madge,Te Edwards,Lightweight,UFC_Fight_Night_Volkan_vs_Smith
+11,Arjan Bhullar,Marcelo Golm,Heavyweight,UFC_Fight_Night_Volkan_vs_Smith
+12,Stevie Ray,Jessin Ayari,Lightweight,UFC_Fight_Night_Volkan_vs_Smith

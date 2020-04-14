@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Stefan Struve,Stipe Miocic,UFC_on_Fuel_TV_Struve_vs_Miocic
-1,Dan Hardy,Amir Sadollah,UFC_on_Fuel_TV_Struve_vs_Miocic
-2,Brad Pickett,Yves Jabouin,UFC_on_Fuel_TV_Struve_vs_Miocic
-3,Matt Wiman,Paul Sass,UFC_on_Fuel_TV_Struve_vs_Miocic
-4,John Hathaway,John Maguire,UFC_on_Fuel_TV_Struve_vs_Miocic
-5,Che Mills,Duane Ludwig,UFC_on_Fuel_TV_Struve_vs_Miocic
-6,Jimi Manuwa,Kyle Kingsbury,UFC_on_Fuel_TV_Struve_vs_Miocic
-7,Akira Corassani,Andy Ogle,UFC_on_Fuel_TV_Struve_vs_Miocic
-8,Brad Tavares,Tom Watson,UFC_on_Fuel_TV_Struve_vs_Miocic
-9,Gunnar Nelson,DaMarques Johnson,UFC_on_Fuel_TV_Struve_vs_Miocic
-10,Robbie Peralta,Jason Young,UFC_on_Fuel_TV_Struve_vs_Miocic
+,winner,loser,weight_class,event
+0,Stefan Struve,Stipe Miocic,Heavyweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+1,Dan Hardy,Amir Sadollah,Welterweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+2,Brad Pickett,Yves Jabouin,Bantamweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+3,Matt Wiman,Paul Sass,Lightweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+4,John Hathaway,John Maguire,Welterweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+5,Che Mills,Duane Ludwig,Welterweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+6,Jimi Manuwa,Kyle Kingsbury,Light Heavyweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+7,Akira Corassani,Andy Ogle,Featherweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+8,Brad Tavares,Tom Watson,Middleweight,UFC_on_Fuel_TV_Struve_vs_Miocic
+9,Gunnar Nelson,DaMarques Johnson,Catchweight (183 lbs.),UFC_on_Fuel_TV_Struve_vs_Miocic
+10,Robbie Peralta,Jason Young,Featherweight,UFC_on_Fuel_TV_Struve_vs_Miocic

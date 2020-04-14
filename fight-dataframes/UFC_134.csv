@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Anderson Silva (c),Yushin Okami,UFC_134
-1,Maur\xc3\xadcio Rua,Forrest Griffin,UFC_134
-2,Edson Barboza,Ross Pearson,UFC_134
-3,Ant\xc3\xb4nio Rodrigo Nogueira,Brendan Schaub,UFC_134
-4,Stanislav Nedkov,Luiz Cane,UFC_134
-5,Thiago Tavares,Spencer Fisher,UFC_134
-6,Rousimar Palhares,Dan Miller,UFC_134
-7,Paulo Thiago,David Mitchell,UFC_134
-8,Raphael Assun\xc3\xa7\xc3\xa3o,Johnny Eduardo,UFC_134
-9,Erick Silva,Luis Ramos,UFC_134
-10,Iuri Alc\xc3\xa2ntara,Felipe Arantes,UFC_134
-11,Yves Jabouin,Ian Loveland,UFC_134
+,winner,loser,weight_class,event
+0,Anderson Silva (c),Yushin Okami,Middleweight,UFC_134
+1,Maur\xc3\xadcio Rua,Forrest Griffin,Light Heavyweight,UFC_134
+2,Edson Barboza,Ross Pearson,Lightweight,UFC_134
+3,Ant\xc3\xb4nio Rodrigo Nogueira,Brendan Schaub,Heavyweight,UFC_134
+4,Stanislav Nedkov,Luiz Cane,Light Heavyweight,UFC_134
+5,Thiago Tavares,Spencer Fisher,Lightweight,UFC_134
+6,Rousimar Palhares,Dan Miller,Middleweight,UFC_134
+7,Paulo Thiago,David Mitchell,Welterweight,UFC_134
+8,Raphael Assun\xc3\xa7\xc3\xa3o,Johnny Eduardo,Bantamweight,UFC_134
+9,Erick Silva,Luis Ramos,Welterweight,UFC_134
+10,Iuri Alc\xc3\xa2ntara,Felipe Arantes,Featherweight,UFC_134
+11,Yves Jabouin,Ian Loveland,Bantamweight,UFC_134

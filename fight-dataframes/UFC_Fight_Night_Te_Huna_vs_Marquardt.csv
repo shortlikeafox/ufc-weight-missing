@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Nate Marquardt,James Te Huna,UFC_Fight_Night_Te_Huna_vs_Marquardt
-1,Jared Rosholt,Soa Palelei,UFC_Fight_Night_Te_Huna_vs_Marquardt
-2,Charles Oliveira,Hatsu Hioki,UFC_Fight_Night_Te_Huna_vs_Marquardt
-3,Robert Whittaker,Mike Rhodes,UFC_Fight_Night_Te_Huna_vs_Marquardt
-4,Jake Matthews,Dashon Johnson,UFC_Fight_Night_Te_Huna_vs_Marquardt
-5,Richie Vaculik,Roldan Sangcha-an,UFC_Fight_Night_Te_Huna_vs_Marquardt
-6,Vik Grujic,Chris Indich,UFC_Fight_Night_Te_Huna_vs_Marquardt
-7,Neil Magny,Rodrigo de Lima,UFC_Fight_Night_Te_Huna_vs_Marquardt
-8,Dan Hooker,Ian Entwistle,UFC_Fight_Night_Te_Huna_vs_Marquardt
-9,Gian Villante,Sean O\'Connell,UFC_Fight_Night_Te_Huna_vs_Marquardt
+,winner,loser,weight_class,event
+0,Nate Marquardt,James Te Huna,Middleweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+1,Jared Rosholt,Soa Palelei,Heavyweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+2,Charles Oliveira,Hatsu Hioki,Featherweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+3,Robert Whittaker,Mike Rhodes,Welterweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+4,Jake Matthews,Dashon Johnson,Lightweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+5,Richie Vaculik,Roldan Sangcha-an,Flyweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+6,Vik Grujic,Chris Indich,Welterweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+7,Neil Magny,Rodrigo de Lima,Welterweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+8,Dan Hooker,Ian Entwistle,Featherweight,UFC_Fight_Night_Te_Huna_vs_Marquardt
+9,Gian Villante,Sean O\'Connell,Light Heavyweight,UFC_Fight_Night_Te_Huna_vs_Marquardt

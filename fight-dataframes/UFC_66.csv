@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Chuck Liddell (c),Tito Ortiz,UFC_66
-1,Keith Jardine,Forrest Griffin,UFC_66
-2,Jason MacDonald,Chris Leben,UFC_66
-3,Andrei Arlovski,Marcio Cruz,UFC_66
-4,Michael Bisping,Eric Schafer,UFC_66
-5,Thiago Alves,Tony DeSouza,UFC_66
-6,Gabriel Gonzaga,Carmelo Marrero,UFC_66
-7,Yushin Okami,Rory Singer,UFC_66
-8,Christian Wellisch,Anthony Perosh,UFC_66
+,winner,loser,weight_class,event
+0,Chuck Liddell (c),Tito Ortiz,Light Heavyweight,UFC_66
+1,Keith Jardine,Forrest Griffin,Light Heavyweight,UFC_66
+2,Jason MacDonald,Chris Leben,Middleweight,UFC_66
+3,Andrei Arlovski,Marcio Cruz,Heavyweight,UFC_66
+4,Michael Bisping,Eric Schafer,Light Heavyweight,UFC_66
+5,Thiago Alves,Tony DeSouza,Welterweight,UFC_66
+6,Gabriel Gonzaga,Carmelo Marrero,Heavyweight,UFC_66
+7,Yushin Okami,Rory Singer,Middleweight,UFC_66
+8,Christian Wellisch,Anthony Perosh,Heavyweight,UFC_66

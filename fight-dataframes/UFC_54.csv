@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Chuck Liddell (c),Jeremy Horn,UFC_54
-1,Tim Sylvia,Tra Telligman,UFC_54
-2,Randy Couture,Mike Van Arsdale,UFC_54
-3,Diego Sanchez,Brian Gassaway,UFC_54
-4,Georges St-Pierre,Frank Trigg,UFC_54
-5,Matt Lindland,Joe Doerksen,UFC_54
-6,Trevor Prangley,Travis Lutter,UFC_54
-7,James Irvin,Terry Martin,UFC_54
+,winner,loser,weight_class,event
+0,Chuck Liddell (c),Jeremy Horn,Light Heavyweight,UFC_54
+1,Tim Sylvia,Tra Telligman,Heavyweight,UFC_54
+2,Randy Couture,Mike Van Arsdale,Light Heavyweight,UFC_54
+3,Diego Sanchez,Brian Gassaway,Welterweight,UFC_54
+4,Georges St-Pierre,Frank Trigg,Welterweight,UFC_54
+5,Matt Lindland,Joe Doerksen,Middleweight,UFC_54
+6,Trevor Prangley,Travis Lutter,Middleweight,UFC_54
+7,James Irvin,Terry Martin,Light Heavyweight,UFC_54

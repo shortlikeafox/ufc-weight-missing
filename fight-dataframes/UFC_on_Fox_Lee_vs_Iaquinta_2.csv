@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Al Iaquinta,Kevin Lee,UFC_on_Fox_Lee_vs_Iaquinta_2
-1,Edson Barboza,Dan Hooker,UFC_on_Fox_Lee_vs_Iaquinta_2
-2,Rob Font,Sergio Pettis,UFC_on_Fox_Lee_vs_Iaquinta_2
-3,Charles Oliveira,Jim Miller,UFC_on_Fox_Lee_vs_Iaquinta_2
-4,Zak Ottow,Dwight Grant,UFC_on_Fox_Lee_vs_Iaquinta_2
-5,Drakkar Klose,Bobby Green,UFC_on_Fox_Lee_vs_Iaquinta_2
-6,Joaquim Silva,Jared Gordon,UFC_on_Fox_Lee_vs_Iaquinta_2
-7,Jack Hermansson,Gerald Meerschaert,UFC_on_Fox_Lee_vs_Iaquinta_2
-8,Zak Cummings,Trevor Smith,UFC_on_Fox_Lee_vs_Iaquinta_2
-9,Dan Ige,Jordan Griffin,UFC_on_Fox_Lee_vs_Iaquinta_2
-10,Mike Rodr\xc3\xadguez,Adam Milstead,UFC_on_Fox_Lee_vs_Iaquinta_2
-11,Juan Adams,Chris de la Rocha,UFC_on_Fox_Lee_vs_Iaquinta_2
+,winner,loser,weight_class,event
+0,Al Iaquinta,Kevin Lee,Lightweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+1,Edson Barboza,Dan Hooker,Lightweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+2,Rob Font,Sergio Pettis,Bantamweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+3,Charles Oliveira,Jim Miller,Lightweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+4,Zak Ottow,Dwight Grant,Welterweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+5,Drakkar Klose,Bobby Green,Lightweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+6,Joaquim Silva,Jared Gordon,Lightweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+7,Jack Hermansson,Gerald Meerschaert,Middleweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+8,Zak Cummings,Trevor Smith,Middleweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+9,Dan Ige,Jordan Griffin,Featherweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+10,Mike Rodr\xc3\xadguez,Adam Milstead,Light Heavyweight,UFC_on_Fox_Lee_vs_Iaquinta_2
+11,Juan Adams,Chris de la Rocha,Heavyweight,UFC_on_Fox_Lee_vs_Iaquinta_2

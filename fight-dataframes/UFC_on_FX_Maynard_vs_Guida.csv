@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Gray Maynard,Clay Guida,UFC_on_FX_Maynard_vs_Guida
-1,Sam Stout,Spencer Fisher,UFC_on_FX_Maynard_vs_Guida
-2,Brian Ebersole,TJ Waldburger,UFC_on_FX_Maynard_vs_Guida
-3,Cub Swanson,Ross Pearson,UFC_on_FX_Maynard_vs_Guida
-4,Ricardo Lamas,Hatsu Hioki,UFC_on_FX_Maynard_vs_Guida
-5,Ramsey Nijem,C.J. Keith,UFC_on_FX_Maynard_vs_Guida
-6,Rick Story,Brock Jardine,UFC_on_FX_Maynard_vs_Guida
-7,Steven Siler,Joey Gambino,UFC_on_FX_Maynard_vs_Guida
-8,Chris Camozzi,Nick Catone,UFC_on_FX_Maynard_vs_Guida
-9,Matt Brown,Luis Ramos,UFC_on_FX_Maynard_vs_Guida
-10,Dan Miller,Ricardo Funch,UFC_on_FX_Maynard_vs_Guida
-11,Ken Stone,Dustin Pague,UFC_on_FX_Maynard_vs_Guida
+,winner,loser,weight_class,event
+0,Gray Maynard,Clay Guida,Lightweight,UFC_on_FX_Maynard_vs_Guida
+1,Sam Stout,Spencer Fisher,Lightweight,UFC_on_FX_Maynard_vs_Guida
+2,Brian Ebersole,TJ Waldburger,Welterweight,UFC_on_FX_Maynard_vs_Guida
+3,Cub Swanson,Ross Pearson,Featherweight,UFC_on_FX_Maynard_vs_Guida
+4,Ricardo Lamas,Hatsu Hioki,Featherweight,UFC_on_FX_Maynard_vs_Guida
+5,Ramsey Nijem,C.J. Keith,Lightweight,UFC_on_FX_Maynard_vs_Guida
+6,Rick Story,Brock Jardine,Welterweight,UFC_on_FX_Maynard_vs_Guida
+7,Steven Siler,Joey Gambino,Featherweight,UFC_on_FX_Maynard_vs_Guida
+8,Chris Camozzi,Nick Catone,Middleweight,UFC_on_FX_Maynard_vs_Guida
+9,Matt Brown,Luis Ramos,Welterweight,UFC_on_FX_Maynard_vs_Guida
+10,Dan Miller,Ricardo Funch,Welterweight,UFC_on_FX_Maynard_vs_Guida
+11,Ken Stone,Dustin Pague,Bantamweight,UFC_on_FX_Maynard_vs_Guida

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Georges St-Pierre,Michael Bisping (c),UFC_217
-1,T.J. Dillashaw,Cody Garbrandt (c),UFC_217
-2,Rose Namajunas,Joanna J\xc4\x99drzejczyk (c),UFC_217
-3,Stephen Thompson,Jorge Masvidal,UFC_217
-4,Paulo Costa,Johny Hendricks,UFC_217
-5,James Vick,Joseph Duffy,UFC_217
-6,Mark Godbeer,Walt Harris,UFC_217
-7,Ovince Saint Preux,Corey Anderson,UFC_217
-8,Randy Brown,Mickey Gall,UFC_217
-9,Curtis Blaydes,Aleksei Oleinik,UFC_217
-10,Ricardo Ramos,Aiemann Zahabi,UFC_217
+,winner,loser,weight_class,event
+0,Georges St-Pierre,Michael Bisping (c),Middleweight,UFC_217
+1,T.J. Dillashaw,Cody Garbrandt (c),Bantamweight,UFC_217
+2,Rose Namajunas,Joanna J\xc4\x99drzejczyk (c),Women\'s Strawweight,UFC_217
+3,Stephen Thompson,Jorge Masvidal,Welterweight,UFC_217
+4,Paulo Costa,Johny Hendricks,Middleweight,UFC_217
+5,James Vick,Joseph Duffy,Lightweight,UFC_217
+6,Mark Godbeer,Walt Harris,Heavyweight,UFC_217
+7,Ovince Saint Preux,Corey Anderson,Light Heavyweight,UFC_217
+8,Randy Brown,Mickey Gall,Welterweight,UFC_217
+9,Curtis Blaydes,Aleksei Oleinik,Heavyweight,UFC_217
+10,Ricardo Ramos,Aiemann Zahabi,Bantamweight,UFC_217

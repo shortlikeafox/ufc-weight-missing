@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Georges St-Pierre,Matt Hughes (c),UFC_65
-1,Tim Sylvia (c),Jeff Monson,UFC_65
-2,Drew McFedries,Alessio Sakara,UFC_65
-3,Brandon Vera,Frank Mir,UFC_65
-4,Joe Stevenson,Dokonjonosuke Mishima,UFC_65
-5,Nick Diaz,Gleison Tibau,UFC_65
-6,Antoni Hardonk,Sherman Pendergarst,UFC_65
-7,James Irvin,Hector Ramirez,UFC_65
-8,Jake O\'Brien,Josh Schockman,UFC_65
+,winner,loser,weight_class,event
+0,Georges St-Pierre,Matt Hughes (c),Welterweight,UFC_65
+1,Tim Sylvia (c),Jeff Monson,Heavyweight,UFC_65
+2,Drew McFedries,Alessio Sakara,Light Heavyweight,UFC_65
+3,Brandon Vera,Frank Mir,Heavyweight,UFC_65
+4,Joe Stevenson,Dokonjonosuke Mishima,Lightweight,UFC_65
+5,Nick Diaz,Gleison Tibau,Welterweight,UFC_65
+6,Antoni Hardonk,Sherman Pendergarst,Heavyweight,UFC_65
+7,James Irvin,Hector Ramirez,Light Heavyweight,UFC_65
+8,Jake O\'Brien,Josh Schockman,Heavyweight,UFC_65

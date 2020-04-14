@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Dan Henderson,Tim Boetsch,UFC_Fight_Night_Boetsch_vs_Henderson
-1,Ben Rothwell,Matt Mitrione,UFC_Fight_Night_Boetsch_vs_Henderson
-2,Dustin Poirier,Yancy Medeiros,UFC_Fight_Night_Boetsch_vs_Henderson
-3,Brian Ortega,Thiago Tavares,UFC_Fight_Night_Boetsch_vs_Henderson
-4,Anthony Birchak,Joe Soto,UFC_Fight_Night_Boetsch_vs_Henderson
-5,Francisco Rivera,Alex Caceres,UFC_Fight_Night_Boetsch_vs_Henderson
-6,Shawn Jordan,Derrick Lewis,UFC_Fight_Night_Boetsch_vs_Henderson
-7,Omari Akhmedov,Brian Ebersole,UFC_Fight_Night_Boetsch_vs_Henderson
-8,Chris Wade,Christos Giagos,UFC_Fight_Night_Boetsch_vs_Henderson
-9,Joe Proctor,Justin Edwards,UFC_Fight_Night_Boetsch_vs_Henderson
-10,Jake Collier,Ricardo Abreu,UFC_Fight_Night_Boetsch_vs_Henderson
-11,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Leonardo Morales,UFC_Fight_Night_Boetsch_vs_Henderson
+,winner,loser,weight_class,event
+0,Dan Henderson,Tim Boetsch,Middleweight,UFC_Fight_Night_Boetsch_vs_Henderson
+1,Ben Rothwell,Matt Mitrione,Heavyweight,UFC_Fight_Night_Boetsch_vs_Henderson
+2,Dustin Poirier,Yancy Medeiros,Catchweight (159.5 lbs),UFC_Fight_Night_Boetsch_vs_Henderson
+3,Brian Ortega,Thiago Tavares,Featherweight,UFC_Fight_Night_Boetsch_vs_Henderson
+4,Anthony Birchak,Joe Soto,Bantamweight,UFC_Fight_Night_Boetsch_vs_Henderson
+5,Francisco Rivera,Alex Caceres,Bantamweight,UFC_Fight_Night_Boetsch_vs_Henderson
+6,Shawn Jordan,Derrick Lewis,Heavyweight,UFC_Fight_Night_Boetsch_vs_Henderson
+7,Omari Akhmedov,Brian Ebersole,Welterweight,UFC_Fight_Night_Boetsch_vs_Henderson
+8,Chris Wade,Christos Giagos,Lightweight,UFC_Fight_Night_Boetsch_vs_Henderson
+9,Joe Proctor,Justin Edwards,Lightweight,UFC_Fight_Night_Boetsch_vs_Henderson
+10,Jake Collier,Ricardo Abreu,Middleweight,UFC_Fight_Night_Boetsch_vs_Henderson
+11,Jos\xc3\xa9 Alberto Qui\xc3\xb1\xc3\xb3nez,Leonardo Morales,Catchweight (137 lbs),UFC_Fight_Night_Boetsch_vs_Henderson

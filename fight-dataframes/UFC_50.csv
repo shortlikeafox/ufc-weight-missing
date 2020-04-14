@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Tito Ortiz,Patrick C\xc3\xb4t\xc3\xa9,UFC_50
-1,Rich Franklin,Jorge Rivera,UFC_50
-2,Matt Hughes,Georges St-Pierre,UFC_50
-3,Frank Trigg,Renato Verissimo,UFC_50
-4,Evan Tanner,Robbie Lawler,UFC_50
-5,Ivan Salaverry,Tony Fryklund,UFC_50
-6,Travis Lutter,Marvin Eastman,UFC_50
+,winner,loser,weight_class,event
+0,Tito Ortiz,Patrick C\xc3\xb4t\xc3\xa9,Light Heavyweight,UFC_50
+1,Rich Franklin,Jorge Rivera,Middleweight,UFC_50
+2,Matt Hughes,Georges St-Pierre,Welterweight,UFC_50
+3,Frank Trigg,Renato Verissimo,Welterweight,UFC_50
+4,Evan Tanner,Robbie Lawler,Middleweight,UFC_50
+5,Ivan Salaverry,Tony Fryklund,Middleweight,UFC_50
+6,Travis Lutter,Marvin Eastman,Light Heavyweight,UFC_50

@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Jake Shields,Demian Maia,UFC_Fight_Night_Maia_vs_Shields
-1,Dong Hyun Kim,Erick Silva,UFC_Fight_Night_Maia_vs_Shields
-2,Thiago Silva,Matt Hamill,UFC_Fight_Night_Maia_vs_Shields
-3,Fabio Maldonado,Joey Beltran,UFC_Fight_Night_Maia_vs_Shields
-4,Rousimar Palhares,Mike Pierce,UFC_Fight_Night_Maia_vs_Shields
-5,Raphael Assun\xc3\xa7\xc3\xa3o,T.J. Dillashaw,UFC_Fight_Night_Maia_vs_Shields
-6,Igor Ara\xc3\xbajo,Ildemar Alcantara,UFC_Fight_Night_Maia_vs_Shields
-7,Yan Cabral,David Mitchell,UFC_Fight_Night_Maia_vs_Shields
-8,Chris Cariaso,Iliarde Santos,UFC_Fight_Night_Maia_vs_Shields
-9,Alan Patrick,Garett Whiteley,UFC_Fight_Night_Maia_vs_Shields
+,winner,loser,weight_class,event
+0,Jake Shields,Demian Maia,Welterweight,UFC_Fight_Night_Maia_vs_Shields
+1,Dong Hyun Kim,Erick Silva,Welterweight,UFC_Fight_Night_Maia_vs_Shields
+2,Thiago Silva,Matt Hamill,Catchweight (208 lbs),UFC_Fight_Night_Maia_vs_Shields
+3,Fabio Maldonado,Joey Beltran,Light Heavyweight,UFC_Fight_Night_Maia_vs_Shields
+4,Rousimar Palhares,Mike Pierce,Welterweight,UFC_Fight_Night_Maia_vs_Shields
+5,Raphael Assun\xc3\xa7\xc3\xa3o,T.J. Dillashaw,Bantamweight,UFC_Fight_Night_Maia_vs_Shields
+6,Igor Ara\xc3\xbajo,Ildemar Alcantara,Welterweight,UFC_Fight_Night_Maia_vs_Shields
+7,Yan Cabral,David Mitchell,Welterweight,UFC_Fight_Night_Maia_vs_Shields
+8,Chris Cariaso,Iliarde Santos,Flyweight,UFC_Fight_Night_Maia_vs_Shields
+9,Alan Patrick,Garett Whiteley,Lightweight,UFC_Fight_Night_Maia_vs_Shields

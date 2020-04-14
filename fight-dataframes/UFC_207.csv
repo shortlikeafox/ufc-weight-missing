@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Amanda Nunes (c),Ronda Rousey,UFC_207
-1,Cody Garbrandt,Dominick Cruz (c),UFC_207
-2,T.J. Dillashaw,John Lineker,UFC_207
-3,Dong Hyun Kim,Tarec Saffiedine,UFC_207
-4,Ray Borg,Louis Smolka,UFC_207
-5,Neil Magny,Johny Hendricks,UFC_207
-6,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Marvin Vettori,UFC_207
-7,Alex Garcia,Mike Pyle,UFC_207
-8,Niko Price,Brandon Thatch,UFC_207
-9,Alex Oliveira,Tim Means,UFC_207
+,winner,loser,weight_class,event
+0,Amanda Nunes (c),Ronda Rousey,Women\'s Bantamweight,UFC_207
+1,Cody Garbrandt,Dominick Cruz (c),Bantamweight,UFC_207
+2,T.J. Dillashaw,John Lineker,Bantamweight,UFC_207
+3,Dong Hyun Kim,Tarec Saffiedine,Welterweight,UFC_207
+4,Ray Borg,Louis Smolka,Catchweight (129.5 lbs),UFC_207
+5,Neil Magny,Johny Hendricks,Welterweight,UFC_207
+6,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Marvin Vettori,Middleweight,UFC_207
+7,Alex Garcia,Mike Pyle,Welterweight,UFC_207
+8,Niko Price,Brandon Thatch,Welterweight,UFC_207
+9,Alex Oliveira,Tim Means,Welterweight,UFC_207

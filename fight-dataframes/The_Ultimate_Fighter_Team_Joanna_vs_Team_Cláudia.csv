@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Joanna J\xc4\x99drzejczyk (c),Cl\xc3\xa1udia Gadelha,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-1,Andrew Sanchez,Khalil Rountree,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-2,Tatiana Suarez,Amanda Cooper,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-3,Will Brooks,Ross Pearson,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-4,Doo Ho Choi,Thiago Tavares,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-5,Joaquim Silva,Andrew Holbrook,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-6,Gray Maynard,Fernando Bruno,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-7,Matheus Nicolau,John Moraga,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-8,Josh Stansbury,Cory Hendricks,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-9,Cezar Ferreira,Anthony Smith,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-10,Kevin Lee,Jake Matthews,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
-11,Li Jingliang,Anton Zafir,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+,winner,loser,weight_class,event
+0,Joanna J\xc4\x99drzejczyk (c),Cl\xc3\xa1udia Gadelha,Women\'s Strawweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+1,Andrew Sanchez,Khalil Rountree,Light Heavyweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+2,Tatiana Suarez,Amanda Cooper,Women\'s Strawweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+3,Will Brooks,Ross Pearson,Lightweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+4,Doo Ho Choi,Thiago Tavares,Featherweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+5,Joaquim Silva,Andrew Holbrook,Lightweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+6,Gray Maynard,Fernando Bruno,Featherweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+7,Matheus Nicolau,John Moraga,Flyweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+8,Josh Stansbury,Cory Hendricks,Light Heavyweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+9,Cezar Ferreira,Anthony Smith,Middleweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+10,Kevin Lee,Jake Matthews,Lightweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia
+11,Li Jingliang,Anton Zafir,Welterweight,The_Ultimate_Fighter_Team_Joanna_vs_Team_Cláudia

@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Josh Barnett,Andrei Arlovski,UFC_Fight_Night_Arlovski_vs_Barnett
-1,Alexander Gustafsson,Jan B\xc5\x82achowicz,UFC_Fight_Night_Arlovski_vs_Barnett
-2,Ryan Bader,Ilir Latifi,UFC_Fight_Night_Arlovski_vs_Barnett
-3,Nick Hein,Tae Hyun Bang,UFC_Fight_Night_Arlovski_vs_Barnett
-4,Jessin Ayari,Jim Wallhead,UFC_Fight_Night_Arlovski_vs_Barnett
-5,Peter Sobotta,Nicolas Dalby,UFC_Fight_Night_Arlovski_vs_Barnett
-6,Ashlee Evans-Smith,Veronica Macedo,UFC_Fight_Night_Arlovski_vs_Barnett
-7,Taylor Lapilus,Leandro Issa,UFC_Fight_Night_Arlovski_vs_Barnett
-8,Jarjis Danho,Christian Colombo,UFC_Fight_Night_Arlovski_vs_Barnett
-9,Jack Hermansson,Scott Askham,UFC_Fight_Night_Arlovski_vs_Barnett
-10,Rustam Khabilov,Leandro Silva,UFC_Fight_Night_Arlovski_vs_Barnett
+,winner,loser,weight_class,event
+0,Josh Barnett,Andrei Arlovski,Heavyweight,UFC_Fight_Night_Arlovski_vs_Barnett
+1,Alexander Gustafsson,Jan B\xc5\x82achowicz,Light Heavyweight,UFC_Fight_Night_Arlovski_vs_Barnett
+2,Ryan Bader,Ilir Latifi,Light Heavyweight,UFC_Fight_Night_Arlovski_vs_Barnett
+3,Nick Hein,Tae Hyun Bang,Lightweight,UFC_Fight_Night_Arlovski_vs_Barnett
+4,Jessin Ayari,Jim Wallhead,Welterweight,UFC_Fight_Night_Arlovski_vs_Barnett
+5,Peter Sobotta,Nicolas Dalby,Welterweight,UFC_Fight_Night_Arlovski_vs_Barnett
+6,Ashlee Evans-Smith,Veronica Macedo,Women\'s Bantamweight,UFC_Fight_Night_Arlovski_vs_Barnett
+7,Taylor Lapilus,Leandro Issa,Bantamweight,UFC_Fight_Night_Arlovski_vs_Barnett
+8,Jarjis Danho,Christian Colombo,Heavyweight,UFC_Fight_Night_Arlovski_vs_Barnett
+9,Jack Hermansson,Scott Askham,Middleweight,UFC_Fight_Night_Arlovski_vs_Barnett
+10,Rustam Khabilov,Leandro Silva,Lightweight,UFC_Fight_Night_Arlovski_vs_Barnett

@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Max Holloway (ic),Jos\xc3\xa9 Aldo (c),UFC_212
-1,Cl\xc3\xa1udia Gadelha,Karolina Kowalkiewicz,UFC_212
-2,Vitor Belfort,Nate Marquardt,UFC_212
-3,Paulo Costa,Oluwale Bamgbose,UFC_212
-4,Yancy Medeiros,Erick Silva,UFC_212
-5,Raphael Assun\xc3\xa7\xc3\xa3o,Marlon Moraes,UFC_212
-6,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Eric Spicely,UFC_212
-7,Matthew Lopez,Johnny Eduardo,UFC_212
-8,Brian Kelleher,Iuri Alc\xc3\xa2ntara,UFC_212
-9,Viviane Pereira,Jamie Moyle,UFC_212
-10,Luan Chagas,Jim Wallhead,UFC_212
-11,Deiveson Figueiredo,Marco Beltr\xc3\xa1n,UFC_212
+,winner,loser,weight_class,event
+0,Max Holloway (ic),Jos\xc3\xa9 Aldo (c),Featherweight,UFC_212
+1,Cl\xc3\xa1udia Gadelha,Karolina Kowalkiewicz,Women\'s Strawweight,UFC_212
+2,Vitor Belfort,Nate Marquardt,Middleweight,UFC_212
+3,Paulo Costa,Oluwale Bamgbose,Middleweight,UFC_212
+4,Yancy Medeiros,Erick Silva,Welterweight,UFC_212
+5,Raphael Assun\xc3\xa7\xc3\xa3o,Marlon Moraes,Bantamweight,UFC_212
+6,Ant\xc3\xb4nio Carlos J\xc3\xbanior,Eric Spicely,Middleweight,UFC_212
+7,Matthew Lopez,Johnny Eduardo,Bantamweight,UFC_212
+8,Brian Kelleher,Iuri Alc\xc3\xa2ntara,Bantamweight,UFC_212
+9,Viviane Pereira,Jamie Moyle,Women\'s Strawweight,UFC_212
+10,Luan Chagas,Jim Wallhead,Welterweight,UFC_212
+11,Deiveson Figueiredo,Marco Beltr\xc3\xa1n,Flyweight,UFC_212

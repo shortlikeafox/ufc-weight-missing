@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Fabr\xc3\xadcio Werdum,Ant\xc3\xb4nio Rodrigo Nogueira,The_Ultimate_Fighter_Brazil_2
-1,Leonardo Santos,William Mac\xc3\xa1rio,The_Ultimate_Fighter_Brazil_2
-2,Thiago Silva,Rafael Cavalcante,The_Ultimate_Fighter_Brazil_2
-3,Erick Silva,Jason High,The_Ultimate_Fighter_Brazil_2
-4,Daniel Sarafian,Eddie Mendez,The_Ultimate_Fighter_Brazil_2
-5,Rony Jason,Mike Wilkinson,The_Ultimate_Fighter_Brazil_2
-6,Raphael Assun\xc3\xa7\xc3\xa3o,Vaughan Lee,The_Ultimate_Fighter_Brazil_2
-7,Felipe Arantes,Godofredo Pepey,The_Ultimate_Fighter_Brazil_2
-8,Ildemar Alcantara,Leandro Silva,The_Ultimate_Fighter_Brazil_2
-9,Rodrigo Damm,Mizuto Hirota,The_Ultimate_Fighter_Brazil_2
-10,Caio Magalhaes,Karlos Vemola,The_Ultimate_Fighter_Brazil_2
-11,Ant\xc3\xb4nio Braga Neto,Anthony Smith,The_Ultimate_Fighter_Brazil_2
+,winner,loser,weight_class,event
+0,Fabr\xc3\xadcio Werdum,Ant\xc3\xb4nio Rodrigo Nogueira,Heavyweight,The_Ultimate_Fighter_Brazil_2
+1,Leonardo Santos,William Mac\xc3\xa1rio,Welterweight,The_Ultimate_Fighter_Brazil_2
+2,Thiago Silva,Rafael Cavalcante,Light Heavyweight,The_Ultimate_Fighter_Brazil_2
+3,Erick Silva,Jason High,Welterweight,The_Ultimate_Fighter_Brazil_2
+4,Daniel Sarafian,Eddie Mendez,Middleweight,The_Ultimate_Fighter_Brazil_2
+5,Rony Jason,Mike Wilkinson,Featherweight,The_Ultimate_Fighter_Brazil_2
+6,Raphael Assun\xc3\xa7\xc3\xa3o,Vaughan Lee,Bantamweight,The_Ultimate_Fighter_Brazil_2
+7,Felipe Arantes,Godofredo Pepey,Featherweight,The_Ultimate_Fighter_Brazil_2
+8,Ildemar Alcantara,Leandro Silva,Welterweight,The_Ultimate_Fighter_Brazil_2
+9,Rodrigo Damm,Mizuto Hirota,Featherweight,The_Ultimate_Fighter_Brazil_2
+10,Caio Magalhaes,Karlos Vemola,Middleweight,The_Ultimate_Fighter_Brazil_2
+11,Ant\xc3\xb4nio Braga Neto,Anthony Smith,Middleweight,The_Ultimate_Fighter_Brazil_2

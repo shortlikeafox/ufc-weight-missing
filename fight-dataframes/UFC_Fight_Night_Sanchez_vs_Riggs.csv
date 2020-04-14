@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Diego Sanchez,Joe Riggs,UFC_Fight_Night_Sanchez_vs_Riggs
-1,Josh Koscheck,Jeff Joslin,UFC_Fight_Night_Sanchez_vs_Riggs
-2,Karo Parisyan,Drew Fickett,UFC_Fight_Night_Sanchez_vs_Riggs
-3,Marcus Davis,Shonie Carter,UFC_Fight_Night_Sanchez_vs_Riggs
-4,Alan Belcher,Jorge Santiago,UFC_Fight_Night_Sanchez_vs_Riggs
-5,Luigi Fioravanti,Dave Menne,UFC_Fight_Night_Sanchez_vs_Riggs
-6,David Heath,Victor Valimaki,UFC_Fight_Night_Sanchez_vs_Riggs
-7,Brock Larson,Keita Nakamura,UFC_Fight_Night_Sanchez_vs_Riggs
-8,Logan Clark,Steve Byrnes,UFC_Fight_Night_Sanchez_vs_Riggs
+,winner,loser,weight_class,event
+0,Diego Sanchez,Joe Riggs,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+1,Josh Koscheck,Jeff Joslin,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+2,Karo Parisyan,Drew Fickett,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+3,Marcus Davis,Shonie Carter,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+4,Alan Belcher,Jorge Santiago,Middleweight,UFC_Fight_Night_Sanchez_vs_Riggs
+5,Luigi Fioravanti,Dave Menne,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+6,David Heath,Victor Valimaki,Light Heavyweight,UFC_Fight_Night_Sanchez_vs_Riggs
+7,Brock Larson,Keita Nakamura,Welterweight,UFC_Fight_Night_Sanchez_vs_Riggs
+8,Logan Clark,Steve Byrnes,Middleweight,UFC_Fight_Night_Sanchez_vs_Riggs

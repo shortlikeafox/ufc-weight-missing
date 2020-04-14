@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Gabriel Gonzaga,Mirko Cro Cop,UFC_70
-1,Andrei Arlovski,Fabr\xc3\xadcio Werdum,UFC_70
-2,Michael Bisping,Elvis Sinosic,UFC_70
-3,Lyoto Machida,David Heath,UFC_70
-4,Cheick Kongo,Assuerio Silva,UFC_70
-5,Terry Etim,Matt Grice,UFC_70
-6,Junior Assuncao,David Lee,UFC_70
-7,Alessio Sakara,Victor Valimaki,UFC_70
-8,Jess Liaudin,Dennis Siver,UFC_70
-9,Paul Taylor,Edilberto de Oliveira,UFC_70
+,winner,loser,weight_class,event
+0,Gabriel Gonzaga,Mirko Cro Cop,Heavyweight,UFC_70
+1,Andrei Arlovski,Fabr\xc3\xadcio Werdum,Heavyweight,UFC_70
+2,Michael Bisping,Elvis Sinosic,Light Heavyweight,UFC_70
+3,Lyoto Machida,David Heath,Light Heavyweight,UFC_70
+4,Cheick Kongo,Assuerio Silva,Heavyweight,UFC_70
+5,Terry Etim,Matt Grice,Lightweight,UFC_70
+6,Junior Assuncao,David Lee,Lightweight,UFC_70
+7,Alessio Sakara,Victor Valimaki,Light Heavyweight,UFC_70
+8,Jess Liaudin,Dennis Siver,Welterweight,UFC_70
+9,Paul Taylor,Edilberto de Oliveira,Welterweight,UFC_70

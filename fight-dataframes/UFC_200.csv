@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Amanda Nunes,Miesha Tate (c),UFC_200
-1,Brock Lesnar,Mark Hunt,UFC_200
-2,Daniel Cormier (c),Anderson Silva,UFC_200
-3,Jos\xc3\xa9 Aldo,Frankie Edgar,UFC_200
-4,Cain Velasquez,Travis Browne,UFC_200
-5,Julianna Pe\xc3\xb1a,Cat Zingano,UFC_200
-6,Kelvin Gastelum,Johny Hendricks,UFC_200
-7,T.J. Dillashaw,Raphael Assun\xc3\xa7\xc3\xa3o,UFC_200
-8,Sage Northcutt,Enrique Mar\xc3\xadn,UFC_200
-9,Joe Lauzon,Diego Sanchez,UFC_200
-10,Gegard Mousasi,Thiago Santos,UFC_200
-11,Jim Miller,Takanori Gomi,UFC_200
+,winner,loser,weight_class,event
+0,Amanda Nunes,Miesha Tate (c),Women\'s Bantamweight,UFC_200
+1,Brock Lesnar,Mark Hunt,Heavyweight,UFC_200
+2,Daniel Cormier (c),Anderson Silva,Light Heavyweight,UFC_200
+3,Jos\xc3\xa9 Aldo,Frankie Edgar,Featherweight,UFC_200
+4,Cain Velasquez,Travis Browne,Heavyweight,UFC_200
+5,Julianna Pe\xc3\xb1a,Cat Zingano,Women\'s Bantamweight,UFC_200
+6,Kelvin Gastelum,Johny Hendricks,Catchweight (171.25 lb),UFC_200
+7,T.J. Dillashaw,Raphael Assun\xc3\xa7\xc3\xa3o,Bantamweight,UFC_200
+8,Sage Northcutt,Enrique Mar\xc3\xadn,Lightweight,UFC_200
+9,Joe Lauzon,Diego Sanchez,Lightweight,UFC_200
+10,Gegard Mousasi,Thiago Santos,Middleweight,UFC_200
+11,Jim Miller,Takanori Gomi,Lightweight,UFC_200

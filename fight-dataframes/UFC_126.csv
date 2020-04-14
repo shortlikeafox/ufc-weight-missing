@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Anderson Silva (c),Vitor Belfort,UFC_126
-1,Forrest Griffin,Rich Franklin,UFC_126
-2,Jon Jones,Ryan Bader,UFC_126
-3,Jake Ellenberger,Carlos Eduardo Rocha,UFC_126
-4,Miguel Torres,Antonio Banuelos,UFC_126
-5,Donald Cerrone,Paul Kelly,UFC_126
-6,Chad Mendes,Michihiro Omigawa,UFC_126
-7,Demetrious Johnson,Norifumi Yamamoto,UFC_126
-8,Paul Taylor,Gabe Ruediger,UFC_126
-9,Kyle Kingsbury,Ricardo Romero,UFC_126
-10,Mike Pierce,Kenny Robertson,UFC_126
+,winner,loser,weight_class,event
+0,Anderson Silva (c),Vitor Belfort,Middleweight,UFC_126
+1,Forrest Griffin,Rich Franklin,Light Heavyweight,UFC_126
+2,Jon Jones,Ryan Bader,Light Heavyweight,UFC_126
+3,Jake Ellenberger,Carlos Eduardo Rocha,Welterweight,UFC_126
+4,Miguel Torres,Antonio Banuelos,Bantamweight,UFC_126
+5,Donald Cerrone,Paul Kelly,Lightweight,UFC_126
+6,Chad Mendes,Michihiro Omigawa,Featherweight,UFC_126
+7,Demetrious Johnson,Norifumi Yamamoto,Bantamweight,UFC_126
+8,Paul Taylor,Gabe Ruediger,Lightweight,UFC_126
+9,Kyle Kingsbury,Ricardo Romero,Light Heavyweight,UFC_126
+10,Mike Pierce,Kenny Robertson,Welterweight,UFC_126

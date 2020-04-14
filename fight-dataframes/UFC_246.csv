@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Conor McGregor,Donald Cerrone,UFC_246
-1,Holly Holm,Raquel Pennington,UFC_246
-2,Aleksei Oleinik,Maurice Greene,UFC_246
-3,Brian Kelleher,Ode Osbourne,UFC_246
-4,Carlos Diego Ferreira,Anthony Pettis,UFC_246
-5,Roxanne Modafferi,Maycee Barber,UFC_246
-6,Sodiq Yusuff,Andre Fili,UFC_246
-7,Askar Askarov,Tim Elliott,UFC_246
-8,Drew Dober,Nasrat Haqparast,UFC_246
-9,Aleksa Camur,Justin Ledet,UFC_246
-10,Sabina Mazo,JJ Aldrich,UFC_246
+,winner,loser,weight_class,event
+0,Conor McGregor,Donald Cerrone,Welterweight,UFC_246
+1,Holly Holm,Raquel Pennington,Women\'s Bantamweight,UFC_246
+2,Aleksei Oleinik,Maurice Greene,Heavyweight,UFC_246
+3,Brian Kelleher,Ode Osbourne,Bantamweight,UFC_246
+4,Carlos Diego Ferreira,Anthony Pettis,Lightweight,UFC_246
+5,Roxanne Modafferi,Maycee Barber,Women\'s Flyweight,UFC_246
+6,Sodiq Yusuff,Andre Fili,Featherweight,UFC_246
+7,Askar Askarov,Tim Elliott,Flyweight,UFC_246
+8,Drew Dober,Nasrat Haqparast,Lightweight,UFC_246
+9,Aleksa Camur,Justin Ledet,Light Heavyweight,UFC_246
+10,Sabina Mazo,JJ Aldrich,Women\'s Flyweight,UFC_246

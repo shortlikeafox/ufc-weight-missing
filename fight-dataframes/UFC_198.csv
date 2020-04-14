@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Stipe Miocic,Fabr\xc3\xadcio Werdum (c),UFC_198
-1,Ronaldo Souza,Vitor Belfort,UFC_198
-2,Cris Cyborg,Leslie Smith,UFC_198
-3,Maur\xc3\xadcio Rua,Corey Anderson,UFC_198
-4,Bryan Barberena,Warlley Alves,UFC_198
-5,Demian Maia,Matt Brown,UFC_198
-6,Thiago Santos,Nate Marquardt,UFC_198
-7,Francisco Trinaldo,Yancy Medeiros,UFC_198
-8,John Lineker,Rob Font,UFC_198
-9,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Patrick Cummins,UFC_198
-10,S\xc3\xa9rgio Moraes,Luan Chagas,UFC_198
-11,Renato Moicano,Zubaira Tukhugov,UFC_198
+,winner,loser,weight_class,event
+0,Stipe Miocic,Fabr\xc3\xadcio Werdum (c),Heavyweight,UFC_198
+1,Ronaldo Souza,Vitor Belfort,Middleweight,UFC_198
+2,Cris Cyborg,Leslie Smith,Catchweight (140 lbs),UFC_198
+3,Maur\xc3\xadcio Rua,Corey Anderson,Light Heavyweight,UFC_198
+4,Bryan Barberena,Warlley Alves,Welterweight,UFC_198
+5,Demian Maia,Matt Brown,Welterweight,UFC_198
+6,Thiago Santos,Nate Marquardt,Middleweight,UFC_198
+7,Francisco Trinaldo,Yancy Medeiros,Lightweight,UFC_198
+8,John Lineker,Rob Font,Bantamweight,UFC_198
+9,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Patrick Cummins,Light Heavyweight,UFC_198
+10,S\xc3\xa9rgio Moraes,Luan Chagas,Welterweight,UFC_198
+11,Renato Moicano,Zubaira Tukhugov,Featherweight,UFC_198

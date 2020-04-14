@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Max Holloway,Charles Oliveira,UFC_Fight_Night_Holloway_vs_Oliveira
-1,Neil Magny,Erick Silva,UFC_Fight_Night_Holloway_vs_Oliveira
-2,Patrick C\xc3\xb4t\xc3\xa9,Josh Burkman,UFC_Fight_Night_Holloway_vs_Oliveira
-3,Francisco Trinaldo,Chad Laprise,UFC_Fight_Night_Holloway_vs_Oliveira
-4,Olivier Aubin-Mercier,Tony Sims,UFC_Fight_Night_Holloway_vs_Oliveira
-5,Val\xc3\xa9rie L\xc3\xa9tourneau,Maryna Moroz,UFC_Fight_Night_Holloway_vs_Oliveira
-6,Frankie Perez,Sam Stout,UFC_Fight_Night_Holloway_vs_Oliveira
-7,Felipe Arantes,Yves Jabouin,UFC_Fight_Night_Holloway_vs_Oliveira
-8,Nikita Krylov,Marcos Rog\xc3\xa9rio de Lima,UFC_Fight_Night_Holloway_vs_Oliveira
-9,Chris Kelades,Chris Beal,UFC_Fight_Night_Holloway_vs_Oliveira
-10,Shane Campbell,Elias Silv\xc3\xa9rio,UFC_Fight_Night_Holloway_vs_Oliveira
-11,Misha Cirkunov,Daniel Jolly,UFC_Fight_Night_Holloway_vs_Oliveira
+,winner,loser,weight_class,event
+0,Max Holloway,Charles Oliveira,Featherweight,UFC_Fight_Night_Holloway_vs_Oliveira
+1,Neil Magny,Erick Silva,Welterweight,UFC_Fight_Night_Holloway_vs_Oliveira
+2,Patrick C\xc3\xb4t\xc3\xa9,Josh Burkman,Welterweight,UFC_Fight_Night_Holloway_vs_Oliveira
+3,Francisco Trinaldo,Chad Laprise,Lightweight,UFC_Fight_Night_Holloway_vs_Oliveira
+4,Olivier Aubin-Mercier,Tony Sims,Lightweight,UFC_Fight_Night_Holloway_vs_Oliveira
+5,Val\xc3\xa9rie L\xc3\xa9tourneau,Maryna Moroz,Women\'s Strawweight,UFC_Fight_Night_Holloway_vs_Oliveira
+6,Frankie Perez,Sam Stout,Lightweight,UFC_Fight_Night_Holloway_vs_Oliveira
+7,Felipe Arantes,Yves Jabouin,Bantamweight,UFC_Fight_Night_Holloway_vs_Oliveira
+8,Nikita Krylov,Marcos Rog\xc3\xa9rio de Lima,Light Heavyweight,UFC_Fight_Night_Holloway_vs_Oliveira
+9,Chris Kelades,Chris Beal,Flyweight,UFC_Fight_Night_Holloway_vs_Oliveira
+10,Shane Campbell,Elias Silv\xc3\xa9rio,Lightweight,UFC_Fight_Night_Holloway_vs_Oliveira
+11,Misha Cirkunov,Daniel Jolly,Light Heavyweight,UFC_Fight_Night_Holloway_vs_Oliveira

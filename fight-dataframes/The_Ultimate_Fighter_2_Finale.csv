@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Diego Sanchez,Nick Diaz,The_Ultimate_Fighter_2_Finale
-1,Rashad Evans,Brad Imes,The_Ultimate_Fighter_2_Finale
-2,Joe Stevenson,Luke Cummo,The_Ultimate_Fighter_2_Finale
-3,Kenny Florian,Kit Cope,The_Ultimate_Fighter_2_Finale
-4,Josh Burkman,Sam Morgan,The_Ultimate_Fighter_2_Finale
-5,Melvin Guillard,Marcus Davis,The_Ultimate_Fighter_2_Finale
-6,Keith Jardine,Kerry Schall,The_Ultimate_Fighter_2_Finale
+,winner,loser,weight_class,event
+0,Diego Sanchez,Nick Diaz,Welterweight,The_Ultimate_Fighter_2_Finale
+1,Rashad Evans,Brad Imes,Heavyweight,The_Ultimate_Fighter_2_Finale
+2,Joe Stevenson,Luke Cummo,Welterweight,The_Ultimate_Fighter_2_Finale
+3,Kenny Florian,Kit Cope,Welterweight,The_Ultimate_Fighter_2_Finale
+4,Josh Burkman,Sam Morgan,Welterweight,The_Ultimate_Fighter_2_Finale
+5,Melvin Guillard,Marcus Davis,Welterweight,The_Ultimate_Fighter_2_Finale
+6,Keith Jardine,Kerry Schall,Heavyweight,The_Ultimate_Fighter_2_Finale

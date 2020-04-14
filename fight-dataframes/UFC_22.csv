@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Frank Shamrock (c),Tito Ortiz,UFC_22
-1,Jens Pulver,Alfonso Alcarez,UFC_22
-2,Brad Kohler,Steve Judson,UFC_22
-3,Tim Lajcik,Ron Waterman,UFC_22
-4,John Lewis,Lowell Anderson,UFC_22
-5,Matt Hughes,Valeri Ignatov,UFC_22
-6,Jeremy Horn,Jason Godsey,UFC_22
-7,Chuck Liddell,Paul Jones,UFC_22
+,winner,loser,weight_class,event
+0,Frank Shamrock (c),Tito Ortiz,Middleweight,UFC_22
+1,Jens Pulver,Alfonso Alcarez,Lightweight,UFC_22
+2,Brad Kohler,Steve Judson,Heavyweight,UFC_22
+3,Tim Lajcik,Ron Waterman,Heavyweight,UFC_22
+4,John Lewis,Lowell Anderson,Lightweight,UFC_22
+5,Matt Hughes,Valeri Ignatov,Lightweight,UFC_22
+6,Jeremy Horn,Jason Godsey,Heavyweight,UFC_22
+7,Chuck Liddell,Paul Jones,Middleweight,UFC_22

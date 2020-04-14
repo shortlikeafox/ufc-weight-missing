@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Anderson Silva,Nick Diaz,UFC_183
-1,Tyron Woodley,Kelvin Gastelum,UFC_183
-2,Al Iaquinta,Joe Lauzon,UFC_183
-3,Thales Leites,Tim Boetsch,UFC_183
-4,Thiago Alves,Jordan Mein,UFC_183
-5,Miesha Tate,Sara McMann,UFC_183
-6,Derek Brunson,Ed Herman,UFC_183
-7,John Lineker,Ian McCall,UFC_183
-8,Rafael Natal,Tom Watson,UFC_183
-9,Ildemar Alc\xc3\xa2ntara,Richardson Moreira,UFC_183
-10,Thiago Santos,Andy Enz,UFC_183
+,winner,loser,weight_class,event
+0,Anderson Silva,Nick Diaz,Middleweight,UFC_183
+1,Tyron Woodley,Kelvin Gastelum,Catchweight (180 lbs),UFC_183
+2,Al Iaquinta,Joe Lauzon,Lightweight,UFC_183
+3,Thales Leites,Tim Boetsch,Middleweight,UFC_183
+4,Thiago Alves,Jordan Mein,Welterweight,UFC_183
+5,Miesha Tate,Sara McMann,Women\'s Bantamweight,UFC_183
+6,Derek Brunson,Ed Herman,Middleweight,UFC_183
+7,John Lineker,Ian McCall,Catchweight (130 lbs),UFC_183
+8,Rafael Natal,Tom Watson,Middleweight,UFC_183
+9,Ildemar Alc\xc3\xa2ntara,Richardson Moreira,Middleweight,UFC_183
+10,Thiago Santos,Andy Enz,Middleweight,UFC_183

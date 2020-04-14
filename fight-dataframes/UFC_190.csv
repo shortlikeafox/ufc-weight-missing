@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Ronda Rousey (c),Bethe Correia,UFC_190
-1,Maur\xc3\xadcio Rua,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,UFC_190
-2,Glaico Fran\xc3\xa7a,Fernando Bruno,UFC_190
-3,Reginaldo Vieira,Dileno Lopes,UFC_190
-4,Stefan Struve,Ant\xc3\xb4nio Rodrigo Nogueira,UFC_190
-5,Ant\xc3\xb4nio Silva,Soa Palelei,UFC_190
-6,Cl\xc3\xa1udia Gadelha,Jessica Aguilar,UFC_190
-7,Demian Maia,Neil Magny,UFC_190
-8,Patrick Cummins,Rafael Cavalcante,UFC_190
-9,Warlley Alves,Nordine Taleb,UFC_190
-10,Iuri Alc\xc3\xa2ntara,Leandro Issa,UFC_190
-11,Vitor Miranda,Clint Hester,UFC_190
-12,Guido Cannetti,Hugo Viana,UFC_190
+,winner,loser,weight_class,event
+0,Ronda Rousey (c),Bethe Correia,Women\'s Bantamweight,UFC_190
+1,Maur\xc3\xadcio Rua,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Light Heavyweight,UFC_190
+2,Glaico Fran\xc3\xa7a,Fernando Bruno,Lightweight,UFC_190
+3,Reginaldo Vieira,Dileno Lopes,Bantamweight,UFC_190
+4,Stefan Struve,Ant\xc3\xb4nio Rodrigo Nogueira,Heavyweight,UFC_190
+5,Ant\xc3\xb4nio Silva,Soa Palelei,Heavyweight,UFC_190
+6,Cl\xc3\xa1udia Gadelha,Jessica Aguilar,Women\'s Strawweight,UFC_190
+7,Demian Maia,Neil Magny,Welterweight,UFC_190
+8,Patrick Cummins,Rafael Cavalcante,Light Heavyweight,UFC_190
+9,Warlley Alves,Nordine Taleb,Welterweight,UFC_190
+10,Iuri Alc\xc3\xa2ntara,Leandro Issa,Bantamweight,UFC_190
+11,Vitor Miranda,Clint Hester,Middleweight,UFC_190
+12,Guido Cannetti,Hugo Viana,Bantamweight,UFC_190

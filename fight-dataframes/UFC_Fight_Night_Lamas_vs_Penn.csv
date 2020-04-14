@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Ricardo Lamas,B.J. Penn,UFC_Fight_Night_Lamas_vs_Penn
-1,Derrick Lewis,Marcin Tybura,UFC_Fight_Night_Lamas_vs_Penn
-2,Jenel Lausa,Yao Zhikui,UFC_Fight_Night_Lamas_vs_Penn
-3,Cole Miller,Mizuto Hirota,UFC_Fight_Night_Lamas_vs_Penn
-4,Sam Alvey,Alex Nicholson,UFC_Fight_Night_Lamas_vs_Penn
-5,Jon Tuck,Alex Volkanovski,UFC_Fight_Night_Lamas_vs_Penn
-6,Dong Yi Yang,Ryan Janes,UFC_Fight_Night_Lamas_vs_Penn
-7,Seo Hee Ham,Danielle Taylor,UFC_Fight_Night_Lamas_vs_Penn
-8,James Moontasri,Alex Morono,UFC_Fight_Night_Lamas_vs_Penn
-9,Kyoji Horiguchi,Ali Bagautinov,UFC_Fight_Night_Lamas_vs_Penn
-10,Damir Hadzovic,Yusuke Kasuya,UFC_Fight_Night_Lamas_vs_Penn
+,winner,loser,weight_class,event
+0,Ricardo Lamas,B.J. Penn,Featherweight,UFC_Fight_Night_Lamas_vs_Penn
+1,Derrick Lewis,Marcin Tybura,Heavyweight,UFC_Fight_Night_Lamas_vs_Penn
+2,Jenel Lausa,Yao Zhikui,Flyweight,UFC_Fight_Night_Lamas_vs_Penn
+3,Cole Miller,Mizuto Hirota,Featherweight,UFC_Fight_Night_Lamas_vs_Penn
+4,Sam Alvey,Alex Nicholson,Middleweight,UFC_Fight_Night_Lamas_vs_Penn
+5,Jon Tuck,Alex Volkanovski,Lightweight,UFC_Fight_Night_Lamas_vs_Penn
+6,Dong Yi Yang,Ryan Janes,Middleweight,UFC_Fight_Night_Lamas_vs_Penn
+7,Seo Hee Ham,Danielle Taylor,Women\'s Strawweight,UFC_Fight_Night_Lamas_vs_Penn
+8,James Moontasri,Alex Morono,Welterweight,UFC_Fight_Night_Lamas_vs_Penn
+9,Kyoji Horiguchi,Ali Bagautinov,Flyweight,UFC_Fight_Night_Lamas_vs_Penn
+10,Damir Hadzovic,Yusuke Kasuya,Lightweight,UFC_Fight_Night_Lamas_vs_Penn

@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Cris Cyborg,Lina L\xc3\xa4nsberg,UFC_Fight_Night_Cyborg_vs_Länsberg
-1,Renan Bar\xc3\xa3o,Phillipe Nover,UFC_Fight_Night_Cyborg_vs_Länsberg
-2,Roy Nelson,Ant\xc3\xb4nio Silva,UFC_Fight_Night_Cyborg_vs_Länsberg
-3,Francisco Trinaldo,Paul Felder,UFC_Fight_Night_Cyborg_vs_Länsberg
-4,Eric Spicely,Thiago Santos,UFC_Fight_Night_Cyborg_vs_Länsberg
-5,Godofredo Pepey,Mike De La Torre,UFC_Fight_Night_Cyborg_vs_Länsberg
-6,Michel Prazeres,Gilbert Burns,UFC_Fight_Night_Cyborg_vs_Länsberg
-7,Rani Yahya,Michinori Tanaka,UFC_Fight_Night_Cyborg_vs_Länsberg
-8,Jussier Formiga,Dustin Ortiz,UFC_Fight_Night_Cyborg_vs_Länsberg
-9,Erick Silva,Luan Chagas,UFC_Fight_Night_Cyborg_vs_Länsberg
-10,Alan Patrick,Stevie Ray,UFC_Fight_Night_Cyborg_vs_Länsberg
-11,Vicente Luque,H\xc3\xa9ctor Urbina,UFC_Fight_Night_Cyborg_vs_Länsberg
-12,Gregor Gillespie,Glaico Fran\xc3\xa7a,UFC_Fight_Night_Cyborg_vs_Länsberg
+,winner,loser,weight_class,event
+0,Cris Cyborg,Lina L\xc3\xa4nsberg,Catchweight (140 lbs),UFC_Fight_Night_Cyborg_vs_Länsberg
+1,Renan Bar\xc3\xa3o,Phillipe Nover,Featherweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+2,Roy Nelson,Ant\xc3\xb4nio Silva,Heavyweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+3,Francisco Trinaldo,Paul Felder,Lightweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+4,Eric Spicely,Thiago Santos,Middleweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+5,Godofredo Pepey,Mike De La Torre,Featherweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+6,Michel Prazeres,Gilbert Burns,Catchweight (158 lbs),UFC_Fight_Night_Cyborg_vs_Länsberg
+7,Rani Yahya,Michinori Tanaka,Bantamweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+8,Jussier Formiga,Dustin Ortiz,Flyweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+9,Erick Silva,Luan Chagas,Welterweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+10,Alan Patrick,Stevie Ray,Lightweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+11,Vicente Luque,H\xc3\xa9ctor Urbina,Welterweight,UFC_Fight_Night_Cyborg_vs_Länsberg
+12,Gregor Gillespie,Glaico Fran\xc3\xa7a,Lightweight,UFC_Fight_Night_Cyborg_vs_Länsberg

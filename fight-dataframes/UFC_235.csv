@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Jon Jones (c),Anthony Smith,UFC_235
-1,Kamaru Usman,Tyron Woodley (c),UFC_235
-2,Ben Askren,Robbie Lawler,UFC_235
-3,Zhang Weili,Tecia Torres,UFC_235
-4,Pedro Munhoz,Cody Garbrandt,UFC_235
-5,Zabit Magomedsharipov,Jeremy Stephens,UFC_235
-6,Johnny Walker,Misha Cirkunov,UFC_235
-7,Cody Stamann,Alejandro P\xc3\xa9rez,UFC_235
-8,Diego Sanchez,Mickey Gall,UFC_235
-9,Edmen Shahbazyan,Charles Byrd,UFC_235
-10,Macy Chiasson,Gina Mazany,UFC_235
-11,Hannah Cifers,Polyana Viana,UFC_235
+,winner,loser,weight_class,event
+0,Jon Jones (c),Anthony Smith,Light Heavyweight,UFC_235
+1,Kamaru Usman,Tyron Woodley (c),Welterweight,UFC_235
+2,Ben Askren,Robbie Lawler,Welterweight,UFC_235
+3,Zhang Weili,Tecia Torres,Women\'s Strawweight,UFC_235
+4,Pedro Munhoz,Cody Garbrandt,Bantamweight,UFC_235
+5,Zabit Magomedsharipov,Jeremy Stephens,Featherweight,UFC_235
+6,Johnny Walker,Misha Cirkunov,Light Heavyweight,UFC_235
+7,Cody Stamann,Alejandro P\xc3\xa9rez,Bantamweight,UFC_235
+8,Diego Sanchez,Mickey Gall,Welterweight,UFC_235
+9,Edmen Shahbazyan,Charles Byrd,Middleweight,UFC_235
+10,Macy Chiasson,Gina Mazany,Women\'s Bantamweight,UFC_235
+11,Hannah Cifers,Polyana Viana,Women\'s Strawweight,UFC_235

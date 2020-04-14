@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Daniel Cormier,Anthony Johnson,UFC_187
-1,Chris Weidman (c),Vitor Belfort,UFC_187
-2,Donald Cerrone,John Makdessi,UFC_187
-3,Andrei Arlovski,Travis Browne,UFC_187
-4,Joseph Benavidez,John Moraga,UFC_187
-5,John Dodson,Zach Makovsky,UFC_187
-6,Dong Hyun Kim,Josh Burkman,UFC_187
-7,Rafael Natal,Uriah Hall,UFC_187
-8,Colby Covington,Mike Pyle,UFC_187
-9,Islam Makhachev,Leo Kuntz,UFC_187
-10,Justin Scoggins,Josh Sampo,UFC_187
+,winner,loser,weight_class,event
+0,Daniel Cormier,Anthony Johnson,Light Heavyweight,UFC_187
+1,Chris Weidman (c),Vitor Belfort,Middleweight,UFC_187
+2,Donald Cerrone,John Makdessi,Lightweight,UFC_187
+3,Andrei Arlovski,Travis Browne,Heavyweight,UFC_187
+4,Joseph Benavidez,John Moraga,Flyweight,UFC_187
+5,John Dodson,Zach Makovsky,Flyweight,UFC_187
+6,Dong Hyun Kim,Josh Burkman,Welterweight,UFC_187
+7,Rafael Natal,Uriah Hall,Middleweight,UFC_187
+8,Colby Covington,Mike Pyle,Welterweight,UFC_187
+9,Islam Makhachev,Leo Kuntz,Lightweight,UFC_187
+10,Justin Scoggins,Josh Sampo,Flyweight,UFC_187

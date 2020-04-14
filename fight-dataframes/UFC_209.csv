@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Tyron Woodley (c),Stephen Thompson,UFC_209
-1,David Teymur,Lando Vannata,UFC_209
-2,Dan Kelly,Rashad Evans,UFC_209
-3,Cynthia Calvillo,Amanda Cooper,UFC_209
-4,Alistair Overeem,Mark Hunt,UFC_209
-5,Marcin Tybura,Luis Henrique,UFC_209
-6,Darren Elkins,Mirsad Bekti\xc4\x87,UFC_209
-7,Iuri Alc\xc3\xa2ntara,Luke Sanders,UFC_209
-8,Mark Godbeer,Daniel Spitz,UFC_209
-9,Tyson Pedro,Paul Craig,UFC_209
-10,Albert Morales,Andre Soukhamthath,UFC_209
+,winner,loser,weight_class,event
+0,Tyron Woodley (c),Stephen Thompson,Welterweight,UFC_209
+1,David Teymur,Lando Vannata,Lightweight,UFC_209
+2,Dan Kelly,Rashad Evans,Middleweight,UFC_209
+3,Cynthia Calvillo,Amanda Cooper,Women\'s Strawweight,UFC_209
+4,Alistair Overeem,Mark Hunt,Heavyweight,UFC_209
+5,Marcin Tybura,Luis Henrique,Heavyweight,UFC_209
+6,Darren Elkins,Mirsad Bekti\xc4\x87,Featherweight,UFC_209
+7,Iuri Alc\xc3\xa2ntara,Luke Sanders,Bantamweight,UFC_209
+8,Mark Godbeer,Daniel Spitz,Heavyweight,UFC_209
+9,Tyson Pedro,Paul Craig,Light Heavyweight,UFC_209
+10,Albert Morales,Andre Soukhamthath,Bantamweight,UFC_209

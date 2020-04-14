@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Khabib Nurmagomedov,Conor McGregor,UFC_229
-1,Tony Ferguson,Anthony Pettis,UFC_229
-2,Dominick Reyes,Ovince Saint Preux,UFC_229
-3,Derrick Lewis,Alexander Volkov,UFC_229
-4,Michelle Waterson,Felice Herrig,UFC_229
-5,Jussier Formiga,Sergio Pettis,UFC_229
-6,Vicente Luque,Jalin Turner,UFC_229
-7,Aspen Ladd,Tonya Evinger,UFC_229
-8,Scott Holtzman,Alan Patrick,UFC_229
-9,Yana Kunitskaya,Lina L\xc3\xa4nsberg,UFC_229
-10,Nik Lentz,Gray Maynard,UFC_229
-11,Tony Martin,Ryan LaFlare,UFC_229
+,winner,loser,weight_class,event
+0,Khabib Nurmagomedov,Conor McGregor,Lightweight,UFC_229
+1,Tony Ferguson,Anthony Pettis,Lightweight,UFC_229
+2,Dominick Reyes,Ovince Saint Preux,Light Heavyweight,UFC_229
+3,Derrick Lewis,Alexander Volkov,Heavyweight,UFC_229
+4,Michelle Waterson,Felice Herrig,Women\'s Strawweight,UFC_229
+5,Jussier Formiga,Sergio Pettis,Flyweight,UFC_229
+6,Vicente Luque,Jalin Turner,Welterweight,UFC_229
+7,Aspen Ladd,Tonya Evinger,Women\'s Bantamweight,UFC_229
+8,Scott Holtzman,Alan Patrick,Lightweight,UFC_229
+9,Yana Kunitskaya,Lina L\xc3\xa4nsberg,Women\'s Bantamweight,UFC_229
+10,Nik Lentz,Gray Maynard,Lightweight,UFC_229
+11,Tony Martin,Ryan LaFlare,Welterweight,UFC_229

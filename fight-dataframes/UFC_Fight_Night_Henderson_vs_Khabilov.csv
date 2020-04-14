@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Benson Henderson,Rustam Khabilov,UFC_Fight_Night_Henderson_vs_Khabilov
-1,Diego Sanchez,Ross Pearson,UFC_Fight_Night_Henderson_vs_Khabilov
-2,John Dodson,John Moraga,UFC_Fight_Night_Henderson_vs_Khabilov
-3,Rafael dos Anjos,Jason High,UFC_Fight_Night_Henderson_vs_Khabilov
-4,Piotr Hallmann,Yves Edwards,UFC_Fight_Night_Henderson_vs_Khabilov
-5,Bryan Caraway,\xc3\x89rik P\xc3\xa9rez,UFC_Fight_Night_Henderson_vs_Khabilov
-6,Sergio Pettis,Yaotzin Meza,UFC_Fight_Night_Henderson_vs_Khabilov
-7,Lance Benoist,Bobby Voelker,UFC_Fight_Night_Henderson_vs_Khabilov
-8,Scott Jorgensen,Danny Martinez,UFC_Fight_Night_Henderson_vs_Khabilov
-9,Jon Tuck,Jake Lindsey,UFC_Fight_Night_Henderson_vs_Khabilov
-10,Patrick Cummins,Roger Narvaez,UFC_Fight_Night_Henderson_vs_Khabilov
+,winner,loser,weight_class,event
+0,Benson Henderson,Rustam Khabilov,Lightweight,UFC_Fight_Night_Henderson_vs_Khabilov
+1,Diego Sanchez,Ross Pearson,Lightweight,UFC_Fight_Night_Henderson_vs_Khabilov
+2,John Dodson,John Moraga,Flyweight,UFC_Fight_Night_Henderson_vs_Khabilov
+3,Rafael dos Anjos,Jason High,Lightweight,UFC_Fight_Night_Henderson_vs_Khabilov
+4,Piotr Hallmann,Yves Edwards,Lightweight,UFC_Fight_Night_Henderson_vs_Khabilov
+5,Bryan Caraway,\xc3\x89rik P\xc3\xa9rez,Bantamweight,UFC_Fight_Night_Henderson_vs_Khabilov
+6,Sergio Pettis,Yaotzin Meza,Bantamweight,UFC_Fight_Night_Henderson_vs_Khabilov
+7,Lance Benoist,Bobby Voelker,Welterweight,UFC_Fight_Night_Henderson_vs_Khabilov
+8,Scott Jorgensen,Danny Martinez,Flyweight,UFC_Fight_Night_Henderson_vs_Khabilov
+9,Jon Tuck,Jake Lindsey,Lightweight,UFC_Fight_Night_Henderson_vs_Khabilov
+10,Patrick Cummins,Roger Narvaez,Light Heavyweight,UFC_Fight_Night_Henderson_vs_Khabilov

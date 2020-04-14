@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Robbie Lawler,Matt Brown,UFC_on_Fox_Lawler_vs_Brown
-1,Anthony Johnson,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,UFC_on_Fox_Lawler_vs_Brown
-2,Dennis Bermudez,Clay Guida,UFC_on_Fox_Lawler_vs_Brown
-3,Bobby Green,Josh Thomson,UFC_on_Fox_Lawler_vs_Brown
-4,Jorge Masvidal,Daron Cruickshank,UFC_on_Fox_Lawler_vs_Brown
-5,Patrick Cummins,Kyle Kingsbury,UFC_on_Fox_Lawler_vs_Brown
-6,Tim Means,Hernani Perp\xc3\xa9tuo,UFC_on_Fox_Lawler_vs_Brown
-7,Brian Ortega,Mike De La Torre,UFC_on_Fox_Lawler_vs_Brown
-8,Tiago Trator,Akbarh Arreola,UFC_on_Fox_Lawler_vs_Brown
-9,Gilbert Burns,Andreas St\xc3\xa5hl,UFC_on_Fox_Lawler_vs_Brown
-10,Joanna J\xc4\x99drzejczyk,Juliana Lima,UFC_on_Fox_Lawler_vs_Brown
-11,Noad Lahat,Steven Siler,UFC_on_Fox_Lawler_vs_Brown
+,winner,loser,weight_class,event
+0,Robbie Lawler,Matt Brown,Catchweight (172.5 lbs),UFC_on_Fox_Lawler_vs_Brown
+1,Anthony Johnson,Ant\xc3\xb4nio Rog\xc3\xa9rio Nogueira,Light Heavyweight,UFC_on_Fox_Lawler_vs_Brown
+2,Dennis Bermudez,Clay Guida,Featherweight,UFC_on_Fox_Lawler_vs_Brown
+3,Bobby Green,Josh Thomson,Lightweight,UFC_on_Fox_Lawler_vs_Brown
+4,Jorge Masvidal,Daron Cruickshank,Lightweight,UFC_on_Fox_Lawler_vs_Brown
+5,Patrick Cummins,Kyle Kingsbury,Light Heavyweight,UFC_on_Fox_Lawler_vs_Brown
+6,Tim Means,Hernani Perp\xc3\xa9tuo,Welterweight,UFC_on_Fox_Lawler_vs_Brown
+7,Brian Ortega,Mike De La Torre,Featherweight,UFC_on_Fox_Lawler_vs_Brown
+8,Tiago Trator,Akbarh Arreola,Lightweight,UFC_on_Fox_Lawler_vs_Brown
+9,Gilbert Burns,Andreas St\xc3\xa5hl,Welterweight,UFC_on_Fox_Lawler_vs_Brown
+10,Joanna J\xc4\x99drzejczyk,Juliana Lima,Catchweight (116.5 lbs),UFC_on_Fox_Lawler_vs_Brown
+11,Noad Lahat,Steven Siler,Featherweight,UFC_on_Fox_Lawler_vs_Brown

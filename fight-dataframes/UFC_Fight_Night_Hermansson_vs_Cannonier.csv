@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Jared Cannonier,Jack Hermansson,UFC_Fight_Night_Hermansson_vs_Cannonier
-1,Mark Madsen,Danilo Belluardo,UFC_Fight_Night_Hermansson_vs_Cannonier
-2,Gilbert Burns,Gunnar Nelson,UFC_Fight_Night_Hermansson_vs_Cannonier
-3,Ion Cu\xc8\x9belaba,Khalil Rountree Jr.,UFC_Fight_Night_Hermansson_vs_Cannonier
-4,Ovince Saint Preux,Micha\xc5\x82 Oleksiejczuk,UFC_Fight_Night_Hermansson_vs_Cannonier
-5,Nicolas Dalby,Alex Oliveira,UFC_Fight_Night_Hermansson_vs_Cannonier
-6,John Phillips,Alen Amedovski,UFC_Fight_Night_Hermansson_vs_Cannonier
-7,Makhmud Muradov,Alessio Di Chirico,UFC_Fight_Night_Hermansson_vs_Cannonier
-8,Ismail Naurdiev,Siyar Bahadurzada,UFC_Fight_Night_Hermansson_vs_Cannonier
-9,Giga Chikadze,Brandon Davis,UFC_Fight_Night_Hermansson_vs_Cannonier
-10,Lina L\xc3\xa4nsberg,Macy Chiasson,UFC_Fight_Night_Hermansson_vs_Cannonier
-11,Marc Diakiese,Lando Vannata,UFC_Fight_Night_Hermansson_vs_Cannonier
-12,Jack Shore,Nohelin Hernandez,UFC_Fight_Night_Hermansson_vs_Cannonier
+,winner,loser,weight_class,event
+0,Jared Cannonier,Jack Hermansson,Middleweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+1,Mark Madsen,Danilo Belluardo,Lightweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+2,Gilbert Burns,Gunnar Nelson,Welterweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+3,Ion Cu\xc8\x9belaba,Khalil Rountree Jr.,Light Heavyweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+4,Ovince Saint Preux,Micha\xc5\x82 Oleksiejczuk,Light Heavyweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+5,Nicolas Dalby,Alex Oliveira,Welterweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+6,John Phillips,Alen Amedovski,Middleweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+7,Makhmud Muradov,Alessio Di Chirico,Middleweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+8,Ismail Naurdiev,Siyar Bahadurzada,Welterweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+9,Giga Chikadze,Brandon Davis,Featherweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+10,Lina L\xc3\xa4nsberg,Macy Chiasson,Women\'s Bantamweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+11,Marc Diakiese,Lando Vannata,Lightweight,UFC_Fight_Night_Hermansson_vs_Cannonier
+12,Jack Shore,Nohelin Hernandez,Bantamweight,UFC_Fight_Night_Hermansson_vs_Cannonier

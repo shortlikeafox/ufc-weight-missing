@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Benson Henderson,Josh Thomson,UFC_on_Fox_Henderson_vs_Thomson
-1,Stipe Miocic,Gabriel Gonzaga,UFC_on_Fox_Henderson_vs_Thomson
-2,Donald Cerrone,Adriano Martins,UFC_on_Fox_Henderson_vs_Thomson
-3,Jeremy Stephens,Darren Elkins,UFC_on_Fox_Henderson_vs_Thomson
-4,Alex Caceres,Sergio Pettis,UFC_on_Fox_Henderson_vs_Thomson
-5,Eddie Wineland,Yves Jabouin,UFC_on_Fox_Henderson_vs_Thomson
-6,Chico Camus,Yaotzin Meza,UFC_on_Fox_Henderson_vs_Thomson
-7,Hugo Viana,Junior Hernandez,UFC_on_Fox_Henderson_vs_Thomson
-8,Daron Cruickshank,Mike Rio,UFC_on_Fox_Henderson_vs_Thomson
-9,George Sullivan,Mike Rhodes,UFC_on_Fox_Henderson_vs_Thomson
-10,Nikita Krylov,Walt Harris,UFC_on_Fox_Henderson_vs_Thomson
+,winner,loser,weight_class,event
+0,Benson Henderson,Josh Thomson,Lightweight,UFC_on_Fox_Henderson_vs_Thomson
+1,Stipe Miocic,Gabriel Gonzaga,Heavyweight,UFC_on_Fox_Henderson_vs_Thomson
+2,Donald Cerrone,Adriano Martins,Lightweight,UFC_on_Fox_Henderson_vs_Thomson
+3,Jeremy Stephens,Darren Elkins,Featherweight,UFC_on_Fox_Henderson_vs_Thomson
+4,Alex Caceres,Sergio Pettis,Bantamweight,UFC_on_Fox_Henderson_vs_Thomson
+5,Eddie Wineland,Yves Jabouin,Bantamweight,UFC_on_Fox_Henderson_vs_Thomson
+6,Chico Camus,Yaotzin Meza,Bantamweight,UFC_on_Fox_Henderson_vs_Thomson
+7,Hugo Viana,Junior Hernandez,Bantamweight,UFC_on_Fox_Henderson_vs_Thomson
+8,Daron Cruickshank,Mike Rio,Lightweight,UFC_on_Fox_Henderson_vs_Thomson
+9,George Sullivan,Mike Rhodes,Welterweight,UFC_on_Fox_Henderson_vs_Thomson
+10,Nikita Krylov,Walt Harris,Heavyweight,UFC_on_Fox_Henderson_vs_Thomson

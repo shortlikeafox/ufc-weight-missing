@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Jeremy Stephens,Doo Ho Choi,UFC_Fight_Night_Stephens_vs_Choi
-1,Jessica-Rose Clark,Paige VanZant,UFC_Fight_Night_Stephens_vs_Choi
-2,Kamaru Usman,Emil Weber Meek,UFC_Fight_Night_Stephens_vs_Choi
-3,Darren Elkins,Michael Johnson,UFC_Fight_Night_Stephens_vs_Choi
-4,James Krause,Alex White,UFC_Fight_Night_Stephens_vs_Choi
-5,Polo Reyes,Matt Frevola,UFC_Fight_Night_Stephens_vs_Choi
-6,Irene Aldana,Talita Bernardo,UFC_Fight_Night_Stephens_vs_Choi
-7,Kyung Ho Kang,Guido Cannetti,UFC_Fight_Night_Stephens_vs_Choi
-8,Jessica Eye,Kalindra Faria,UFC_Fight_Night_Stephens_vs_Choi
-9,JJ Aldrich,Danielle Taylor,UFC_Fight_Night_Stephens_vs_Choi
-10,Mads Burnell,Mike Santiago,UFC_Fight_Night_Stephens_vs_Choi
+,winner,loser,weight_class,event
+0,Jeremy Stephens,Doo Ho Choi,Featherweight,UFC_Fight_Night_Stephens_vs_Choi
+1,Jessica-Rose Clark,Paige VanZant,Women\'s Flyweight,UFC_Fight_Night_Stephens_vs_Choi
+2,Kamaru Usman,Emil Weber Meek,Welterweight,UFC_Fight_Night_Stephens_vs_Choi
+3,Darren Elkins,Michael Johnson,Featherweight,UFC_Fight_Night_Stephens_vs_Choi
+4,James Krause,Alex White,Lightweight,UFC_Fight_Night_Stephens_vs_Choi
+5,Polo Reyes,Matt Frevola,Lightweight,UFC_Fight_Night_Stephens_vs_Choi
+6,Irene Aldana,Talita Bernardo,Women\'s Bantamweight,UFC_Fight_Night_Stephens_vs_Choi
+7,Kyung Ho Kang,Guido Cannetti,Bantamweight,UFC_Fight_Night_Stephens_vs_Choi
+8,Jessica Eye,Kalindra Faria,Women\'s Flyweight,UFC_Fight_Night_Stephens_vs_Choi
+9,JJ Aldrich,Danielle Taylor,Women\'s Strawweight,UFC_Fight_Night_Stephens_vs_Choi
+10,Mads Burnell,Mike Santiago,Catchweight (150 lbs),UFC_Fight_Night_Stephens_vs_Choi

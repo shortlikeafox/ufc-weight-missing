@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Amanda Nunes (c),Valentina Shevchenko,UFC_215
-1,Rafael dos Anjos,Neil Magny,UFC_215
-2,Henry Cejudo,Wilson Reis,UFC_215
-3,Ilir Latifi,Tyson Pedro,UFC_215
-4,Jeremy Stephens,Gilbert Melendez,UFC_215
-5,Ketlen Vieira,Sara McMann,UFC_215
-6,Sarah Moras,Ashlee Evans-Smith,UFC_215
-7,Rick Glenn,Gavin Tucker,UFC_215
-8,Alex White,Mitch Clarke,UFC_215
-9,Arjan Bhullar,Luis Henrique,UFC_215
-10,Kajan Johnson,Adriano Martins,UFC_215
+,winner,loser,weight_class,event
+0,Amanda Nunes (c),Valentina Shevchenko,Women\'s Bantamweight,UFC_215
+1,Rafael dos Anjos,Neil Magny,Welterweight,UFC_215
+2,Henry Cejudo,Wilson Reis,Flyweight,UFC_215
+3,Ilir Latifi,Tyson Pedro,Light Heavyweight,UFC_215
+4,Jeremy Stephens,Gilbert Melendez,Featherweight,UFC_215
+5,Ketlen Vieira,Sara McMann,Women\'s Bantamweight,UFC_215
+6,Sarah Moras,Ashlee Evans-Smith,Women\'s Bantamweight,UFC_215
+7,Rick Glenn,Gavin Tucker,Featherweight,UFC_215
+8,Alex White,Mitch Clarke,Lightweight,UFC_215
+9,Arjan Bhullar,Luis Henrique,Heavyweight,UFC_215
+10,Kajan Johnson,Adriano Martins,Lightweight,UFC_215

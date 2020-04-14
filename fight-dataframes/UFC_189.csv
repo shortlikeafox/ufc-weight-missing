@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Conor McGregor,Chad Mendes,UFC_189
-1,Robbie Lawler (c),Rory MacDonald,UFC_189
-2,Jeremy Stephens,Dennis Bermudez,UFC_189
-3,Gunnar Nelson,Brandon Thatch,UFC_189
-4,Thomas Almeida,Brad Pickett,UFC_189
-5,Matt Brown,Tim Means,UFC_189
-6,Alex Garcia,Mike Swick,UFC_189
-7,John Howard,Cathal Pendred,UFC_189
-8,Cody Garbrandt,Henry Briones,UFC_189
-9,Louis Smolka,Neil Seery,UFC_189
-10,Cody Pfister,Yosdenis Cedeno,UFC_189
+,winner,loser,weight_class,event
+0,Conor McGregor,Chad Mendes,Featherweight,UFC_189
+1,Robbie Lawler (c),Rory MacDonald,Welterweight,UFC_189
+2,Jeremy Stephens,Dennis Bermudez,Catchweight (149.5 lbs),UFC_189
+3,Gunnar Nelson,Brandon Thatch,Welterweight,UFC_189
+4,Thomas Almeida,Brad Pickett,Bantamweight,UFC_189
+5,Matt Brown,Tim Means,Welterweight,UFC_189
+6,Alex Garcia,Mike Swick,Welterweight,UFC_189
+7,John Howard,Cathal Pendred,Welterweight,UFC_189
+8,Cody Garbrandt,Henry Briones,Bantamweight,UFC_189
+9,Louis Smolka,Neil Seery,Flyweight,UFC_189
+10,Cody Pfister,Yosdenis Cedeno,Lightweight,UFC_189

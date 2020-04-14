@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Ken Shamrock,Royce Gracie,UFC_5
-1,Dan Severn,Dave Beneteau,UFC_5
-2,Dave Beneteau,Todd Medina,UFC_5
-3,Dan Severn,Oleg Taktarov,UFC_5
-4,Jon Hess,Andy Anderson,UFC_5
-5,Todd Medina,Larry Cureton,UFC_5
-6,Oleg Taktarov,Ernie Verdicia,UFC_5
-7,Dan Severn,Joe Charles,UFC_5
-8,Dave Beneteau,Asbel Cancio,UFC_5
-9,Guy Mezger,John Dowdy,UFC_5
+,winner,loser,weight_class,event
+0,Ken Shamrock,Royce Gracie,N/A,UFC_5
+1,Dan Severn,Dave Beneteau,N/A,UFC_5
+2,Dave Beneteau,Todd Medina,N/A,UFC_5
+3,Dan Severn,Oleg Taktarov,N/A,UFC_5
+4,Jon Hess,Andy Anderson,N/A,UFC_5
+5,Todd Medina,Larry Cureton,N/A,UFC_5
+6,Oleg Taktarov,Ernie Verdicia,N/A,UFC_5
+7,Dan Severn,Joe Charles,N/A,UFC_5
+8,Dave Beneteau,Asbel Cancio,N/A,UFC_5
+9,Guy Mezger,John Dowdy,N/A,UFC_5

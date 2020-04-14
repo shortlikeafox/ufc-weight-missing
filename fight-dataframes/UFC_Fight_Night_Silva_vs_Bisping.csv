@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Michael Bisping,Anderson Silva,UFC_Fight_Night_Silva_vs_Bisping
-1,Gegard Mousasi,Thales Leites,UFC_Fight_Night_Silva_vs_Bisping
-2,Tom Breese,Keita Nakamura,UFC_Fight_Night_Silva_vs_Bisping
-3,Brad Pickett,Francisco Rivera,UFC_Fight_Night_Silva_vs_Bisping
-4,Makwan Amirkhani,Mike Wilkinson,UFC_Fight_Night_Silva_vs_Bisping
-5,Davey Grant,Marlon Vera,UFC_Fight_Night_Silva_vs_Bisping
-6,Scott Askham,Chris Dempsey,UFC_Fight_Night_Silva_vs_Bisping
-7,Arnold Allen,Yaotzin Meza,UFC_Fight_Night_Silva_vs_Bisping
-8,Krzysztof Jotko,Brad Scott,UFC_Fight_Night_Silva_vs_Bisping
-9,Rustam Khabilov,Norman Parke,UFC_Fight_Night_Silva_vs_Bisping
-10,Daniel Omiela\xc5\x84czuk,Jarjis Danho,UFC_Fight_Night_Silva_vs_Bisping
-11,Teemu Packalen,Thibault Gouti,UFC_Fight_Night_Silva_vs_Bisping
-12,David Teymur,Martin Svensson,UFC_Fight_Night_Silva_vs_Bisping
+,winner,loser,weight_class,event
+0,Michael Bisping,Anderson Silva,Middleweight,UFC_Fight_Night_Silva_vs_Bisping
+1,Gegard Mousasi,Thales Leites,Middleweight,UFC_Fight_Night_Silva_vs_Bisping
+2,Tom Breese,Keita Nakamura,Welterweight,UFC_Fight_Night_Silva_vs_Bisping
+3,Brad Pickett,Francisco Rivera,Bantamweight,UFC_Fight_Night_Silva_vs_Bisping
+4,Makwan Amirkhani,Mike Wilkinson,Featherweight,UFC_Fight_Night_Silva_vs_Bisping
+5,Davey Grant,Marlon Vera,Bantamweight,UFC_Fight_Night_Silva_vs_Bisping
+6,Scott Askham,Chris Dempsey,Middleweight,UFC_Fight_Night_Silva_vs_Bisping
+7,Arnold Allen,Yaotzin Meza,Featherweight,UFC_Fight_Night_Silva_vs_Bisping
+8,Krzysztof Jotko,Brad Scott,Middleweight,UFC_Fight_Night_Silva_vs_Bisping
+9,Rustam Khabilov,Norman Parke,Lightweight,UFC_Fight_Night_Silva_vs_Bisping
+10,Daniel Omiela\xc5\x84czuk,Jarjis Danho,Heavyweight,UFC_Fight_Night_Silva_vs_Bisping
+11,Teemu Packalen,Thibault Gouti,Lightweight,UFC_Fight_Night_Silva_vs_Bisping
+12,David Teymur,Martin Svensson,Lightweight,UFC_Fight_Night_Silva_vs_Bisping

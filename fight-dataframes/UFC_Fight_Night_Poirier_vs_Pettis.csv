@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Dustin Poirier,Anthony Pettis,UFC_Fight_Night_Poirier_vs_Pettis
-1,Matt Brown,Diego Sanchez,UFC_Fight_Night_Poirier_vs_Pettis
-2,Andrei Arlovski,J\xc3\xbanior Albini,UFC_Fight_Night_Poirier_vs_Pettis
-3,Cezar Ferreira,Nate Marquardt,UFC_Fight_Night_Poirier_vs_Pettis
-4,Raphael Assun\xc3\xa7\xc3\xa3o,Matthew Lopez,UFC_Fight_Night_Poirier_vs_Pettis
-5,Clay Guida,Joe Lauzon,UFC_Fight_Night_Poirier_vs_Pettis
-6,Marlon Moraes,John Dodson,UFC_Fight_Night_Poirier_vs_Pettis
-7,Tatiana Suarez,Viviane Pereira,UFC_Fight_Night_Poirier_vs_Pettis
-8,Sage Northcutt,Michel Qui\xc3\xb1ones,UFC_Fight_Night_Poirier_vs_Pettis
-9,Nina Ansaroff,Angela Hill,UFC_Fight_Night_Poirier_vs_Pettis
-10,Sean Strickland,Court McGee,UFC_Fight_Night_Poirier_vs_Pettis
-11,Jake Collier,Marcel Fortuna,UFC_Fight_Night_Poirier_vs_Pettis
-12,Karl Roberson,Darren Stewart,UFC_Fight_Night_Poirier_vs_Pettis
+,winner,loser,weight_class,event
+0,Dustin Poirier,Anthony Pettis,Lightweight,UFC_Fight_Night_Poirier_vs_Pettis
+1,Matt Brown,Diego Sanchez,Welterweight,UFC_Fight_Night_Poirier_vs_Pettis
+2,Andrei Arlovski,J\xc3\xbanior Albini,Heavyweight,UFC_Fight_Night_Poirier_vs_Pettis
+3,Cezar Ferreira,Nate Marquardt,Middleweight,UFC_Fight_Night_Poirier_vs_Pettis
+4,Raphael Assun\xc3\xa7\xc3\xa3o,Matthew Lopez,Catchweight (138.5 lbs),UFC_Fight_Night_Poirier_vs_Pettis
+5,Clay Guida,Joe Lauzon,Lightweight,UFC_Fight_Night_Poirier_vs_Pettis
+6,Marlon Moraes,John Dodson,Bantamweight,UFC_Fight_Night_Poirier_vs_Pettis
+7,Tatiana Suarez,Viviane Pereira,Women\'s Strawweight,UFC_Fight_Night_Poirier_vs_Pettis
+8,Sage Northcutt,Michel Qui\xc3\xb1ones,Lightweight,UFC_Fight_Night_Poirier_vs_Pettis
+9,Nina Ansaroff,Angela Hill,Women\'s Strawweight,UFC_Fight_Night_Poirier_vs_Pettis
+10,Sean Strickland,Court McGee,Welterweight,UFC_Fight_Night_Poirier_vs_Pettis
+11,Jake Collier,Marcel Fortuna,Light Heavyweight,UFC_Fight_Night_Poirier_vs_Pettis
+12,Karl Roberson,Darren Stewart,Middleweight,UFC_Fight_Night_Poirier_vs_Pettis

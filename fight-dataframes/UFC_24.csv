@@ -1,8 +1,8 @@
-,winner,loser,event
-0,Tedd Williams,Steve Judson,UFC_24
-1,Lance Gibson,Jermaine Andre,UFC_24
-2,Dave Menne,Fabiano Iha,UFC_24
-3,Bob Cook,Tiki Ghosn,UFC_24
-4,Jens Pulver,David Velasquez,UFC_24
-5,Scott Adams,Ian Freeman,UFC_24
-6,Shonie Carter,Brad Gumm,UFC_24
+,winner,loser,weight_class,event
+0,Tedd Williams,Steve Judson,Heavyweight,UFC_24
+1,Lance Gibson,Jermaine Andre,Middleweight,UFC_24
+2,Dave Menne,Fabiano Iha,Lightweight,UFC_24
+3,Bob Cook,Tiki Ghosn,Lightweight,UFC_24
+4,Jens Pulver,David Velasquez,Lightweight,UFC_24
+5,Scott Adams,Ian Freeman,Heavyweight,UFC_24
+6,Shonie Carter,Brad Gumm,Lightweight,UFC_24

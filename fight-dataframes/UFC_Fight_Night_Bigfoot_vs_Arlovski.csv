@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Andrei Arlovski,Ant\xc3\xb4nio Silva,UFC_Fight_Night_Bigfoot_vs_Arlovski
-1,Gleison Tibau,Piotr Hallmann,UFC_Fight_Night_Bigfoot_vs_Arlovski
-2,Leonardo Santos,Efrain Escudero,UFC_Fight_Night_Bigfoot_vs_Arlovski
-3,Santiago Ponzinibbio,Wendell Oliveira,UFC_Fight_Night_Bigfoot_vs_Arlovski
-4,Iuri Alc\xc3\xa2ntara,Russell Doane,UFC_Fight_Night_Bigfoot_vs_Arlovski
-5,J\xc3\xa9ssica Andrade,Larissa Pacheco,UFC_Fight_Night_Bigfoot_vs_Arlovski
-6,Godofredo Pepey,Dashon Johnson,UFC_Fight_Night_Bigfoot_vs_Arlovski
-7,George Sullivan,Igor Ara\xc3\xbajo,UFC_Fight_Night_Bigfoot_vs_Arlovski
-8,Francisco Trinaldo,Leandro Silva,UFC_Fight_Night_Bigfoot_vs_Arlovski
-9,Sean Spencer,Paulo Thiago,UFC_Fight_Night_Bigfoot_vs_Arlovski
-10,Rani Yahya,Johnny Bedford,UFC_Fight_Night_Bigfoot_vs_Arlovski
+,winner,loser,weight_class,event
+0,Andrei Arlovski,Ant\xc3\xb4nio Silva,Heavyweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+1,Gleison Tibau,Piotr Hallmann,Lightweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+2,Leonardo Santos,Efrain Escudero,Lightweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+3,Santiago Ponzinibbio,Wendell Oliveira,Welterweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+4,Iuri Alc\xc3\xa2ntara,Russell Doane,Bantamweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+5,J\xc3\xa9ssica Andrade,Larissa Pacheco,Women\'s Bantamweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+6,Godofredo Pepey,Dashon Johnson,Featherweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+7,George Sullivan,Igor Ara\xc3\xbajo,Welterweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+8,Francisco Trinaldo,Leandro Silva,Lightweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+9,Sean Spencer,Paulo Thiago,Welterweight,UFC_Fight_Night_Bigfoot_vs_Arlovski
+10,Rani Yahya,Johnny Bedford,Bantamweight,UFC_Fight_Night_Bigfoot_vs_Arlovski

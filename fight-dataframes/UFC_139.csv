@@ -1,13 +1,13 @@
-,winner,loser,event
-0,Dan Henderson,Maur\xc3\xadcio Rua,UFC_139
-1,Wanderlei Silva,Cung Le,UFC_139
-2,Urijah Faber,Brian Bowles,UFC_139
-3,Martin Kampmann,Rick Story,UFC_139
-4,Stephan Bonnar,Kyle Kingsbury,UFC_139
-5,Ryan Bader,Jason Brilz,UFC_139
-6,Michael McDonald,Alex Soto,UFC_139
-7,Chris Weidman,Tom Lawlor,UFC_139
-8,Gleison Tibau,Rafael dos Anjos,UFC_139
-9,Miguel Torres,Nick Pace,UFC_139
-10,Seth Baczynski,Matt Brown,UFC_139
-11,Danny Castillo,Shamar Bailey,UFC_139
+,winner,loser,weight_class,event
+0,Dan Henderson,Maur\xc3\xadcio Rua,Light Heavyweight,UFC_139
+1,Wanderlei Silva,Cung Le,Middleweight,UFC_139
+2,Urijah Faber,Brian Bowles,Bantamweight,UFC_139
+3,Martin Kampmann,Rick Story,Welterweight,UFC_139
+4,Stephan Bonnar,Kyle Kingsbury,Light Heavyweight,UFC_139
+5,Ryan Bader,Jason Brilz,Light Heavyweight,UFC_139
+6,Michael McDonald,Alex Soto,Bantamweight,UFC_139
+7,Chris Weidman,Tom Lawlor,Middleweight,UFC_139
+8,Gleison Tibau,Rafael dos Anjos,Lightweight,UFC_139
+9,Miguel Torres,Nick Pace,Catchweight (141 lbs),UFC_139
+10,Seth Baczynski,Matt Brown,Welterweight,UFC_139
+11,Danny Castillo,Shamar Bailey,Catchweight (158 lbs),UFC_139

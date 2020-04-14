@@ -1,12 +1,12 @@
-,winner,loser,event
-0,Ronda Rousey (c),Cat Zingano,UFC_184
-1,Holly Holm,Raquel Pennington,UFC_184
-2,Jake Ellenberger,Josh Koscheck,UFC_184
-3,Alan Jouban,Richard Walsh,UFC_184
-4,Tony Ferguson,Gleison Tibau,UFC_184
-5,Roan Carneiro,Mark Mu\xc3\xb1oz,UFC_184
-6,Roman Salazar,Norifumi Yamamoto,UFC_184
-7,Tim Means,Dhiego Lima,UFC_184
-8,Derrick Lewis,Ruan Potts,UFC_184
-9,Valmir L\xc3\xa1zaro,James Krause,UFC_184
-10,Masio Fullen,Alex Torres,UFC_184
+,winner,loser,weight_class,event
+0,Ronda Rousey (c),Cat Zingano,Women\'s Bantamweight,UFC_184
+1,Holly Holm,Raquel Pennington,Women\'s Bantamweight,UFC_184
+2,Jake Ellenberger,Josh Koscheck,Welterweight,UFC_184
+3,Alan Jouban,Richard Walsh,Welterweight,UFC_184
+4,Tony Ferguson,Gleison Tibau,Lightweight,UFC_184
+5,Roan Carneiro,Mark Mu\xc3\xb1oz,Middleweight,UFC_184
+6,Roman Salazar,Norifumi Yamamoto,Bantamweight,UFC_184
+7,Tim Means,Dhiego Lima,Welterweight,UFC_184
+8,Derrick Lewis,Ruan Potts,Heavyweight,UFC_184
+9,Valmir L\xc3\xa1zaro,James Krause,Lightweight,UFC_184
+10,Masio Fullen,Alex Torres,Featherweight,UFC_184

@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Joe Lauzon,Jeremy Stephens,UFC_Fight_Night_Lauzon_vs_Stephens
-1,Cain Velasquez,Denis Stojni\xc4\x87,UFC_Fight_Night_Lauzon_vs_Stephens
-2,Josh Neer,Mac Danzig,UFC_Fight_Night_Lauzon_vs_Stephens
-3,Anthony Johnson,Luigi Fioravanti,UFC_Fight_Night_Lauzon_vs_Stephens
-4,Kurt Pellegrino,Rob Emerson,UFC_Fight_Night_Lauzon_vs_Stephens
-5,Dan Miller,Jake Rosholt,UFC_Fight_Night_Lauzon_vs_Stephens
-6,Matt Veach,Matt Grice,UFC_Fight_Night_Lauzon_vs_Stephens
-7,Gleison Tibau,Rich Clementi,UFC_Fight_Night_Lauzon_vs_Stephens
-8,Nick Catone,Derek Downey,UFC_Fight_Night_Lauzon_vs_Stephens
-9,Matthew Riddle,Steve Bruno,UFC_Fight_Night_Lauzon_vs_Stephens
+,winner,loser,weight_class,event
+0,Joe Lauzon,Jeremy Stephens,Lightweight,UFC_Fight_Night_Lauzon_vs_Stephens
+1,Cain Velasquez,Denis Stojni\xc4\x87,Heavyweight,UFC_Fight_Night_Lauzon_vs_Stephens
+2,Josh Neer,Mac Danzig,Lightweight,UFC_Fight_Night_Lauzon_vs_Stephens
+3,Anthony Johnson,Luigi Fioravanti,Welterweight,UFC_Fight_Night_Lauzon_vs_Stephens
+4,Kurt Pellegrino,Rob Emerson,Lightweight,UFC_Fight_Night_Lauzon_vs_Stephens
+5,Dan Miller,Jake Rosholt,Middleweight,UFC_Fight_Night_Lauzon_vs_Stephens
+6,Matt Veach,Matt Grice,Lightweight,UFC_Fight_Night_Lauzon_vs_Stephens
+7,Gleison Tibau,Rich Clementi,Lightweight,UFC_Fight_Night_Lauzon_vs_Stephens
+8,Nick Catone,Derek Downey,Middleweight,UFC_Fight_Night_Lauzon_vs_Stephens
+9,Matthew Riddle,Steve Bruno,Welterweight,UFC_Fight_Night_Lauzon_vs_Stephens

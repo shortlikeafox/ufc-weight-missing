@@ -1,9 +1,9 @@
-,winner,loser,event
-0,Ricco Rodriguez,Randy Couture,UFC_39
-1,Tim Sylvia,Wesley Correira,UFC_39
-2,B.J. Penn,Matt Serra,UFC_39
-3,Caol Uno,Din Thomas,UFC_39
-4,Gan McGee,Pedro Rizzo,UFC_39
-5,Phil Baroni,Dave Menne,UFC_39
-6,Matt Lindland,Ivan Salaverry,UFC_39
-7,Sean Sherk,Benji Radach,UFC_39
+,winner,loser,weight_class,event
+0,Ricco Rodriguez,Randy Couture,Heavyweight,UFC_39
+1,Tim Sylvia,Wesley Correira,Heavyweight,UFC_39
+2,B.J. Penn,Matt Serra,Lightweight,UFC_39
+3,Caol Uno,Din Thomas,Lightweight,UFC_39
+4,Gan McGee,Pedro Rizzo,Heavyweight,UFC_39
+5,Phil Baroni,Dave Menne,Middleweight,UFC_39
+6,Matt Lindland,Ivan Salaverry,Middleweight,UFC_39
+7,Sean Sherk,Benji Radach,Welterweight,UFC_39

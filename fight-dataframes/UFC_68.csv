@@ -1,10 +1,10 @@
-,winner,loser,event
-0,Randy Couture,Tim Sylvia (c),UFC_68
-1,Martin Kampmann,Drew McFedries,UFC_68
-2,Rich Franklin,Jason MacDonald,UFC_68
-3,Matt Hughes,Chris Lytle,UFC_68
-4,Jason Lambert,Renato Sobral,UFC_68
-5,Matt Hamill,Rex Holman,UFC_68
-6,Jon Fitch,Luigi Fioravanti,UFC_68
-7,Gleison Tibau,Jason Dent,UFC_68
-8,Jamie Varner,Jason Gilliam,UFC_68
+,winner,loser,weight_class,event
+0,Randy Couture,Tim Sylvia (c),Heavyweight,UFC_68
+1,Martin Kampmann,Drew McFedries,Middleweight,UFC_68
+2,Rich Franklin,Jason MacDonald,Middleweight,UFC_68
+3,Matt Hughes,Chris Lytle,Welterweight,UFC_68
+4,Jason Lambert,Renato Sobral,Light Heavyweight,UFC_68
+5,Matt Hamill,Rex Holman,Light Heavyweight,UFC_68
+6,Jon Fitch,Luigi Fioravanti,Welterweight,UFC_68
+7,Gleison Tibau,Jason Dent,Lightweight,UFC_68
+8,Jamie Varner,Jason Gilliam,Lightweight,UFC_68

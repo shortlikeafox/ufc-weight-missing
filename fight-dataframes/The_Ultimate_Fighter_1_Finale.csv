@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Rich Franklin,Ken Shamrock,The_Ultimate_Fighter_1_Finale
-1,Forrest Griffin,Stephan Bonnar,The_Ultimate_Fighter_1_Finale
-2,Diego Sanchez,Kenny Florian,The_Ultimate_Fighter_1_Finale
-3,Sam Hoger,Bobby Southworth,The_Ultimate_Fighter_1_Finale
-4,Chris Leben,Jason Thacker,The_Ultimate_Fighter_1_Finale
-5,Josh Koscheck,Chris Sanford,The_Ultimate_Fighter_1_Finale
-6,Nate Quarry,Lodune Sincaid,The_Ultimate_Fighter_1_Finale
-7,Mike Swick,Alex Schoenauer,The_Ultimate_Fighter_1_Finale
-8,Alex Karalexis,Josh Rafferty,The_Ultimate_Fighter_1_Finale
-9,Chuck Liddell,Randy Couture (c),The_Ultimate_Fighter_1_Finale
+,winner,loser,weight_class,event
+0,Rich Franklin,Ken Shamrock,Light Heavyweight,The_Ultimate_Fighter_1_Finale
+1,Forrest Griffin,Stephan Bonnar,Light Heavyweight,The_Ultimate_Fighter_1_Finale
+2,Diego Sanchez,Kenny Florian,Middleweight,The_Ultimate_Fighter_1_Finale
+3,Sam Hoger,Bobby Southworth,Light Heavyweight,The_Ultimate_Fighter_1_Finale
+4,Chris Leben,Jason Thacker,Middleweight,The_Ultimate_Fighter_1_Finale
+5,Josh Koscheck,Chris Sanford,Middleweight,The_Ultimate_Fighter_1_Finale
+6,Nate Quarry,Lodune Sincaid,Middleweight,The_Ultimate_Fighter_1_Finale
+7,Mike Swick,Alex Schoenauer,Middleweight,The_Ultimate_Fighter_1_Finale
+8,Alex Karalexis,Josh Rafferty,Welterweight,The_Ultimate_Fighter_1_Finale
+9,Chuck Liddell,Randy Couture (c),Light Heavyweight,The_Ultimate_Fighter_1_Finale

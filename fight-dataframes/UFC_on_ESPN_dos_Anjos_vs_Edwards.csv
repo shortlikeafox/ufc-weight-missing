@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Leon Edwards,Rafael dos Anjos,UFC_on_ESPN_dos_Anjos_vs_Edwards
-1,Walt Harris,Aleksei Oleinik,UFC_on_ESPN_dos_Anjos_vs_Edwards
-2,Greg Hardy,Juan Adams,UFC_on_ESPN_dos_Anjos_vs_Edwards
-3,Dan Hooker,James Vick,UFC_on_ESPN_dos_Anjos_vs_Edwards
-4,Alexander Hernandez,Francisco Trinaldo,UFC_on_ESPN_dos_Anjos_vs_Edwards
-5,Andrei Arlovski,Ben Rothwell,UFC_on_ESPN_dos_Anjos_vs_Edwards
-6,Alex Caceres,Steven Peterson,UFC_on_ESPN_dos_Anjos_vs_Edwards
-7,Raquel Pennington,Irene Aldana,UFC_on_ESPN_dos_Anjos_vs_Edwards
-8,Klidson Abreu,Sam Alvey,UFC_on_ESPN_dos_Anjos_vs_Edwards
-9,Jennifer Maia,Roxanne Modafferi,UFC_on_ESPN_dos_Anjos_vs_Edwards
-10,Ray Borg,Gabriel Silva,UFC_on_ESPN_dos_Anjos_vs_Edwards
-11,Mario Bautista,Jin Soo Son,UFC_on_ESPN_dos_Anjos_vs_Edwards
-12,Felipe Colares,Domingo Pilarte,UFC_on_ESPN_dos_Anjos_vs_Edwards
+,winner,loser,weight_class,event
+0,Leon Edwards,Rafael dos Anjos,Welterweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+1,Walt Harris,Aleksei Oleinik,Heavyweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+2,Greg Hardy,Juan Adams,Heavyweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+3,Dan Hooker,James Vick,Lightweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+4,Alexander Hernandez,Francisco Trinaldo,Lightweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+5,Andrei Arlovski,Ben Rothwell,Heavyweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+6,Alex Caceres,Steven Peterson,Featherweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+7,Raquel Pennington,Irene Aldana,Women\'s Bantamweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+8,Klidson Abreu,Sam Alvey,Light Heavyweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+9,Jennifer Maia,Roxanne Modafferi,Catchweight (129 lbs),UFC_on_ESPN_dos_Anjos_vs_Edwards
+10,Ray Borg,Gabriel Silva,Bantamweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+11,Mario Bautista,Jin Soo Son,Bantamweight,UFC_on_ESPN_dos_Anjos_vs_Edwards
+12,Felipe Colares,Domingo Pilarte,Bantamweight,UFC_on_ESPN_dos_Anjos_vs_Edwards

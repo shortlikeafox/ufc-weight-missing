@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Gegard Mousasi,Mark Mu\xc3\xb1oz,UFC_Fight_Night_Muñoz_vs_Mousasi
-1,C.B. Dollaway,Francis Carmont,UFC_Fight_Night_Muñoz_vs_Mousasi
-2,Sean Strickland,Luke Barnatt,UFC_Fight_Night_Muñoz_vs_Mousasi
-3,Niklas B\xc3\xa4ckstr\xc3\xb6m,Tom Niinim\xc3\xa4ki,UFC_Fight_Night_Muñoz_vs_Mousasi
-4,Nick Hein,Drew Dober,UFC_Fight_Night_Muñoz_vs_Mousasi
-5,Magnus Cedenblad,Krzysztof Jotko,UFC_Fight_Night_Muñoz_vs_Mousasi
-6,Iuri Alc\xc3\xa2ntara,Vaughan Lee,UFC_Fight_Night_Muñoz_vs_Mousasi
-7,Peter Sobotta,Pawel Pawlak,UFC_Fight_Night_Muñoz_vs_Mousasi
-8,Maximo Blanco,Andy Ogle,UFC_Fight_Night_Muñoz_vs_Mousasi
-9,Ruslan Magomedov,Viktor Pe\xc5\xa1ta,UFC_Fight_Night_Muñoz_vs_Mousasi
+,winner,loser,weight_class,event
+0,Gegard Mousasi,Mark Mu\xc3\xb1oz,Middleweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+1,C.B. Dollaway,Francis Carmont,Middleweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+2,Sean Strickland,Luke Barnatt,Middleweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+3,Niklas B\xc3\xa4ckstr\xc3\xb6m,Tom Niinim\xc3\xa4ki,Featherweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+4,Nick Hein,Drew Dober,Lightweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+5,Magnus Cedenblad,Krzysztof Jotko,Middleweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+6,Iuri Alc\xc3\xa2ntara,Vaughan Lee,Bantamweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+7,Peter Sobotta,Pawel Pawlak,Welterweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+8,Maximo Blanco,Andy Ogle,Featherweight,UFC_Fight_Night_Muñoz_vs_Mousasi
+9,Ruslan Magomedov,Viktor Pe\xc5\xa1ta,Heavyweight,UFC_Fight_Night_Muñoz_vs_Mousasi

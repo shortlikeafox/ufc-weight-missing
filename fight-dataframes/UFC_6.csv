@@ -1,11 +1,11 @@
-,winner,loser,event
-0,Ken Shamrock,Dan Severn,UFC_6
-1,Oleg Taktarov,Tank Abbott,UFC_6
-2,Tank Abbott,Paul Varelans,UFC_6
-3,Oleg Taktarov,Anthony Macias,UFC_6
-4,Tank Abbott,John Matua,UFC_6
-5,Paul Varelans,Cal Worsham,UFC_6
-6,Patrick Smith,Rudyard Moncayo,UFC_6
-7,Oleg Taktarov,Dave Beneteau,UFC_6
-8,Joel Sutton,Jack McLaughlin,UFC_6
-9,Anthony Macias,He-Man Ali Gipson,UFC_6
+,winner,loser,weight_class,event
+0,Ken Shamrock,Dan Severn,N/A,UFC_6
+1,Oleg Taktarov,Tank Abbott,N/A,UFC_6
+2,Tank Abbott,Paul Varelans,N/A,UFC_6
+3,Oleg Taktarov,Anthony Macias,N/A,UFC_6
+4,Tank Abbott,John Matua,N/A,UFC_6
+5,Paul Varelans,Cal Worsham,N/A,UFC_6
+6,Patrick Smith,Rudyard Moncayo,N/A,UFC_6
+7,Oleg Taktarov,Dave Beneteau,N/A,UFC_6
+8,Joel Sutton,Jack McLaughlin,N/A,UFC_6
+9,Anthony Macias,He-Man Ali Gipson,N/A,UFC_6

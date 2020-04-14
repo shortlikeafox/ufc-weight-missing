@@ -1,14 +1,14 @@
-,winner,loser,event
-0,Junior dos Santos,Blagoy Ivanov,UFC_Fight_Night_dos_Santos_vs_Ivanov
-1,Sage Northcutt,Zak Ottow,UFC_Fight_Night_dos_Santos_vs_Ivanov
-2,Rick Glenn,Dennis Bermudez,UFC_Fight_Night_dos_Santos_vs_Ivanov
-3,Niko Price,Randy Brown,UFC_Fight_Night_dos_Santos_vs_Ivanov
-4,Chad Mendes,Myles Jury,UFC_Fight_Night_dos_Santos_vs_Ivanov
-5,Cat Zingano,Marion Reneau,UFC_Fight_Night_dos_Santos_vs_Ivanov
-6,Alejandro P\xc3\xa9rez,Eddie Wineland,UFC_Fight_Night_dos_Santos_vs_Ivanov
-7,Alexander Volkanovski,Darren Elkins,UFC_Fight_Night_dos_Santos_vs_Ivanov
-8,Said Nurmagomedov,Justin Scoggins,UFC_Fight_Night_dos_Santos_vs_Ivanov
-9,Raoni Barcelos,Kurt Holobaugh,UFC_Fight_Night_dos_Santos_vs_Ivanov
-10,Liz Carmouche,Jennifer Maia,UFC_Fight_Night_dos_Santos_vs_Ivanov
-11,Mark De La Rosa,Elias Garcia,UFC_Fight_Night_dos_Santos_vs_Ivanov
-12,Jessica Aguilar,Jodie Esquibel,UFC_Fight_Night_dos_Santos_vs_Ivanov
+,winner,loser,weight_class,event
+0,Junior dos Santos,Blagoy Ivanov,Heavyweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+1,Sage Northcutt,Zak Ottow,Welterweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+2,Rick Glenn,Dennis Bermudez,Featherweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+3,Niko Price,Randy Brown,Welterweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+4,Chad Mendes,Myles Jury,Featherweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+5,Cat Zingano,Marion Reneau,Women\'s Bantamweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+6,Alejandro P\xc3\xa9rez,Eddie Wineland,Bantamweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+7,Alexander Volkanovski,Darren Elkins,Featherweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+8,Said Nurmagomedov,Justin Scoggins,Flyweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+9,Raoni Barcelos,Kurt Holobaugh,Featherweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+10,Liz Carmouche,Jennifer Maia,Women\'s Flyweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+11,Mark De La Rosa,Elias Garcia,Flyweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
+12,Jessica Aguilar,Jodie Esquibel,Women\'s Strawweight,UFC_Fight_Night_dos_Santos_vs_Ivanov
