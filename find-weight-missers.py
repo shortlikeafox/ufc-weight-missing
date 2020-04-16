@@ -3,7 +3,7 @@ from os import listdir
 from os.path import isfile, join
 from bs4 import BeautifulSoup
 import pandas as pd
-
+import re
 
 #What we want to do is find if fighters missed weight! 
 
@@ -11,6 +11,32 @@ import pandas as pd
 #other data.  
 #We can find 
 #some at: https://www.betmma.tips/ufc_fighters_who_missed_weight.php
+
+def find_only_whole_word(search_string, input_string):
+  # Create a raw string with word boundaries from the user's input_string
+  raw_search_string = r"\b" + search_string + r"\b"
+
+  match_output = re.search(raw_search_string, input_string)
+  ##As noted by @OmPrakesh, if you want to ignore case, uncomment
+  ##the next two lines
+  match_output = re.search(raw_search_string, input_string, 
+                           flags=re.IGNORECASE)
+
+  no_match_was_found = ( match_output is None )
+  if no_match_was_found:
+    return False
+  else:
+    return True    
+
+def isfloat(string):
+    try:
+        float(string)
+        return True
+    except ValueError:
+        return False
+
+
+
 
 my_path = 'fight-page-dump/'
 df_path = 'fight-dataframes/'
@@ -27,19 +53,6 @@ for ff in files:
     
     #Let's do some lemmatization
     
-    from nltk.stem import WordNetLemmatizer
-    from nltk.tokenize import word_tokenize
-    lemmatizer=WordNetLemmatizer()
-    
-    text_token = word_tokenize(text_no_html)
-    #print(text_token)
-        
-    text_lemma = ' '.join([lemmatizer.lemmatize(w) for w in text_token])
-    
-    #print()
-    #print()
-    
-    #print(text_lemma)
     
     import spacy
     
@@ -59,7 +72,7 @@ for ff in files:
     trigger_phrases = ['miss weight']
     possible_misses = []
     
-    for s in text_spacy.split('.'):
+    for s in text_spacy.split('. '):
         for p in trigger_phrases:
             if p in s:
                 possible_misses.append(s)
@@ -84,9 +97,12 @@ for ff in files:
     
     fighter = ""
     weight = ""
+    possible_weight = ""
     
     all_stopwords = nlp.Defaults.stop_words
-    all_stopwords.add('lb')
+
+    #Used to signify we are talking about a weight
+    weight_sigs = ["lb", "lbs", "pound", "pounds", "lb.", "lbs."]
     
     
     for possible_miss in possible_misses:
@@ -94,14 +110,26 @@ for ff in files:
             #OK here we are going to check to see if the word is in
             #the list of fighters.
             for f in fighter_list:
-                if word in f:
-                    if (word not in all_stopwords):
-                        fighter = f
-                        #print(f"{f} matches {word}")
+                for f_split in f.split():
+                    #                print(find_only_whole_word(f, word))
+#                        if (find_only_whole_word(f_split, word)):
+#                            print(f"{f}: {word}")
+                        if (find_only_whole_word(f_split, word)):
+                            fighter = f
+                            #print(f"{f} matches {word}")
             #Find the number:
-            if word.isnumeric():
-                weight = word
+            #print(word)
+            if isfloat(word):
+                possible_weight = word
+            elif possible_weight != "":
+                if word in weight_sigs:
+                    weight = possible_weight
+                    possible_weight = ""
+                else:
+                    possible_weight = ""
             
             
     if fighter != "":
-        print(f"{fighter} weighed in at {weight} at {ff}")
+        if weight != "":
+            print(f"{fighter} weighed in at {weight} at {ff}")
+            print()
